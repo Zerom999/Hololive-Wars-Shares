@@ -25,8 +25,8 @@
 	setCOSuperCost          coAWDSHachi,6
 
 	setCOD2DPrice		coAWDSHachi,-10
-	setCOPowerPrice		coAWDSHachi,-40
-	setCOSuperPrice		coAWDSHachi,-70
+	setCOPowerPrice		coAWDSHachi,-50
+	setCOSuperPrice		coAWDSHachi,-80
 
 	setCOPowerASM		coAWDSHachi,COPowerBarterFade
 	setCOSuperASM		coAWDSHachi,COPowerBarterFade
