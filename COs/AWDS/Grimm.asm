@@ -24,9 +24,9 @@
 	setCOPowerCost          coAWDSGrimm,3
 	setCOSuperCost          coAWDSGrimm,6
 
-	setCOD2DAllStat		coAWDSGrimm,30,-20,0,0
-	setCOPowerAllStat	coAWDSGrimm,50,-20,0,0
-	setCOSuperAllStat	coAWDSGrimm,80,-20,0,0
+	setCOD2DAllStat		coAWDSGrimm,40,-20,0,0
+	setCOPowerAllStat	coAWDSGrimm,70,-20,0,0
+	setCOSuperAllStat	coAWDSGrimm,100,-20,0,0
 	
 	setCOAIPowerRange       coAWDSGrimm,25
 	setCOAIPowerTrigger     coAWDSGrimm,95
