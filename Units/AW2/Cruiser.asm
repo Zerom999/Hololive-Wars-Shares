@@ -5,7 +5,7 @@
 	setUnitPrimaryName	Unit_Cruiser,2261
 	setUnitSecondaryName	Unit_Cruiser,2265
 	
-	setUnitPrice		Unit_Cruiser,1800
+	setUnitPrice		Unit_Cruiser,1500
 	setUnitMove		Unit_Cruiser,6
 	setUnitAmmo		Unit_Cruiser,9	
 	setUnitVision		Unit_Cruiser,3
@@ -26,6 +26,6 @@
 	setUnitDamagePrimary	Unit_Cruiser,85,Unit_DivedSub
 	
 	setUnitDamageSecondary	Unit_Cruiser,55,Unit_Fighter
-	setUnitDamageSecondary	Unit_Cruiser,55,Unit_Bomber
-	setUnitDamageSecondary	Unit_Cruiser,115,Unit_BattleCopter
-	setUnitDamageSecondary	Unit_Cruiser,115,Unit_TransportCopter
+	setUnitDamageSecondary	Unit_Cruiser,75,Unit_Bomber
+	setUnitDamageSecondary	Unit_Cruiser,125,Unit_BattleCopter
+	setUnitDamageSecondary	Unit_Cruiser,125,Unit_TransportCopter
