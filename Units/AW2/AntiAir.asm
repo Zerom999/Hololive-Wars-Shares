@@ -22,25 +22,25 @@
 	setUnitAIPriorityTarget	Unit_AntiAir,AITargetGround+AITargetAir
 	setUnitAIUnitClass	Unit_AntiAir,AITargetGround
 	
-	setUnitDamagePrimary	Unit_AntiAir,105,Unit_Infantry
+	setUnitDamagePrimary	Unit_AntiAir,115,Unit_Infantry
 	setUnitDamagePrimary	Unit_AntiAir,105,Unit_Mech
 	
 	setUnitDamagePrimary	Unit_AntiAir,25,Unit_Tank
-	setUnitDamagePrimary	Unit_AntiAir,10,Unit_MidTank
+	setUnitDamagePrimary	Unit_AntiAir,15,Unit_MidTank
 	setUnitDamagePrimary	Unit_AntiAir,05,Unit_Neotank
 	
-	setUnitDamagePrimary	Unit_AntiAir,50,Unit_Artillery
-	setUnitDamagePrimary	Unit_AntiAir,55,Unit_Rockets
-	setUnitDamagePrimary	Unit_AntiAir,55,Unit_Missiles
+	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Artillery
+	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Rockets
+	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Missiles
 
-	setUnitDamagePrimary	Unit_AntiAir,60,Unit_Recon
-	setUnitDamagePrimary	Unit_AntiAir,50,Unit_APC
+	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Recon
+	setUnitDamagePrimary	Unit_AntiAir,55,Unit_APC
 	setUnitDamagePrimary	Unit_AntiAir,45,Unit_AntiAir
 
 	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Fighter
 	setUnitDamagePrimary	Unit_AntiAir,75,Unit_Bomber
-	setUnitDamagePrimary	Unit_AntiAir,120,Unit_BattleCopter
-	setUnitDamagePrimary	Unit_AntiAir,120,Unit_TransportCopter
+	setUnitDamagePrimary	Unit_AntiAir,125,Unit_BattleCopter
+	setUnitDamagePrimary	Unit_AntiAir,125,Unit_TransportCopter
 
 	setUnitInventionDamage	Unit_AntiAir,10,0
 	
