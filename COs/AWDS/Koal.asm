@@ -23,13 +23,13 @@
 	setCOPowerMusic              coAWDSKoal,MusicBlackPower
 	setCOSuperMusic              coAWDSKoal,MusicBlackSuper
 
-	setCOPowerCost          coAWDSKoal,3
-	setCOSuperCost          coAWDSKoal,5
+	setCOPowerCost          coAWDSKoal,4
+	setCOSuperCost          coAWDSKoal,8
 	
 	setCOD2DTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalDaytoDay
-	setCOPowerAllStat			coAWDSKoal,0,0,1,0
+	setCOPowerAllStat			coAWDSKoal,20,0,2,0
 	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
-	setCOSuperAllStat			coAWDSKoal,0,0,2,0
+	setCOSuperAllStat			coAWDSKoal,40,0,4,0
 	setCOSuperTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalSuper
 
 	setCOAIPowerRange       coAWDSKoal,25
