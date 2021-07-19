@@ -5,7 +5,7 @@
 	setUnitPrimaryName	Unit_Lander,2266
 	setUnitSecondaryName	Unit_Lander,2266
 	
-	setUnitPrice		Unit_Lander,1200
+	setUnitPrice		Unit_Lander,500
 	setUnitMove		Unit_Lander,6
 	setUnitVision		Unit_Lander,1
 
