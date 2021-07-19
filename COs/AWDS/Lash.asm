@@ -24,17 +24,17 @@
 	setCOSuperMusic              coAWDSLash,MusicBlackSuper
 
 	setCOPowerCost          coAWDSLash,4
-	setCOSuperCost          coAWDSLash,7
+	setCOSuperCost          coAWDSLash,8
 
 	setCOPowerMove			coAWDSLash, MovementChartPerfect,MovementChartSnow,MovementChartPerfect
 	setCOSuperMove			coAWDSLash, MovementChartPerfect,MovementChartSnow,MovementChartPerfect
 	
 	setCOd2dAbilities		coAWDSLash,SpecialTerrainGivesFirepower
-	setCOd2dTerrainPowerMult	coAWDSLash,5	
+	setCOd2dTerrainPowerMult	coAWDSLash,10	
 	setCOPowerAbilities		coAWDSLash,SpecialTerrainGivesFirepower
-	setCOPowerTerrainPowerMult	coAWDSLash,5
+	setCOPowerTerrainPowerMult	coAWDSLash,10
 	setCOSuperAbilities		coAWDSLash,SpecialTerrainGivesFirepower+SpecialDoubleTerrainStars
-	setCOSuperTerrainPowerMult	coAWDSLash,5
+	setCOSuperTerrainPowerMult	coAWDSLash,10
 
 	setCOAIPowerRange       coAWDSLash,10
 	setCOAIPowerTrigger     coAWDSLash,70
