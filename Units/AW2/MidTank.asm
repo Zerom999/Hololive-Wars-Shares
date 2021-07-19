@@ -5,7 +5,7 @@
 	setUnitPrimaryName	Unit_MidTank,2258
 	setUnitSecondaryName	Unit_MidTank,2253
 	
-	setUnitPrice		Unit_MidTank,1600
+	setUnitPrice		Unit_MidTank,1200
 	setUnitMove		Unit_MidTank,5
 	setUnitAmmo		Unit_MidTank,8
 	setUnitFuel		Unit_MidTank,50
@@ -25,9 +25,9 @@
 	setUnitDamagePrimary		Unit_MidTank,30,Unit_Infantry
 	setUnitDamagePrimary		Unit_MidTank,30,Unit_Mech
 	
-	setUnitDamagePrimary		Unit_MidTank,85,Unit_Tank
+	setUnitDamagePrimary		Unit_MidTank,75,Unit_Tank
 	setUnitDamagePrimary		Unit_MidTank,55,Unit_MidTank
-	setUnitDamagePrimary		Unit_MidTank,45,Unit_Neotank
+	setUnitDamagePrimary		Unit_MidTank,35,Unit_Neotank
 	
 	setUnitDamagePrimary		Unit_MidTank,105,Unit_Artillery
 	setUnitDamagePrimary		Unit_MidTank,105,Unit_Rockets
