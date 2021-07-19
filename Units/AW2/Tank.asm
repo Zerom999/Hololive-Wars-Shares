@@ -44,18 +44,18 @@
 	setUnitDamagePrimary		Unit_Tank,1,Unit_Sub
 
 	setUnitDamageSecondary		Unit_Tank,75,Unit_Infantry
-	setUnitDamageSecondary		Unit_Tank,70,Unit_Mech
+	setUnitDamageSecondary		Unit_Tank,65,Unit_Mech
 	
-	setUnitDamageSecondary		Unit_Tank,06,Unit_Tank
+	setUnitDamageSecondary		Unit_Tank,05,Unit_Tank
 	setUnitDamageSecondary		Unit_Tank,01,Unit_MidTank
 	setUnitDamageSecondary		Unit_Tank,01,Unit_Neotank
 	
-	setUnitDamageSecondary		Unit_Tank,45,Unit_Artillery
+	setUnitDamageSecondary		Unit_Tank,55,Unit_Artillery
 	setUnitDamageSecondary		Unit_Tank,55,Unit_Rockets
-	setUnitDamageSecondary		Unit_Tank,30,Unit_Missiles
+	setUnitDamageSecondary		Unit_Tank,55,Unit_Missiles
 
-	setUnitDamageSecondary		Unit_Tank,40,Unit_Recon
-	setUnitDamageSecondary		Unit_Tank,45,Unit_APC
+	setUnitDamageSecondary		Unit_Tank,35,Unit_Recon
+	setUnitDamageSecondary		Unit_Tank,15,Unit_APC
 	setUnitDamageSecondary		Unit_Tank,05,Unit_AntiAir
 
 	setUnitDamageSecondary		Unit_Tank,10,Unit_Battlecopter
