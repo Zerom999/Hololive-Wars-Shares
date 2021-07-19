@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSRachel,ArmyOrangeStar
 	setCOMusic          	coAWDSRachel,MusicOrangeStar
 
-	setCOPowerCost          coAWDSRachel,3
-	setCOSuperCost          coAWDSRachel,6
+	setCOPowerCost          coAWDSRachel,4
+	setCOSuperCost          coAWDSRachel,8
 
 	setCOd2dRepair		coAWDSRachel,1
 	setCOPowerLuck		coAWDSRachel,40	
