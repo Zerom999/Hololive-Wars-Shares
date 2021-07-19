@@ -22,7 +22,7 @@
 	setCOMusic          	coAWDSSonja,MusicSonjaTheme
 
 	setCOPowerCost          coAWDSSonja,3
-	setCOSuperCost          coAWDSSonja,5
+	setCOSuperCost          coAWDSSonja,6
 
 	setCOd2dAbilities			coAWDSSonja,SpecialHiddenHP
 	setCOPowerAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision
