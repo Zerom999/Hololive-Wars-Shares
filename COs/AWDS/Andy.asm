@@ -24,10 +24,10 @@
 	setCOPowerCost          coAWDSAndy,3
 	setCOSuperCost          coAWDSAndy,6
 
-	setCOSuperAllStat	coAWDSAndy,20,0,1,0
+	setCOSuperAllStat	coAWDSAndy,30,0,1,0
 
-	setCOGFXPowerFX         coAWDSandy,COPEffectHealTwoHP
-	setCOGFXSuperFX         coAWDSandy,COPEffectHealFiveHP
+	setCOGFXPowerFX         coAWDSandy,COPEffectHealThreeHP
+	setCOGFXSuperFX         coAWDSandy,COPEffectHealSixHP
 	
 	setCOAIPowerRange       coAWDSAndy,25
 	setCOAIPowerTrigger     coAWDSAndy,95
