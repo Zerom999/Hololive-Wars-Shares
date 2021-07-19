@@ -21,7 +21,7 @@
 	setCOFaction		coAWDSColin,ArmyBlueMoon
 	setCOMusic          	coAWDSColin,MusicColinTheme
 
-	setCOPowerCost          coAWDSColin,2
+	setCOPowerCost          coAWDSColin,3
 	setCOSuperCost          coAWDSColin,6
 
 	setCOAllStat		coAWDSColin,-10,0,0,0
