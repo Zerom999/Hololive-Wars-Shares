@@ -5,7 +5,7 @@
 	setUnitPrimaryName	Unit_Battleship,2255
 	setUnitSecondaryName	Unit_Battleship,2266
 	
-	setUnitPrice		Unit_Battleship,2800
+	setUnitPrice		Unit_Battleship,3000
 	setUnitMove		Unit_Battleship,5
 	setUnitAmmo		Unit_Battleship,9	
 	setUnitVision		Unit_Battleship,2
@@ -23,16 +23,16 @@
 	setUnitMinRange			Unit_Battleship,2
 	setUnitMaxRange			Unit_Battleship,6
 
-	setUnitDamagePrimary		Unit_Battleship,95,Unit_Infantry
-	setUnitDamagePrimary		Unit_Battleship,90,Unit_Mech
+	setUnitDamagePrimary		Unit_Battleship,125,Unit_Infantry
+	setUnitDamagePrimary		Unit_Battleship,115,Unit_Mech
 	
-	setUnitDamagePrimary		Unit_Battleship,80,Unit_Tank
-	setUnitDamagePrimary		Unit_Battleship,55,Unit_MidTank
-	setUnitDamagePrimary		Unit_Battleship,50,Unit_Neotank
+	setUnitDamagePrimary		Unit_Battleship,125,Unit_Tank
+	setUnitDamagePrimary		Unit_Battleship,105,Unit_MidTank
+	setUnitDamagePrimary		Unit_Battleship,85,Unit_Neotank
 	
-	setUnitDamagePrimary		Unit_Battleship,80,Unit_Artillery
-	setUnitDamagePrimary		Unit_Battleship,85,Unit_Rockets
-	setUnitDamagePrimary		Unit_Battleship,90,Unit_Missiles
+	setUnitDamagePrimary		Unit_Battleship,125,Unit_Artillery
+	setUnitDamagePrimary		Unit_Battleship,125,Unit_Rockets
+	setUnitDamagePrimary		Unit_Battleship,125,Unit_Missiles
 
 	setUnitDamagePrimary		Unit_Battleship,90,Unit_Recon
 	setUnitDamagePrimary		Unit_Battleship,80,Unit_APC
