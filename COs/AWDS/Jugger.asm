@@ -23,15 +23,15 @@
 	setCOPowerMusic              coAWDSJugger,MusicBlackPower
 	setCOSuperMusic              coAWDSJugger,MusicBlackSuper
 
-	setCOPowerCost          coAWDSJugger,3
-	setCOSuperCost          coAWDSJugger,7
+	setCOPowerCost          coAWDSJugger,4
+	setCOSuperCost          coAWDSJugger,8
 
-	setCOD2DLuck		coAWDSJugger,30
-	setCOD2DBadLuck		coAWDSJugger,15
-	setCOPowerLuck		coAWDSJugger,55
-	setCOPowerBadLuck	coAWDSJugger,25
-	setCOSuperLuck		coAWDSJugger,95
-	setCOSuperBadLuck	coAWDSJugger,45
+	setCOD2DLuck		coAWDSJugger,40
+	setCOD2DBadLuck		coAWDSJugger,20
+	setCOPowerLuck		coAWDSJugger,90
+	setCOPowerBadLuck	coAWDSJugger,45
+	setCOSuperLuck		coAWDSJugger,140
+	setCOSuperBadLuck	coAWDSJugger,70
 	
 	setCOAIPowerRange       coAWDSJugger,25
 	setCOAIPowerTrigger     coAWDSJugger,95
