@@ -26,12 +26,12 @@
 	setCOPowerCost          coAWDSFlak,3
 	setCOSuperCost          coAWDSFlak,6
 
-	setCOD2DLuck		coAWDSFlak,25
-	setCOD2DBadLuck		coAWDSFlak,10
-	setCOPowerLuck		coAWDSFlak,50
-	setCOPowerBadLuck	coAWDSFlak,20
-	setCOSuperLuck		coAWDSFlak,90
-	setCOSuperBadLuck	coAWDSFlak,40
+	setCOD2DLuck		coAWDSFlak,30
+	setCOD2DBadLuck		coAWDSFlak,15
+	setCOPowerLuck		coAWDSFlak,70
+	setCOPowerBadLuck	coAWDSFlak,35
+	setCOSuperLuck		coAWDSFlak,110
+	setCOSuperBadLuck	coAWDSFlak,55
 	
 	setCOAIPowerRange       coAWDSFlak,25
 	setCOAIPowerTrigger     coAWDSFlak,95
