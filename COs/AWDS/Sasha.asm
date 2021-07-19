@@ -21,12 +21,12 @@
 	setCOFaction			coAWDSSasha,ArmyBlueMoon
 	setCOMusic          		coAWDSSasha,MusicBlueMoon
 
-	setCOPowerCost          	coAWDSSasha,2
+	setCOPowerCost          	coAWDSSasha,3
 	setCOSuperCost          	coAWDSSasha,6
 
-	setCOD2DIncome			coAWDSSasha,100
-	setCOPowerIncome		coAWDSSasha,100
-	setCOSuperIncome		coAWDSSasha,100
+	setCOD2DIncome			coAWDSSasha,200
+	setCOPowerIncome		coAWDSSasha,200
+	setCOSuperIncome		coAWDSSasha,200
 	setCOSuperDamageToFunds	coAWDSSasha,50
 
 	setCOPowerASM			coAWDSSasha,COPowerMarketCrash
