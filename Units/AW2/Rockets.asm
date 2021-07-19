@@ -35,13 +35,13 @@
 	setUnitDamagePrimary		Unit_Rockets,105,Unit_Rockets
 	setUnitDamagePrimary		Unit_Rockets,105,Unit_Missiles
 
-	setUnitDamagePrimary		Unit_Rockets,90,Unit_Recon
-	setUnitDamagePrimary		Unit_Rockets,80,Unit_APC
+	setUnitDamagePrimary		Unit_Rockets,105,Unit_Recon
+	setUnitDamagePrimary		Unit_Rockets,85,Unit_APC
 	setUnitDamagePrimary		Unit_Rockets,85,Unit_AntiAir
 
 	setUnitDamagePrimary		Unit_Rockets,55,Unit_Battleship
 	setUnitDamagePrimary		Unit_Rockets,85,Unit_Cruiser
-	setUnitDamagePrimary		Unit_Rockets,60,Unit_Lander
+	setUnitDamagePrimary		Unit_Rockets,85,Unit_Lander
 	setUnitDamagePrimary		Unit_Rockets,85,Unit_Sub
 
 	setUnitInventionDamage		Unit_Rockets,55,00
