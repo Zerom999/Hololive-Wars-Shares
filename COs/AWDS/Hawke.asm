@@ -24,7 +24,7 @@
 	setCOSuperMusic              coAWDSHawke,MusicBlackSuper
 
 	setCOPowerCost          coAWDSHawke,5
-	setCOSuperCost          coAWDSHawke,9
+	setCOSuperCost          coAWDSHawke,10
 
 	setCOAllStat		coAWDSHawke,10,0,0,0
 
