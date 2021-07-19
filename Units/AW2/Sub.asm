@@ -22,8 +22,8 @@
 	setUnitAIUnitClass	Unit_Sub,AITargetSub
 
 	setUnitDamagePrimary	Unit_Sub,55,Unit_Battleship
-	setUnitDamagePrimary	Unit_Sub,25,Unit_Cruiser
-	setUnitDamagePrimary	Unit_Sub,95,Unit_Lander
+	setUnitDamagePrimary	Unit_Sub,35,Unit_Cruiser
+	setUnitDamagePrimary	Unit_Sub,85,Unit_Lander
 	setUnitDamagePrimary	Unit_Sub,55,Unit_Sub
 	setUnitDamagePrimary	Unit_Sub,55,Unit_DivedSub
 	
