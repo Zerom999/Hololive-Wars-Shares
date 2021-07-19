@@ -23,9 +23,9 @@
 	setUnitAIUnitClass	Unit_Missiles,AITargetGround
 	
 	setUnitMinRange		Unit_Missiles,3
-	setUnitMaxRange		Unit_Missiles,5
+	setUnitMaxRange		Unit_Missiles,6
 
-	setUnitDamagePrimary	Unit_Missiles,100,Unit_Fighter
-	setUnitDamagePrimary	Unit_Missiles,100,Unit_Bomber
-	setUnitDamagePrimary	Unit_Missiles,120,Unit_BattleCopter
-	setUnitDamagePrimary	Unit_Missiles,120,Unit_TransportCopter	
+	setUnitDamagePrimary	Unit_Missiles,105,Unit_Fighter
+	setUnitDamagePrimary	Unit_Missiles,105,Unit_Bomber
+	setUnitDamagePrimary	Unit_Missiles,125,Unit_BattleCopter
+	setUnitDamagePrimary	Unit_Missiles,125,Unit_TransportCopter	
