@@ -26,7 +26,7 @@
 	setCOPowerCost          coAWDSHawke,5
 	setCOSuperCost          coAWDSHawke,10
 
-	setCOAllStat		coAWDSHawke,10,0,0,0
+	setCOAllStat		coAWDSHawke,10,10,0,0
 
 	setCOPowerASM		coAWDSHawke,COPowerBlackWave
 	setCOSuperASM		coAWDSHawke,COPowerBlackStorm
