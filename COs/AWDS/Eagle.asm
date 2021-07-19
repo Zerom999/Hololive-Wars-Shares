@@ -31,9 +31,9 @@
 	setCOD2DNavyStat	coAWDSEagle,-40,0,0,0
 	setCOD2DAirStat		coAWDSEagle,20,20,0,0
 
-	setCOPowerAllStat	coAWDSEagle,0,0,0,0
-	setCOPowerNavyStat	coAWDSEagle,0,0,0,0
-	setCOPowerAirStat	coAWDSEagle,0,0,0,0
+	setCOPowerAllStat	coAWDSEagle,0,-30,0,0
+	setCOPowerNavyStat	coAWDSEagle,0,-30,0,0
+	setCOPowerAirStat	coAWDSEagle,0,-30,0,0
 	setCOPowerSoldierStat	coAWDSEagle,0,0,0,0
 
 	setCOSuperAirStat	coAWDSEagle,60,0,0,0
