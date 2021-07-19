@@ -26,7 +26,7 @@
 	setCOPowerCost          coAWDSVonBolt,0
 	setCOSuperCost          coAWDSVonBolt,10
 
-	setCOAllStat		coAWDSVonBolt,10,10,0,0
+	setCOAllStat		coAWDSVonBolt,-10,30,0,0
 
 	setCOSuperASM		coAWDSVonBolt,COPowerExMachina
 	
