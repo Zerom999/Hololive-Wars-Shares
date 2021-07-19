@@ -28,10 +28,10 @@
 	setCOD2DIndirectStat		coAWDSGrit,20,0,0,1
 	
 	setCOPowerDirectStat		coAWDSGrit,-20,0,0,0
-	setCOPowerIndirectStat	coAWDSGrit,50,0,0,2
+	setCOPowerIndirectStat	coAWDSGrit,40,0,0,2
 
 	setCOSuperDirectStat		coAWDSGrit,-20,0,0,0
-	setCOSuperIndirectStat	coAWDSGrit,50,0,0,3
+	setCOSuperIndirectStat	coAWDSGrit,60,0,0,3
 
 	setCOGFXPowerRule       coAWDSGrit,COPCheckIndirectCombatUnits
 	setCOGFXSuperRule       coAWDSGrit,COPCheckIndirectCombatUnits
