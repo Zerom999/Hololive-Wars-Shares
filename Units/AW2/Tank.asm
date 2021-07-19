@@ -58,8 +58,8 @@
 	setUnitDamageSecondary		Unit_Tank,15,Unit_APC
 	setUnitDamageSecondary		Unit_Tank,05,Unit_AntiAir
 
-	setUnitDamageSecondary		Unit_Tank,10,Unit_Battlecopter
-	setUnitDamageSecondary		Unit_Tank,40,Unit_TransportCopter
+	setUnitDamageSecondary		Unit_Tank,15,Unit_Battlecopter
+	setUnitDamageSecondary		Unit_Tank,35,Unit_TransportCopter
 
 	setUnitInventionDamage		Unit_Tank,15,1
 	
