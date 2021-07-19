@@ -21,18 +21,18 @@
 	setCOFaction		coAWDSSami,ArmyOrangeStar
 	setCOMusic          	coAWDSSami,MusicSamiTheme
 
-	setCOPowerCost          coAWDSSami,3
-	setCOSuperCost          coAWDSSami,8
+	setCOPowerCost          coAWDSSami,5
+	setCOSuperCost          coAWDSSami,10
 
 	setCOD2DSoldierStat		coAWDSSami,20,0,0,0
-	setCOD2DDirectStat		coAWDSSami,-10,0,0,0
-	setCOPowerSoldierStat		coAWDSSami,50,0,1,0
-	setCOPowerDirectStat		coAWDSSami,-10,0,0,0
-	setCOSuperSoldierStat		coAWDSSami,80,0,2,0
-	setCOSuperDirectStat		coAWDSSami,-10,0,0,0
+	setCOD2DDirectStat		coAWDSSami,-20,0,0,0
+	setCOPowerSoldierStat		coAWDSSami,40,0,2,0
+	setCOPowerDirectStat		coAWDSSami,-30,0,0,0
+	setCOSuperSoldierStat		coAWDSSami,60,0,6,0
+	setCOSuperDirectStat		coAWDSSami,-30,0,0,0
 
-	setCOD2DCapture			coAWDSSami,50
-	setCOPowerCapture		coAWDSSami,50
+	setCOD2DCapture			coAWDSSami,100
+	setCOPowerCapture		coAWDSSami,100
 	setCOSuperCapture		coAWDSSami,2000
 
 	setCOGFXPowerRule       coAWDSSami,COPCheckSoldierClass
