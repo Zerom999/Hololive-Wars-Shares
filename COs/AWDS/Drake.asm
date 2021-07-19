@@ -22,14 +22,14 @@
 	setCOMusic          	coAWDSDrake,MusicDrakeTheme
 
 	setCOPowerCost          coAWDSDrake,4
-	setCOSuperCost          coAWDSDrake,7
+	setCOSuperCost          coAWDSDrake,8
 
-	setCOD2DNavyStat	coAWDSDrake,20,0,0,0
-	setCOD2DAirStat		coAWDSDrake,-10,0,0,0
-	setCOPowerNavyStat	coAWDSDrake,20,0,0,0
-	setCOPowerAirStat	coAWDSDrake,-10,0,0,0
-	setCOSuperNavyStat	coAWDSDrake,20,0,0,0
-	setCOSuperAirStat	coAWDSDrake,-10,0,0,0
+	setCOD2DNavyStat	coAWDSDrake,20,20,0,0
+	setCOD2DAirStat		coAWDSDrake,-40,0,0,0
+	setCOPowerNavyStat	coAWDSDrake,40,40,0,0
+	setCOPowerAirStat	coAWDSDrake,-40,0,0,0
+	setCOSuperNavyStat	coAWDSDrake,60,60,0,0
+	setCOSuperAirStat	coAWDSDrake,-40,0,0,0
 
 	setCOPowerASM		coAWDSDrake,COPowerTsunami
 	setCOSuperASM		coAWDSDrake,COPowerTyphoon
