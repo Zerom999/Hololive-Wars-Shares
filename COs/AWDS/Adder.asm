@@ -23,11 +23,11 @@
 	setCOPowerMusic              coAWDSAdder,MusicBlackPower
 	setCOSuperMusic              coAWDSAdder,MusicBlackSuper
 
-	setCOPowerCost          coAWDSAdder,2
-	setCOSuperCost          coAWDSAdder,5
+	setCOPowerCost          coAWDSAdder,3
+	setCOSuperCost          coAWDSAdder,6
 	
-	setCOPowerAllStat	coAWDSAdder,0,0,1,0
-	setCOSuperAllStat	coAWDSAdder,0,0,2,0
+	setCOPowerAllStat	coAWDSAdder,20,10,1,0
+	setCOSuperAllStat	coAWDSAdder,40,20,2,0
 
 	setCOAIPowerRange       coAWDSAdder,35
 	setCOAIPowerTrigger     coAWDSAdder,95
