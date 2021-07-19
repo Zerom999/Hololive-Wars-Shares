@@ -25,11 +25,11 @@
 	setCOSuperCost          coAWDSMax,6
 
 	setCOD2DDirectStat		coAWDSMax,30,0,0,0
-	setCOD2DIndirectStat		coAWDSMax,0,0,0,-1
+	setCOD2DIndirectStat		coAWDSMax,-30,0,0,0
 	setCOPowerDirectStat		coAWDSMax,60,0,0,0
-	setCOPowerIndirectStat	coAWDSMax,0,0,0,-1
+	setCOPowerIndirectStat	coAWDSMax,-30,0,0,0
 	setCOSuperDirectStat		coAWDSMax,90,0,0,0
-	setCOSuperIndirectStat	coAWDSMax,0,0,0,-1
+	setCOSuperIndirectStat	coAWDSMax,-30,0,0,0
 
 	setCOGFXPowerRule       coAWDSMax,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSMax,COPCheckDirectCombatUnits
