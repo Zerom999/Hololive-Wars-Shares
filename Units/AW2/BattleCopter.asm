@@ -5,7 +5,7 @@
 	setUnitPrimaryName	Unit_BattleCopter,2260
 	setUnitSecondaryName	Unit_BattleCopter,2253
 	
-	setUnitPrice		Unit_BattleCopter,900
+	setUnitPrice		Unit_BattleCopter,1000
 	setUnitMove		Unit_BattleCopter,6
 	setUnitAmmo		Unit_BattleCopter,6
 	setUnitVision		Unit_BattleCopter,3
@@ -21,23 +21,23 @@
 	setUnitAIUnitClass		Unit_BattleCopter,AITargetAir
 	
 	setUnitDamagePrimary		Unit_BattleCopter,55,Unit_Tank
-	setUnitDamagePrimary		Unit_BattleCopter,25,Unit_MidTank
-	setUnitDamagePrimary		Unit_BattleCopter,20,Unit_Neotank
+	setUnitDamagePrimary		Unit_BattleCopter,35,Unit_MidTank
+	setUnitDamagePrimary		Unit_BattleCopter,15,Unit_Neotank
 	
 	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_Artillery
 	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_Rockets
 	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_Missiles
 
-	setUnitDamagePrimary		Unit_BattleCopter,55,Unit_Recon
-	setUnitDamagePrimary		Unit_BattleCopter,60,Unit_APC
-	setUnitDamagePrimary		Unit_BattleCopter,25,Unit_AntiAir
+	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_Recon
+	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_APC
+	setUnitDamagePrimary		Unit_BattleCopter,15,Unit_AntiAir
 
-	setUnitDamagePrimary		Unit_BattleCopter,25,Unit_Battleship
-	setUnitDamagePrimary		Unit_BattleCopter,55,Unit_Cruiser
-	setUnitDamagePrimary		Unit_BattleCopter,25,Unit_Lander
-	setUnitDamagePrimary		Unit_BattleCopter,25,Unit_Sub
+	setUnitDamagePrimary		Unit_BattleCopter,15,Unit_Battleship
+	setUnitDamagePrimary		Unit_BattleCopter,15,Unit_Cruiser
+	setUnitDamagePrimary		Unit_BattleCopter,35,Unit_Lander
+	setUnitDamagePrimary		Unit_BattleCopter,35,Unit_Sub
 
-	setUnitDamageSecondary		Unit_BattleCopter,75,Unit_Infantry
+	setUnitDamageSecondary		Unit_BattleCopter,85,Unit_Infantry
 	setUnitDamageSecondary		Unit_BattleCopter,75,Unit_Mech
 	
 	setUnitDamageSecondary		Unit_BattleCopter,06,Unit_Tank
