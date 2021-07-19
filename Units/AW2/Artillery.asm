@@ -25,25 +25,25 @@
 	setUnitMinRange			Unit_Artillery,2
 	setUnitMaxRange			Unit_Artillery,3
 
-	setUnitDamagePrimary		Unit_Artillery,90,Unit_Infantry
-	setUnitDamagePrimary		Unit_Artillery,85,Unit_Mech
+	setUnitDamagePrimary		Unit_Artillery,85,Unit_Infantry
+	setUnitDamagePrimary		Unit_Artillery,75,Unit_Mech
 	
-	setUnitDamagePrimary		Unit_Artillery,70,Unit_Tank
-	setUnitDamagePrimary		Unit_Artillery,45,Unit_MidTank
-	setUnitDamagePrimary		Unit_Artillery,40,Unit_Neotank
+	setUnitDamagePrimary		Unit_Artillery,55,Unit_Tank
+	setUnitDamagePrimary		Unit_Artillery,35,Unit_MidTank
+	setUnitDamagePrimary		Unit_Artillery,15,Unit_Neotank
 	
 	setUnitDamagePrimary		Unit_Artillery,75,Unit_Artillery
-	setUnitDamagePrimary		Unit_Artillery,80,Unit_Rockets
-	setUnitDamagePrimary		Unit_Artillery,80,Unit_Missiles
+	setUnitDamagePrimary		Unit_Artillery,75,Unit_Rockets
+	setUnitDamagePrimary		Unit_Artillery,75,Unit_Missiles
 
-	setUnitDamagePrimary		Unit_Artillery,80,Unit_Recon
-	setUnitDamagePrimary		Unit_Artillery,70,Unit_APC
+	setUnitDamagePrimary		Unit_Artillery,85,Unit_Recon
+	setUnitDamagePrimary		Unit_Artillery,75,Unit_APC
 	setUnitDamagePrimary		Unit_Artillery,75,Unit_AntiAir
 
-	setUnitDamagePrimary		Unit_Artillery,40,Unit_Battleship
+	setUnitDamagePrimary		Unit_Artillery,35,Unit_Battleship
 	setUnitDamagePrimary		Unit_Artillery,65,Unit_Cruiser
-	setUnitDamagePrimary		Unit_Artillery,55,Unit_Lander
-	setUnitDamagePrimary		Unit_Artillery,60,Unit_Sub
+	setUnitDamagePrimary		Unit_Artillery,65,Unit_Lander
+	setUnitDamagePrimary		Unit_Artillery,65,Unit_Sub
 
 	setUnitInventionDamage	Unit_Artillery,45,0
 	
