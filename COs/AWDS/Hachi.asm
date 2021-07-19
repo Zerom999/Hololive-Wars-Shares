@@ -22,11 +22,11 @@
 	setCOMusic          	coAWDSHachi,MusicHachiTheme
 
 	setCOPowerCost          coAWDSHachi,3
-	setCOSuperCost          coAWDSHachi,5
+	setCOSuperCost          coAWDSHachi,6
 
 	setCOD2DPrice		coAWDSHachi,-10
-	setCOPowerPrice		coAWDSHachi,-50
-	setCOSuperPrice		coAWDSHachi,-50
+	setCOPowerPrice		coAWDSHachi,-40
+	setCOSuperPrice		coAWDSHachi,-70
 
 	setCOPowerASM		coAWDSHachi,COPowerBarterFade
 	setCOSuperASM		coAWDSHachi,COPowerBarterFade
