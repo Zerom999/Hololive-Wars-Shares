@@ -37,7 +37,7 @@
 	setUnitDamagePrimary	Unit_AntiAir,55,Unit_APC
 	setUnitDamagePrimary	Unit_AntiAir,45,Unit_AntiAir
 
-	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Fighter
+	setUnitDamagePrimary	Unit_AntiAir,55,Unit_Fighter
 	setUnitDamagePrimary	Unit_AntiAir,75,Unit_Bomber
 	setUnitDamagePrimary	Unit_AntiAir,125,Unit_BattleCopter
 	setUnitDamagePrimary	Unit_AntiAir,125,Unit_TransportCopter
