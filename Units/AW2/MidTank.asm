@@ -57,8 +57,8 @@
 	setUnitDamageSecondary		Unit_MidTank,45,Unit_APC
 	setUnitDamageSecondary		Unit_MidTank,35,Unit_AntiAir
 
-	setUnitDamageSecondary		Unit_MidTank,12,Unit_Battlecopter
-	setUnitDamageSecondary		Unit_MidTank,45,Unit_TransportCopter
+	setUnitDamageSecondary		Unit_MidTank,35,Unit_Battlecopter
+	setUnitDamageSecondary		Unit_MidTank,75,Unit_TransportCopter
 	
 	setUnitInventionDamage		Unit_MidTank,55,01
 	
