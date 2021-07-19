@@ -21,12 +21,12 @@
 	setCOFaction		coAWDSOlaf,ArmyBlueMoon
 	setCOMusic          	coAWDSOlaf,MusicOlafTheme
 
-	setCOPowerCost          coAWDSOlaf,3
-	setCOSuperCost          coAWDSOlaf,7
+	setCOPowerCost          coAWDSOlaf,4
+	setCOSuperCost          coAWDSOlaf,8
 
-	setCOD2DSnowFirepower	coAWDSOlaf,20
-	setCOPowerSnowFirepower	coAWDSOlaf,20
-	setCOSuperSnowFirepower	coAWDSOlaf,20
+	setCOD2DSnowFirepower	coAWDSOlaf,40
+	setCOPowerSnowFirepower	coAWDSOlaf,40
+	setCOSuperSnowFirepower	coAWDSOlaf,40
 
 	setCOPowerASM		coAWDSOlaf,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSOlaf,COPowerExtendedWinterFury
