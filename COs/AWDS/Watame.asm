@@ -18,21 +18,21 @@
 	setCOprofileText        coAWDSWatame,ScriptAWDSWatame+3,ScriptAWDSWatame+4,ScriptAWDSWatame+5,ScriptAWDSWatame+6
 	setCOvictoryText        coAWDSWatame,ScriptAWDSWatame+7
 
-	setCOFaction		coAWDSJake,ArmyOrangeStar
-	setCOMusic          	coAWDSJake,MusicOrangeStar
+	setCOFaction		coAWDSWatame,ArmyOrangeStar
+	setCOMusic          	coAWDSWatame,MusicWatameTheme
 
-	setCOPowerCost          coAWDSJake,3
-	setCOSuperCost          coAWDSJake,6
+	setCOPowerCost          coAWDSWatame,3
+	setCOSuperCost          coAWDSWatame,6
 
-	setCOD2DTerrainFirepowerList	coAWDSJake,TerrainFirepowerBoostJakeDaytoDay
+	setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
-	setCOPowerIndirectLandStat	coAWDSJake,0,0,0,1
-	setCOPowerTerrainFirepowerList	coAWDSJake,TerrainFirepowerBoostJakePower
+	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,1
+	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
 	
-	setCOSuperLandStat		coAWDSJake,0,0,2,0
-	setCOSuperIndirectLandStat	coAWDSJake,0,0,2,1
-	setCOSuperTerrainFirepowerList	coAWDSJake,TerrainFirepowerBoostJakeSuper
+	setCOSuperLandStat		coAWDSWatame,0,0,2,0
+	setCOSuperIndirectLandStat	coAWDSWatame,0,0,2,1
+	setCOSuperTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameSuper
 	
-	setCOAIPowerRange       coAWDSJake,25
-	setCOAIPowerTrigger     coAWDSJake,95
+	setCOAIPowerRange       coAWDSWatame,25
+	setCOAIPowerTrigger     coAWDSWatame,95
 ; blank line
