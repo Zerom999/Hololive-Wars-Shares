@@ -3,13 +3,13 @@
 
 	setCOGFXFullbody        coAWDSLamy,GraphicsAWDSLamyGraphic
 	setCOGFXName            coAWDSLamy,GraphicsAWDSLamyName
-	setCOGFXPalette         coAWDSLamy,GraphicsAWDSOlafPalette
+	setCOGFXPalette         coAWDSLamy,GraphicsAWDSLamyPalette
 	setCOGFXFace            coAWDSLamy,GraphicsAWDSLamyFace,GraphicsAWDSLamyHappyFace,GraphicsAWDSLamySadFace
-	setCOGFXSmallFace       coAWDSOlaf,GraphicsAWDSLamyMugshot
-	setCOGFXPowerAnim       coAWDSOlaf,0,0
-	setCOGFXPowerSFX        coAWDSOlaf,0xC3,0
-	setCOGFXSuperAnim       coAWDSOlaf,7,7
-	setCOGFXSuperSFX        coAWDSOlaf,0x1f7,0x1f8
+	setCOGFXSmallFace       coAWDSLamy,GraphicsAWDSLamyMugshot
+	setCOGFXPowerAnim       coAWDSLamy,0,0
+	setCOGFXPowerSFX        coAWDSLamy,0xC3,0
+	setCOGFXSuperAnim       coAWDSLamy,7,7
+	setCOGFXSuperSFX        coAWDSLamy,0x1f7,0x1f8
 	
 	setCOName               coAWDSOlaf,ScriptAWDSOlaf
 	setCOpowerName          coAWDSOlaf,ScriptAWDSOlaf+1
