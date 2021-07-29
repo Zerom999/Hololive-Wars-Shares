@@ -24,13 +24,13 @@
 	setCOPowerCost          coAWDSKanbei,4
 	setCOSuperCost          coAWDSKanbei,8
 
-	setCOD2DAllStat		coAWDSKanbei,20,20,0,0
-	setCOD2DPrice		coAWDSKanbei,20
-	setCOPowerAllStat	coAWDSKanbei,60,40,0,0
-	setCOPowerPrice		coAWDSKanbei,20
-	setCOSuperAllStat	coAWDSKanbei,100,60,0,0
-	setCOSuperPrice		coAWDSKanbei,20
-	setCOSuperCounter	coAWDSKanbei,100
+	setCOD2DAllStat		coAWDSKanbei,20,20,-1,0
+		
+	setCOPowerAllStat	coAWDSKanbei,60,40,-1,0
+	
+	setCOSuperAllStat	coAWDSKanbei,100,60,-1,0
+	
+		
 	
 	setCOAIPowerRange       coAWDSKanbei,25
 	setCOAIPowerTrigger     coAWDSKanbei,95
