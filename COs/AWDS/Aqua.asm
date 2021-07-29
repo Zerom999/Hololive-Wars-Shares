@@ -4,19 +4,19 @@
 	setCOGFXFullbody        coAWDSAqua,GraphicsAWDSAquaGraphic
 	setCOGFXName            coAWDSAqua,GraphicsAWDSAquaName
 	setCOGFXPalette         coAWDSAqua,GraphicsAWDSAquaPalette
-	setCOGFXFace            coAWDSAqua,GraphicsAWDSAquaFace,GraphicsAWDSJessHappyFace,GraphicsAWDSJessSadFace
+	setCOGFXFace            coAWDSAqua,GraphicsAWDSAquaFace,GraphicsAWDSAquaHappyFace,GraphicsAWDSAquaSadFace
 	setCOGFXSmallFace       coAWDSAqua,GraphicsAWDSAquaMugshot
 	setCOGFXPowerAnim       coAWDSAqua,0x04,0x00
 	setCOGFXPowerSFX        coAWDSAqua,0xba,0xbb
 	setCOGFXSuperAnim       coAWDSAqua,7,7
 	setCOGFXSuperSFX        coAWDSAqua,0x1f7,0x1f8
 	
-	setCOName               coAWDSJess,ScriptAWDSJess
-	setCOpowerName          coAWDSJess,ScriptAWDSJess+1
-	setCOsuperName          coAWDSJess,ScriptAWDSJess+2
-	setCOpowerText          coAWDSJess,ScriptAWDSJess+8,ScriptAWDSJess+9,ScriptAWDSJess+10,ScriptAWDSJess+11,ScriptAWDSJess+12,ScriptAWDSJess+13
-	setCOprofileText        coAWDSJess,ScriptAWDSJess+3,ScriptAWDSJess+4,ScriptAWDSJess+5,ScriptAWDSJess+6
-	setCOvictoryText        coAWDSJess,ScriptAWDSJess+7
+	setCOName               coAWDSAqua,ScriptAWDSAqua
+	setCOpowerName          coAWDSAqua,ScriptAWDSAqua+1
+	setCOsuperName          coAWDSAqua,ScriptAWDSAqua+2
+	setCOpowerText          coAWDSAqua,ScriptAWDSAqua+8,ScriptAWDSAqua+9,ScriptAWDSJess+10,ScriptAWDSJess+11,ScriptAWDSJess+12,ScriptAWDSJess+13
+	setCOprofileText        coAWDSAqua,ScriptAWDSAqua+3,ScriptAWDSAqua+4,ScriptAWDSJess+5,ScriptAWDSJess+6
+	setCOvictoryText        coAWDSAqua,ScriptAWDSAqua+7
 
 	setCOFaction		coAWDSJess,ArmyGreenEarth
 	setCOMusic          	coAWDSJess,MusicJessTheme
