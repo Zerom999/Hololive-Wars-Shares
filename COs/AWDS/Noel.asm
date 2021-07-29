@@ -34,4 +34,4 @@
 	setCOAIPowerTrigger     coAWDSKanbei,95
 ; blank line	
 	
-	
+
