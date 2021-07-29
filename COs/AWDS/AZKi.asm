@@ -18,19 +18,19 @@
 	setCOprofileText        coAWDSAZKi,ScriptAWDSAZKi+3,ScriptAWDSAZKi+4,ScriptAWDSAZKi+5,ScriptAWDSAZKi+6
 	setCOvictoryText        coAWDSAZKi,ScriptAWDSAZKi+7
 
-	setCOFaction		coAWDSJavier,ArmyGreenEarth
-	setCOMusic          	coAWDSJavier,MusicGreenEarth
+	setCOFaction		coAWDSAZKi,ArmyGreenEarth
+	setCOMusic          	coAWDSAZKi,MusicGreenEarth
 
-	setCOPowerCost          coAWDSJavier,3
-	setCOSuperCost          coAWDSJavier,6
+	setCOPowerCost          coAWDSAZKi,3
+	setCOSuperCost          coAWDSAZKi,6
 
-	setCOd2dAbilities		coAWDSJavier,SpecialTowerDefence
-	setCOD2DIndirectDefence		coAWDSJavier,30
-	setCOPowerAbilities		coAWDSJavier,SpecialTowerDefence+SpecialTowerDouble
-	setCOPowerIndirectDefence	coAWDSJavier,60
-	setCOSuperAbilities		coAWDSJavier,SpecialTowerDefence+SpecialTowerTriple
-	setCOSuperIndirectDefence	coAWDSJavier,90
+	setCOd2dAbilities		coAWDSAZKi,SpecialTowerDefence
+	setCOD2DIndirectDefence		coAWDSAZKi,30
+	setCOPowerAbilities		coAWDSAZKi,SpecialTowerDefence+SpecialTowerDouble
+	setCOPowerIndirectDefence	coAWDSAZKi,60
+	setCOSuperAbilities		coAWDSAZKi,SpecialTowerDefence+SpecialTowerTriple
+	setCOSuperIndirectDefence	coAWDSAZKi,90
 	
-	setCOAIPowerRange       coAWDSJavier,25
-	setCOAIPowerTrigger     coAWDSJavier,95
+	setCOAIPowerRange       coAWDSAZKi,25
+	setCOAIPowerTrigger     coAWDSAZKi,95
 ; blank line
