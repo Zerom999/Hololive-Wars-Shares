@@ -25,11 +25,11 @@
 	setCOSuperCost          coAWDSJavier,6
 
 	setCOd2dAbilities		coAWDSJavier,SpecialTowerDefence
-	setCOD2DIndirectDefence		coAWDSJavier,20
+	setCOD2DIndirectDefence		coAWDSJavier,30
 	setCOPowerAbilities		coAWDSJavier,SpecialTowerDefence+SpecialTowerDouble
-	setCOPowerIndirectDefence	coAWDSJavier,40
+	setCOPowerIndirectDefence	coAWDSJavier,60
 	setCOSuperAbilities		coAWDSJavier,SpecialTowerDefence+SpecialTowerTriple
-	setCOSuperIndirectDefence	coAWDSJavier,80
+	setCOSuperIndirectDefence	coAWDSJavier,90
 	
 	setCOAIPowerRange       coAWDSJavier,25
 	setCOAIPowerTrigger     coAWDSJavier,95
