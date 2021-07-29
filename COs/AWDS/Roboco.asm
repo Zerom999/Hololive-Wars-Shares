@@ -26,14 +26,14 @@
 	setCOPowerCost		coAWDSRoboco,3
 	setCOSuperCost		coAWDSRoboco,6
 	
-	setCOD2DTerrainFirepowerList	coAWDSKindle,TerrainFirepowerBoostKindleDaytoDay
-	setCOPowerTerrainFirepowerList	coAWDSKindle,TerrainFirepowerBoostKindlePower
-	setCOSuperTerrainFirepowerList	coAWDSKindle,TerrainFirepowerBoostKindleSuper
+	setCOD2DTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostKindleDaytoDay
+	setCOPowerTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostKindlePower
+	setCOSuperTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostKindleSuper
 
-	setCOPowerASM			coAWDSKindle,COPowerUrbanBlight
-	setCOGFXSuperType		coAWDSKindle,COPowerTypeHighSociety
+	setCOPowerASM			coAWDSRoboco,COPowerUrbanBlight
+	setCOGFXSuperType		coAWDSRoboco,COPowerTypeHighSociety
 
-	setCOAIPowerRange       	coAWDSKindle,25
-	setCOAIPowerTrigger     	coAWDSKindle,95
-	setCOAIPowerTriggerASM  	coAWDSKindle,AIActivateOnProperties ;Replace with City one for COP when transplanted
+	setCOAIPowerRange       	coAWDSRoboco,25
+	setCOAIPowerTrigger     	coAWDSRoboco,95
+	setCOAIPowerTriggerASM  	coAWDSRoboco,AIActivateOnProperties ;Replace with City one for COP when transplanted
 ; blank line
