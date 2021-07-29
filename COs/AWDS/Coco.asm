@@ -1,15 +1,15 @@
         setCODefaults           coAWDSCoco
 	setCOGameID		coAWDSaCoco,Game_AWDS
 
-	setCOGFXFullbody        coAWDSJess,GraphicsAWDSJessGraphic
-	setCOGFXName            coAWDSJess,GraphicsAWDSJessName
-	setCOGFXPalette         coAWDSJess,GraphicsAWDSJessPalette
-	setCOGFXFace            coAWDSJess,GraphicsAWDSJessFace,GraphicsAWDSJessHappyFace,GraphicsAWDSJessSadFace
-	setCOGFXSmallFace       coAWDSJess,GraphicsAWDSJessMugshot
-	setCOGFXPowerAnim       coAWDSJess,0x04,0x00
-	setCOGFXPowerSFX        coAWDSJess,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSJess,7,7
-	setCOGFXSuperSFX        coAWDSJess,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSCoco,GraphicsAWDSCocoGraphic
+	setCOGFXName            coAWDSCoco,GraphicsAWDSCocoName
+	setCOGFXPalette         coAWDSCoco,GraphicsAWDSCocoPalette
+	setCOGFXFace            coAWDSCoco,GraphicsAWDSCocoFace,GraphicsAWDSCocoHappyFace,GraphicsAWDSCocoSadFace
+	setCOGFXSmallFace       coAWDSCoco,GraphicsAWDSCocoMugshot
+	setCOGFXPowerAnim       coAWDSCoco,0x04,0x00
+	setCOGFXPowerSFX        coAWDSCoco,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSCoco,7,7
+	setCOGFXSuperSFX        coAWDSCoco,0x1f7,0x1f8
 	
 	setCOName               coAWDSJess,ScriptAWDSJess
 	setCOpowerName          coAWDSJess,ScriptAWDSJess+1
