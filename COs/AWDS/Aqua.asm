@@ -27,15 +27,17 @@
 	setCOD2DLandStat	coAWDSAqua,0,0,0,0
 	setCOD2DNavyStat	coAWDSAqua,0,30,1,0
 	setCOD2DAirStat		coAWDSAqua,-20,0,0,0
+	setCOD2DTransportStat   coAWDSAqua,0,0,1,0
 
 	setCOPowerLandStat	coAWDSAqua,0,0,0,0
 	setCOPowerNavyStat	coAWDSAqua,10,50,2,0
 	setCOPowerAirStat	coAWDSAqua,-10,0,0,0
-	setCOPowerTransportStat coAWDSAqua,0,10,1,0
+	setCOPowerTransportStat coAWDSAqua,0,0,1,0
 
 	setCOSuperLandStat	coAWDSAqua,0,0,0,0
 	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
 	setCOSuperNavyStat	coAWDSAqua,20,70,3,0
+	setCOSuperTransportStat coAWDSAqua,0,0,1,0
 
 	setCOGFXPowerFX		coAWDSAqua,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSAqua,COPEffectResupplyUnit
