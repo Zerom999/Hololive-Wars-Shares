@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSCoco,7,7
 	setCOGFXSuperSFX        coAWDSCoco,0x1f7,0x1f8
 	
-	setCOName               coAWDSJess,ScriptAWDSJess
-	setCOpowerName          coAWDSJess,ScriptAWDSJess+1
-	setCOsuperName          coAWDSJess,ScriptAWDSJess+2
-	setCOpowerText          coAWDSJess,ScriptAWDSJess+8,ScriptAWDSJess+9,ScriptAWDSJess+10,ScriptAWDSJess+11,ScriptAWDSJess+12,ScriptAWDSJess+13
-	setCOprofileText        coAWDSJess,ScriptAWDSJess+3,ScriptAWDSJess+4,ScriptAWDSJess+5,ScriptAWDSJess+6
-	setCOvictoryText        coAWDSJess,ScriptAWDSJess+7
+	setCOName               coAWDSCoco,ScriptAWDSCoco
+	setCOpowerName          coAWDSCoco,ScriptAWDSCoco+1
+	setCOsuperName          coAWDSCoco,ScriptAWDSCoco+2
+	setCOpowerText          coAWDSCoco,ScriptAWDSCoco+8,ScriptAWDSCoco+9,ScriptAWDSCoco+10,ScriptAWDSCoco+11,ScriptAWDSCoco+12,ScriptAWDSCoco+13
+	setCOprofileText        coAWDSCoco,ScriptAWDSCoco+3,ScriptAWDSCoco+4,ScriptAWDSCoco+5,ScriptAWDSCoco+6
+	setCOvictoryText        coAWDSCoco,ScriptAWDSCoco+7
 
 	setCOFaction		coAWDSJess,ArmyGreenEarth
 	setCOMusic          	coAWDSJess,MusicJessTheme
