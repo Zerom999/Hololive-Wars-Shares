@@ -14,22 +14,22 @@
 	setCOName               coAWDSNoel,ScriptAWDSNoel
 	setCOpowerName          coAWDSNoel,ScriptAWDSNoel+1
 	setCOsuperName          coAWDSNoel,ScriptAWDSNoel+2
-	setCOpowerText          coAWDSNoel,ScriptAWDSKanbei+8,ScriptAWDSNoel+9,ScriptAWDSNoel+10,ScriptAWDSNoel+11,ScriptAWDSNoel+12,ScriptAWDSNoel+13
+	setCOpowerText          coAWDSNoel,ScriptAWDSNoel+8,ScriptAWDSNoel+9,ScriptAWDSNoel+10,ScriptAWDSNoel+11,ScriptAWDSNoel+12,ScriptAWDSNoel+13
 	setCOprofileText        coAWDSNoel,ScriptAWDSNoel+3,ScriptAWDSNoel+4,ScriptAWDSNoel+5,ScriptAWDSNoel+6
 	setCOvictoryText        coAWDSNoel,ScriptAWDSNoel+7
 
-	setCOFaction		coAWDSKanbei,ArmyYellowComet
-	setCOMusic          	coAWDSKanbei,MusicKanbeiTheme
+	setCOFaction		coAWDSNoel,ArmyYellowComet
+	setCOMusic          	coAWDSNoel,MusicNoelTheme
 
-	setCOPowerCost          coAWDSKanbei,4
-	setCOSuperCost          coAWDSKanbei,8
+	setCOPowerCost          coAWDSNoel,4
+	setCOSuperCost          coAWDSNoel,8
 
-	setCOD2DAllStat		coAWDSKanbei,20,20,-1,0
+	setCOD2DAllStat		coAWDSNoel,20,20,-1,0
 		
-	setCOPowerAllStat	coAWDSKanbei,40,40,-1,0
+	setCOPowerAllStat	coAWDSNoel,40,40,-1,0
 	
-	setCOSuperAllStat	coAWDSKanbei,60,60,-1,0
+	setCOSuperAllStat	coAWDSNoel,60,60,-1,0
 	
-	setCOAIPowerRange       coAWDSKanbei,25
-	setCOAIPowerTrigger     coAWDSKanbei,95
+	setCOAIPowerRange       coAWDSNoel,25
+	setCOAIPowerTrigger     coAWDSNoel,95
 ; blank line
