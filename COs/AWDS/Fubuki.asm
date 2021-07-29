@@ -24,9 +24,9 @@
 	setCOPowerCost          coAWDSFubuki,4
 	setCOSuperCost          coAWDSFubuki,8
 
-	setCOD2DSnowFirepower	coAWDSFubuki,40
-	setCOPowerSnowFirepower	coAWDSFubuki,40
-	setCOSuperSnowFirepower	coAWDSFubuki,40
+	setCOD2DSnowFirepower	coAWDSFubuki,20,0,2,0
+	setCOPowerSnowFirepower	coAWDSFubuki,20,0,2,0
+	setCOSuperSnowFirepower	coAWDSFubuki,20,0,2,0
 
 	setCOPowerASM		coAWDSFubuki,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSFubuki,COPowerExtendedWinterFury
