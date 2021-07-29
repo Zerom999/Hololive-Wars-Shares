@@ -21,17 +21,17 @@
 	setCOFaction		coAWDSLamy,ArmyBlueMoon
 	setCOMusic          	coAWDSLamy,MusicLamyTheme
 
-	setCOPowerCost          coAWDSOlaf,4
-	setCOSuperCost          coAWDSOlaf,8
+	setCOPowerCost          coAWDSLamy,4
+	setCOSuperCost          coAWDSLamy,8
 
-	setCOD2DSnowFirepower	coAWDSOlaf,10,30,0,0
-	setCOPowerSnowFirepower	coAWDSOlaf,10,30,0,0
-	setCOSuperSnowFirepower	coAWDSOlaf,10,30,0,0
+	setCOD2DSnowFirepower	coAWDSLamy,10,30,0,0
+	setCOPowerSnowFirepower	coAWDSLamy,10,30,0,0
+	setCOSuperSnowFirepower	coAWDSLamy,10,30,0,0
 
-	setCOPowerASM		coAWDSOlaf,COPowerExtendedBlizzard
-	setCOSuperASM		coAWDSOlaf,COPowerExtendedWinterFury
+	setCOPowerASM		coAWDSLamy,COPowerExtendedBlizzard
+	setCOSuperASM		coAWDSLamy,COPowerExtendedWinterFury
 	
-	setCOAIPowerRange       coAWDSOlaf,15
-	setCOAIPowerTrigger     coAWDSOlaf,70
-	setCOAIPowerTriggerASM	coAWDSOlaf,AIActivateNotSnow
+	setCOAIPowerRange       coAWDSLamy,15
+	setCOAIPowerTrigger     coAWDSLamy,70
+	setCOAIPowerTriggerASM	coAWDSLamy,AIActivateNotSnow
 ; blank line
