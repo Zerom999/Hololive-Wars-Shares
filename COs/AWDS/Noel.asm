@@ -26,9 +26,9 @@
 
 	setCOD2DAllStat		coAWDSKanbei,20,20,-1,0
 		
-	setCOPowerAllStat	coAWDSKanbei,60,40,-1,0
+	setCOPowerAllStat	coAWDSKanbei,40,40,-1,0
 	
-	setCOSuperAllStat	coAWDSKanbei,100,60,-1,0
+	setCOSuperAllStat	coAWDSKanbei,60,60,-1,0
 	
 	setCOAIPowerRange       coAWDSKanbei,25
 	setCOAIPowerTrigger     coAWDSKanbei,95
