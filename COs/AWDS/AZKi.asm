@@ -19,7 +19,7 @@
 	setCOvictoryText        coAWDSAZKi,ScriptAWDSAZKi+7
 
 	setCOFaction		coAWDSAZKi,ArmyGreenEarth
-	setCOMusic          	coAWDSAZKi,MusicGreenEarth
+	setCOMusic          	coAWDSAZKi,MusicAZKi
 
 	setCOPowerCost          coAWDSAZKi,3
 	setCOSuperCost          coAWDSAZKi,6
