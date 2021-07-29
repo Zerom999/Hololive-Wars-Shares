@@ -40,7 +40,7 @@
 	.include "AWDS/Kindle.asm"
 	.include "AWDS/VonBolt.asm"
 	
-
+.relativeinclude off	
 	
 	
 
