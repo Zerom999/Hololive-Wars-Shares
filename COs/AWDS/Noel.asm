@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSNoel,7,7
 	setCOGFXSuperSFX        coAWDSNoel,0x1f7,0x1f8
 	
-	setCOName               coAWDSKanbei,ScriptAWDSKanbei
-	setCOpowerName          coAWDSKanbei,ScriptAWDSKanbei+1
-	setCOsuperName          coAWDSKanbei,ScriptAWDSKanbei+2
-	setCOpowerText          coAWDSKanbei,ScriptAWDSKanbei+8,ScriptAWDSKanbei+9,ScriptAWDSKanbei+10,ScriptAWDSKanbei+11,ScriptAWDSKanbei+12,ScriptAWDSKanbei+13
-	setCOprofileText        coAWDSKanbei,ScriptAWDSKanbei+3,ScriptAWDSKanbei+4,ScriptAWDSKanbei+5,ScriptAWDSKanbei+6
-	setCOvictoryText        coAWDSKanbei,ScriptAWDSKanbei+7
+	setCOName               coAWDSNoel,ScriptAWDSNoel
+	setCOpowerName          coAWDSNoel,ScriptAWDSNoel+1
+	setCOsuperName          coAWDSNoel,ScriptAWDSNoel+2
+	setCOpowerText          coAWDSNoel,ScriptAWDSKanbei+8,ScriptAWDSNoel+9,ScriptAWDSNoel+10,ScriptAWDSNoel+11,ScriptAWDSNoel+12,ScriptAWDSNoel+13
+	setCOprofileText        coAWDSNoel,ScriptAWDSNoel+3,ScriptAWDSNoel+4,ScriptAWDSNoel+5,ScriptAWDSNoel+6
+	setCOvictoryText        coAWDSNoel,ScriptAWDSNoel+7
 
 	setCOFaction		coAWDSKanbei,ArmyYellowComet
 	setCOMusic          	coAWDSKanbei,MusicKanbeiTheme
