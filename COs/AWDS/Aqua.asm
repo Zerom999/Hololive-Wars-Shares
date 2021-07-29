@@ -31,6 +31,7 @@
 	setCOPowerLandStat	coAWDSAqua,0,0,0,0
 	setCOPowerNavyStat	coAWDSAqua,10,50,2,0
 	setCOPowerAirStat	coAWDSAqua,-10,0,0,0
+	setCOPowerTransportStat coAWDSAqua,0,10,1,0
 
 	setCOSuperLandStat	coAWDSAqua,0,0,0,0
 	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
