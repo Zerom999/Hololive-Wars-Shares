@@ -1,4 +1,4 @@
-setCODefaults           coAWDSKanbei
+        setCODefaults           coAWDSKanbei
 	setCOGameID		coAWDSKanbei,Game_AWDS
 
 	setCOGFXFullbody        coAWDSKanbei,GraphicsAWDSKanbeiGraphic
