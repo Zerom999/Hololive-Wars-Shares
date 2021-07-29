@@ -1,4 +1,4 @@
-setCODefaults           coAWDSOlaf
+        setCODefaults           coAWDSOlaf
 	setCOGameID		coAWDSOlaf,Game_AWDS
 
 	setCOGFXFullbody        coAWDSOlaf,GraphicsAWDSOlafGraphic
