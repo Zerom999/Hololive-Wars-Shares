@@ -1,4 +1,4 @@
-	setCODefaults           coAWDSAndy
+	setCODefaults           coAWDSKanata
 	setCOGameID		coAWDSAndy,Game_AWDS
 
 	setCOGFXFullbody        coAWDSAndy,GraphicsAWDSAndyGraphic
