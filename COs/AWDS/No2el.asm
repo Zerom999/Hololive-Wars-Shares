@@ -32,3 +32,4 @@ setCODefaults           coAWDSKanbei
 	
 	setCOAIPowerRange       coAWDSKanbei,25
 	setCOAIPowerTrigger     coAWDSKanbei,95
+; blank line
