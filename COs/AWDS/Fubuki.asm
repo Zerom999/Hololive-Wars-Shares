@@ -31,7 +31,7 @@
 	setCOPowerASM		coAWDSFubuki,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSFubuki,COPowerExtendedWinterFury
 	
-	setCOAIPowerRange       coAWDSOlaf,15
-	setCOAIPowerTrigger     coAWDSOlaf,70
+	setCOAIPowerRange       coAWDSFubuki,15
+	setCOAIPowerTrigger     coAWDSFubuki,70
 	setCOAIPowerTriggerASM	coAWDSOlaf,AIActivateNotSnow
 ; blank line
