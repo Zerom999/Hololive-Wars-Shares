@@ -14,8 +14,8 @@
 	setCOName               coAWDSLuna,ScriptAWDSLuna
 	setCOpowerName          coAWDSLuna,ScriptAWDSLuna+1
 	setCOsuperName          coAWDSLuna,ScriptAWDSLuna+2
-	setCOpowerText          coAWDSLuna,ScriptAWDSLuna+8,ScriptAWDSColin+9,ScriptAWDSColin+10,ScriptAWDSColin+11,ScriptAWDSColin+12,ScriptAWDSColin+13
-	setCOprofileText        coAWDSLuna,ScriptAWDSLuna+3,ScriptAWDSColin+4,ScriptAWDSColin+5,ScriptAWDSColin+6
+	setCOpowerText          coAWDSLuna,ScriptAWDSLuna+8,ScriptAWDSLuna+9,ScriptAWDSLuna+10,ScriptAWDSLuna+11,ScriptAWDSLuna+12,ScriptAWDSLuna+13
+	setCOprofileText        coAWDSLuna,ScriptAWDSLuna+3,ScriptAWDSLuna+4,ScriptAWDSLuna+5,ScriptAWDSLuna+6
 	setCOvictoryText        coAWDSLuna,ScriptAWDSLuna+7
 
 	setCOFaction		coAWDSColin,ArmyBlueMoon
