@@ -3,9 +3,9 @@
 
 	setCOGFXFullbody        coAWDSFubuki,GraphicsAWDSFubukiGraphic
 	setCOGFXName            coAWDSFubuki,GraphicsAWDSFubukiName
-	setCOGFXPalette         coAWDSFubuki,GraphicsAWDSOlafPalette
-	setCOGFXFace            coAWDSFubuki,GraphicsAWDSOlafFace,GraphicsAWDSOlafHappyFace,GraphicsAWDSOlafSadFace
-	setCOGFXSmallFace       coAWDSFubuki,GraphicsAWDSOlafMugshot
+	setCOGFXPalette         coAWDSFubuki,GraphicsAWDSFubukiPalette
+	setCOGFXFace            coAWDSFubuki,GraphicsAWDSFubukiFace,GraphicsAWDSFubukiHappyFace,GraphicsAWDSFubukiSadFace
+	setCOGFXSmallFace       coAWDSFubuki,GraphicsAWDSFubukiMugshot
 	setCOGFXPowerAnim       coAWDSFubuki,0,0
 	setCOGFXPowerSFX        coAWDSFubuki,0xC3,0
 	setCOGFXSuperAnim       coAWDSFubuki,7,7
@@ -14,22 +14,22 @@
 	setCOName               coAWDSFubuki,ScriptAWDSFubuki
 	setCOpowerName          coAWDSFubuki,ScriptAWDSFubuki+1
 	setCOsuperName          coAWDSFubuki,ScriptAWDSFubuki+2
-	setCOpowerText          coAWDSFubuki,ScriptAWDSFubuki+8,ScriptAWDSOlaf+9,ScriptAWDSOlaf+10,ScriptAWDSOlaf+11,ScriptAWDSOlaf+12,ScriptAWDSOlaf+13
-	setCOprofileText        coAWDSFubuki,ScriptAWDSFubuki+3,ScriptAWDSOlaf+4,ScriptAWDSOlaf+5,ScriptAWDSOlaf+6
+	setCOpowerText          coAWDSFubuki,ScriptAWDSFubuki+8,ScriptAWDSFubuki+9,ScriptAWDSFubuki+10,ScriptAWDSFubuki+11,ScriptAWDSFubuki+12,ScriptAWDSFubuki+13
+	setCOprofileText        coAWDSFubuki,ScriptAWDSFubuki+3,ScriptAWDSFubuki+4,ScriptAWDSFubuki+5,ScriptAWDSFubuki+6
 	setCOvictoryText        coAWDSFubuki,ScriptAWDSFubuki+7
 
-	setCOFaction		coAWDSOlaf,ArmyBlueMoon
-	setCOMusic          	coAWDSOlaf,MusicOlafTheme
+	setCOFaction		coAWDSFubuki,ArmyBlueMoon
+	setCOMusic          	coAWDSFubuki,MusicFubukiTheme
 
-	setCOPowerCost          coAWDSOlaf,4
-	setCOSuperCost          coAWDSOlaf,8
+	setCOPowerCost          coAWDSFubuki,4
+	setCOSuperCost          coAWDSFubuki,8
 
-	setCOD2DSnowFirepower	coAWDSOlaf,40
-	setCOPowerSnowFirepower	coAWDSOlaf,40
-	setCOSuperSnowFirepower	coAWDSOlaf,40
+	setCOD2DSnowFirepower	coAWDSFubuki,40
+	setCOPowerSnowFirepower	coAWDSFubuki,40
+	setCOSuperSnowFirepower	coAWDSFubuki,40
 
-	setCOPowerASM		coAWDSOlaf,COPowerExtendedBlizzard
-	setCOSuperASM		coAWDSOlaf,COPowerExtendedWinterFury
+	setCOPowerASM		coAWDSFubuki,COPowerExtendedBlizzard
+	setCOSuperASM		coAWDSFubuki,COPowerExtendedWinterFury
 	
 	setCOAIPowerRange       coAWDSOlaf,15
 	setCOAIPowerTrigger     coAWDSOlaf,70
