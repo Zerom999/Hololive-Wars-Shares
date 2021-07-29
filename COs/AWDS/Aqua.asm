@@ -24,11 +24,11 @@
 	setCOPowerCost          coAWDSAqua,3
 	setCOSuperCost          coAWDSAqua,6
 	
-	setCOD2DLandStat	coAWDSJess,0,0,0,0
-	setCOD2DNavyStat	coAWDSJess,0,30,1,0
-	setCOD2DAirStat		coAWDSJess,-20,0,0,0
+	setCOD2DLandStat	coAWDSAqua,0,0,0,0
+	setCOD2DNavyStat	coAWDSAqua,0,30,1,0
+	setCOD2DAirStat		coAWDSAqua,-20,0,0,0
 
-	setCOPowerLandStat	coAWDSJess,0,0,0,0
+	setCOPowerLandStat	coAWDSAqua,0,0,0,0
 	setCOPowerNavyStat	coAWDSJess,10,50,2,0
 	setCOPowerAirStat	coAWDSJess,-10,0,0,0
 
