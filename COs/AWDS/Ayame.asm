@@ -18,20 +18,20 @@
 	setCOprofileText        coAWDSAyame,ScriptAWDSAyame+3,ScriptAWDSAyame+4,ScriptAWDSAyame+5,ScriptAWDSAyame+6
 	setCOvictoryText        coAWDSAyame,ScriptAWDSAyame+7
 
-	setCOFaction		coAWDSKanbei,ArmyYellowComet
-	setCOMusic          	coAWDSKanbei,MusicKanbeiTheme
+	setCOFaction		coAWDSAyame,ArmyYellowComet
+	setCOMusic          	coAWDSAyame,MusicAyameTheme
 
-	setCOPowerCost          coAWDSKanbei,4
-	setCOSuperCost          coAWDSKanbei,8
+	setCOPowerCost          coAWDSAyame,4
+	setCOSuperCost          coAWDSAyame,8
 
-	setCOD2DAllStat		coAWDSKanbei,40,20,0,0
-	setCOD2DPrice		coAWDSKanbei,30
-	setCOPowerAllStat	coAWDSKanbei,70,40,0,0
-	setCOPowerPrice		coAWDSKanbei,30
-	setCOSuperAllStat	coAWDSKanbei,100,60,0,0
-	setCOSuperPrice		coAWDSKanbei,30
-	setCOSuperCounter	coAWDSKanbei,100
+	setCOD2DAllStat		coAWDSAyame,40,20,0,0
+	setCOD2DPrice		coAWDSAyame,30
+	setCOPowerAllStat	coAWDSAyame,70,40,0,0
+	setCOPowerPrice		coAWDSAyame,30
+	setCOSuperAllStat	coAWDSAyame,100,60,0,0
+	setCOSuperPrice		coAWDSAyame,30
+	setCOSuperCounter	coAWDSAyame,100
 	
-	setCOAIPowerRange       coAWDSKanbei,25
-	setCOAIPowerTrigger     coAWDSKanbei,95
+	setCOAIPowerRange       coAWDSAyame,25
+	setCOAIPowerTrigger     coAWDSAyame,95
 ; blank line
