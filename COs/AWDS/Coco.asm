@@ -1,5 +1,5 @@
-        setCODefaults           coAWDSJess
-	setCOGameID		coAWDSJess,Game_AWDS
+        setCODefaults           coAWDSCoco
+	setCOGameID		coAWDSaCoco,Game_AWDS
 
 	setCOGFXFullbody        coAWDSJess,GraphicsAWDSJessGraphic
 	setCOGFXName            coAWDSJess,GraphicsAWDSJessName
@@ -21,16 +21,16 @@
 	setCOFaction		coAWDSJess,ArmyGreenEarth
 	setCOMusic          	coAWDSJess,MusicJessTheme
 
-	setCOPowerCost          coAWDSJess,3
-	setCOSuperCost          coAWDSJess,6
+	setCOPowerCost          coAWDSJess,5
+	setCOSuperCost          coAWDSJess,10
 	
 	setCOD2DLandStat	coAWDSJess,20,0,0,0
-	setCOD2DNavyStat	coAWDSJess,-10,0,0,0
-	setCOD2DAirStat		coAWDSJess,-10,0,0,0
+	setCOD2DNavyStat	coAWDSJess,0,0,0,0
+	setCOD2DAirStat		coAWDSJess,0,0,0,0
 
-	setCOPowerLandStat	coAWDSJess,40,0,1,0
-	setCOPowerNavyStat	coAWDSJess,-10,0,0,0
-	setCOPowerAirStat	coAWDSJess,-10,0,0,0
+	setCOPowerLandStat	coAWDSJess,0,0,1,0
+	setCOPowerNavyStat	coAWDSJess,0,0,0,0
+	setCOPowerAirStat	coAWDSJess,0,0,0,0
 
 	setCOSuperLandStat	coAWDSJess,60,0,2,0
 	setCOSuperAirStat	coAWDSJess,-10,0,0,0
