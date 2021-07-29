@@ -13,10 +13,10 @@
 	
 	setCOName               coAWDSAZKi,ScriptAWDSAZKi
 	setCOpowerName          coAWDSAZKi,ScriptAWDSAZKi+1
-	setCOsuperName          coAWDSAZKi,ScriptAWDSJavier+2
-	setCOpowerText          coAWDSAZKi,ScriptAWDSJavier+8,ScriptAWDSJavier+9,ScriptAWDSJavier+10,ScriptAWDSJavier+11,ScriptAWDSJavier+12,ScriptAWDSJavier+13
-	setCOprofileText        coAWDSAZKi,ScriptAWDSJavier+3,ScriptAWDSJavier+4,ScriptAWDSJavier+5,ScriptAWDSJavier+6
-	setCOvictoryText        coAWDSAZKi,ScriptAWDSJavier+7
+	setCOsuperName          coAWDSAZKi,ScriptAWDSAZKi+2
+	setCOpowerText          coAWDSAZKi,ScriptAWDSAZKi+8,ScriptAWDSAZKi+9,ScriptAWDSAZKi+10,ScriptAWDSAZKi+11,ScriptAWDSAZKi+12,ScriptAWDSAZKi+13
+	setCOprofileText        coAWDSAZKi,ScriptAWDSAZKi+3,ScriptAWDSAZKi+4,ScriptAWDSAZKi+5,ScriptAWDSAZKi+6
+	setCOvictoryText        coAWDSAZKi,ScriptAWDSAZKi+7
 
 	setCOFaction		coAWDSJavier,ArmyGreenEarth
 	setCOMusic          	coAWDSJavier,MusicGreenEarth
