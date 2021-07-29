@@ -33,7 +33,7 @@
 	setCOPowerASM			coAWDSKindle,COPowerUrbanBlight
 	setCOGFXSuperType		coAWDSKindle,COPowerTypeHighSociety
 
-	setCOAIPowerRange       	coAWDSKindle,150
+	setCOAIPowerRange       	coAWDSKindle,25
 	setCOAIPowerTrigger     	coAWDSKindle,95
 	setCOAIPowerTriggerASM  	coAWDSKindle,AIActivateOnProperties ;Replace with City one for COP when transplanted
 ; blank line
