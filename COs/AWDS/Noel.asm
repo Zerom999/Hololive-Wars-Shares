@@ -1,15 +1,15 @@
         setCODefaults           coAWDSNoel
 	setCOGameID		coAWDSNoel,Game_AWDS
 
-	setCOGFXFullbody        coAWDSNoel,GraphicsAWDSKanbeiGraphic
-	setCOGFXName            coAWDSNoel,GraphicsAWDSKanbeiName
-	setCOGFXPalette         coAWDSNoel,GraphicsAWDSKanbeiPalette
-	setCOGFXFace            coAWDSNoel,GraphicsAWDSKanbeiFace,GraphicsAWDSKanbeiHappyFace,GraphicsAWDSKanbeiSadFace
-	setCOGFXSmallFace       coAWDSNoel,GraphicsAWDSKanbeiMugshot
+	setCOGFXFullbody        coAWDSNoel,GraphicsAWDSNoelGraphic
+	setCOGFXName            coAWDSNoel,GraphicsAWDSNoelName
+	setCOGFXPalette         coAWDSNoel,GraphicsAWDSNoelPalette
+	setCOGFXFace            coAWDSNoel,GraphicsAWDSNoelFace,GraphicsAWDSNoelHappyFace,GraphicsAWDSNoelSadFace
+	setCOGFXSmallFace       coAWDSNoel,GraphicsAWDSNoelMugshot
 	setCOGFXPowerAnim       coAWDSNoel,0,0
-	setCOGFXPowerSFX        coAWDSKanbei,0xab,0xac
-	setCOGFXSuperAnim       coAWDSKanbei,7,7
-	setCOGFXSuperSFX        coAWDSKanbei,0x1f7,0x1f8
+	setCOGFXPowerSFX        coAWDSNoel,0xab,0xac
+	setCOGFXSuperAnim       coAWDSNoel,7,7
+	setCOGFXSuperSFX        coAWDSNoel,0x1f7,0x1f8
 	
 	setCOName               coAWDSKanbei,ScriptAWDSKanbei
 	setCOpowerName          coAWDSKanbei,ScriptAWDSKanbei+1
