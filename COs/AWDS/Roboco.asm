@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSKindle
-	setCOGameID		coAWDSKindle,Game_AWDS
+	setCODefaults           coAWDSRoboco
+	setCOGameID		coAWDSRoboco,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKindle,GraphicsAWDSKindleGraphic
-	setCOGFXName            coAWDSKindle,GraphicsAWDSKindleName
-	setCOGFXPalette         coAWDSKindle,GraphicsAWDSKindlePalette
-	setCOGFXFace            coAWDSKindle,GraphicsAWDSKindleFace,GraphicsAWDSKindleHappyFace,GraphicsAWDSKindleSadFace
-	setCOGFXSmallFace       coAWDSKindle,GraphicsAWDSKindleMugshot
-	setCOGFXPowerAnim       coAWDSKindle,2,0
-	setCOGFXPowerSFX        coAWDSKindle,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSKindle,7,7
-	setCOGFXSuperSFX        coAWDSKindle,0x1F4,0x1f5
+	setCOGFXFullbody        coAWDSRoboco,GraphicsAWDSKindleGraphic
+	setCOGFXName            coAWDSRoboco,GraphicsAWDSKindleName
+	setCOGFXPalette         coAWDSRoboco,GraphicsAWDSKindlePalette
+	setCOGFXFace            coAWDSRoboco,GraphicsAWDSKindleFace,GraphicsAWDSKindleHappyFace,GraphicsAWDSKindleSadFace
+	setCOGFXSmallFace       coAWDSRoboco,GraphicsAWDSKindleMugshot
+	setCOGFXPowerAnim       coAWDSRoboco,2,0
+	setCOGFXPowerSFX        coAWDSRoboco,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSRoboco,7,7
+	setCOGFXSuperSFX        coAWDSRoboco,0x1F4,0x1f5
 	
 	setCOName               coAWDSKindle,ScriptAWDSKindle
 	setCOpowerName          coAWDSKindle,ScriptAWDSKindle+1
