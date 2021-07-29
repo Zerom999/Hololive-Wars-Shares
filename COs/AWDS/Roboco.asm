@@ -26,9 +26,9 @@
 	setCOPowerCost		coAWDSRoboco,3
 	setCOSuperCost		coAWDSRoboco,6
 	
-	setCOD2DTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostKindleDaytoDay
-	setCOPowerTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostKindlePower
-	setCOSuperTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostKindleSuper
+	setCOD2DTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoDaytoDay
+	setCOPowerTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoPower
+	setCOSuperTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoSuper
 
 	setCOPowerASM			coAWDSRoboco,COPowerUrbanBlight
 	setCOGFXSuperType		coAWDSRoboco,COPowerTypeHighSociety
