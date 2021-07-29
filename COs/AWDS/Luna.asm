@@ -18,20 +18,20 @@
 	setCOprofileText        coAWDSLuna,ScriptAWDSLuna+3,ScriptAWDSLuna+4,ScriptAWDSLuna+5,ScriptAWDSLuna+6
 	setCOvictoryText        coAWDSLuna,ScriptAWDSLuna+7
 
-	setCOFaction		coAWDSColin,ArmyBlueMoon
-	setCOMusic          	coAWDSColin,MusicColinTheme
+	setCOFaction		coAWDSLuna,ArmyBlueMoon
+	setCOMusic          	coAWDSLuna,MusicLunaTheme
 
-	setCOPowerCost          coAWDSColin,3
-	setCOSuperCost          coAWDSColin,6
+	setCOPowerCost          coAWDSLuna,3
+	setCOSuperCost          coAWDSLuna,6
 
-	setCOAllStat		coAWDSColin,-10,-10,0,0
-	setCOD2DPrice		coAWDSColin,-30
-	setCOPowerPrice		coAWDSColin,-30
-	setCOSuperPrice		coAWDSColin,-30
+	setCOAllStat		coAWDSLuna,-10,-10,0,0
+	setCOD2DPrice		coAWDSLuna,-30
+	setCOPowerPrice		coAWDSLuna,-30
+	setCOSuperPrice		coAWDSLuna,-30
 
-	setCOPowerASM		coAWDSColin,COPowerGoldRush
-	setCOGFXSuperType	coAWDSColin,COPowerTypePowerOfMoney
+	setCOPowerASM		coAWDSLuna,COPowerGoldRush
+	setCOGFXSuperType	coAWDSLuna,COPowerTypePowerOfMoney
 	
-	setCOAIPowerRange       coAWDSColin,25
-	setCOAIPowerTrigger     coAWDSColin,95
+	setCOAIPowerRange       coAWDSLuna,25
+	setCOAIPowerTrigger     coAWDSLuna,95
 ; blank line
