@@ -14,8 +14,8 @@
 	setCOName               coAWDSAyame,ScriptAWDSAyame
 	setCOpowerName          coAWDSAyame,ScriptAWDSAyame+1
 	setCOsuperName          coAWDSAyame,ScriptAWDSAyame+2
-	setCOpowerText          coAWDSAyame,ScriptAWDSAyame+8,ScriptAWDSKanbei+9,ScriptAWDSKanbei+10,ScriptAWDSKanbei+11,ScriptAWDSKanbei+12,ScriptAWDSKanbei+13
-	setCOprofileText        coAWDSAyame,ScriptAWDSAyame+3,ScriptAWDSKanbei+4,ScriptAWDSKanbei+5,ScriptAWDSKanbei+6
+	setCOpowerText          coAWDSAyame,ScriptAWDSAyame+8,ScriptAWDSAyame+9,ScriptAWDSAyame+10,ScriptAWDSAyame+11,ScriptAWDSAyame+12,ScriptAWDSAyame+13
+	setCOprofileText        coAWDSAyame,ScriptAWDSAyame+3,ScriptAWDSAyame+4,ScriptAWDSAyame+5,ScriptAWDSAyame+6
 	setCOvictoryText        coAWDSAyame,ScriptAWDSAyame+7
 
 	setCOFaction		coAWDSKanbei,ArmyYellowComet
