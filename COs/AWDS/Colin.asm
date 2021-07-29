@@ -24,10 +24,10 @@
 	setCOPowerCost          coAWDSColin,3
 	setCOSuperCost          coAWDSColin,6
 
-	setCOAllStat		coAWDSColin,-10,0,0,0
-	setCOD2DPrice		coAWDSColin,-20
-	setCOPowerPrice		coAWDSColin,-20
-	setCOSuperPrice		coAWDSColin,-20
+	setCOAllStat		coAWDSColin,-10,-10,0,0
+	setCOD2DPrice		coAWDSColin,-30
+	setCOPowerPrice		coAWDSColin,-30
+	setCOSuperPrice		coAWDSColin,-30
 
 	setCOPowerASM		coAWDSColin,COPowerGoldRush
 	setCOGFXSuperType	coAWDSColin,COPowerTypePowerOfMoney
