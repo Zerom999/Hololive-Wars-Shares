@@ -30,8 +30,8 @@
 	
 	setCOSuperAllStat	coAWDSKanbei,100,60,-1,0
 	
-		
-	
 	setCOAIPowerRange       coAWDSKanbei,25
 	setCOAIPowerTrigger     coAWDSKanbei,95
-; blank line
+; blank line	
+	
+	
