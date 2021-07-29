@@ -11,10 +11,10 @@
 	setCOGFXSuperAnim       coAWDSLuna,7,7
 	setCOGFXSuperSFX        coAWDSLuna,0x1f7,0x1f8
 	
-	setCOName               coAWDSColin,ScriptAWDSColin
-	setCOpowerName          coAWDSColin,ScriptAWDSColin+1
-	setCOsuperName          coAWDSColin,ScriptAWDSColin+2
-	setCOpowerText          coAWDSColin,ScriptAWDSColin+8,ScriptAWDSColin+9,ScriptAWDSColin+10,ScriptAWDSColin+11,ScriptAWDSColin+12,ScriptAWDSColin+13
+	setCOName               coAWDSLuna,ScriptAWDSLuna
+	setCOpowerName          coAWDSColin,ScriptAWDSLuna+1
+	setCOsuperName          coAWDSColin,ScriptAWDSLuna+2
+	setCOpowerText          coAWDSColin,ScriptAWDSLuna+8,ScriptAWDSColin+9,ScriptAWDSColin+10,ScriptAWDSColin+11,ScriptAWDSColin+12,ScriptAWDSColin+13
 	setCOprofileText        coAWDSColin,ScriptAWDSColin+3,ScriptAWDSColin+4,ScriptAWDSColin+5,ScriptAWDSColin+6
 	setCOvictoryText        coAWDSColin,ScriptAWDSColin+7
 
