@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSJavier
-	setCOGameID		coAWDSJavier,Game_AWDS
+	setCODefaults           coAWDSAZKi
+	setCOGameID		coAWDSAZKi,Game_AWDS
 
-	setCOGFXFullbody        coAWDSJavier,GraphicsAWDSJavierGraphic
-	setCOGFXName            coAWDSJavier,GraphicsAWDSJavierName
-	setCOGFXPalette         coAWDSJavier,GraphicsAWDSJavierPalette
-	setCOGFXFace            coAWDSJavier,GraphicsAWDSJavierFace,GraphicsAWDSJavierHappyFace,GraphicsAWDSJavierSadFace
-	setCOGFXSmallFace       coAWDSJavier,GraphicsAWDSJavierMugshot
-	setCOGFXPowerAnim       coAWDSJavier,3,1
-	setCOGFXPowerSFX        coAWDSJavier,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSJavier,7,7
-	setCOGFXSuperSFX        coAWDSJavier,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSAZKi,GraphicsAWDSJavierGraphic
+	setCOGFXName            coAWDSAZKi,GraphicsAWDSJavierName
+	setCOGFXPalette         coAWDSAZKi,GraphicsAWDSJavierPalette
+	setCOGFXFace            coAWDSAZKi,GraphicsAWDSJavierFace,GraphicsAWDSJavierHappyFace,GraphicsAWDSJavierSadFace
+	setCOGFXSmallFace       coAWDSAZKi,GraphicsAWDSJavierMugshot
+	setCOGFXPowerAnim       coAWDSAZKi,3,1
+	setCOGFXPowerSFX        coAWDSAZKi,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSAZKi,7,7
+	setCOGFXSuperSFX        coAWDSAZKi,0x1f7,0x1f8
 	
 	setCOName               coAWDSJavier,ScriptAWDSJavier
 	setCOpowerName          coAWDSJavier,ScriptAWDSJavier+1
