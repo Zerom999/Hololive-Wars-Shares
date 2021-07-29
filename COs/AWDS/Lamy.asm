@@ -14,12 +14,12 @@
 	setCOName               coAWDSLamy,ScriptAWDSLamy
 	setCOpowerName          coAWDSLamy,ScriptAWDSLamy+1
 	setCOsuperName          coAWDSLamy,ScriptAWDSLamy+2
-	setCOpowerText          coAWDSLamy,ScriptAWDSLamy+8,ScriptAWDSOlaf+9,ScriptAWDSOlaf+10,ScriptAWDSOlaf+11,ScriptAWDSOlaf+12,ScriptAWDSOlaf+13
-	setCOprofileText        coAWDSLamy,ScriptAWDSLamy+3,ScriptAWDSOlaf+4,ScriptAWDSOlaf+5,ScriptAWDSOlaf+6
+	setCOpowerText          coAWDSLamy,ScriptAWDSLamy+8,ScriptAWDSLamy+9,ScriptAWDSLamy+10,ScriptAWDSLamy+11,ScriptAWDSLamy+12,ScriptAWDSLamy+13
+	setCOprofileText        coAWDSLamy,ScriptAWDSLamy+3,ScriptAWDSLamy+4,ScriptAWDSLamy+5,ScriptAWDSLamy+6
 	setCOvictoryText        coAWDSLamy,ScriptAWDSLamy+7
 
-	setCOFaction		coAWDSOlaf,ArmyBlueMoon
-	setCOMusic          	coAWDSOlaf,MusicOlafTheme
+	setCOFaction		coAWDSLamy,ArmyBlueMoon
+	setCOMusic          	coAWDSLamy,MusicLamyTheme
 
 	setCOPowerCost          coAWDSOlaf,4
 	setCOSuperCost          coAWDSOlaf,8
