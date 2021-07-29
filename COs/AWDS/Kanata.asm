@@ -7,9 +7,9 @@
 	setCOGFXFace            coAWDSKanata,GraphicsAWDSKanataFace,GraphicsAWDSKanataHappyFace,GraphicsAWDSKanataSadFace
 	setCOGFXSmallFace       coAWDSKanata,GraphicsAWDSKanataMugshot
 	setCOGFXPowerAnim       coAWDSKanata,5,0
-	setCOGFXPowerSFX        coAWDSAndy,0xb4,0xb5
-	setCOGFXSuperAnim       coAWDSAndy,7,7
-	setCOGFXSuperSFX        coAWDSAndy,0x1f7,0x1f8
+	setCOGFXPowerSFX        coAWDSKanata,0xb4,0xb5
+	setCOGFXSuperAnim       coAWDSKanata,7,7
+	setCOGFXSuperSFX        coAWDSKanata,0x1f7,0x1f8
 	
 	setCOName               coAWDSKanata,ScriptAWDSKanata
 	setCOpowerName          coAWDSKanata,ScriptAWDSKanata+1
@@ -21,16 +21,16 @@
 	setCOFaction		coAWDSKanata,ArmyOrangeStar
 	setCOMusic          	coAWDSKanata,MusicKanataTheme
 
-	setCOPowerCost          coAWDSAndy,3
-	setCOSuperCost          coAWDSAndy,6
+	setCOPowerCost          coAWDSKanata,3
+	setCOSuperCost          coAWDSKanata,6
 
-	setCOSuperAllStat	coAWDSAndy,30,10,1,0
+	setCOSuperAllStat	coAWDSKanata,30,10,1,0
 
-	setCOGFXPowerFX         coAWDSandy,COPEffectHealThreeHP
-	setCOGFXSuperFX         coAWDSandy,COPEffectHealSixHP
+	setCOGFXPowerFX         coAWDSkanata,COPEffectHealThreeHP
+	setCOGFXSuperFX         coAWDSkanata,COPEffectHealSixHP
 	
-	setCOAIPowerRange       coAWDSAndy,25
-	setCOAIPowerTrigger     coAWDSAndy,95
-	setCOAIPowerTriggerASM  coAWDSandy,AIActivateIfInjured
+	setCOAIPowerRange       coAWDSKanata,25
+	setCOAIPowerTrigger     coAWDSKanata,95
+	setCOAIPowerTriggerASM  coAWDSkanata,AIActivateIfInjured
 
 ; blank line
