@@ -32,7 +32,7 @@
 	setCOPowerNavyStat	coAWDSJess,10,50,2,0
 	setCOPowerAirStat	coAWDSJess,-10,0,0,0
 
-	setCOSuperLandStat	coAWDSJess,60,0,2,0
+	setCOSuperLandStat	coAWDSJess,0,0,0,0
 	setCOSuperAirStat	coAWDSJess,-10,0,0,0
 	setCOSuperNavyStat	coAWDSJess,20,70,3,0
 
