@@ -28,13 +28,13 @@
 	setCOD2DNavyStat	coAWDSJess,0,30,1,0
 	setCOD2DAirStat		coAWDSJess,-20,0,0,0
 
-	setCOPowerLandStat	coAWDSJess,40,0,1,0
-	setCOPowerNavyStat	coAWDSJess,-10,0,0,0
+	setCOPowerLandStat	coAWDSJess,0,0,0,0
+	setCOPowerNavyStat	coAWDSJess,10,50,2,0
 	setCOPowerAirStat	coAWDSJess,-10,0,0,0
 
 	setCOSuperLandStat	coAWDSJess,60,0,2,0
 	setCOSuperAirStat	coAWDSJess,-10,0,0,0
-	setCOSuperNavyStat	coAWDSJess,-10,0,0,0
+	setCOSuperNavyStat	coAWDSJess,20,70,3,0
 
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
