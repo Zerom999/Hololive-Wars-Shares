@@ -1,10 +1,10 @@
 	setCODefaults           coAWDSLuna
 	setCOGameID		coAWDSLuna,Game_AWDS
 
-	setCOGFXFullbody        coAWDSLuna,GraphicsAWDSColinGraphic
-	setCOGFXName            coAWDSLuna,GraphicsAWDSColinName
-	setCOGFXPalette         coAWDSLuna,GraphicsAWDSColinPalette
-	setCOGFXFace            coAWDSLuna,GraphicsAWDSLunaFace,GraphicsAWDSColinHappyFace,GraphicsAWDSColinSadFace
+	setCOGFXFullbody        coAWDSLuna,GraphicsAWDSLunaGraphic
+	setCOGFXName            coAWDSLuna,GraphicsAWDSLunaName
+	setCOGFXPalette         coAWDSLuna,GraphicsAWDSLunaPalette
+	setCOGFXFace            coAWDSLuna,GraphicsAWDSLunaFace,GraphicsAWDSLunaHappyFace,GraphicsAWDSLunaSadFace
 	setCOGFXSmallFace       coAWDSLuna,GraphicsAWDSLunaMugshot
 	setCOGFXPowerAnim       coAWDSLuna,1,0
 	setCOGFXPowerSFX        coAWDSLuna,0x1f6,0x1f6
