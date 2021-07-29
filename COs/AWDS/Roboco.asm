@@ -11,20 +11,20 @@
 	setCOGFXSuperAnim       coAWDSRoboco,7,7
 	setCOGFXSuperSFX        coAWDSRoboco,0x1F4,0x1f5
 	
-	setCOName               coAWDSRoboco,ScriptAWDSKindle
-	setCOpowerName          coAWDSRoboco,ScriptAWDSKindle+1
-	setCOsuperName          coAWDSRoboco,ScriptAWDSKindle+2
-	setCOpowerText          coAWDSRoboco,ScriptAWDSKindle+8,ScriptAWDSKindle+9,ScriptAWDSKindle+10,ScriptAWDSKindle+11,ScriptAWDSKindle+12,ScriptAWDSKindle+13
-	setCOprofileText        coAWDSRoboco,ScriptAWDSKindle+3,ScriptAWDSKindle+4,ScriptAWDSKindle+5,ScriptAWDSKindle+6
-	setCOvictoryText        coAWDSRoboco,ScriptAWDSKindle+7
+	setCOName               coAWDSRoboco,ScriptAWDSRoboco
+	setCOpowerName          coAWDSRoboco,ScriptAWDSRoboco+1
+	setCOsuperName          coAWDSRoboco,ScriptAWDSRoboco+2
+	setCOpowerText          coAWDSRoboco,ScriptAWDSRoboco+8,ScriptAWDSRoboco+9,ScriptAWDSRoboco+10,ScriptAWDSRoboco+11,ScriptAWDSRoboco+12,ScriptAWDSRoboco+13
+	setCOprofileText        coAWDSRoboco,ScriptAWDSRoboco+3,ScriptAWDSRoboco+4,ScriptAWDSRoboco+5,ScriptAWDSRoboco+6
+	setCOvictoryText        coAWDSRoboco,ScriptAWDSRoboco+7
 
 	setCOFaction		coAWDSRoboco,ArmyBlackHole
 	setCOMusic          	coAWDSRoboco,MusicBlackHole
 	setCOPowerMusic		coAWDSRoboco,MusicBlackPower
 	setCOSuperMusic		coAWDSRoboco,MusicBlackSuper
 
-	setCOPowerCost		coAWDSKindle,3
-	setCOSuperCost		coAWDSKindle,6
+	setCOPowerCost		coAWDSRoboco,3
+	setCOSuperCost		coAWDSRoboco,6
 	
 	setCOD2DTerrainFirepowerList	coAWDSKindle,TerrainFirepowerBoostKindleDaytoDay
 	setCOPowerTerrainFirepowerList	coAWDSKindle,TerrainFirepowerBoostKindlePower
