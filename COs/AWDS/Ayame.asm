@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSAyame,7,7
 	setCOGFXSuperSFX        coAWDSAyame,0x1f7,0x1f8
 	
-	setCOName               coAWDSKanbei,ScriptAWDSKanbei
-	setCOpowerName          coAWDSKanbei,ScriptAWDSKanbei+1
-	setCOsuperName          coAWDSKanbei,ScriptAWDSKanbei+2
-	setCOpowerText          coAWDSKanbei,ScriptAWDSKanbei+8,ScriptAWDSKanbei+9,ScriptAWDSKanbei+10,ScriptAWDSKanbei+11,ScriptAWDSKanbei+12,ScriptAWDSKanbei+13
-	setCOprofileText        coAWDSKanbei,ScriptAWDSKanbei+3,ScriptAWDSKanbei+4,ScriptAWDSKanbei+5,ScriptAWDSKanbei+6
-	setCOvictoryText        coAWDSKanbei,ScriptAWDSKanbei+7
+	setCOName               coAWDSAyame,ScriptAWDSAyame
+	setCOpowerName          coAWDSAyame,ScriptAWDSAyame+1
+	setCOsuperName          coAWDSAyame,ScriptAWDSAyame+2
+	setCOpowerText          coAWDSAyame,ScriptAWDSAyame+8,ScriptAWDSKanbei+9,ScriptAWDSKanbei+10,ScriptAWDSKanbei+11,ScriptAWDSKanbei+12,ScriptAWDSKanbei+13
+	setCOprofileText        coAWDSAyame,ScriptAWDSAyame+3,ScriptAWDSKanbei+4,ScriptAWDSKanbei+5,ScriptAWDSKanbei+6
+	setCOvictoryText        coAWDSAyame,ScriptAWDSAyame+7
 
 	setCOFaction		coAWDSKanbei,ArmyYellowComet
 	setCOMusic          	coAWDSKanbei,MusicKanbeiTheme
