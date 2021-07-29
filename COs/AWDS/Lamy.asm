@@ -24,9 +24,9 @@
 	setCOPowerCost          coAWDSOlaf,4
 	setCOSuperCost          coAWDSOlaf,8
 
-	setCOD2DSnowFirepower	coAWDSOlaf,40
-	setCOPowerSnowFirepower	coAWDSOlaf,40
-	setCOSuperSnowFirepower	coAWDSOlaf,40
+	setCOD2DSnowFirepower	coAWDSOlaf,10,30,0,0
+	setCOPowerSnowFirepower	coAWDSOlaf,10,30,0,0
+	setCOSuperSnowFirepower	coAWDSOlaf,10,30,0,0
 
 	setCOPowerASM		coAWDSOlaf,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSOlaf,COPowerExtendedWinterFury
