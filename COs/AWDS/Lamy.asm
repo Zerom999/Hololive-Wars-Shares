@@ -1,11 +1,11 @@
-	setCODefaults           coAWDSOlaf
-	setCOGameID		coAWDSOlaf,Game_AWDS
+	setCODefaults           coAWDSLamy
+	setCOGameID		coAWDSLamy,Game_AWDS
 
-	setCOGFXFullbody        coAWDSOlaf,GraphicsAWDSOlafGraphic
-	setCOGFXName            coAWDSOlaf,GraphicsAWDSOlafName
-	setCOGFXPalette         coAWDSOlaf,GraphicsAWDSOlafPalette
-	setCOGFXFace            coAWDSOlaf,GraphicsAWDSOlafFace,GraphicsAWDSOlafHappyFace,GraphicsAWDSOlafSadFace
-	setCOGFXSmallFace       coAWDSOlaf,GraphicsAWDSOlafMugshot
+	setCOGFXFullbody        coAWDSLamy,GraphicsAWDSLamyGraphic
+	setCOGFXName            coAWDSLamy,GraphicsAWDSLamyName
+	setCOGFXPalette         coAWDSLamy,GraphicsAWDSOlafPalette
+	setCOGFXFace            coAWDSLamy,GraphicsAWDSLamyFace,GraphicsAWDSLamyHappyFace,GraphicsAWDSLamySadFace
+	setCOGFXSmallFace       coAWDSOlaf,GraphicsAWDSLamyMugshot
 	setCOGFXPowerAnim       coAWDSOlaf,0,0
 	setCOGFXPowerSFX        coAWDSOlaf,0xC3,0
 	setCOGFXSuperAnim       coAWDSOlaf,7,7
