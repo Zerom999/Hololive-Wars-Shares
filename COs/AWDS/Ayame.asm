@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSKanbei
-	setCOGameID		coAWDSKanbei,Game_AWDS
+	setCODefaults           coAWDSAyame
+	setCOGameID		coAWDSAyame,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKanbei,GraphicsAWDSKanbeiGraphic
-	setCOGFXName            coAWDSKanbei,GraphicsAWDSKanbeiName
-	setCOGFXPalette         coAWDSKanbei,GraphicsAWDSKanbeiPalette
-	setCOGFXFace            coAWDSKanbei,GraphicsAWDSKanbeiFace,GraphicsAWDSKanbeiHappyFace,GraphicsAWDSKanbeiSadFace
-	setCOGFXSmallFace       coAWDSKanbei,GraphicsAWDSKanbeiMugshot
-	setCOGFXPowerAnim       coAWDSKanbei,0,0
-	setCOGFXPowerSFX        coAWDSKanbei,0xab,0xac
-	setCOGFXSuperAnim       coAWDSKanbei,7,7
-	setCOGFXSuperSFX        coAWDSKanbei,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSAyame,GraphicsAWDSAyameGraphic
+	setCOGFXName            coAWDSAyame,GraphicsAWDSAyameName
+	setCOGFXPalette         coAWDSAyame,GraphicsAWDSAyamePalette
+	setCOGFXFace            coAWDSAyame,GraphicsAWDSAyameFace,GraphicsAWDSAyameHappyFace,GraphicsAWDSAyameSadFace
+	setCOGFXSmallFace       coAWDSAyame,GraphicsAWDSAyameMugshot
+	setCOGFXPowerAnim       coAWDSAyame,0,0
+	setCOGFXPowerSFX        coAWDSAyame,0xab,0xac
+	setCOGFXSuperAnim       coAWDSAyame,7,7
+	setCOGFXSuperSFX        coAWDSAyame,0x1f7,0x1f8
 	
 	setCOName               coAWDSKanbei,ScriptAWDSKanbei
 	setCOpowerName          coAWDSKanbei,ScriptAWDSKanbei+1
