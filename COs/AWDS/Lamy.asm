@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSLamy,7,7
 	setCOGFXSuperSFX        coAWDSLamy,0x1f7,0x1f8
 	
-	setCOName               coAWDSOlaf,ScriptAWDSOlaf
-	setCOpowerName          coAWDSOlaf,ScriptAWDSOlaf+1
-	setCOsuperName          coAWDSOlaf,ScriptAWDSOlaf+2
-	setCOpowerText          coAWDSOlaf,ScriptAWDSOlaf+8,ScriptAWDSOlaf+9,ScriptAWDSOlaf+10,ScriptAWDSOlaf+11,ScriptAWDSOlaf+12,ScriptAWDSOlaf+13
-	setCOprofileText        coAWDSOlaf,ScriptAWDSOlaf+3,ScriptAWDSOlaf+4,ScriptAWDSOlaf+5,ScriptAWDSOlaf+6
-	setCOvictoryText        coAWDSOlaf,ScriptAWDSOlaf+7
+	setCOName               coAWDSLamy,ScriptAWDSLamy
+	setCOpowerName          coAWDSLamy,ScriptAWDSLamy+1
+	setCOsuperName          coAWDSLamy,ScriptAWDSLamy+2
+	setCOpowerText          coAWDSLamy,ScriptAWDSLamy+8,ScriptAWDSOlaf+9,ScriptAWDSOlaf+10,ScriptAWDSOlaf+11,ScriptAWDSOlaf+12,ScriptAWDSOlaf+13
+	setCOprofileText        coAWDSLamy,ScriptAWDSLamy+3,ScriptAWDSOlaf+4,ScriptAWDSOlaf+5,ScriptAWDSOlaf+6
+	setCOvictoryText        coAWDSLamy,ScriptAWDSLamy+7
 
 	setCOFaction		coAWDSOlaf,ArmyBlueMoon
 	setCOMusic          	coAWDSOlaf,MusicOlafTheme
