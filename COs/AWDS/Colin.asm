@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSColin
-	setCOGameID		coAWDSColin,Game_AWDS
+	setCODefaults           coAWDSLuna
+	setCOGameID		coAWDSLuna,Game_AWDS
 
-	setCOGFXFullbody        coAWDSColin,GraphicsAWDSColinGraphic
-	setCOGFXName            coAWDSColin,GraphicsAWDSColinName
-	setCOGFXPalette         coAWDSColin,GraphicsAWDSColinPalette
-	setCOGFXFace            coAWDSColin,GraphicsAWDSColinFace,GraphicsAWDSColinHappyFace,GraphicsAWDSColinSadFace
-	setCOGFXSmallFace       coAWDSColin,GraphicsAWDSColinMugshot
-	setCOGFXPowerAnim       coAWDSColin,1,0
-	setCOGFXPowerSFX        coAWDSColin,0x1f6,0x1f6
-	setCOGFXSuperAnim       coAWDSColin,7,7
-	setCOGFXSuperSFX        coAWDSColin,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSLuna,GraphicsAWDSColinGraphic
+	setCOGFXName            coAWDSLuna,GraphicsAWDSColinName
+	setCOGFXPalette         coAWDSLuna,GraphicsAWDSColinPalette
+	setCOGFXFace            coAWDSLuna,GraphicsAWDSLunaFace,GraphicsAWDSColinHappyFace,GraphicsAWDSColinSadFace
+	setCOGFXSmallFace       coAWDSLuna,GraphicsAWDSLunaMugshot
+	setCOGFXPowerAnim       coAWDSLuna,1,0
+	setCOGFXPowerSFX        coAWDSLuna,0x1f6,0x1f6
+	setCOGFXSuperAnim       coAWDSLuna,7,7
+	setCOGFXSuperSFX        coAWDSLuna,0x1f7,0x1f8
 	
 	setCOName               coAWDSColin,ScriptAWDSColin
 	setCOpowerName          coAWDSColin,ScriptAWDSColin+1
