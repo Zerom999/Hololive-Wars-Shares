@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSWatame,7,7
 	setCOGFXSuperSFX        coAWDSWatame,0x1f7,0x1f8
 	
-	setCOName               coAWDSJake,ScriptAWDSJake
-	setCOpowerName          coAWDSJake,ScriptAWDSJake+1
-	setCOsuperName          coAWDSJake,ScriptAWDSJake+2
-	setCOpowerText          coAWDSJake,ScriptAWDSJake+8,ScriptAWDSJake+9,ScriptAWDSJake+10,ScriptAWDSJake+11,ScriptAWDSJake+12,ScriptAWDSJake+13
-	setCOprofileText        coAWDSJake,ScriptAWDSJake+3,ScriptAWDSJake+4,ScriptAWDSJake+5,ScriptAWDSJake+6
-	setCOvictoryText        coAWDSJake,ScriptAWDSJake+7
+	setCOName               coAWDSWatame,ScriptAWDSWatame
+	setCOpowerName          coAWDSWatame,ScriptAWDSWatame+1
+	setCOsuperName          coAWDSWatame,ScriptAWDSWatame+2
+	setCOpowerText          coAWDSWatame,ScriptAWDSWatame+8,ScriptAWDSWatame+9,ScriptAWDSWatame+10,ScriptAWDSWatame+11,ScriptAWDSWatame+12,ScriptAWDSWatame+13
+	setCOprofileText        coAWDSWatame,ScriptAWDSWatame+3,ScriptAWDSWatame+4,ScriptAWDSWatame+5,ScriptAWDSWatame+6
+	setCOvictoryText        coAWDSWatame,ScriptAWDSWatame+7
 
 	setCOFaction		coAWDSJake,ArmyOrangeStar
 	setCOMusic          	coAWDSJake,MusicOrangeStar
