@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSJake
-	setCOGameID		coAWDSJake,Game_AWDS
+	setCODefaults           coAWDSWatame
+	setCOGameID		coAWDSWatame,Game_AWDS
 
-	setCOGFXFullbody        coAWDSJake,GraphicsAWDSJakeGraphic
-	setCOGFXName            coAWDSJake,GraphicsAWDSJakeName
-	setCOGFXPalette         coAWDSJake,GraphicsAWDSJakePalette
-	setCOGFXFace            coAWDSJake,GraphicsAWDSJakeFace,GraphicsAWDSJakeHappyFace,GraphicsAWDSJakeSadFace
-	setCOGFXSmallFace       coAWDSJake,GraphicsAWDSJakeMugshot
-	setCOGFXPowerAnim       coAWDSJake,2,0
-	setCOGFXPowerSFX        coAWDSJake,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSJake,7,7
-	setCOGFXSuperSFX        coAWDSJake,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSWatame,GraphicsAWDSWatameGraphic
+	setCOGFXName            coAWDSWatame,GraphicsAWDSWatameName
+	setCOGFXPalette         coAWDSWatame,GraphicsAWDSWatamePalette
+	setCOGFXFace            coAWDSWatame,GraphicsAWDSWatameFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
+	setCOGFXSmallFace       coAWDSWatamw,GraphicsAWDSWatameMugshot
+	setCOGFXPowerAnim       coAWDSWatame,2,0
+	setCOGFXPowerSFX        coAWDSWatame,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSWatame,7,7
+	setCOGFXSuperSFX        coAWDSWatame,0x1f7,0x1f8
 	
 	setCOName               coAWDSJake,ScriptAWDSJake
 	setCOpowerName          coAWDSJake,ScriptAWDSJake+1
