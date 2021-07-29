@@ -1,12 +1,12 @@
 	setCODefaults           coAWDSKanata
-	setCOGameID		coAWDSAndy,Game_AWDS
+	setCOGameID		coAWDSKanata,Game_AWDS
 
-	setCOGFXFullbody        coAWDSAndy,GraphicsAWDSAndyGraphic
-	setCOGFXName            coAWDSAndy,GraphicsAWDSAndyName
-	setCOGFXPalette         coAWDSAndy,GraphicsAWDSAndyPalette
-	setCOGFXFace            coAWDSAndy,GraphicsAWDSAndyFace,GraphicsAWDSAndyHappyFace,GraphicsAWDSAndySadFace
-	setCOGFXSmallFace       coAWDSAndy,GraphicsAWDSAndyMugshot
-	setCOGFXPowerAnim       coAWDSAndy,5,0
+	setCOGFXFullbody        coAWDSKanata,GraphicsAWDSAndyGraphic
+	setCOGFXName            coAWDSKanata,GraphicsAWDSAndyName
+	setCOGFXPalette         coAWDSKanata,GraphicsAWDSAndyPalette
+	setCOGFXFace            coAWDSKanata,GraphicsAWDSAndyFace,GraphicsAWDSAndyHappyFace,GraphicsAWDSAndySadFace
+	setCOGFXSmallFace       coAWDSKanata,GraphicsAWDSAndyMugshot
+	setCOGFXPowerAnim       coAWDSKanata,5,0
 	setCOGFXPowerSFX        coAWDSAndy,0xb4,0xb5
 	setCOGFXSuperAnim       coAWDSAndy,7,7
 	setCOGFXSuperSFX        coAWDSAndy,0x1f7,0x1f8
