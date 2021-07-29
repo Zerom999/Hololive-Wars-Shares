@@ -27,9 +27,9 @@
 	setCOD2DAllStat		coAWDSKanbei,30,20,0,0
 	setCOD2DPrice		coAWDSKanbei,30
 	setCOPowerAllStat	coAWDSKanbei,60,40,0,0
-	setCOPowerPrice		coAWDSKanbei,20
+	setCOPowerPrice		coAWDSKanbei,30
 	setCOSuperAllStat	coAWDSKanbei,90,60,0,0
-	setCOSuperPrice		coAWDSKanbei,20
+	setCOSuperPrice		coAWDSKanbei,30
 	setCOSuperCounter	coAWDSKanbei,100
 	
 	setCOAIPowerRange       coAWDSKanbei,25
