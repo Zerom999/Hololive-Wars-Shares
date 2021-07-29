@@ -1,22 +1,22 @@
-        setCODefaults           coAWDSOlaf
-	setCOGameID		coAWDSOlaf,Game_AWDS
+        setCODefaults           coAWDSFubuki
+	setCOGameID		coAWDSFubuki,Game_AWDS
 
-	setCOGFXFullbody        coAWDSOlaf,GraphicsAWDSOlafGraphic
-	setCOGFXName            coAWDSOlaf,GraphicsAWDSOlafName
-	setCOGFXPalette         coAWDSOlaf,GraphicsAWDSOlafPalette
-	setCOGFXFace            coAWDSOlaf,GraphicsAWDSOlafFace,GraphicsAWDSOlafHappyFace,GraphicsAWDSOlafSadFace
-	setCOGFXSmallFace       coAWDSOlaf,GraphicsAWDSOlafMugshot
-	setCOGFXPowerAnim       coAWDSOlaf,0,0
-	setCOGFXPowerSFX        coAWDSOlaf,0xC3,0
-	setCOGFXSuperAnim       coAWDSOlaf,7,7
-	setCOGFXSuperSFX        coAWDSOlaf,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSFubuki,GraphicsAWDSFubukiGraphic
+	setCOGFXName            coAWDSFubuki,GraphicsAWDSFubukiName
+	setCOGFXPalette         coAWDSFubuki,GraphicsAWDSOlafPalette
+	setCOGFXFace            coAWDSFubuki,GraphicsAWDSOlafFace,GraphicsAWDSOlafHappyFace,GraphicsAWDSOlafSadFace
+	setCOGFXSmallFace       coAWDSFubuki,GraphicsAWDSOlafMugshot
+	setCOGFXPowerAnim       coAWDSFubuki,0,0
+	setCOGFXPowerSFX        coAWDSFubuki,0xC3,0
+	setCOGFXSuperAnim       coAWDSFubuki,7,7
+	setCOGFXSuperSFX        coAWDSFubuki,0x1f7,0x1f8
 	
-	setCOName               coAWDSOlaf,ScriptAWDSOlaf
-	setCOpowerName          coAWDSOlaf,ScriptAWDSOlaf+1
-	setCOsuperName          coAWDSOlaf,ScriptAWDSOlaf+2
-	setCOpowerText          coAWDSOlaf,ScriptAWDSOlaf+8,ScriptAWDSOlaf+9,ScriptAWDSOlaf+10,ScriptAWDSOlaf+11,ScriptAWDSOlaf+12,ScriptAWDSOlaf+13
-	setCOprofileText        coAWDSOlaf,ScriptAWDSOlaf+3,ScriptAWDSOlaf+4,ScriptAWDSOlaf+5,ScriptAWDSOlaf+6
-	setCOvictoryText        coAWDSOlaf,ScriptAWDSOlaf+7
+	setCOName               coAWDSFubuki,ScriptAWDSFubuki
+	setCOpowerName          coAWDSFubuki,ScriptAWDSFubuki+1
+	setCOsuperName          coAWDSFubuki,ScriptAWDSFubuki+2
+	setCOpowerText          coAWDSFubuki,ScriptAWDSFubuki+8,ScriptAWDSOlaf+9,ScriptAWDSOlaf+10,ScriptAWDSOlaf+11,ScriptAWDSOlaf+12,ScriptAWDSOlaf+13
+	setCOprofileText        coAWDSFubuki,ScriptAWDSFubuki+3,ScriptAWDSOlaf+4,ScriptAWDSOlaf+5,ScriptAWDSOlaf+6
+	setCOvictoryText        coAWDSFubuki,ScriptAWDSFubuki+7
 
 	setCOFaction		coAWDSOlaf,ArmyBlueMoon
 	setCOMusic          	coAWDSOlaf,MusicOlafTheme
