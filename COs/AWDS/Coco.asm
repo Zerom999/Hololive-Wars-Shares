@@ -24,17 +24,17 @@
 	setCOPowerCost          coAWDSJess,5
 	setCOSuperCost          coAWDSJess,10
 	
-	setCOD2DLandStat	coAWDSJess,20,0,0,0
-	setCOD2DNavyStat	coAWDSJess,0,0,0,0
-	setCOD2DAirStat		coAWDSJess,0,0,0,0
+	setCOD2DLandStat	coAWDSJess,0,0,0,0
+	setCOD2DNavyStat	coAWDSJess,-50,0,0,0
+	setCOD2DAirStat		coAWDSJess,30,30,0,0
 
 	setCOPowerLandStat	coAWDSJess,0,0,1,0
-	setCOPowerNavyStat	coAWDSJess,0,0,0,0
-	setCOPowerAirStat	coAWDSJess,0,0,0,0
+	setCOPowerNavyStat	coAWDSJess,-40,0,0,0
+	setCOPowerAirStat	coAWDSJess,60,60,0,0
 
-	setCOSuperLandStat	coAWDSJess,60,0,2,0
-	setCOSuperAirStat	coAWDSJess,-10,0,0,0
-	setCOSuperNavyStat	coAWDSJess,-10,0,0,0
+	setCOSuperLandStat	coAWDSJess,0,0,2,0
+	setCOSuperAirStat	coAWDSJess,90,90,0,0
+	setCOSuperNavyStat	coAWDSJess,-40,0,0,0
 
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
