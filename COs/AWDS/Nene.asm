@@ -7,16 +7,16 @@
 	setCOGFXFace            coAWDSNene,GraphicsAWDSNeneFace,GraphicsAWDSNeneHappyFace,GraphicsAWDSNeneSadFace
 	setCOGFXSmallFace       coAWDSNene,GraphicsAWDSNeneMugshot
 	setCOGFXPowerAnim       coAWDSNene,2,0
-	setCOGFXPowerSFX        coAWDSRachel,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSRachel,7,7
-	setCOGFXSuperSFX        coAWDSRachel,0x1c6,0
+	setCOGFXPowerSFX        coAWDSNene,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSNene,7,7
+	setCOGFXSuperSFX        coAWDSNene,0x1c6,0
 	
-	setCOName               coAWDSRachel,ScriptAWDSRachel
-	setCOpowerName          coAWDSRachel,ScriptAWDSRachel+1
-	setCOsuperName          coAWDSRachel,ScriptAWDSRachel+2
-	setCOpowerText          coAWDSRachel,ScriptAWDSRachel+8,ScriptAWDSRachel+9,ScriptAWDSRachel+10,ScriptAWDSRachel+11,ScriptAWDSRachel+12,ScriptAWDSRachel+13
-	setCOprofileText        coAWDSRachel,ScriptAWDSRachel+3,ScriptAWDSRachel+4,ScriptAWDSRachel+5,ScriptAWDSRachel+6
-	setCOvictoryText        coAWDSRachel,ScriptAWDSRachel+7
+	setCOName               coAWDSNene,ScriptAWDSNene
+	setCOpowerName          coAWDSNene,ScriptAWDSNene+1
+	setCOsuperName          coAWDSNene,ScriptAWDSNene+2
+	setCOpowerText          coAWDSNene,ScriptAWDSNene+8,ScriptAWDSRachel+9,ScriptAWDSRachel+10,ScriptAWDSRachel+11,ScriptAWDSRachel+12,ScriptAWDSRachel+13
+	setCOprofileText        coAWDSNene,ScriptAWDSNene+3,ScriptAWDSRachel+4,ScriptAWDSRachel+5,ScriptAWDSRachel+6
+	setCOvictoryText        coAWDSNene,ScriptAWDSNene+7
 
 	setCOFaction		coAWDSRachel,ArmyOrangeStar
 	setCOMusic          	coAWDSRachel,MusicOrangeStar
