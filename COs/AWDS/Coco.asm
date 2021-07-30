@@ -28,17 +28,17 @@
 	setCOD2DNavyStat	coAWDSCoco,-50,0,0,0
 	setCOD2DAirStat		coAWDSCoco,30,30,0,0
 
-	setCOPowerLandStat	coAWDSJess,0,0,1,0
-	setCOPowerNavyStat	coAWDSJess,-40,0,0,0
-	setCOPowerAirStat	coAWDSJess,60,60,0,0
+	setCOPowerLandStat	coAWDSCoco,0,0,1,0
+	setCOPowerNavyStat	coAWDSCoco,-40,0,0,0
+	setCOPowerAirStat	coAWDSCoco,60,60,0,0
 
-	setCOSuperLandStat	coAWDSJess,0,0,2,0
-	setCOSuperAirStat	coAWDSJess,90,90,0,0
-	setCOSuperNavyStat	coAWDSJess,-40,0,0,0
+	setCOSuperLandStat	coAWDSCoco,0,0,2,0
+	setCOSuperAirStat	coAWDSCoco,90,90,0,0
+	setCOSuperNavyStat	coAWDSCoco,-40,0,0,0
 
-	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
-	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
+	setCOGFXPowerFX		coAWDSCoco,COPEffectResupplyUnit
+	setCOGFXSuperFX		coAWDSCoco,COPEffectResupplyUnit
 
-	setCOAIPowerRange       coAWDSJess,25
-	setCOAIPowerTrigger     coAWDSJess,95
+	setCOAIPowerRange       coAWDSCoco,25
+	setCOAIPowerTrigger     coAWDSCoco,95
 ; blank line
