@@ -1,5 +1,5 @@
-	setCODefaults           coAWDSRachel
-	setCOGameID		coAWDSRachel,Game_AWDS
+	setCODefaults           coAWDSNene
+	setCOGameID		coAWDSNene,Game_AWDS
 
 	setCOGFXFullbody        coAWDSRachel,GraphicsAWDSRachelGraphic
 	setCOGFXName            coAWDSRachel,GraphicsAWDSRachelName
