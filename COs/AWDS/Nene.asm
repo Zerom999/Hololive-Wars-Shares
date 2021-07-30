@@ -14,22 +14,22 @@
 	setCOName               coAWDSNene,ScriptAWDSNene
 	setCOpowerName          coAWDSNene,ScriptAWDSNene+1
 	setCOsuperName          coAWDSNene,ScriptAWDSNene+2
-	setCOpowerText          coAWDSNene,ScriptAWDSNene+8,ScriptAWDSRachel+9,ScriptAWDSRachel+10,ScriptAWDSRachel+11,ScriptAWDSRachel+12,ScriptAWDSRachel+13
-	setCOprofileText        coAWDSNene,ScriptAWDSNene+3,ScriptAWDSRachel+4,ScriptAWDSRachel+5,ScriptAWDSRachel+6
+	setCOpowerText          coAWDSNene,ScriptAWDSNene+8,ScriptAWDSNene+9,ScriptAWDSNene+10,ScriptAWDSNene+11,ScriptAWDSNene+12,ScriptAWDSNene+13
+	setCOprofileText        coAWDSNene,ScriptAWDSNene+3,ScriptAWDSNene+4,ScriptAWDSNene+5,ScriptAWDSNene+6
 	setCOvictoryText        coAWDSNene,ScriptAWDSNene+7
 
-	setCOFaction		coAWDSRachel,ArmyOrangeStar
-	setCOMusic          	coAWDSRachel,MusicOrangeStar
+	setCOFaction		coAWDSNene,ArmyOrangeStar
+	setCOMusic          	coAWDSNene,MusicOrangeStar
 
-	setCOPowerCost          coAWDSRachel,4
-	setCOSuperCost          coAWDSRachel,8
+	setCOPowerCost          coAWDSNene,4
+	setCOSuperCost          coAWDSNene,8
 
-	setCOd2dRepair		coAWDSRachel,1
-	setCOPowerLuck		coAWDSRachel,40	
-	setCOPowerRepair	coAWDSRachel,1
-	setCOSuperRepair	coAWDSRachel,1
-	setCOSuperASM		coAWDSRachel,COPowerCoveringFire
+	setCOd2dRepair		coAWDSNene,1
+	setCOPowerLuck		coAWDSNene,40	
+	setCOPowerRepair	coAWDSNene,1
+	setCOSuperRepair	coAWDSNene,1
+	setCOSuperASM		coAWDSNene,COPowerCoveringFire
 	
-	setCOAIPowerRange       coAWDSRachel,15
-	setCOAIPowerTrigger     coAWDSRachel,70
+	setCOAIPowerRange       coAWDSNene,15
+	setCOAIPowerTrigger     coAWDSNene,70
 ; blank line
