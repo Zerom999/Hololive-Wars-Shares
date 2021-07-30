@@ -29,9 +29,9 @@ TerrainFirepowerBoostKindlePower:
 	;Bridge, Shoal, Base, Pipeline
 	.db 0,0,100,0
 	;Pipeseam, Silo, Silo - Launched, Reef
-	.db 0,0,0,0
+	.db 0,100,100,0
 	;Lab, Minicannon, Tower, None
-	.db 81,0,81,0
+	.db 100,0,100,0
 	;None, Laser, BlackCannonS, BlackCannonN
 	.db 0,0,0,0
 	;Volcano, Factory, Deathray, Variable Tile
