@@ -6,7 +6,7 @@ TerrainFirepowerBoostKoalDaytoDay:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
-	.db 0,10,0,0
+	.db 0,20,0,0
 	;HQ, None, Airport, Port
 	.db 0,0,0,0
 	;Bridge, Shoal, Base, Pipeline
@@ -24,7 +24,7 @@ TerrainFirepowerBoostKoalPower:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
-	.db 0,20,0,0
+	.db 0,40,0,0
 	;HQ, None, Airport, Port
 	.db 0,0,0,0
 	;Bridge, Shoal, Base, Pipeline
@@ -42,7 +42,7 @@ TerrainFirepowerBoostKoalSuper:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
-	.db 0,30,0,0
+	.db 0,60,0,0
 	;HQ, None, Airport, Port
 	.db 0,0,0,0
 	;Bridge, Shoal, Base, Pipeline
