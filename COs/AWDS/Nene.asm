@@ -1,12 +1,12 @@
 	setCODefaults           coAWDSNene
 	setCOGameID		coAWDSNene,Game_AWDS
 
-	setCOGFXFullbody        coAWDSRachel,GraphicsAWDSRachelGraphic
-	setCOGFXName            coAWDSRachel,GraphicsAWDSRachelName
-	setCOGFXPalette         coAWDSRachel,GraphicsAWDSRachelPalette
-	setCOGFXFace            coAWDSRachel,GraphicsAWDSRachelFace,GraphicsAWDSRachelHappyFace,GraphicsAWDSRachelSadFace
-	setCOGFXSmallFace       coAWDSRachel,GraphicsAWDSRachelMugshot
-	setCOGFXPowerAnim       coAWDSRachel,2,0
+	setCOGFXFullbody        coAWDSNene,GraphicsAWDSNeneGraphic
+	setCOGFXName            coAWDSNene,GraphicsAWDSNeneName
+	setCOGFXPalette         coAWDSNene,GraphicsAWDSNenePalette
+	setCOGFXFace            coAWDSNene,GraphicsAWDSNeneFace,GraphicsAWDSNeneHappyFace,GraphicsAWDSNeneSadFace
+	setCOGFXSmallFace       coAWDSNene,GraphicsAWDSNeneMugshot
+	setCOGFXPowerAnim       coAWDSNene,2,0
 	setCOGFXPowerSFX        coAWDSRachel,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSRachel,7,7
 	setCOGFXSuperSFX        coAWDSRachel,0x1c6,0
