@@ -24,10 +24,10 @@
 	setCOPowerCost          coAWDSSuisei,5
 	setCOSuperCost          coAWDSSuisei,10
 
-	setCOD2DAllStat		coAWDSGrimm,40,-20,0,0
-	setCOPowerAllStat	coAWDSGrimm,70,-20,0,0
-	setCOSuperAllStat	coAWDSGrimm,100,-20,0,0
+	setCOD2DAllStat		coAWDSSuisei,40,-20,0,0
+	setCOPowerAllStat	coAWDSSuisei,70,-20,0,0
+	setCOSuperAllStat	coAWDSSuisei,100,-20,0,0
 	
-	setCOAIPowerRange       coAWDSGrimm,25
-	setCOAIPowerTrigger     coAWDSGrimm,95
+	setCOAIPowerRange       coAWDSSuisei,25
+	setCOAIPowerTrigger     coAWDSSuisei,95
 ; blank line
