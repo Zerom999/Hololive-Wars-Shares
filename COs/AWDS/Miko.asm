@@ -11,15 +11,15 @@
 	setCOGFXSuperAnim       coAWDSMiko,7,7
 	setCOGFXSuperSFX        coAWDSMiko,0x1f7,0x1f8
 	
-	setCOName               coAWDSMiko,ScriptAWDSNell
-	setCOpowerName          coAWDSMiko,ScriptAWDSNell+1
-	setCOsuperName          coAWDSMiko,ScriptAWDSNell+2
-	setCOpowerText          coAWDSMiko,ScriptAWDSNell+8,ScriptAWDSNell+9,ScriptAWDSNell+10,ScriptAWDSNell+11,ScriptAWDSNell+12,ScriptAWDSNell+13
-	setCOprofileText        coAWDSMiko,ScriptAWDSNell+3,ScriptAWDSNell+4,ScriptAWDSNell+5,ScriptAWDSNell+6
-	setCOvictoryText        coAWDSMiko,ScriptAWDSNell+7
+	setCOName               coAWDSMiko,ScriptAWDSMiko
+	setCOpowerName          coAWDSMiko,ScriptAWDSMiko+1
+	setCOsuperName          coAWDSMiko,ScriptAWDSMiko+2
+	setCOpowerText          coAWDSMiko,ScriptAWDSMiko+8,ScriptAWDSMiko+9,ScriptAWDSMiko+10,ScriptAWDSMiko+11,ScriptAWDSMiko+12,ScriptAWDSMiko+13
+	setCOprofileText        coAWDSMiko,ScriptAWDSMiko+3,ScriptAWDSMiko+4,ScriptAWDSMiko+5,ScriptAWDSMiko+6
+	setCOvictoryText        coAWDSMiko,ScriptAWDSMiko+7
 
 	setCOFaction		coAWDSMiko,ArmyOrangeStar
-	setCOMusic          	coAWDSMiko,MusicNellTheme
+	setCOMusic          	coAWDSMiko,MusicMikoTheme
 
 	setCOPowerCost          coAWDSMiko,3
 	setCOSuperCost          coAWDSMiko,6
