@@ -1,11 +1,11 @@
-        setCODefaults           coAWDSWatame
-	setCOGameID		coAWDSWatame,Game_AWDS
+        setCODefaults           coAWDSMio
+	setCOGameID		coAWDSMio,Game_AWDS
 
-	setCOGFXFullbody        coAWDSWatame,GraphicsAWDSWatameGraphic
-	setCOGFXName            coAWDSWatame,GraphicsAWDSWatameName
-	setCOGFXPalette         coAWDSWatame,GraphicsAWDSWatamePalette
+	setCOGFXFullbody        coAWDSMio,GraphicsAWDSWatameGraphic
+	setCOGFXName            coAWDSMio,GraphicsAWDSWatameName
+	setCOGFXPalette         coAWDSMio,GraphicsAWDSWatamePalette
 	setCOGFXFace            coAWDSWatame,GraphicsAWDSWatameFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
-	setCOGFXSmallFace       coAWDSWatamw,GraphicsAWDSWatameMugshot
+	setCOGFXSmallFace       coAWDSMio,GraphicsAWDSWatameMugshot
 	setCOGFXPowerAnim       coAWDSWatame,2,0
 	setCOGFXPowerSFX        coAWDSWatame,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSWatame,7,7
