@@ -1,8 +1,8 @@
-;terrainboosterRobocoaily.asm
+;terrainboosterRobocodaily.asm
 
 ;Terrain Boosting Table
 
-TerrainFirepowerBoostKindlePower:
+TerrainFirepowerBoostRobocoPower:
 	;Null, Plains, River, Mountain
 	;.db 0,0,0,0
 	;Forest, Road, City, Sea
