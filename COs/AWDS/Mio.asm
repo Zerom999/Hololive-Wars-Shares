@@ -30,12 +30,13 @@
 	setCOd2dVision				coAWDSMio,2
         setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
-	
-	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,1
+	setCOPoweeVision				coAWDSMio,2
+	setCOPowerLandStat		coAWDSWatame,0,0,1,0
+	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,0
 	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
 	
 	setCOSuperLandStat		coAWDSWatame,0,0,1,0
-	setCOSuperIndirectLandStat	coAWDSWatame,0,0,1,1
+	setCOSuperIndirectLandStat	coAWDSWatame,0,0,1,0
 	setCOSuperTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameSuper
 	
 	setCOAIPowerRange       coAWDSWatame,25
