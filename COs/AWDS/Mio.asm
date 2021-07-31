@@ -24,6 +24,9 @@
 	setCOPowerCost          coAWDSWatame,3
 	setCOSuperCost          coAWDSWatame,6
 	
+	setCOPowerAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision
+	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision
+	
 	setCOd2dVision				coAWDSMio,2
         setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
