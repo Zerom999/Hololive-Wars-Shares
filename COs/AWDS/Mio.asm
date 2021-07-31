@@ -28,7 +28,7 @@
 	setCOSuperAbilities			coAWDSMio,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
 	
 	setCOd2dVision				coAWDSMio,2
-        setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostMioDaytoDay
+        setCOD2DTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioDaytoDay
 	
 	setCOPowerVision				coAWDSMio,4
 	setCOPowerLandStat		coAWDSMio,0,0,0,0
@@ -40,6 +40,6 @@
 	setCOSuperIndirectLandStat	coAWDSMio,0,0,1,0
 	setCOSuperTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioSuper
 	
-	setCOAIPowerRange       coAWDSWatame,25
-	setCOAIPowerTrigger     coAWDSWatame,95
+	setCOAIPowerRange       coAWDSMio,25
+	setCOAIPowerTrigger     coAWDSMio,95
 ; blank line
