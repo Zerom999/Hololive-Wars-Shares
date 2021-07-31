@@ -26,6 +26,7 @@
 
 	setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
+	setCOPowerLandStat		coAWDSWatame,0,0,1,0
 	setCOPowerIndirectLandStat	coAWDSWatame,0,0,1,0
 	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
 	
