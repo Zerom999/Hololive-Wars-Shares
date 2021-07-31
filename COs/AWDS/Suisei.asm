@@ -14,8 +14,8 @@
 	setCOName               coAWDSSuisei,ScriptAWDSSuisei
 	setCOpowerName          coAWDSSuisei,ScriptAWDSSuisei+1
 	setCOsuperName          coAWDSSuisei,ScriptAWDSSuisei+2
-	setCOpowerText          coAWDSSuisei,ScriptAWDSSuisei+8,ScriptAWDSGrimm+9,ScriptAWDSGrimm+10,ScriptAWDSGrimm+11,ScriptAWDSGrimm+12,ScriptAWDSGrimm+13
-	setCOprofileText        coAWDSSuisei,ScriptAWDSSuisei+3,ScriptAWDSGrimm+4,ScriptAWDSGrimm+5,ScriptAWDSGrimm+6
+	setCOpowerText          coAWDSSuisei,ScriptAWDSSuisei+8,ScriptAWDSSuisei+9,ScriptAWDSSuisei+10,ScriptAWDSSuisei+11,ScriptAWDSSuisei+12,ScriptAWDSSuisei+13
+	setCOprofileText        coAWDSSuisei,ScriptAWDSSuisei+3,ScriptAWDSSuisei+4,ScriptAWDSSuisei+5,ScriptAWDSSuisei+6
 	setCOvictoryText        coAWDSSuisei,ScriptAWDSSuisei+7
 
 	setCOFaction		coAWDSSuisei,ArmyYellowComet
