@@ -18,11 +18,11 @@
 	setCOprofileText        coAWDSMio,ScriptAWDSMio+3,ScriptAWDSMio+4,ScriptAWDSMio+5,ScriptAWDSMio+6
 	setCOvictoryText        coAWDSMio,ScriptAWDSMio+7
 
-	setCOFaction		coAWDSWatame,ArmyOrangeStar
-	setCOMusic          	coAWDSWatame,MusicWatameTheme
+	setCOFaction		coAWDSMio,ArmyOrangeStar
+	setCOMusic          	coAWDSMio,MusicMioTheme
 
-	setCOPowerCost          coAWDSWatame,3
-	setCOSuperCost          coAWDSWatame,6
+	setCOPowerCost          coAWDSMio,3
+	setCOSuperCost          coAWDSMio,6
 	
 	setCOPowerAbilities			coAWDSSonja,SpecialPiercingVision
 	setCOSuperAbilities			coAWDSSonja,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
@@ -30,12 +30,12 @@
 	setCOd2dVision				coAWDSMio,2
         setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
-	setCOPowerVision				coAWDSMio,2
+	setCOPowerVision				coAWDSMio,4
 	setCOPowerLandStat		coAWDSWatame,0,0,1,0
 	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,0
 	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
 	
-	setCOSuperVision				coAWDSMio,2
+	setCOSuperVision				coAWDSMio,6
 	setCOSuperLandStat		coAWDSWatame,0,0,1,0
 	setCOSuperIndirectLandStat	coAWDSWatame,0,0,1,0
 	setCOSuperTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameSuper
