@@ -18,16 +18,16 @@
 	setCOprofileText        coAWDSMiko,ScriptAWDSNell+3,ScriptAWDSNell+4,ScriptAWDSNell+5,ScriptAWDSNell+6
 	setCOvictoryText        coAWDSMiko,ScriptAWDSNell+7
 
-	setCOFaction		coAWDSNell,ArmyOrangeStar
-	setCOMusic          	coAWDSNell,MusicNellTheme
+	setCOFaction		coAWDSMiko,ArmyOrangeStar
+	setCOMusic          	coAWDSMiko,MusicNellTheme
 
-	setCOPowerCost          coAWDSNell,3
-	setCOSuperCost          coAWDSNell,6
+	setCOPowerCost          coAWDSMiko,3
+	setCOSuperCost          coAWDSMiko,6
 
-	setCOD2DLuck		coAWDSNell,20
-	setCOPowerLuck		coAWDSNell,60
-	setCOSuperLuck		coAWDSNell,100
+	setCOD2DLuck		coAWDSMiko,20
+	setCOPowerLuck		coAWDSMiko,60
+	setCOSuperLuck		coAWDSMiko,100
 	
-	setCOAIPowerRange       coAWDSNell,25
-	setCOAIPowerTrigger     coAWDSNell,95
+	setCOAIPowerRange       coAWDSMiko,25
+	setCOAIPowerTrigger     coAWDSMiko,95
 ; blank line
