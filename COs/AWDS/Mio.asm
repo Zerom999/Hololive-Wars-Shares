@@ -1,15 +1,15 @@
         setCODefaults           coAWDSMio
 	setCOGameID		coAWDSMio,Game_AWDS
 
-	setCOGFXFullbody        coAWDSMio,GraphicsAWDSWatameGraphic
-	setCOGFXName            coAWDSMio,GraphicsAWDSWatameName
-	setCOGFXPalette         coAWDSMio,GraphicsAWDSWatamePalette
-	setCOGFXFace            coAWDSWatame,GraphicsAWDSWatameFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
-	setCOGFXSmallFace       coAWDSMio,GraphicsAWDSWatameMugshot
-	setCOGFXPowerAnim       coAWDSWatame,2,0
-	setCOGFXPowerSFX        coAWDSWatame,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSWatame,7,7
-	setCOGFXSuperSFX        coAWDSWatame,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSMio,GraphicsAWDSMioGraphic
+	setCOGFXName            coAWDSMio,GraphicsAWDSMioName
+	setCOGFXPalette         coAWDSMio,GraphicsAWDSMioPalette
+	setCOGFXFace            coAWDSMio,GraphicsAWDSMioFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
+	setCOGFXSmallFace       coAWDSMio,GraphicsAWDSMioMugshot
+	setCOGFXPowerAnim       coAWDSMio,2,0
+	setCOGFXPowerSFX        coAWDSMio,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSMio,7,7
+	setCOGFXSuperSFX        coAWDSMio,0x1f7,0x1f8
 	
 	setCOName               coAWDSWatame,ScriptAWDSWatame
 	setCOpowerName          coAWDSWatame,ScriptAWDSWatame+1
