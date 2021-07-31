@@ -1,4 +1,4 @@
-;terrainboosterkindledaily.asm
+;terrainboosterrobocoaily.asm
 
 ;Terrain Boosting Table
 
