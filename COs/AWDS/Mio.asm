@@ -25,8 +25,8 @@
 	setCOSuperCost          coAWDSWatame,6
 	
 	setCOd2dVision				coAWDSMio,2
-
-	setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
+        setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
+	
 	
 	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,1
 	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
