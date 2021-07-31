@@ -25,7 +25,7 @@
 	setCOSuperCost          coAWDSWatame,6
 	
 	setCOPowerAbilities			coAWDSSonja,SpecialPiercingVision
-	setCOSuperAbilities			coAWDSSonja,SpecialPiercingVision
+	setCOSuperAbilities			coAWDSSonja,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
 	
 	setCOd2dVision				coAWDSMio,2
         setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
