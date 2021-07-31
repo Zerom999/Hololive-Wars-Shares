@@ -4,9 +4,9 @@
 
 TerrainFirepowerBoostMioDaytoDay:
 	;Null, Plains, River, Mountain
-	.db 0,20,0,0
-	;Forest, Road, City, Sea
 	.db 0,0,0,0
+	;Forest, Road, City, Sea
+	.db 30,0,0,0
 	;HQ, None, Airport, Port
 	.db 0,0,0,0
 	;Bridge, Shoal, Base, Pipeline
@@ -22,9 +22,9 @@ TerrainFirepowerBoostMioDaytoDay:
 	
 TerrainFirepowerBoostMioPower:
 	;Null, Plains, River, Mountain
-	.db 0,40,0,0
-	;Forest, Road, City, Sea
 	.db 0,0,0,0
+	;Forest, Road, City, Sea
+	.db 60,0,0,0
 	;HQ, None, Airport, Port
 	.db 0,0,0,0
 	;Bridge, Shoal, Base, Pipeline
@@ -40,9 +40,9 @@ TerrainFirepowerBoostMioPower:
 	
 TerrainFirepowerBoostMioSuper:
 	;Null, Plains, River, Mountain
-	.db 0,60,0,0
-	;Forest, Road, City, Sea
 	.db 0,0,0,0
+	;Forest, Road, City, Sea
+	.db 90,0,0,0
 	;HQ, None, Airport, Port
 	.db 0,0,0,0
 	;Bridge, Shoal, Base, Pipeline
