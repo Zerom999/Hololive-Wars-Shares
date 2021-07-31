@@ -1,4 +1,4 @@
-setCODefaults           coAWDSGrimm
+        setCODefaults           coAWDSGrimm
 	setCOGameID		coAWDSGrimm,Game_AWDS
 
 	setCOGFXFullbody        coAWDSGrimm,GraphicsAWDSGrimmGraphic
