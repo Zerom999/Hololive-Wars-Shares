@@ -1,8 +1,8 @@
-	setCODefaults           coAWDSGrit
-	setCOGameID		coAWDSGrit,Game_AWDS
+	setCODefaults           coAWDSFlare
+	setCOGameID		coAWDSFlare,Game_AWDS
 
-	setCOGFXFullbody        coAWDSGrit,GraphicsAWDSGritGraphic
-	setCOGFXName            coAWDSGrit,GraphicsAWDSGritName
+	setCOGFXFullbody        coAWDSFlare,GraphicsAWDSGritGraphic
+	setCOGFXName            coAWDSFlare,GraphicsAWDSGritName
 	setCOGFXPalette         coAWDSGrit,GraphicsAWDSGritPalette
 	setCOGFXFace            coAWDSGrit,GraphicsAWDSGritFace,GraphicsAWDSGritHappyFace,GraphicsAWDSGritSadFace
 	setCOGFXSmallFace       coAWDSGrit,GraphicsAWDSGritMugshot
