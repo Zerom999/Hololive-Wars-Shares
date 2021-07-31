@@ -18,25 +18,25 @@
 	setCOprofileText        coAWDSFlare,ScriptAWDSFlare+3,ScriptAWDSFlare+4,ScriptAWDSFlare+5,ScriptAWDSFlare+6
 	setCOvictoryText        coAWDSFlare,ScriptAWDSFlare+7
 
-	setCOFaction		coAWDSGrit,ArmyBlueMoon
-	setCOMusic          	coAWDSGrit,MusicGritTheme
+	setCOFaction		coAWDSFlare,ArmyBlueMoon
+	setCOMusic          	coAWDSFlare,MusicFlareTheme
 
-	setCOPowerCost          coAWDSGrit,3
-	setCOSuperCost          coAWDSGrit,6
+	setCOPowerCost          coAWDSFlare,3
+	setCOSuperCost          coAWDSFlare,6
 
-	setCOD2DDirectStat		coAWDSGrit,-20,0,0,0
-	setCOD2DIndirectStat		coAWDSGrit,20,0,0,1
+	setCOD2DDirectStat		coAWDSFlare,-20,0,0,0
+	setCOD2DIndirectStat		coAWDSFlare,20,0,0,1
 	
-	setCOPowerDirectStat		coAWDSGrit,-20,0,0,0
-	setCOPowerIndirectStat	coAWDSGrit,40,0,0,2
+	setCOPowerDirectStat		coAWDSFlare,-20,0,0,0
+	setCOPowerIndirectStat	coAWDSFlare,40,0,0,2
 
-	setCOSuperDirectStat		coAWDSGrit,-20,0,0,0
-	setCOSuperIndirectStat	coAWDSGrit,60,0,0,3
+	setCOSuperDirectStat		coAWDSFlare,-20,0,0,0
+	setCOSuperIndirectStat	coAWDSFlare,60,0,0,3
 
-	setCOGFXPowerRule       coAWDSGrit,COPCheckIndirectCombatUnits
-	setCOGFXSuperRule       coAWDSGrit,COPCheckIndirectCombatUnits
+	setCOGFXPowerRule       coAWDSFlare,COPCheckIndirectCombatUnits
+	setCOGFXSuperRule       coAWDSFlare,COPCheckIndirectCombatUnits
 
 	
-	setCOAIPowerRange       coAWDSGrit,25
-	setCOAIPowerTrigger     coAWDSGrit,95
+	setCOAIPowerRange       coAWDSFlare,25
+	setCOAIPowerTrigger     coAWDSFlare,95
 ; blank line
