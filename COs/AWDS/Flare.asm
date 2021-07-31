@@ -3,13 +3,13 @@
 
 	setCOGFXFullbody        coAWDSFlare,GraphicsAWDSGritGraphic
 	setCOGFXName            coAWDSFlare,GraphicsAWDSGritName
-	setCOGFXPalette         coAWDSGrit,GraphicsAWDSGritPalette
-	setCOGFXFace            coAWDSGrit,GraphicsAWDSGritFace,GraphicsAWDSGritHappyFace,GraphicsAWDSGritSadFace
-	setCOGFXSmallFace       coAWDSGrit,GraphicsAWDSGritMugshot
-	setCOGFXPowerAnim       coAWDSGrit,0,3
-	setCOGFXPowerSFX        coAWDSGrit,0xAE,0xAF
-	setCOGFXSuperAnim       coAWDSGrit,7,7
-	setCOGFXSuperSFX        coAWDSGrit,0x1f7,0x1f8
+	setCOGFXPalette         coAWDSFlare,GraphicsAWDSGritPalette
+	setCOGFXFace            coAWDSFlare,GraphicsAWDSGritFace,GraphicsAWDSGritHappyFace,GraphicsAWDSGritSadFace
+	setCOGFXSmallFace       coAWDSFlare,GraphicsAWDSGritMugshot
+	setCOGFXPowerAnim       coAWDSFlare,0,3
+	setCOGFXPowerSFX        coAWDSFlare,0xAE,0xAF
+	setCOGFXSuperAnim       coAWDSFlare,7,7
+	setCOGFXSuperSFX        coAWDSFlare,0x1f7,0x1f8
 	
 	setCOName               coAWDSGrit,ScriptAWDSGrit
 	setCOpowerName          coAWDSGrit,ScriptAWDSGrit+1
