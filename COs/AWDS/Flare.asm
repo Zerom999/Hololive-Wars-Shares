@@ -14,8 +14,8 @@
 	setCOName               coAWDSFlare,ScriptAWDSFlare
 	setCOpowerName          coAWDSFlare,ScriptAWDSFlare+1
 	setCOsuperName          coAWDSFlare,ScriptAWDSFlare+2
-	setCOpowerText          coAWDSFlare,ScriptAWDSFlare+8,ScriptAWDSGrit+9,ScriptAWDSGrit+10,ScriptAWDSGrit+11,ScriptAWDSGrit+12,ScriptAWDSGrit+13
-	setCOprofileText        coAWDSFlare,ScriptAWDSFlare+3,ScriptAWDSGrit+4,ScriptAWDSGrit+5,ScriptAWDSGrit+6
+	setCOpowerText          coAWDSFlare,ScriptAWDSFlare+8,ScriptAWDSFlare+9,ScriptAWDSFlare+10,ScriptAWDSFlare+11,ScriptAWDSFlare+12,ScriptAWDSFlare+13
+	setCOprofileText        coAWDSFlare,ScriptAWDSFlare+3,ScriptAWDSFlare+4,ScriptAWDSFlare+5,ScriptAWDSFlare+6
 	setCOvictoryText        coAWDSFlare,ScriptAWDSFlare+7
 
 	setCOFaction		coAWDSGrit,ArmyBlueMoon
