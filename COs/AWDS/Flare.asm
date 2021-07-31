@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSFlare,7,7
 	setCOGFXSuperSFX        coAWDSFlare,0x1f7,0x1f8
 	
-	setCOName               coAWDSGrit,ScriptAWDSGrit
-	setCOpowerName          coAWDSGrit,ScriptAWDSGrit+1
-	setCOsuperName          coAWDSGrit,ScriptAWDSGrit+2
-	setCOpowerText          coAWDSGrit,ScriptAWDSGrit+8,ScriptAWDSGrit+9,ScriptAWDSGrit+10,ScriptAWDSGrit+11,ScriptAWDSGrit+12,ScriptAWDSGrit+13
-	setCOprofileText        coAWDSGrit,ScriptAWDSGrit+3,ScriptAWDSGrit+4,ScriptAWDSGrit+5,ScriptAWDSGrit+6
-	setCOvictoryText        coAWDSGrit,ScriptAWDSGrit+7
+	setCOName               coAWDSFlare,ScriptAWDSFlare
+	setCOpowerName          coAWDSFlare,ScriptAWDSFlare+1
+	setCOsuperName          coAWDSFlare,ScriptAWDSFlare+2
+	setCOpowerText          coAWDSFlare,ScriptAWDSFlare+8,ScriptAWDSGrit+9,ScriptAWDSGrit+10,ScriptAWDSGrit+11,ScriptAWDSGrit+12,ScriptAWDSGrit+13
+	setCOprofileText        coAWDSFlare,ScriptAWDSFlare+3,ScriptAWDSGrit+4,ScriptAWDSGrit+5,ScriptAWDSGrit+6
+	setCOvictoryText        coAWDSFlare,ScriptAWDSFlare+7
 
 	setCOFaction		coAWDSGrit,ArmyBlueMoon
 	setCOMusic          	coAWDSGrit,MusicGritTheme
