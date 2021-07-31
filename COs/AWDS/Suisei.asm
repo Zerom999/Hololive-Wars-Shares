@@ -1,8 +1,8 @@
-        setCODefaults           coAWDSGrimm
-	setCOGameID		coAWDSGrimm,Game_AWDS
+        setCODefaults           coAWDSSuisei
+	setCOGameID		coAWDSSuisei,Game_AWDS
 
-	setCOGFXFullbody        coAWDSGrimm,GraphicsAWDSGrimmGraphic
-	setCOGFXName            coAWDSGrimm,GraphicsAWDSGrimmName
+	setCOGFXFullbody        coAWDSSuisei,GraphicsAWDSSuiseiGraphic
+	setCOGFXName            coAWDSSuisei,GraphicsAWDSSuiseiName
 	setCOGFXPalette         coAWDSGrimm,GraphicsAWDSGrimmPalette
 	setCOGFXFace            coAWDSGrimm,GraphicsAWDSGrimmFace,GraphicsAWDSGrimmHappyFace,GraphicsAWDSGrimmSadFace
 	setCOGFXSmallFace       coAWDSGrimm,GraphicsAWDSGrimmMugshot
