@@ -4,19 +4,19 @@
 	setCOGFXFullbody        coAWDSMio,GraphicsAWDSMioGraphic
 	setCOGFXName            coAWDSMio,GraphicsAWDSMioName
 	setCOGFXPalette         coAWDSMio,GraphicsAWDSMioPalette
-	setCOGFXFace            coAWDSMio,GraphicsAWDSMioFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
+	setCOGFXFace            coAWDSMio,GraphicsAWDSMioFace,GraphicsAWDSMioHappyFace,GraphicsAWDSMioSadFace
 	setCOGFXSmallFace       coAWDSMio,GraphicsAWDSMioMugshot
 	setCOGFXPowerAnim       coAWDSMio,2,0
 	setCOGFXPowerSFX        coAWDSMio,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSMio,7,7
 	setCOGFXSuperSFX        coAWDSMio,0x1f7,0x1f8
 	
-	setCOName               coAWDSWatame,ScriptAWDSWatame
-	setCOpowerName          coAWDSWatame,ScriptAWDSWatame+1
-	setCOsuperName          coAWDSWatame,ScriptAWDSWatame+2
-	setCOpowerText          coAWDSWatame,ScriptAWDSWatame+8,ScriptAWDSWatame+9,ScriptAWDSWatame+10,ScriptAWDSWatame+11,ScriptAWDSWatame+12,ScriptAWDSWatame+13
-	setCOprofileText        coAWDSWatame,ScriptAWDSWatame+3,ScriptAWDSWatame+4,ScriptAWDSWatame+5,ScriptAWDSWatame+6
-	setCOvictoryText        coAWDSWatame,ScriptAWDSWatame+7
+	setCOName               coAWDSMio,ScriptAWDSMio
+	setCOpowerName          coAWDSMio,ScriptAWDSMio+1
+	setCOsuperName          coAWDSMio,ScriptAWDSMio+2
+	setCOpowerText          coAWDSMio,ScriptAWDSMio+8,ScriptAWDSMio+9,ScriptAWDSMio+10,ScriptAWDSMio+11,ScriptAWDSMio+12,ScriptAWDSMio+13
+	setCOprofileText        coAWDSMio,ScriptAWDSMio+3,ScriptAWDSMio+4,ScriptAWDSMio+5,ScriptAWDSMio+6
+	setCOvictoryText        coAWDSMio,ScriptAWDSMio+7
 
 	setCOFaction		coAWDSWatame,ArmyOrangeStar
 	setCOMusic          	coAWDSWatame,MusicWatameTheme
