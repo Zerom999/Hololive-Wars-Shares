@@ -24,21 +24,21 @@
 	setCOPowerCost          coAWDSMio,4
 	setCOSuperCost          coAWDSMio,8
 	
-	setCOPowerAbilities			coAWDSSonja,SpecialPiercingVision
-	setCOSuperAbilities			coAWDSSonja,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
+	setCOPowerAbilities			coAWDSMio,SpecialPiercingVision
+	setCOSuperAbilities			coAWDSMio,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
 	
 	setCOd2dVision				coAWDSMio,2
-        setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
+        setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostMioDaytoDay
 	
 	setCOPowerVision				coAWDSMio,4
-	setCOPowerLandStat		coAWDSWatame,0,0,0,0
-	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,0
-	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
+	setCOPowerLandStat		coAWDSMio,0,0,0,0
+	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
+	setCOPowerTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioPower
 	
 	setCOSuperVision				coAWDSMio,6
-	setCOSuperLandStat		coAWDSWatame,0,0,1,0
-	setCOSuperIndirectLandStat	coAWDSWatame,0,0,1,0
-	setCOSuperTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameSuper
+	setCOSuperLandStat		coAWDSMio,0,0,1,0
+	setCOSuperIndirectLandStat	coAWDSMio,0,0,1,0
+	setCOSuperTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioSuper
 	
 	setCOAIPowerRange       coAWDSWatame,25
 	setCOAIPowerTrigger     coAWDSWatame,95
