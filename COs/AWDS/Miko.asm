@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSNell
-	setCOGameID		coAWDSNell,Game_AWDS
+	setCODefaults           coAWDSMiko
+	setCOGameID		coAWDSMiko,Game_AWDS
 
-	setCOGFXFullbody        coAWDSNell,GraphicsAWDSNellGraphic
-	setCOGFXName            coAWDSNell,GraphicsAWDSNellName
-	setCOGFXPalette         coAWDSNell,GraphicsAWDSNellPalette
-	setCOGFXFace            coAWDSNell,GraphicsAWDSNellFace,GraphicsAWDSNellHappyFace,GraphicsAWDSNellSadFace
-	setCOGFXSmallFace       coAWDSNell,GraphicsAWDSNellMugshot
-	setCOGFXPowerAnim       coAWDSNell,2,0
-	setCOGFXPowerSFX        coAWDSNell,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSNell,7,7
-	setCOGFXSuperSFX        coAWDSNell,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSMiko,GraphicsAWDSNellGraphic
+	setCOGFXName            coAWDSMiko,GraphicsAWDSNellName
+	setCOGFXPalette         coAWDSMiko,GraphicsAWDSNellPalette
+	setCOGFXFace            coAWDSMiko,GraphicsAWDSNellFace,GraphicsAWDSNellHappyFace,GraphicsAWDSNellSadFace
+	setCOGFXSmallFace       coAWDSMiko,GraphicsAWDSNellMugshot
+	setCOGFXPowerAnim       coAWDSMiko,2,0
+	setCOGFXPowerSFX        coAWDSMiko,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSMiko,7,7
+	setCOGFXSuperSFX        coAWDSMiko,0x1f7,0x1f8
 	
 	setCOName               coAWDSNell,ScriptAWDSNell
 	setCOpowerName          coAWDSNell,ScriptAWDSNell+1
