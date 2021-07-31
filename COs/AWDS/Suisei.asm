@@ -3,13 +3,13 @@
 
 	setCOGFXFullbody        coAWDSSuisei,GraphicsAWDSSuiseiGraphic
 	setCOGFXName            coAWDSSuisei,GraphicsAWDSSuiseiName
-	setCOGFXPalette         coAWDSGrimm,GraphicsAWDSGrimmPalette
-	setCOGFXFace            coAWDSGrimm,GraphicsAWDSGrimmFace,GraphicsAWDSGrimmHappyFace,GraphicsAWDSGrimmSadFace
-	setCOGFXSmallFace       coAWDSGrimm,GraphicsAWDSGrimmMugshot
-	setCOGFXPowerAnim       coAWDSGrimm,0,0
-	setCOGFXPowerSFX        coAWDSGrimm,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSGrimm,7,7
-	setCOGFXSuperSFX        coAWDSGrimm,0x1f7,0x1f8
+	setCOGFXPalette         coAWDSSuisei,GraphicsAWDSGrimmPalette
+	setCOGFXFace            coAWDSSuisei,GraphicsAWDSGrimmFace,GraphicsAWDSGrimmHappyFace,GraphicsAWDSGrimmSadFace
+	setCOGFXSmallFace       coAWDSSuisei,GraphicsAWDSGrimmMugshot
+	setCOGFXPowerAnim       coAWDSSuisei,0,0
+	setCOGFXPowerSFX        coAWDSSuisei,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSSuisei,7,7
+	setCOGFXSuperSFX        coAWDSSuisei,0x1f7,0x1f8
 	
 	setCOName               coAWDSGrimm,ScriptAWDSGrimm
 	setCOpowerName          coAWDSGrimm,ScriptAWDSGrimm+1
