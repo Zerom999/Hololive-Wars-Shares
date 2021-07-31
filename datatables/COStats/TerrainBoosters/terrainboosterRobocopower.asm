@@ -1,4 +1,4 @@
-;terrainboosterrobocoaily.asm
+;terrainboosterRobocoaily.asm
 
 ;Terrain Boosting Table
 
