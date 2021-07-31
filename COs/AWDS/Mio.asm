@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSMio,ArmyOrangeStar
 	setCOMusic          	coAWDSMio,MusicMioTheme
 
-	setCOPowerCost          coAWDSMio,3
-	setCOSuperCost          coAWDSMio,6
+	setCOPowerCost          coAWDSMio,4
+	setCOSuperCost          coAWDSMio,8
 	
 	setCOPowerAbilities			coAWDSSonja,SpecialPiercingVision
 	setCOSuperAbilities			coAWDSSonja,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
@@ -31,7 +31,7 @@
         setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
 	setCOPowerVision				coAWDSMio,4
-	setCOPowerLandStat		coAWDSWatame,0,0,1,0
+	setCOPowerLandStat		coAWDSWatame,0,0,0,0
 	setCOPowerIndirectLandStat	coAWDSWatame,0,0,0,0
 	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
 	
