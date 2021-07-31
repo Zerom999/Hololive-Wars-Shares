@@ -3,20 +3,20 @@
 
 	setCOGFXFullbody        coAWDSSuisei,GraphicsAWDSSuiseiGraphic
 	setCOGFXName            coAWDSSuisei,GraphicsAWDSSuiseiName
-	setCOGFXPalette         coAWDSSuisei,GraphicsAWDSGrimmPalette
-	setCOGFXFace            coAWDSSuisei,GraphicsAWDSGrimmFace,GraphicsAWDSGrimmHappyFace,GraphicsAWDSGrimmSadFace
-	setCOGFXSmallFace       coAWDSSuisei,GraphicsAWDSGrimmMugshot
+	setCOGFXPalette         coAWDSSuisei,GraphicsAWDSSuiseiPalette
+	setCOGFXFace            coAWDSSuisei,GraphicsAWDSSuiseiFace,GraphicsAWDSSuiseiHappyFace,GraphicsAWDSSuiseiSadFace
+	setCOGFXSmallFace       coAWDSSuisei,GraphicsAWDSSuiseiMugshot
 	setCOGFXPowerAnim       coAWDSSuisei,0,0
 	setCOGFXPowerSFX        coAWDSSuisei,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSSuisei,7,7
 	setCOGFXSuperSFX        coAWDSSuisei,0x1f7,0x1f8
 	
-	setCOName               coAWDSGrimm,ScriptAWDSGrimm
-	setCOpowerName          coAWDSGrimm,ScriptAWDSGrimm+1
-	setCOsuperName          coAWDSGrimm,ScriptAWDSGrimm+2
-	setCOpowerText          coAWDSGrimm,ScriptAWDSGrimm+8,ScriptAWDSGrimm+9,ScriptAWDSGrimm+10,ScriptAWDSGrimm+11,ScriptAWDSGrimm+12,ScriptAWDSGrimm+13
-	setCOprofileText        coAWDSGrimm,ScriptAWDSGrimm+3,ScriptAWDSGrimm+4,ScriptAWDSGrimm+5,ScriptAWDSGrimm+6
-	setCOvictoryText        coAWDSGrimm,ScriptAWDSGrimm+7
+	setCOName               coAWDSSuisei,ScriptAWDSGrimm
+	setCOpowerName          coAWDSSuisei,ScriptAWDSGrimm+1
+	setCOsuperName          coAWDSSuisei,ScriptAWDSGrimm+2
+	setCOpowerText          coAWDSSuisei,ScriptAWDSGrimm+8,ScriptAWDSGrimm+9,ScriptAWDSGrimm+10,ScriptAWDSGrimm+11,ScriptAWDSGrimm+12,ScriptAWDSGrimm+13
+	setCOprofileText        coAWDSSuisei,ScriptAWDSGrimm+3,ScriptAWDSGrimm+4,ScriptAWDSGrimm+5,ScriptAWDSGrimm+6
+	setCOvictoryText        coAWDSSuisei,ScriptAWDSGrimm+7
 
 	setCOFaction		coAWDSGrimm,ArmyYellowComet
 	setCOMusic          	coAWDSGrimm,MusicYellowComet
