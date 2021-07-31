@@ -1,4 +1,4 @@
-setCODefaults           coAWDSWatame
+        setCODefaults           coAWDSWatame
 	setCOGameID		coAWDSWatame,Game_AWDS
 
 	setCOGFXFullbody        coAWDSWatame,GraphicsAWDSWatameGraphic
