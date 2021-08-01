@@ -36,9 +36,8 @@
 	setCOSuperAirStat	coAWDSJess,-10,0,0,0
 	setCOSuperNavyStat	coAWDSJess,-10,0,0,0
 
-	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
-	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
-
 	setCOAIPowerRange       coAWDSJess,25
 	setCOAIPowerTrigger     coAWDSJess,95
 ; blank line
+
+	
