@@ -33,9 +33,12 @@
 	setCOD2DUnitStat		coAWDSPekora,Unit_Sub,40,0,0,0
 
 	setCOPowerIndirectStat		coAWDSPekora,70,0,0,0
-	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
-	setCOPowerTransportStat		coAWDSSensei,0,0,1,0
-	setCOPowerUnitStat		coAWDSSensei,Unit_BattleCopter,70,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_Infantry,-20,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_Recon,-20,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_AntiAir,-20,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_Fighter,70,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_Bomber,70,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_BattleCopter,70,0,0,0
 
 	setCOSuperIndirectStat		coAWDSPekora,100,0,0,0
 	setCOSuperNavyStat		coAWDSSensei,-30,0,0,0
