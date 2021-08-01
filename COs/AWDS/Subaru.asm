@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSAqua
-	setCOGameID		coAWDSAqua,Game_AWDS
+        setCODefaults           coAWDSSubaru
+	setCOGameID		coAWDSSubaru,Game_AWDS
 
-	setCOGFXFullbody        coAWDSAqua,GraphicsAWDSAquaGraphic
-	setCOGFXName            coAWDSAqua,GraphicsAWDSAquaName
-	setCOGFXPalette         coAWDSAqua,GraphicsAWDSAquaPalette
-	setCOGFXFace            coAWDSAqua,GraphicsAWDSAquaFace,GraphicsAWDSAquaHappyFace,GraphicsAWDSAquaSadFace
-	setCOGFXSmallFace       coAWDSAqua,GraphicsAWDSAquaMugshot
-	setCOGFXPowerAnim       coAWDSAqua,0x04,0x00
-	setCOGFXPowerSFX        coAWDSAqua,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSAqua,7,7
-	setCOGFXSuperSFX        coAWDSAqua,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSSubaru,GraphicsAWDSSubaruGraphic
+	setCOGFXName            coAWDSSubaru,GraphicsAWDSAquaName
+	setCOGFXPalette         coAWDSSubaru,GraphicsAWDSAquaPalette
+	setCOGFXFace            coAWDSSubaru,GraphicsAWDSAquaFace,GraphicsAWDSAquaHappyFace,GraphicsAWDSAquaSadFace
+	setCOGFXSmallFace       coAWDSSubaru,GraphicsAWDSAquaMugshot
+	setCOGFXPowerAnim       coAWDSSubaru,0x04,0x00
+	setCOGFXPowerSFX        coAWDSSubaru,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSSubaru,7,7
+	setCOGFXSuperSFX        coAWDSSubaru,0x1f7,0x1f8
 	
 	setCOName               coAWDSAqua,ScriptAWDSAqua
 	setCOpowerName          coAWDSAqua,ScriptAWDSAqua+1
