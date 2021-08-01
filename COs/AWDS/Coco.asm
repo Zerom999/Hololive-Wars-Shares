@@ -33,8 +33,8 @@
 	setCOPowerAirStat	coAWDSCoco,60,60,0,0
 
 	setCOSuperLandStat	coAWDSCoco,0,0,2,0
-	setCOSuperAirStat	coAWDSCoco,90,90,0,0
 	setCOSuperNavyStat	coAWDSCoco,-40,0,0,0
+	setCOSuperAirStat	coAWDSCoco,90,90,0,0
 
 	setCOAIPowerRange       coAWDSCoco,25
 	setCOAIPowerTrigger     coAWDSCoco,95
