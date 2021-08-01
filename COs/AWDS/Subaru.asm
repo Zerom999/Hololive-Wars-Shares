@@ -28,14 +28,14 @@
 	setCOD2DNavyStat	coAWDSSubaru,0,20,1,0
 	setCOD2DAirStat		coAWDSSubaru,-20,0,0,0
 	
-	setCOPowerLandStat	coAWDSAqua,0,0,0,0
-	setCOPowerNavyStat	coAWDSAqua,0,40,2,0
-	setCOPowerAirStat	coAWDSAqua,-10,0,0,0
+	setCOPowerLandStat	coAWDSSubaru,0,0,0,0
+	setCOPowerNavyStat	coAWDSSubaru,0,0,2,0
+	setCOPowerAirStat	coAWDSSubaru,-10,0,0,0
 	
-	setCOSuperLandStat	coAWDSAqua,0,0,0,0
-	setCOSuperNavyStat	coAWDSAqua,0,60,3,0
-	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
+	setCOSuperLandStat	coAWDSSubaru,0,0,0,0
+	setCOSuperNavyStat	coAWDSSubaru,0,60,3,0
+	setCOSuperAirStat	coAWDSSubaru,-10,0,0,0
 	
-	setCOAIPowerRange       coAWDSAqua,25
-	setCOAIPowerTrigger     coAWDSAqua,95
+	setCOAIPowerRange       coAWDSSubaru,25
+	setCOAIPowerTrigger     coAWDSSubaru,95
 ; blank line
