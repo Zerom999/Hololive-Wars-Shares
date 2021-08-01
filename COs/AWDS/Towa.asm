@@ -1,11 +1,11 @@
 	setCODefaults           coAWDSTowa
 	setCOGameID		coAWDSTowa,Game_AWDS
 
-	setCOGFXFullbody        coAWDSTowa,GraphicsAWDSGrimmGraphic
-	setCOGFXName            coAWDSTowa,GraphicsAWDSGrimmName
-	setCOGFXPalette         coAWDSTowa,GraphicsAWDSGrimmPalette
-	setCOGFXFace            coAWDSTowa,GraphicsAWDSGrimmFace,GraphicsAWDSGrimmHappyFace,GraphicsAWDSGrimmSadFace
-	setCOGFXSmallFace       coAWDSTowa,GraphicsAWDSGrimmMugshot
+	setCOGFXFullbody        coAWDSTowa,GraphicsAWDSTowaGraphic
+	setCOGFXName            coAWDSTowa,GraphicsAWDSTowaName
+	setCOGFXPalette         coAWDSTowa,GraphicsAWDSTowaPalette
+	setCOGFXFace            coAWDSTowa,GraphicsAWDSTowaFace,GraphicsAWDSTowaHappyFace,GraphicsAWDSTowaSadFace
+	setCOGFXSmallFace       coAWDSTowa,GraphicsAWDSTowaMugshot
 	setCOGFXPowerAnim       coAWDSTowa,0,0
 	setCOGFXPowerSFX        coAWDSTowa,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSTowa,7,7
