@@ -1,5 +1,5 @@
-	setCODefaults           coAWDSGrimm
-	setCOGameID		coAWDSGrimm,Game_AWDS
+	setCODefaults           coAWDSTowa
+	setCOGameID		coAWDSTowa,Game_AWDS
 
 	setCOGFXFullbody        coAWDSGrimm,GraphicsAWDSGrimmGraphic
 	setCOGFXName            coAWDSGrimm,GraphicsAWDSGrimmName
