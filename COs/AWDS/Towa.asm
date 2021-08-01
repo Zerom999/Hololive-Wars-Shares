@@ -14,8 +14,8 @@
 	setCOName               coAWDSTowa,ScriptAWDSTowa
 	setCOpowerName          coAWDSTowa,ScriptAWDSTowa+1
 	setCOsuperName          coAWDSTowa,ScriptAWDSTowa+2
-	setCOpowerText          coAWDSTowa,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSGrimm+10,ScriptAWDSGrimm+11,ScriptAWDSGrimm+12,ScriptAWDSGrimm+13
-	setCOprofileText        coAWDSTowa,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSGrimm+5,ScriptAWDSGrimm+6
+	setCOpowerText          coAWDSTowa,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSTowa+10,ScriptAWDSTowa+11,ScriptAWDSTowa+12,ScriptAWDSTowa+13
+	setCOprofileText        coAWDSTowa,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
 	setCOvictoryText        coAWDSTowa,ScriptAWDSTowa+7
 
 	setCOFaction		coAWDSTowa,ArmyYellowComet
