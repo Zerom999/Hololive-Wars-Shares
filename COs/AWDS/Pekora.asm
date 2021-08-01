@@ -4,7 +4,7 @@
 	setCOGFXFullbody        coAWDSPekora,GraphicsAWDSPekoraGraphic
 	setCOGFXName            coAWDSPekora,GraphicsAWDSPekoraName
 	setCOGFXPalette         coAWDSPekora,GraphicsAWDSPekoraPalette
-	setCOGFXFace            coAWDSPekora,GraphicsAWDSPekoraFace,GraphicsAWDSPekoraHappyFace,GraphicsAWDSSPekoraSadFace
+	setCOGFXFace            coAWDSPekora,GraphicsAWDSPekoraFace,GraphicsAWDSPekoraHappyFace,GraphicsAWDSPekoraSadFace
 	setCOGFXSmallFace       coAWDSPekora,GraphicsAWDSPekoraMugshot
 	setCOGFXPowerAnim       coAWDSPekora,3,0
 	setCOGFXPowerSFX        coAWDSPekora,0xb4,0xb5
