@@ -27,17 +27,17 @@
 	setCOD2DSoldierStat		coAWDSBotan,20,0,0,0
 	setCOD2DDirectStat		coAWDSBotan,-20,0,0,0
 	setCOPowerSoldierStat		coAWDSBotan,40,0,2,0
-	setCOPowerDirectStat		coAWDSBotan,-30,0,0,0
+	setCOPowerDirectStat		coAWDSBotan,-20,0,0,0
 	setCOSuperSoldierStat		coAWDSBotan,60,0,6,0
-	setCOSuperDirectStat		coAWDSBotan,-30,0,0,0
+	setCOSuperDirectStat		coAWDSBotan,-20,0,0,0
 
-	setCOD2DCapture			coAWDSSami,100
-	setCOPowerCapture		coAWDSSami,100
-	setCOSuperCapture		coAWDSSami,2000
+	setCOD2DCapture			coAWDSBotan,100
+	setCOPowerCapture		coAWDSBotan,100
+	setCOSuperCapture		coAWDSBotan,2000
 
-	setCOGFXPowerRule       coAWDSSami,COPCheckSoldierClass
-	setCOGFXSuperRule       coAWDSSami,COPCheckSoldierClass
+	setCOGFXPowerRule       coAWDSBotan,COPCheckSoldierClass
+	setCOGFXSuperRule       coAWDSBotan,COPCheckSoldierClass
 	
-	setCOAIPowerRange       coAWDSSami,25
-	setCOAIPowerTrigger     coAWDSSami,95
+	setCOAIPowerRange       coAWDSBotan,25
+	setCOAIPowerTrigger     coAWDSBotan,95
 ; blank line
