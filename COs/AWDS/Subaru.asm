@@ -29,12 +29,12 @@
 	setCOD2DAirStat		coAWDSSubaru,-10,0,0,0
 	
 	setCOPowerLandStat	coAWDSSubaru,60,0,1,0
-	setCOPowerNavyStat	coAWDSSubaru,0,0,2,0
-	setCOPowerAirStat	coAWDSSubaru,-10,0,0,0
+	setCOPowerNavyStat	coAWDSSubaru,0,0,0,0
+	setCOPowerAirStat	coAWDSSubaru,0,0,0,0
 	
 	setCOSuperLandStat	coAWDSSubaru,90,0,2,0
-	setCOSuperNavyStat	coAWDSSubaru,0,60,3,0
-	setCOSuperAirStat	coAWDSSubaru,-10,0,0,0
+	setCOSuperNavyStat	coAWDSSubaru,0,0,0,0
+	setCOSuperAirStat	coAWDSSubaru,0,0,0,0
 	
 	setCOAIPowerRange       coAWDSSubaru,25
 	setCOAIPowerTrigger     coAWDSSubaru,95
