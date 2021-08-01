@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSBotan,7,7
 	setCOGFXSuperSFX        coAWDSBotan,0x1f7,0x1f8
 	
-	setCOName               coAWDSBotan,ScriptAWDSSami
-	setCOpowerName          coAWDSBotan,ScriptAWDSSami+1
-	setCOsuperName          coAWDSBotan,ScriptAWDSSami+2
-	setCOpowerText          coAWDSBotan,ScriptAWDSSami+8,ScriptAWDSSami+9,ScriptAWDSSami+10,ScriptAWDSSami+11,ScriptAWDSSami+12,ScriptAWDSSami+13
-	setCOprofileText        coAWDSBotan,ScriptAWDSSami+3,ScriptAWDSSami+4,ScriptAWDSSami+5,ScriptAWDSSami+6
-	setCOvictoryText        coAWDSBotan,ScriptAWDSSami+7
+	setCOName               coAWDSBotan,ScriptAWDSBotan
+	setCOpowerName          coAWDSBotan,ScriptAWDSBotan+1
+	setCOsuperName          coAWDSBotan,ScriptAWDSBotan+2
+	setCOpowerText          coAWDSBotan,ScriptAWDSBotan+8,ScriptAWDSBotan+9,ScriptAWDSBotan+10,ScriptAWDSBotan+11,ScriptAWDSBotan+12,ScriptAWDSBotan+13
+	setCOprofileText        coAWDSBotan,ScriptAWDSBotan+3,ScriptAWDSBotan+4,ScriptAWDSBotan+5,ScriptAWDSBotan+6
+	setCOvictoryText        coAWDSBotan,ScriptAWDSBotan+7
 
 	setCOFaction		coAWDSSami,ArmyOrangeStar
 	setCOMusic          	coAWDSSami,MusicSamiTheme
