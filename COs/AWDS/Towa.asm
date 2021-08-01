@@ -11,15 +11,15 @@
 	setCOGFXSuperAnim       coAWDSTowa,7,7
 	setCOGFXSuperSFX        coAWDSTowa,0x1f7,0x1f8
 	
-	setCOName               coAWDSTowa,ScriptAWDSGrimm
-	setCOpowerName          coAWDSTowa,ScriptAWDSGrimm+1
-	setCOsuperName          coAWDSTowa,ScriptAWDSGrimm+2
-	setCOpowerText          coAWDSTowa,ScriptAWDSGrimm+8,ScriptAWDSGrimm+9,ScriptAWDSGrimm+10,ScriptAWDSGrimm+11,ScriptAWDSGrimm+12,ScriptAWDSGrimm+13
-	setCOprofileText        coAWDSTowa,ScriptAWDSGrimm+3,ScriptAWDSGrimm+4,ScriptAWDSGrimm+5,ScriptAWDSGrimm+6
-	setCOvictoryText        coAWDSTowa,ScriptAWDSGrimm+7
+	setCOName               coAWDSTowa,ScriptAWDSTowa
+	setCOpowerName          coAWDSTowa,ScriptAWDSTowa+1
+	setCOsuperName          coAWDSTowa,ScriptAWDSTowa+2
+	setCOpowerText          coAWDSTowa,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSGrimm+10,ScriptAWDSGrimm+11,ScriptAWDSGrimm+12,ScriptAWDSGrimm+13
+	setCOprofileText        coAWDSTowa,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSGrimm+5,ScriptAWDSGrimm+6
+	setCOvictoryText        coAWDSTowa,ScriptAWDSTowa+7
 
 	setCOFaction		coAWDSTowa,ArmyYellowComet
-	setCOMusic          	coAWDSTowa,MusicYellowComet
+	setCOMusic          	coAWDSTowa,MusicTowaComet
 
 	setCOPowerCost          coAWDSTowa,3
 	setCOSuperCost          coAWDSTowa,6
