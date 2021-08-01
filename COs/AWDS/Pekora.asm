@@ -48,6 +48,6 @@
 	setCOSuperUnitStat		coAWDSPekora,Unit_Bomber,100,0,1,0
 	setCOSuperUnitStat		coAWDSPekora,Unit_Sub,100,0,1,0
 
-	setCOAIPowerRange       coAWDSSensei,15
-	setCOAIPowerTrigger     coAWDSSensei,70
+	setCOAIPowerRange       coAWDSPekora,25
+	setCOAIPowerTrigger     coAWDSPekora,95
 ; blank line
