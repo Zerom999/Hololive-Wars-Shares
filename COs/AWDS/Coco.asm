@@ -36,9 +36,6 @@
 	setCOSuperAirStat	coAWDSCoco,90,90,0,0
 	setCOSuperNavyStat	coAWDSCoco,-40,0,0,0
 
-	setCOGFXPowerFX		coAWDSCoco,COPEffectResupplyUnit
-	setCOGFXSuperFX		coAWDSCoco,COPEffectResupplyUnit
-
 	setCOAIPowerRange       coAWDSCoco,25
 	setCOAIPowerTrigger     coAWDSCoco,95
 ; blank line
