@@ -1,4 +1,4 @@
-setCODefaults           coAWDSJess
+        setCODefaults           coAWDSJess
 	setCOGameID		coAWDSJess,Game_AWDS
 
 	setCOGFXFullbody        coAWDSJess,GraphicsAWDSJessGraphic
