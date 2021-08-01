@@ -21,8 +21,8 @@
 	setCOFaction			coAWDSPekora,ArmyYellowComet
 	setCOMusic          		coAWDSPekora,MusicPekoraTheme
 
-	setCOPowerCost          	coAWDSPekora,3
-	setCOSuperCost          	coAWDSPekora,6
+	setCOPowerCost          	coAWDSPekora,4
+	setCOSuperCost          	coAWDSPekora,8
 
 	setCOD2DIndirectStat		coAWDSPekora,40,0,0,0
 	setCOD2DUnitStat		coAWDSPekora,Unit_Infantry,-30,0,0,0
@@ -38,7 +38,7 @@
 	setCOPowerUnitStat		coAWDSPekora,Unit_AntiAir,-20,0,0,0
 	setCOPowerUnitStat		coAWDSPekora,Unit_Fighter,70,0,0,0
 	setCOPowerUnitStat		coAWDSPekora,Unit_Bomber,70,0,0,0
-	setCOPowerUnitStat		coAWDSPekora,Unit_BattleCopter,70,0,0,0
+	setCOPowerUnitStat		coAWDSPekora,Unit_Sub,70,0,0,0
 
 	setCOSuperIndirectStat		coAWDSPekora,100,0,0,0
 	setCOSuperNavyStat		coAWDSSensei,-30,0,0,0
