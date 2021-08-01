@@ -1,11 +1,11 @@
 	setCODefaults           coAWDSBotan
 	setCOGameID		coAWDSBotan,Game_AWDS
 
-	setCOGFXFullbody        coAWDSBotan,GraphicsAWDSSamiGraphic
-	setCOGFXName            coAWDSBotan,GraphicsAWDSSamiName
-	setCOGFXPalette         coAWDSBotan,GraphicsAWDSSamiPalette
-	setCOGFXFace            coAWDSBotan,GraphicsAWDSSamiFace,GraphicsAWDSSamiHappyFace,GraphicsAWDSSamiSadFace
-	setCOGFXSmallFace       coAWDSBotan,GraphicsAWDSSamiMugshot
+	setCOGFXFullbody        coAWDSBotan,GraphicsAWDSBotanGraphic
+	setCOGFXName            coAWDSBotan,GraphicsAWDSBotanName
+	setCOGFXPalette         coAWDSBotan,GraphicsAWDSBotanPalette
+	setCOGFXFace            coAWDSBotan,GraphicsAWDSBotanFace,GraphicsAWDSBotanHappyFace,GraphicsAWDSBotanSadFace
+	setCOGFXSmallFace       coAWDSBotan,GraphicsAWDSBotanMugshot
 	setCOGFXPowerAnim       coAWDSBotan,1,1
 	setCOGFXPowerSFX        coAWDSBotan,0xb1,0xb3
 	setCOGFXSuperAnim       coAWDSBotan,7,7
@@ -14,9 +14,9 @@
 	setCOName               coAWDSBotan,ScriptAWDSSami
 	setCOpowerName          coAWDSBotan,ScriptAWDSSami+1
 	setCOsuperName          coAWDSBotan,ScriptAWDSSami+2
-	setCOpowerText          coAWDSSami,ScriptAWDSSami+8,ScriptAWDSSami+9,ScriptAWDSSami+10,ScriptAWDSSami+11,ScriptAWDSSami+12,ScriptAWDSSami+13
-	setCOprofileText        coAWDSSami,ScriptAWDSSami+3,ScriptAWDSSami+4,ScriptAWDSSami+5,ScriptAWDSSami+6
-	setCOvictoryText        coAWDSSami,ScriptAWDSSami+7
+	setCOpowerText          coAWDSBotan,ScriptAWDSSami+8,ScriptAWDSSami+9,ScriptAWDSSami+10,ScriptAWDSSami+11,ScriptAWDSSami+12,ScriptAWDSSami+13
+	setCOprofileText        coAWDSBotan,ScriptAWDSSami+3,ScriptAWDSSami+4,ScriptAWDSSami+5,ScriptAWDSSami+6
+	setCOvictoryText        coAWDSBotan,ScriptAWDSSami+7
 
 	setCOFaction		coAWDSSami,ArmyOrangeStar
 	setCOMusic          	coAWDSSami,MusicSamiTheme
