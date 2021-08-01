@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSPekora,7,7
 	setCOGFXSuperSFX        coAWDSPekora,0x1f7,0x1f8
 	
-	setCOName               coAWDSSensei,ScriptAWDSSensei
-	setCOpowerName          coAWDSSensei,ScriptAWDSSensei+1
-	setCOsuperName          coAWDSSensei,ScriptAWDSSensei+2
-	setCOpowerText          coAWDSSensei,ScriptAWDSSensei+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
-	setCOprofileText        coAWDSSensei,ScriptAWDSSensei+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
-	setCOvictoryText        coAWDSSensei,ScriptAWDSSensei+7
+	setCOName               coAWDSPekora,ScriptAWDSPekora
+	setCOpowerName          coAWDSPekora,ScriptAWDSPekora+1
+	setCOsuperName          coAWDSPekora,ScriptAWDSPekora+2
+	setCOpowerText          coAWDSPekora,ScriptAWDSPekora+8,ScriptAWDSPekora+9,ScriptAWDSPekora+10,ScriptAWDSPekora+11,ScriptAWDSPekora+12,ScriptAWDSPekora+13
+	setCOprofileText        coAWDSPekora,ScriptAWDSPekora+3,ScriptAWDSPekora+4,ScriptAWDSPekora+5,ScriptAWDSPekora+6
+	setCOvictoryText        coAWDSPekora,ScriptAWDSPekora+7
 
 	setCOFaction			coAWDSSensei,ArmyYellowComet
 	setCOMusic          		coAWDSSensei,MusicSenseiTheme
