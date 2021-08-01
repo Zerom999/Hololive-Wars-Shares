@@ -18,18 +18,18 @@
 	setCOprofileText        coAWDSBotan,ScriptAWDSBotan+3,ScriptAWDSBotan+4,ScriptAWDSBotan+5,ScriptAWDSBotan+6
 	setCOvictoryText        coAWDSBotan,ScriptAWDSBotan+7
 
-	setCOFaction		coAWDSSami,ArmyOrangeStar
-	setCOMusic          	coAWDSSami,MusicSamiTheme
+	setCOFaction		coAWDSBotan,ArmyOrangeStar
+	setCOMusic          	coAWDSBotan,MusicBotanTheme
 
-	setCOPowerCost          coAWDSSami,5
-	setCOSuperCost          coAWDSSami,10
+	setCOPowerCost          coAWDSBotan,5
+	setCOSuperCost          coAWDSBotan,10
 
-	setCOD2DSoldierStat		coAWDSSami,20,0,0,0
-	setCOD2DDirectStat		coAWDSSami,-20,0,0,0
-	setCOPowerSoldierStat		coAWDSSami,40,0,2,0
-	setCOPowerDirectStat		coAWDSSami,-30,0,0,0
-	setCOSuperSoldierStat		coAWDSSami,60,0,6,0
-	setCOSuperDirectStat		coAWDSSami,-30,0,0,0
+	setCOD2DSoldierStat		coAWDSBotan,20,0,0,0
+	setCOD2DDirectStat		coAWDSBotan,-20,0,0,0
+	setCOPowerSoldierStat		coAWDSBotan,40,0,2,0
+	setCOPowerDirectStat		coAWDSBotan,-30,0,0,0
+	setCOSuperSoldierStat		coAWDSBotan,60,0,6,0
+	setCOSuperDirectStat		coAWDSBotan,-30,0,0,0
 
 	setCOD2DCapture			coAWDSSami,100
 	setCOPowerCapture		coAWDSSami,100
