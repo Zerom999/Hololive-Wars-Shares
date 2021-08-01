@@ -18,11 +18,11 @@
 	setCOprofileText        coAWDSPekora,ScriptAWDSPekora+3,ScriptAWDSPekora+4,ScriptAWDSPekora+5,ScriptAWDSPekora+6
 	setCOvictoryText        coAWDSPekora,ScriptAWDSPekora+7
 
-	setCOFaction			coAWDSSensei,ArmyYellowComet
-	setCOMusic          		coAWDSSensei,MusicSenseiTheme
+	setCOFaction			coAWDSPekora,ArmyYellowComet
+	setCOMusic          		coAWDSPekora,MusicPekoraTheme
 
-	setCOPowerCost          	coAWDSSensei,3
-	setCOSuperCost          	coAWDSSensei,6
+	setCOPowerCost          	coAWDSPekora,3
+	setCOSuperCost          	coAWDSPekora,6
 
 	setCOD2DIndirectStat		coAWDSFlare,20,0,0,1
 	setCOD2DNavyStat		coAWDSSensei,-30,0,0,0
