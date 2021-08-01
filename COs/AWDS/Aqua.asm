@@ -33,8 +33,8 @@
 	setCOPowerAirStat	coAWDSAqua,-10,0,0,0
 	
 	setCOSuperLandStat	coAWDSAqua,0,0,0,0
-	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
 	setCOSuperNavyStat	coAWDSAqua,0,60,3,0
+	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
 	
 	setCOAIPowerRange       coAWDSAqua,25
 	setCOAIPowerTrigger     coAWDSAqua,95
