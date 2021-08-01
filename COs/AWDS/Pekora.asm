@@ -24,17 +24,17 @@
 	setCOPowerCost          	coAWDSPekora,3
 	setCOSuperCost          	coAWDSPekora,6
 
-	setCOD2DIndirectStat		coAWDSFlare,20,0,0,1
+	setCOD2DIndirectStat		coAWDSPekora,40,0,0,0
 	setCOD2DNavyStat		coAWDSSensei,-30,0,0,0
 	setCOD2DTransportStat		coAWDSSensei,0,0,1,0
 	setCOD2DUnitStat		coAWDSSensei,Unit_BattleCopter,50,0,0,0
 
-	setCOPowerIndirectStat		coAWDSFlare,20,0,0,1
+	setCOPowerIndirectStat		coAWDSPekora,70,0,0,0
 	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
 	setCOPowerTransportStat		coAWDSSensei,0,0,1,0
 	setCOPowerUnitStat		coAWDSSensei,Unit_BattleCopter,70,0,0,0
 
-	setCOSuperIndirectStat		coAWDSFlare,20,0,0,1
+	setCOSuperIndirectStat		coAWDSPekora,100,0,0,0
 	setCOSuperNavyStat		coAWDSSensei,-30,0,0,0
 	setCOSuperTransportStat    	coAWDSSensei,0,0,1,0
 	setCOSuperUnitStat		coAWDSSensei,Unit_BattleCopter,90,0,0,0
