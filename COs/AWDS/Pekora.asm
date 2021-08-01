@@ -26,8 +26,8 @@
 
 	setCOD2DIndirectStat		coAWDSPekora,40,0,0,0
 	setCOD2DUnitStat		coAWDSPekora,Unit_Infantry,-30,0,0,0
-	setCOD2DTransportStat		coAWDSSensei,0,0,1,0
-	setCOD2DUnitStat		coAWDSSensei,Unit_BattleCopter,50,0,0,0
+	setCOD2DTransportStat		coAWDSPekora,Unit_Recon,-30,0,0,0
+	setCOD2DUnitStat		coAWDSSensei,Unit_AntiAir,-30,0,0,0
 
 	setCOPowerIndirectStat		coAWDSPekora,70,0,0,0
 	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
