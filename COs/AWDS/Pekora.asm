@@ -1,4 +1,4 @@
-setCODefaults           coAWDSSensei
+        setCODefaults           coAWDSSensei
 	setCOGameID		coAWDSSensei,Game_AWDS
 
 	setCOGFXFullbody        coAWDSSensei,GraphicsAWDSSenseiGraphic
