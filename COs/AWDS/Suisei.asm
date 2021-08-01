@@ -26,9 +26,8 @@
 	
 	setCOD2DAllStat		coAWDSSuisei,40,0,0,0
 
-	setCOD2DAllStat		coAWDSSuisei,40,0,0,0
-	setCOPowerAllStat	coAWDSSuisei,70,10,0,0
-	setCOSuperAllStat	coAWDSSuisei,100,10,0,0
+	setCOPowerASM		coAWDSHawke,COPowerBlackWave
+	setCOSuperASM		coAWDSHawke,COPowerBlackStorm
 	
 	setCOAIPowerRange       coAWDSSuisei,25
 	setCOAIPowerTrigger     coAWDSSuisei,95
