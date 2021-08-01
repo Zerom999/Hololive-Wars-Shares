@@ -24,11 +24,11 @@
 	setCOPowerCost          coAWDSSuisei,5
 	setCOSuperCost          coAWDSSuisei,10
 	
-	setCOd2dCounter		coAWDSSuisei,50
+	setCOd2dCounter		coAWDSSuisei,-50
 
-	setCOD2DAllStat		coAWDSSuisei,40,-20,0,0
-	setCOPowerAllStat	coAWDSSuisei,70,-20,0,0
-	setCOSuperAllStat	coAWDSSuisei,100,-20,0,0
+	setCOD2DAllStat		coAWDSSuisei,40,0,0,0
+	setCOPowerAllStat	coAWDSSuisei,70,10,0,0
+	setCOSuperAllStat	coAWDSSuisei,100,10,0,0
 	
 	setCOAIPowerRange       coAWDSSuisei,25
 	setCOAIPowerTrigger     coAWDSSuisei,95
