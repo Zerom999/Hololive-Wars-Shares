@@ -14,19 +14,19 @@
 	setCOName               coAWDSSubaru,ScriptAWDSSubaru
 	setCOpowerName          coAWDSSubaru,ScriptAWDSSubaru+1
 	setCOsuperName          coAWDSSubaru,ScriptAWDSSubaru+2
-	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSAqua+9,ScriptAWDSAqua+10,ScriptAWDSAqua+11,ScriptAWDSAqua+12,ScriptAWDSAqua+13
-	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSAqua+4,ScriptAWDSAqua+5,ScriptAWDSAqua+6
+	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
+	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
 	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
 
-	setCOFaction		coAWDSAqua,ArmyGreenEarth
-	setCOMusic          	coAWDSAqua,MusicAquaTheme
+	setCOFaction		coAWDSSubaru,ArmyGreenEarth
+	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
 
-	setCOPowerCost          coAWDSAqua,3
-	setCOSuperCost          coAWDSAqua,6
+	setCOPowerCost          coAWDSSubaru,3
+	setCOSuperCost          coAWDSSubaru,6
 	
-	setCOD2DLandStat	coAWDSAqua,0,0,0,0
-	setCOD2DNavyStat	coAWDSAqua,0,20,1,0
-	setCOD2DAirStat		coAWDSAqua,-20,0,0,0
+	setCOD2DLandStat	coAWDSSubaru,0,0,0,0
+	setCOD2DNavyStat	coAWDSSubaru,0,20,1,0
+	setCOD2DAirStat		coAWDSSubaru,-20,0,0,0
 	
 	setCOPowerLandStat	coAWDSAqua,0,0,0,0
 	setCOPowerNavyStat	coAWDSAqua,0,40,2,0
