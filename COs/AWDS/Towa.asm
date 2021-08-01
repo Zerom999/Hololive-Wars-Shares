@@ -24,10 +24,10 @@
 	setCOPowerCost          coAWDSTowa,3
 	setCOSuperCost          coAWDSTowa,6
 
-	setCOD2DAllStat		coAWDSGrimm,40,-20,0,0
-	setCOPowerAllStat	coAWDSGrimm,70,-10,0,0
-	setCOSuperAllStat	coAWDSGrimm,100,-10,0,0
+	setCOD2DAllStat		coAWDSTowa,40,-20,0,0
+	setCOPowerAllStat	coAWDSTowa,70,-10,0,0
+	setCOSuperAllStat	coAWDSTowa,100,-10,0,0
 	
-	setCOAIPowerRange       coAWDSGrimm,25
-	setCOAIPowerTrigger     coAWDSGrimm,95
+	setCOAIPowerRange       coAWDSTowa,25
+	setCOAIPowerTrigger     coAWDSTowa,95
 ; blank line
