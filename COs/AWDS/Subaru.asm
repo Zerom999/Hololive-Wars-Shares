@@ -24,15 +24,15 @@
 	setCOPowerCost          coAWDSSubaru,3
 	setCOSuperCost          coAWDSSubaru,6
 	
-	setCOD2DLandStat	coAWDSSubaru,0,0,0,0
-	setCOD2DNavyStat	coAWDSSubaru,0,20,1,0
-	setCOD2DAirStat		coAWDSSubaru,-20,0,0,0
+	setCOD2DLandStat	coAWDSSubaru,30,0,0,0
+	setCOD2DNavyStat	coAWDSSubaru,-10,0,0,0
+	setCOD2DAirStat		coAWDSSubaru,-10,0,0,0
 	
-	setCOPowerLandStat	coAWDSSubaru,0,0,0,0
+	setCOPowerLandStat	coAWDSSubaru,60,0,1,0
 	setCOPowerNavyStat	coAWDSSubaru,0,0,2,0
 	setCOPowerAirStat	coAWDSSubaru,-10,0,0,0
 	
-	setCOSuperLandStat	coAWDSSubaru,0,0,0,0
+	setCOSuperLandStat	coAWDSSubaru,90,0,2,0
 	setCOSuperNavyStat	coAWDSSubaru,0,60,3,0
 	setCOSuperAirStat	coAWDSSubaru,-10,0,0,0
 	
