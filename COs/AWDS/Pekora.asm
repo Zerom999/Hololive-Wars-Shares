@@ -1,11 +1,11 @@
         setCODefaults           coAWDSPekora
 	setCOGameID		coAWDSPekora,Game_AWDS
 
-	setCOGFXFullbody        coAWDSPekora,GraphicsAWDSSenseiGraphic
-	setCOGFXName            coAWDSPekora,GraphicsAWDSSenseiName
-	setCOGFXPalette         coAWDSPekora,GraphicsAWDSSenseiPalette
-	setCOGFXFace            coAWDSPekora,GraphicsAWDSSenseiFace,GraphicsAWDSSenseiHappyFace,GraphicsAWDSSenseiSadFace
-	setCOGFXSmallFace       coAWDSPekora,GraphicsAWDSSenseiMugshot
+	setCOGFXFullbody        coAWDSPekora,GraphicsAWDSPekoraGraphic
+	setCOGFXName            coAWDSPekora,GraphicsAWDSPekoraName
+	setCOGFXPalette         coAWDSPekora,GraphicsAWDSPekoraPalette
+	setCOGFXFace            coAWDSPekora,GraphicsAWDSPekoraFace,GraphicsAWDSPekoraHappyFace,GraphicsAWDSSPekoraSadFace
+	setCOGFXSmallFace       coAWDSPekora,GraphicsAWDSPekoraMugshot
 	setCOGFXPowerAnim       coAWDSPekora,3,0
 	setCOGFXPowerSFX        coAWDSPekora,0xb4,0xb5
 	setCOGFXSuperAnim       coAWDSPekora,7,7
