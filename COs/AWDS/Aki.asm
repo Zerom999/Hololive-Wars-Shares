@@ -26,7 +26,7 @@
 
 	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPreEmptiveCounter
 
-	setCOd2dCounter		coAWDSAki,50
+	setCOD2DCounter		coAWDSAki,50
 	
 	setCOPowerVision			coAWDSSonja,2
 	setCOPowerBadLuck			coAWDSSonja,5
