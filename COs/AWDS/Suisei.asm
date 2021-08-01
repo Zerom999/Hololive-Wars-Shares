@@ -24,7 +24,7 @@
 	setCOPowerCost          coAWDSSuisei,5
 	setCOSuperCost          coAWDSSuisei,10
 	
-	setCOD2DAllStat		coAWDSSuisei,40,0,0,0
+	setCOD2DAllStat		coAWDSSuisei,10,10,0,0
 
 	setCOPowerASM		coAWDSHawke,COPowerBlackWave
 	setCOSuperASM		coAWDSHawke,COPowerBlackStorm
