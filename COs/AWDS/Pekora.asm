@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSSensei
-	setCOGameID		coAWDSSensei,Game_AWDS
+        setCODefaults           coAWDSPekora
+	setCOGameID		coAWDSPekora,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSensei,GraphicsAWDSSenseiGraphic
-	setCOGFXName            coAWDSSensei,GraphicsAWDSSenseiName
-	setCOGFXPalette         coAWDSSensei,GraphicsAWDSSenseiPalette
-	setCOGFXFace            coAWDSSensei,GraphicsAWDSSenseiFace,GraphicsAWDSSenseiHappyFace,GraphicsAWDSSenseiSadFace
-	setCOGFXSmallFace       coAWDSSensei,GraphicsAWDSSenseiMugshot
-	setCOGFXPowerAnim       coAWDSSensei,3,0
-	setCOGFXPowerSFX        coAWDSSensei,0xb4,0xb5
-	setCOGFXSuperAnim       coAWDSSensei,7,7
-	setCOGFXSuperSFX        coAWDSSensei,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSPekora,GraphicsAWDSSenseiGraphic
+	setCOGFXName            coAWDSPekora,GraphicsAWDSSenseiName
+	setCOGFXPalette         coAWDSPekora,GraphicsAWDSSenseiPalette
+	setCOGFXFace            coAWDSPekora,GraphicsAWDSSenseiFace,GraphicsAWDSSenseiHappyFace,GraphicsAWDSSenseiSadFace
+	setCOGFXSmallFace       coAWDSPekora,GraphicsAWDSSenseiMugshot
+	setCOGFXPowerAnim       coAWDSPekora,3,0
+	setCOGFXPowerSFX        coAWDSPekora,0xb4,0xb5
+	setCOGFXSuperAnim       coAWDSPekora,7,7
+	setCOGFXSuperSFX        coAWDSPekora,0x1f7,0x1f8
 	
 	setCOName               coAWDSSensei,ScriptAWDSSensei
 	setCOpowerName          coAWDSSensei,ScriptAWDSSensei+1
