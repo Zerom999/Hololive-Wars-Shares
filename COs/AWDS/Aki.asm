@@ -24,7 +24,7 @@
 	setCOPowerCost          coAWDSSonja,3
 	setCOSuperCost          coAWDSSonja,6
 
-	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision+SpecialPreEmptiveCounter
+	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPreEmptiveCounter
 
 	setCOd2dCounter		coAWDSAki,50
 	
