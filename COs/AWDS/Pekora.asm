@@ -27,10 +27,10 @@
 	setCOD2DIndirectStat		coAWDSPekora,40,0,0,0
 	setCOD2DUnitStat		coAWDSPekora,Unit_Infantry,-30,0,0,0
 	setCOD2DUnitStat		coAWDSPekora,Unit_Recon,-30,0,0,0
-	setCOD2DUnitStat		coAWDSSensei,Unit_AntiAir,-30,0,0,0
-	setCOD2DUnitStat		coAWDSSensei,Unit_Fighter,40,0,0,0
-	setCOD2DUnitStat		coAWDSSensei,Unit_Bomber,40,0,0,0
-	setCOD2DUnitStat		coAWDSSensei,Unit_Sub,40,0,0,0
+	setCOD2DUnitStat		coAWDSPekora,Unit_AntiAir,-30,0,0,0
+	setCOD2DUnitStat		coAWDSPekora,Unit_Fighter,40,0,0,0
+	setCOD2DUnitStat		coAWDSPekora,Unit_Bomber,40,0,0,0
+	setCOD2DUnitStat		coAWDSPekora,Unit_Sub,40,0,0,0
 
 	setCOPowerIndirectStat		coAWDSPekora,70,0,0,0
 	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
