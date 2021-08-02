@@ -1,5 +1,5 @@
-        setCODefaults           coAWDSSensei
-	setCOGameID		coAWDSSensei,Game_AWDS
+        setCODefaults           coAWDSRushia
+	setCOGameID		coAWDSRushia,Game_AWDS
 
 	setCOGFXFullbody        coAWDSSensei,GraphicsAWDSSenseiGraphic
 	setCOGFXName            coAWDSSensei,GraphicsAWDSSenseiName
