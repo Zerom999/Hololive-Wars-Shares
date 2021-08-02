@@ -23,6 +23,9 @@
 
 	setCOPowerCost          	coAWDSSensei,4
 	setCOSuperCost          	coAWDSSensei,8
+	
+	setCOPowerAbilities	coAWDSHachi,SpecialCityDeploy
+	setCOSuperAbilities	coAWDSHachi,SpecialCityDeploy
 
 	setCOD2DSoldierStat		coAWDSSensei,50,30,0,0
 	setCOD2DSLandtat		coAWDSSensei,-30,0,0,0
@@ -36,8 +39,6 @@
 	setCOSuperLandtat		coAWDSSensei,-20,0,0,0
 	setCOSuperIndirectStat          coAWDSRushia,-20,0,0,0
 	setCOSuperNavytat		coAWDSSensei,-10,0,0,0
-	setCOPowerASM			coAWDSSensei,COPowerCopterCommand
-	setCOSuperASM			coAWDSSensei,COPowerAirborneAssault	
 	
 	setCOAIPowerRange       coAWDSSensei,15
 	setCOAIPowerTrigger     coAWDSSensei,70
