@@ -14,18 +14,18 @@
 	setCOName               coAWDSRushia,ScriptAWDSRushia
 	setCOpowerName          coAWDSRushia,ScriptAWDSRushia+1
 	setCOsuperName          coAWDSRushia,ScriptAWDSRushia+2
-	setCOpowerText          coAWDSRushia,ScriptAWDSRushia+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
-	setCOprofileText        coAWDSRushia,ScriptAWDSRushia+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
+	setCOpowerText          coAWDSRushia,ScriptAWDSRushia+8,ScriptAWDSRushia+9,ScriptAWDSRushia+10,ScriptAWDSRushia+11,ScriptAWDSRushia+12,ScriptAWDSRushia+13
+	setCOprofileText        coAWDSRushia,ScriptAWDSRushia+3,ScriptAWDSRushia+4,ScriptAWDSRushia+5,ScriptAWDSRushia+6
 	setCOvictoryText        coAWDSRushia,ScriptAWDSRushia+7
 
-	setCOFaction			coAWDSSensei,ArmyYellowComet
-	setCOMusic          		coAWDSSensei,MusicSenseiTheme
+	setCOFaction			coAWDSRushia,ArmyYellowComet
+	setCOMusic          		coAWDSRushia,MusicRushiaTheme
 
 	setCOPowerCost          	coAWDSSensei,4
 	setCOSuperCost          	coAWDSSensei,8
 	
-	setCOPowerAbilities	coAWDSHachi,SpecialCityDeploy
-	setCOSuperAbilities	coAWDSHachi,SpecialCityDeploy
+	setCOPowerAbilities	coAWDSRushia,SpecialCityDeploy
+	setCOSuperAbilities	coAWDSRushia,SpecialCityDeploy
 
 	setCOD2DSoldierStat		coAWDSSensei,50,30,0,0
 	setCOD2DSLandtat		coAWDSSensei,-30,0,0,0
