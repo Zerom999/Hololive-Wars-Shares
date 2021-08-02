@@ -28,19 +28,21 @@
 	setCOD2DSLandtat		coAWDSSensei,-20,0,0,0
 	setCOD2DIndirectStat            coAWDSRushia,-20,0,0,0
 	setCOD2DSNavytat		coAWDSSensei,-20,0,0,0
-	setCOD2DSAirStat		coAWDSSensei,-20,0,0,0
-
+	setCOD2DUnitStat		coAWDSSensei,Unit_BattleCopter,50,0,0,
+	
 	setCOPowerSoldierStat		coAWDSSensei,80,40,1,0
 	setCOPowerLandtat		coAWDSSensei,-10,0,0,0
 	setCOPowerIndirectStat          coAWDSRushia,-10,0,0,0
 	setCOPowerNavytat		coAWDSSensei,-10,0,0,0
 	setCOPowerAirStat		coAWDSSensei,-10,0,0,0
+	setCOD2DUnitStat		coAWDSSensei,Unit_BattleCopter,50,0,0,
 
 	setCOSuperSoldierStat		coAWDSSensei,120,40,2,0
 	setCOSuperLandtat		coAWDSSensei,-10,0,0,0
 	setCOSuperIndirectStat          coAWDSRushia,-10,0,0,0
 	setCOSuperNavytat		coAWDSSensei,-10,0,0,0
 	setCOSuperAirStat		coAWDSSensei,-10,0,0,0
+	setCOD2DUnitStat		coAWDSSensei,Unit_BattleCopter,50,0,0,
 
 	setCOPowerASM			coAWDSSensei,COPowerCopterCommand
 	setCOSuperASM			coAWDSSensei,COPowerAirborneAssault	
