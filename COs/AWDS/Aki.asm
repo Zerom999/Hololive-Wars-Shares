@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSSonja
-	setCOGameID		coAWDSSonja,Game_AWDS
+        setCODefaults           coAWDSAki
+	setCOGameID		coAWDSAki,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSonja,GraphicsAWDSSonjaGraphic
-	setCOGFXName            coAWDSSonja,GraphicsAWDSSonjaName
-	setCOGFXPalette         coAWDSSonja,GraphicsAWDSSonjaPalette
-	setCOGFXFace            coAWDSSonja,GraphicsAWDSSonjaFace,GraphicsAWDSSonjaHappyFace,GraphicsAWDSSonjaSadFace
-	setCOGFXSmallFace       coAWDSSonja,GraphicsAWDSSonjaMugshot
-	setCOGFXPowerAnim       coAWDSSonja,0,0
-	setCOGFXPowerSFX        coAWDSSonja,0xC4,0
-	setCOGFXSuperAnim       coAWDSSonja,7,7
-	setCOGFXSuperSFX        coAWDSSonja,0xC4,0
+	setCOGFXFullbody        coAWDSAki,GraphicsAWDSAkiGraphic
+	setCOGFXName            coAWDSAki,GraphicsAWDSAkiName
+	setCOGFXPalette         coAWDSAki,GraphicsAWDSAkiPalette
+	setCOGFXFace            coAWDSAki,GraphicsAWDSAkiFace,GraphicsAWDSAkiHappyFace,GraphicsAWDSAkiSadFace
+	setCOGFXSmallFace       coAWDSAki,GraphicsAWDSAkiMugshot
+	setCOGFXPowerAnim       coAWDSAki,0,0
+	setCOGFXPowerSFX        coAWDSAki,0xC4,0
+	setCOGFXSuperAnim       coAWDSAki,7,7
+	setCOGFXSuperSFX        coAWDSAki,0xC4,0
 	
 	setCOName               coAWDSSonja,ScriptAWDSSonja
 	setCOpowerName          coAWDSSonja,ScriptAWDSSonja+1
