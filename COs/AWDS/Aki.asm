@@ -29,8 +29,8 @@
 	setCOD2DAllStat		coAWDSAki,-20,20,0,0
         setCOd2dCounter		coAWDSAki,50
 	
-	setCOPowerAllStat			coAWDSSonja,2
-	setCOPowerBadLuck			coAWDSSonja,5
+	setCOPowerAllStat	coAWDSAki,-20,20,0,0		
+	setCOd2dCounter		coAWDSAki,50
 	setCOPowerTerrainStarReduction	coAWDSSonja,2
 
 	setCOSuperVision			coAWDSSonja,2
