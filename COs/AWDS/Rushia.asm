@@ -1,15 +1,15 @@
         setCODefaults           coAWDSRushia
 	setCOGameID		coAWDSRushia,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSensei,GraphicsAWDSSenseiGraphic
-	setCOGFXName            coAWDSSensei,GraphicsAWDSSenseiName
-	setCOGFXPalette         coAWDSSensei,GraphicsAWDSSenseiPalette
-	setCOGFXFace            coAWDSSensei,GraphicsAWDSSenseiFace,GraphicsAWDSSenseiHappyFace,GraphicsAWDSSenseiSadFace
-	setCOGFXSmallFace       coAWDSSensei,GraphicsAWDSSenseiMugshot
-	setCOGFXPowerAnim       coAWDSSensei,3,0
-	setCOGFXPowerSFX        coAWDSSensei,0xb4,0xb5
-	setCOGFXSuperAnim       coAWDSSensei,7,7
-	setCOGFXSuperSFX        coAWDSSensei,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSRushia,GraphicsAWDSRushiaGraphic
+	setCOGFXName            coAWDSRushia,GraphicsAWDSRushiaName
+	setCOGFXPalette         coAWDSRushia,GraphicsAWDSRushiaPalette
+	setCOGFXFace            coAWDSRushia,GraphicsAWDSRushiaFace,GraphicsAWDSRushiaHappyFace,GraphicsAWDSRushiaSadFace
+	setCOGFXSmallFace       coAWDSRushia,GraphicsAWDSRushiaMugshot
+	setCOGFXPowerAnim       coAWDSRushia,3,0
+	setCOGFXPowerSFX        coAWDSRushia,0xb4,0xb5
+	setCOGFXSuperAnim       coAWDSRushia,7,7
+	setCOGFXSuperSFX        coAWDSRushia,0x1f7,0x1f8
 	
 	setCOName               coAWDSSensei,ScriptAWDSSensei
 	setCOpowerName          coAWDSSensei,ScriptAWDSSensei+1
