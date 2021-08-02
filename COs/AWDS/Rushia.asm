@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSRushia,7,7
 	setCOGFXSuperSFX        coAWDSRushia,0x1f7,0x1f8
 	
-	setCOName               coAWDSSensei,ScriptAWDSSensei
-	setCOpowerName          coAWDSSensei,ScriptAWDSSensei+1
-	setCOsuperName          coAWDSSensei,ScriptAWDSSensei+2
-	setCOpowerText          coAWDSSensei,ScriptAWDSSensei+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
-	setCOprofileText        coAWDSSensei,ScriptAWDSSensei+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
-	setCOvictoryText        coAWDSSensei,ScriptAWDSSensei+7
+	setCOName               coAWDSRushia,ScriptAWDSSensei
+	setCOpowerName          coAWDSRushia,ScriptAWDSSensei+1
+	setCOsuperName          coAWDSRushia,ScriptAWDSSensei+2
+	setCOpowerText          coAWDSRushia,ScriptAWDSSensei+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
+	setCOprofileText        coAWDSRushia,ScriptAWDSSensei+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
+	setCOvictoryText        coAWDSRushia,ScriptAWDSSensei+7
 
 	setCOFaction			coAWDSSensei,ArmyYellowComet
 	setCOMusic          		coAWDSSensei,MusicSenseiTheme
