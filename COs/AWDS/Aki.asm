@@ -30,7 +30,7 @@
         setCOd2dCounter		coAWDSAki,50
 	
 	setCOPowerAllStat	coAWDSAki,-20,20,0,0		
-	setCOd2dCounter		coAWDSAki,50
+	setCOPowerCounter	coAWDSAki,50	
 	
 	setCOAIPowerRange       coAWDSSonja,15
 	setCOAIPowerTrigger     coAWDSSonja,70
