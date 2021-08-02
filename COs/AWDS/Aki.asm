@@ -31,12 +31,7 @@
 	
 	setCOPowerAllStat	coAWDSAki,-20,20,0,0		
 	setCOd2dCounter		coAWDSAki,50
-	setCOPowerTerrainStarReduction	coAWDSSonja,2
-
-	setCOSuperVision			coAWDSSonja,2
-	setCOSuperBadLuck			coAWDSSonja,5
-	setCOSuperTerrainStarReduction	coAWDSSonja,3
-
+	
 	setCOPowerASM         		coAWDSSonja,COPowerEnhancedVisionFade
 	setCOSuperASM         		coAWDSSonja,COPowerEnhancedVisionFade
 	
