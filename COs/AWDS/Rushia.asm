@@ -24,10 +24,10 @@
 	setCOPowerCost          	coAWDSSensei,3
 	setCOSuperCost          	coAWDSSensei,6
 
-	setCOD2DSoldierStat		coAWDSSensei,20,0,0,0
-	setCOD2DSLandtat		coAWDSSensei,20,0,0,0
-	setCOD2DSNavytat		coAWDSSensei,20,0,0,0
-	setCOD2DSAirStat		coAWDSSensei,20,0,0,0
+	setCOD2DSoldierStat		coAWDSSensei,50,0,0,0
+	setCOD2DSLandtat		coAWDSSensei,-10,0,0,0
+	setCOD2DSNavytat		coAWDSSensei,-10,0,0,0
+	setCOD2DSAirStat		coAWDSSensei,-10,0,0,0
 
 	setCOPowerSoldierStat		coAWDSSensei,40,0,0,0
 	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
