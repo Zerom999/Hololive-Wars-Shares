@@ -24,10 +24,9 @@
 	setCOPowerCost          coAWDSJess,3
 	setCOSuperCost          coAWDSJess,6
 	
+	setCOD2DSoldierStat
 	setCOD2DLandStat	coAWDSJess,20,0,0,0
-	setCOD2DNavyStat	coAWDSJess,-10,0,0,0
-	setCOD2DAirStat		coAWDSJess,-10,0,0,0
-
+	
 	setCOPowerLandStat	coAWDSJess,40,0,1,0
 	setCOPowerNavyStat	coAWDSJess,-10,0,0,0
 	setCOPowerAirStat	coAWDSJess,-10,0,0,0
