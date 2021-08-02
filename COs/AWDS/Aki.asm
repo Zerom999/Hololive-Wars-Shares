@@ -29,10 +29,10 @@
 	setCOD2DAllStat		coAWDSAki,-20,20,0,0
         setCOd2dCounter		coAWDSAki,50
 	
-	setCOPowerAllStat	coAWDSAki,-20,20,0,0		
+	setCOPowerAllStat	coAWDSAki,-10,40,0,0		
 	setCOPowerCounter	coAWDSAki,50	
 	
-	setCOSuperrAllStat	coAWDSAki,-20,20,0,0		
+	setCOSuperrAllStat	coAWDSAki,0,60,0,0		
 	setCOSuperCounter	coAWDSAki,50	
 	
 	setCOAIPowerRange       coAWDSSonja,15
