@@ -32,9 +32,6 @@
 	setCOPowerAllStat	coAWDSAki,-20,20,0,0		
 	setCOd2dCounter		coAWDSAki,50
 	
-	setCOPowerASM         		coAWDSSonja,COPowerEnhancedVisionFade
-	setCOSuperASM         		coAWDSSonja,COPowerEnhancedVisionFade
-	
 	setCOAIPowerRange       coAWDSSonja,15
 	setCOAIPowerTrigger     coAWDSSonja,70
 ; blank line
