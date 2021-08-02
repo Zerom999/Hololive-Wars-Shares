@@ -21,24 +21,24 @@
 	setCOFaction			coAWDSRushia,ArmyYellowComet
 	setCOMusic          		coAWDSRushia,MusicRushiaTheme
 
-	setCOPowerCost          	coAWDSSensei,4
-	setCOSuperCost          	coAWDSSensei,8
+	setCOPowerCost          	coAWDSRushia,4
+	setCOSuperCost          	coAWDSRushia,8
 	
 	setCOPowerAbilities	coAWDSRushia,SpecialCityDeploy
 	setCOSuperAbilities	coAWDSRushia,SpecialCityDeploy
 
-	setCOD2DSoldierStat		coAWDSSensei,50,30,0,0
-	setCOD2DSLandtat		coAWDSSensei,-30,0,0,0
+	setCOD2DSoldierStat		coAWDSRushia,50,30,0,0
+	setCOD2DSLandtat		coAWDSRushia,-30,0,0,0
 	setCOD2DIndirectStat            coAWDSRushia,-30,0,0,0
 	
-	setCOPowerSoldierStat		coAWDSSensei,100,40,1,0
-	setCOPowerLandtat		coAWDSSensei,-20,0,0,0
+	setCOPowerSoldierStat		coAWDSRushia,100,40,1,0
+	setCOPowerLandtat		coAWDSRushia,-20,0,0,0
 	setCOPowerIndirectStat          coAWDSRushia,-20,0,0,0
 	
-	setCOSuperSoldierStat		coAWDSSensei,150,40,2,0
-	setCOSuperLandtat		coAWDSSensei,-20,0,0,0
+	setCOSuperSoldierStat		coAWDSRushia,150,40,2,0
+	setCOSuperLandtat		coAWDSRushia,-20,0,0,0
 	setCOSuperIndirectStat          coAWDSRushia,-20,0,0,0
 	
-	setCOAIPowerRange       coAWDSSensei,15
-	setCOAIPowerTrigger     coAWDSSensei,70
+	setCOAIPowerRange       coAWDSRushia,15
+	setCOAIPowerTrigger     coAWDSRushia,70
 ; blank line
