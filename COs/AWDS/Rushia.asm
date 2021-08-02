@@ -30,15 +30,17 @@
 	setCOD2DSNavytat		coAWDSSensei,-20,0,0,0
 	setCOD2DSAirStat		coAWDSSensei,-20,0,0,0
 
-	setCOPowerSoldierStat		coAWDSSensei,40,0,0,0
-	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
-	setCOPowerTransportStat		coAWDSSensei,0,0,1,0
-	setCOPowerUnitStat		coAWDSSensei,Unit_BattleCopter,70,0,0,0
+	setCOPowerSoldierStat		coAWDSSensei,50,30,0,0
+	setCOPowerLandtat		coAWDSSensei,-20,0,0,0
+	setCOPowerIndirectStat            coAWDSRushia,-20,0,0,0
+	setCOPowerNavytat		coAWDSSensei,-20,0,0,0
+	setCOPowerAirStat		coAWDSSensei,-20,0,0,0
 
-	setCOSuperSoldierStat		coAWDSSensei,60,0,0,0
-	setCOSuperNavyStat		coAWDSSensei,-30,0,0,0
-	setCOSuperTransportStat    	coAWDSSensei,0,0,1,0
-	setCOSuperUnitStat		coAWDSSensei,Unit_BattleCopter,90,0,0,0
+	setCOSuperSoldierStat		coAWDSSensei,50,30,0,0
+	setCOSuperLandtat		coAWDSSensei,-20,0,0,0
+	setCOSuperIndirectStat            coAWDSRushia,-20,0,0,0
+	setCOSuperNavytat		coAWDSSensei,-20,0,0,0
+	setCOSuperAirStat		coAWDSSensei,-20,0,0,0
 
 	setCOPowerASM			coAWDSSensei,COPowerCopterCommand
 	setCOSuperASM			coAWDSSensei,COPowerAirborneAssault	
