@@ -29,7 +29,7 @@
 	setCOD2DAllStat		coAWDSAki,-20,20,0,0
         setCOd2dCounter		coAWDSAki,50
 	
-	setCOPowerVision			coAWDSSonja,2
+	setCOPowerAllStat			coAWDSSonja,2
 	setCOPowerBadLuck			coAWDSSonja,5
 	setCOPowerTerrainStarReduction	coAWDSSonja,2
 
