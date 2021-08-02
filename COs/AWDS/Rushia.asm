@@ -38,7 +38,6 @@
 	setCOSuperSoldierStat		coAWDSSensei,150,40,2,0
 	setCOSuperLandtat		coAWDSSensei,-20,0,0,0
 	setCOSuperIndirectStat          coAWDSRushia,-20,0,0,0
-	setCOSuperNavytat		coAWDSSensei,-10,0,0,0
 	
 	setCOAIPowerRange       coAWDSSensei,15
 	setCOAIPowerTrigger     coAWDSSensei,70
