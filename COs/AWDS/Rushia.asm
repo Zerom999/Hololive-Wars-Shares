@@ -24,19 +24,19 @@
 	setCOPowerCost          	coAWDSSensei,3
 	setCOSuperCost          	coAWDSSensei,6
 
-	setCOD2DSoldierStat		coAWDSSensei,50,30,0,0
+	setCOD2DSoldierStat		coAWDSSensei,30,30,0,0
 	setCOD2DSLandtat		coAWDSSensei,-20,0,0,0
 	setCOD2DIndirectStat            coAWDSRushia,-20,0,0,0
 	setCOD2DSNavytat		coAWDSSensei,-20,0,0,0
 	setCOD2DSAirStat		coAWDSSensei,-20,0,0,0
 
-	setCOPowerSoldierStat		coAWDSSensei,50,30,0,0
+	setCOPowerSoldierStat		coAWDSSensei,60,40,0,0
 	setCOPowerLandtat		coAWDSSensei,-20,0,0,0
 	setCOPowerIndirectStat          coAWDSRushia,-20,0,0,0
 	setCOPowerNavytat		coAWDSSensei,-20,0,0,0
 	setCOPowerAirStat		coAWDSSensei,-20,0,0,0
 
-	setCOSuperSoldierStat		coAWDSSensei,50,30,0,0
+	setCOSuperSoldierStat		coAWDSSensei,90,50,0,0
 	setCOSuperLandtat		coAWDSSensei,-20,0,0,0
 	setCOSuperIndirectStat          coAWDSRushia,-20,0,0,0
 	setCOSuperNavytat		coAWDSSensei,-20,0,0,0
