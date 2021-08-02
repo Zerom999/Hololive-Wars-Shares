@@ -18,14 +18,14 @@
 	setCOprofileText        coAWDSAki,ScriptAWDSAki+3,ScriptAWDSAki+4,ScriptAWDSAki+5,ScriptAWDSAki+6
 	setCOvictoryText        coAWDSAki,ScriptAWDSAki+7
 
-	setCOFaction		coAWDSSonja,ArmyYellowComet
-	setCOMusic          	coAWDSSonja,MusicSonjaTheme
+	setCOFaction		coAWDSAki,ArmyYellowComet
+	setCOMusic          	coAWDSAki,MusicAkiTheme
 
-	setCOPowerCost          coAWDSSonja,3
-	setCOSuperCost          coAWDSSonja,6
+	setCOPowerCost          coAWDSAki,3
+	setCOSuperCost          coAWDSAki,6
 	
-	setCOPowwrAbilities			coAWDSSonja,SpecialHiddenHP
-	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPreEmptiveCounter
+	setCOPowwrAbilities			coAWDSAki,SpecialHiddenHP
+	setCOSuperAbilities			coAWDSAki,SpecialHiddenHP+SpecialPreEmptiveCounter
 	
 	setCOD2DAllStat		coAWDSAki,-20,20,0,0
         setCOd2dCounter		coAWDSAki,50
@@ -35,6 +35,6 @@
 	
 	setCOSuperrAllStat	coAWDSAki,0,60,0,0		
 	
-	setCOAIPowerRange       coAWDSSonja,15
-	setCOAIPowerTrigger     coAWDSSonja,70
+	setCOAIPowerRange       coAWDSAki,15
+	setCOAIPowerTrigger     coAWDSAki,70
 ; blank line
