@@ -24,8 +24,9 @@
 	setCOPowerCost          	coAWDSSensei,3
 	setCOSuperCost          	coAWDSSensei,6
 
-	setCOD2DSoldierStat		coAWDSSensei,50,0,0,0
+	setCOD2DSoldierStat		coAWDSSensei,30,30,0,0
 	setCOD2DSLandtat		coAWDSSensei,-10,0,0,0
+	setCOD2DIndirectStat            coAWDSRushia,-10,0,0,0
 	setCOD2DSNavytat		coAWDSSensei,-10,0,0,0
 	setCOD2DSAirStat		coAWDSSensei,-10,0,0,0
 
