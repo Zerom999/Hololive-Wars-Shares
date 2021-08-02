@@ -32,13 +32,13 @@
 
 	setCOPowerSoldierStat		coAWDSSensei,50,30,0,0
 	setCOPowerLandtat		coAWDSSensei,-20,0,0,0
-	setCOPowerIndirectStat            coAWDSRushia,-20,0,0,0
+	setCOPowerIndirectStat          coAWDSRushia,-20,0,0,0
 	setCOPowerNavytat		coAWDSSensei,-20,0,0,0
 	setCOPowerAirStat		coAWDSSensei,-20,0,0,0
 
 	setCOSuperSoldierStat		coAWDSSensei,50,30,0,0
 	setCOSuperLandtat		coAWDSSensei,-20,0,0,0
-	setCOSuperIndirectStat            coAWDSRushia,-20,0,0,0
+	setCOSuperIndirectStat          coAWDSRushia,-20,0,0,0
 	setCOSuperNavytat		coAWDSSensei,-20,0,0,0
 	setCOSuperAirStat		coAWDSSensei,-20,0,0,0
 
