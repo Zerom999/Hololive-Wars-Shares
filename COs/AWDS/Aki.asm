@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSAki,7,7
 	setCOGFXSuperSFX        coAWDSAki,0xC4,0
 	
-	setCOName               coAWDSSonja,ScriptAWDSSonja
-	setCOpowerName          coAWDSSonja,ScriptAWDSSonja+1
-	setCOsuperName          coAWDSSonja,ScriptAWDSSonja+2
-	setCOpowerText          coAWDSSonja,ScriptAWDSSonja+8,ScriptAWDSSonja+9,ScriptAWDSSonja+10,ScriptAWDSSonja+11,ScriptAWDSSonja+12,ScriptAWDSSonja+13
-	setCOprofileText        coAWDSSonja,ScriptAWDSSonja+3,ScriptAWDSSonja+4,ScriptAWDSSonja+5,ScriptAWDSSonja+6
-	setCOvictoryText        coAWDSSonja,ScriptAWDSSonja+7
+	setCOName               coAWDSAki,ScriptAWDSAki
+	setCOpowerName          coAWDSAki,ScriptAWDSAki+1
+	setCOsuperName          coAWDSAki,ScriptAWDSAki+2
+	setCOpowerText          coAWDSAki,ScriptAWDSAki+8,ScriptAWDSAki+9,ScriptAWDSAki+10,ScriptAWDSAki+11,ScriptAWDSAki+12,ScriptAWDSAki+13
+	setCOprofileText        coAWDSAki,ScriptAWDSAki+3,ScriptAWDSAki+4,ScriptAWDSAki+5,ScriptAWDSAki+6
+	setCOvictoryText        coAWDSAki,ScriptAWDSAki+7
 
 	setCOFaction		coAWDSSonja,ArmyYellowComet
 	setCOMusic          	coAWDSSonja,MusicSonjaTheme
