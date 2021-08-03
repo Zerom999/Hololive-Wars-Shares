@@ -14,8 +14,8 @@
 	setCOName               coAWDSSora,ScriptAWDSSora
 	setCOpowerName          coAWDSSora,ScriptAWDSSora+1
 	setCOsuperName          coAWDSSora,ScriptAWDSSora+2
-	setCOpowerText          coAWDSSora,ScriptAWDSSora+8,ScriptAWDSTowa+9,ScriptAWDSTowa+10,ScriptAWDSTowa+11,ScriptAWDSTowa+12,ScriptAWDSTowa+13
-	setCOprofileText        coAWDSSora,ScriptAWDSSora+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
+	setCOpowerText          coAWDSSora,ScriptAWDSSora+8,ScriptAWDSSora+9,ScriptAWDSSora+10,ScriptAWDSSoraa+11,ScriptAWDSSora+12,ScriptAWDSSora+13
+	setCOprofileText        coAWDSSora,ScriptAWDSSora+3,ScriptAWDSSora+4,ScriptAWDSSora+5,ScriptAWDSSora+6
 	setCOvictoryText        coAWDSSora,ScriptAWDSSora+7
 
 	setCOFaction		coAWDSSora,ArmyYellowComet
