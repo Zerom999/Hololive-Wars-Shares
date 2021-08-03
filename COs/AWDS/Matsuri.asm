@@ -24,23 +24,23 @@
 	setCOPowerCost          coAWDSMatsuri,3
 	setCOSuperCost          coAWDSMatsuri,6
 	
-	setCOD2DSoldierStat     coAWDSMatsuri,10,10,0,0
-	setCOD2DLandStat	coAWDSMatsuri,-10,0,0,0
-	setCOD2DNavyStat        coAWDSMatsuri,0,0,0,0
+	setCOD2DSoldierStat     coAWDSMatsuri,10,0,0,0
+	setCOD2DLandStat	coAWDSMatsuri,-20,0,0,0
+	setCOD2DNavyStat        coAWDSMatsuri,-20,0,0,0
 	setCOD2DTransportStat	coAWDSMatsuri,0,10,1,0	
 	setCOD2DUnitStat	coAWDSSensei,Unit_BattleCopter,50,0,0,0	
 	
-	setCOPowerSoldierStat	coAWDSMatsuri,30,30,1,0
+	setCOPowerSoldierStat	coAWDSMatsuri,30,0,1,0
 	setCOPowerLandStat	coAWDSMatsuri,0,0,0,0
 	setCOPowerNavyStat      coAWDSMatsuri,0,0,0,0
 	setCOPowerTransportStat	coAWDSMatsuri,0,20,2,0
-	setCOPowerUnitStat	coAWDSSensei,Unit_BattleCopter,100,0,0,0	
+	setCOPowerUnitStat	coAWDSSensei,Unit_BattleCopter,100,0,1,0	
 
-	setCOSuperSoldierStat	coAWDSMatsuri,50,50,2,0
+	setCOSuperSoldierStat	coAWDSMatsuri,50,0,2,0
 	setCOSuperLandStat	coAWDSMatsuri,0,0,0,0
 	setCOSuperNavyStat      coAWDSMatsuri,0,0,0,0
 	setCOSuperTransportStat	coAWDSMatsuri,0,30,3,0
-	setCOSuperUnitStat	coAWDSSensei,Unit_BattleCopter,150,0,0,0	
+	setCOSuperUnitStat	coAWDSSensei,Unit_BattleCopter,150,0,2,0	
 
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
