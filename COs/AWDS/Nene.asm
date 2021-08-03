@@ -25,7 +25,7 @@
 	setCOSuperCost          coAWDSNene,8
 
 	setCOd2dRepair		coAWDSNene,1
-	setCOPowerLuck		coAWDSNene,40	
+	setCOPowerASM		coAWDSNene,TestMissile	
 	setCOPowerRepair	coAWDSNene,1
 	setCOSuperRepair	coAWDSNene,1
 	setCOSuperASM		coAWDSNene,COPowerCoveringFire
