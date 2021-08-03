@@ -26,7 +26,7 @@
 	
 	setCOPowerAllStat	coAWDSEagle,-20,-20,0,0
 	
-	setCOSuperAllStat	coAWDSEagle,20,20,0,0
+	setCOSuperAllStat	coAWDSEagle,20,20,1,0
 	
 	setCOGFXPowerRule	coAWDSEagle,COPCheckAerialClassOrWaitMode
 	setCOGFXPowerFX		coAWDSEagle,COPEffectReanimateUnit
