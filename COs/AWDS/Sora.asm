@@ -19,7 +19,7 @@
 	setCOvictoryText        coAWDSSora,ScriptAWDSSora+7
 
 	setCOFaction		coAWDSSora,ArmyYellowComet
-	setCOMusic          	coAWDSSora,MusicSoraComet
+	setCOMusic          	coAWDSSora,MusicSoraTheme
 
 	setCOPowerCost          coAWDSSora,5
 	setCOSuperCost          coAWDSSora,10
