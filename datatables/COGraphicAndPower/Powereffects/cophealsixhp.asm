@@ -1,8 +1,8 @@
-;copeffectheal5HP.asm
-;Heals 5 HP
+;copeffectheal6HP.asm
+;Heals 6 HP
 
 .org 0x080444FC
-COPEffectHealFiveHP:
+COPEffectHealSixHP:
 	push	{r14}
 	mov	r1,0x5
 	mov	r2,0x0
