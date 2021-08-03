@@ -1,4 +1,4 @@
-setCODefaults           coAWDSEagle
+        setCODefaults           coAWDSEagle
 	setCOGameID		coAWDSEagle,Game_AWDS
 
 	setCOGFXFullbody        coAWDSEagle,GraphicsAWDSEagleGraphic
