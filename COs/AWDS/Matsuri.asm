@@ -14,12 +14,12 @@
 	setCOName               coAWDSMatsuri,ScriptAWDSMatsuri
 	setCOpowerName          coAWDSMatsuri,ScriptAWDSMatsuri+1
 	setCOsuperName          coAWDSMatsuri,ScriptAWDSMatsuri+2
-	setCOpowerText          coAWDSMatsuri,ScriptAWDSMatsuri+8,ScriptAWDSJess+9,ScriptAWDSJess+10,ScriptAWDSJess+11,ScriptAWDSJess+12,ScriptAWDSJess+13
-	setCOprofileText        coAWDSMatsuri,ScriptAWDSMatsuri+3,ScriptAWDSJess+4,ScriptAWDSJess+5,ScriptAWDSJess+6
+	setCOpowerText          coAWDSMatsuri,ScriptAWDSMatsuri+8,ScriptAWDSMatsuri+9,ScriptAWDSMatsuri+10,ScriptAWDSMatsuri+11,ScriptAWDSMatsuri+12,ScriptAWDSMatsuri+13
+	setCOprofileText        coAWDSMatsuri,ScriptAWDSMatsuri+3,ScriptAWDSMatsuri+4,ScriptAWDSMatsuri+5,ScriptAWDSMatsuri+6
 	setCOvictoryText        coAWDSMatsuri,ScriptAWDSMatsuri+7
 
-	setCOFaction		coAWDSJess,ArmyGreenEarth
-	setCOMusic          	coAWDSJess,MusicJessTheme
+	setCOFaction		coAWDSMatsuri,ArmyGreenEarth
+	setCOMusic          	coAWDSMatsuri,MusicMatsuriTheme
 
 	setCOPowerCost          coAWDSJess,3
 	setCOSuperCost          coAWDSJess,6
