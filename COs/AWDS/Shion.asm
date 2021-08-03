@@ -24,10 +24,6 @@
 	setCOPowerCost          coAWDSEagle,5
 	setCOSuperCost          coAWDSEagle,10
 	
-	setCOD2DAbilities	coAWDSEagle,SpecialAerialFuelSaver
-	setCOPowerAbilities	coAWDSEagle,SpecialAerialFuelSaver
-	setCOSuperAbilities	coAWDSEagle,SpecialAerialFuelSaver
-
 	setCOD2DNavyStat	coAWDSEagle,-40,0,0,0
 	setCOD2DAirStat		coAWDSEagle,20,20,0,0
 
