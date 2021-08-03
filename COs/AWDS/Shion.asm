@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSShion,7,7
 	setCOGFXSuperSFX        coAWDSShion,0x1f7,0x1f8
 	
-	setCOName               coAWDSEagle,ScriptAWDSEagle
-	setCOpowerName          coAWDSEagle,ScriptAWDSEagle+1
-	setCOsuperName          coAWDSEagle,ScriptAWDSEagle+2
-	setCOpowerText          coAWDSEagle,ScriptAWDSEagle+8,ScriptAWDSEagle+9,ScriptAWDSEagle+10,ScriptAWDSEagle+11,ScriptAWDSEagle+12,ScriptAWDSEagle+13
-	setCOprofileText        coAWDSEagle,ScriptAWDSEagle+3,ScriptAWDSEagle+4,ScriptAWDSEagle+5,ScriptAWDSEagle+6
-	setCOvictoryText        coAWDSEagle,ScriptAWDSEagle+7
+	setCOName               coAWDSShion,ScriptAWDSShion
+	setCOpowerName          coAWDSShion,ScriptAWDSShion+1
+	setCOsuperName          coAWDSShion,ScriptAWDSShion+2
+	setCOpowerText          coAWDSShion,ScriptAWDSShion+8,ScriptAWDSShion+9,ScriptAWDSShion+10,ScriptAWDSShion+11,ScriptAWDSShion+12,ScriptAWDSShio+13
+	setCOprofileText        coAWDSShion,ScriptAWDSShion+3,ScriptAWDSShion+4,ScriptAWDSShion+5,ScriptAWDSShion+6
+	setCOvictoryText        coAWDSShion,ScriptAWDSShion+7
 
 	setCOFaction		coAWDSEagle,ArmyGreenEarth	
 	setCOMusic          	coAWDSEagle,MusicEagleTheme
