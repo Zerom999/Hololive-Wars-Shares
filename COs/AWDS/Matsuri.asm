@@ -45,6 +45,6 @@
 	setCOGFXPowerFX		coAWDSMatsuri,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSMatsuri,COPEffectResupplyUnit
 
-	setCOAIPowerRange       coAWDSJess,25
-	setCOAIPowerTrigger     coAWDSJess,95
+	setCOAIPowerRange       coAWDSMatusri,25
+	setCOAIPowerTrigger     coAWDSMatsuri,95
 ; blank line
