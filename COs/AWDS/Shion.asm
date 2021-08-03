@@ -18,8 +18,8 @@
 	setCOprofileText        coAWDSShion,ScriptAWDSShion+3,ScriptAWDSShion+4,ScriptAWDSShion+5,ScriptAWDSShion+6
 	setCOvictoryText        coAWDSShion,ScriptAWDSShion+7
 
-	setCOFaction		coAWDSEagle,ArmyGreenEarth	
-	setCOMusic          	coAWDSEagle,MusicEagleTheme
+	setCOFaction		coAWDSShion,ArmyGreenEarth	
+	setCOMusic          	coAWDSShion,MusicShionTheme
 
 	setCOPowerCost          coAWDSEagle,5
 	setCOSuperCost          coAWDSEagle,10
