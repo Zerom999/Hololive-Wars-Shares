@@ -28,13 +28,13 @@
 	setCOD2DLandStat	coAWDSJess,20,0,0,0
 	setCOD2DTransportStat	coAWDSJess,20,0,0,0	
 	
-	setCOPowerLandStat	coAWDSJess,40,0,1,0
-	setCOPowerNavyStat	coAWDSJess,-10,0,0,0
-	setCOPowerAirStat	coAWDSJess,-10,0,0,0
+	setCOPowerSoldierStat	coAWDSJess,40,0,1,0
+	setCOPowerLandStat	coAWDSJess,-10,0,0,0
+	setCOPowerTransportStat	coAWDSJess,-10,0,0,0
 
-	setCOSuperLandStat	coAWDSJess,60,0,2,0
-	setCOSuperAirStat	coAWDSJess,-10,0,0,0
-	setCOSuperNavyStat	coAWDSJess,-10,0,0,0
+	setCOSuperSoldierStat	coAWDSJess,60,0,2,0
+	setCOSuperLandStat	coAWDSJess,-10,0,0,0
+	setCOSuperTransportStat	coAWDSJess,-10,0,0,0
 
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
