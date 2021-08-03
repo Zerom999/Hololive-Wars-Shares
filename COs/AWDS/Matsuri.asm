@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSJess
-	setCOGameID		coAWDSJess,Game_AWDS
+        setCODefaults           coAWDSMatsuri
+	setCOGameID		coAWDSMatsuri,Game_AWDS
 
-	setCOGFXFullbody        coAWDSJess,GraphicsAWDSJessGraphic
-	setCOGFXName            coAWDSJess,GraphicsAWDSJessName
-	setCOGFXPalette         coAWDSJess,GraphicsAWDSJessPalette
-	setCOGFXFace            coAWDSJess,GraphicsAWDSJessFace,GraphicsAWDSJessHappyFace,GraphicsAWDSJessSadFace
-	setCOGFXSmallFace       coAWDSJess,GraphicsAWDSJessMugshot
-	setCOGFXPowerAnim       coAWDSJess,0x04,0x00
-	setCOGFXPowerSFX        coAWDSJess,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSJess,7,7
-	setCOGFXSuperSFX        coAWDSJess,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSMatsuri,GraphicsAWDSJessGraphic
+	setCOGFXName            coAWDSMatsuri,GraphicsAWDSJessName
+	setCOGFXPalette         coAWDSMatsuri,GraphicsAWDSJessPalette
+	setCOGFXFace            coAWDSMatsuri,GraphicsAWDSJessFace,GraphicsAWDSJessHappyFace,GraphicsAWDSJessSadFace
+	setCOGFXSmallFace       coAWDSMatsuri,GraphicsAWDSJessMugshot
+	setCOGFXPowerAnim       coAWDSMatsuri,0x04,0x00
+	setCOGFXPowerSFX        coAWDSMatsuri,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSMatsuri,7,7
+	setCOGFXSuperSFX        coAWDSMatsuri,0x1f7,0x1f8
 	
 	setCOName               coAWDSJess,ScriptAWDSJess
 	setCOpowerName          coAWDSJess,ScriptAWDSJess+1
