@@ -21,20 +21,20 @@
 	setCOFaction		coAWDSMatsuri,ArmyGreenEarth
 	setCOMusic          	coAWDSMatsuri,MusicMatsuriTheme
 
-	setCOPowerCost          coAWDSJess,3
-	setCOSuperCost          coAWDSJess,6
+	setCOPowerCost          coAWDSMatsuri,3
+	setCOSuperCost          coAWDSMatsuri,6
 	
-	setCOD2DSoldierStat     coAWDSJess,10,10,0,0
-	setCOD2DLandStat	coAWDSJess,-10,0,0,0
-	setCOD2DTransportStat	coAWDSJess,0,10,1,0	
+	setCOD2DSoldierStat     coAWDSMatsuri,10,10,0,0
+	setCOD2DLandStat	coAWDSMatsuri,-10,0,0,0
+	setCOD2DTransportStat	coAWDSMatsuri,0,10,1,0	
 	
-	setCOPowerSoldierStat	coAWDSJess,30,30,1,0
-	setCOPowerLandStat	coAWDSJess,0,0,0,0
-	setCOPowerTransportStat	coAWDSJess,0,20,2,0
+	setCOPowerSoldierStat	coAWDSMatsuri,30,30,1,0
+	setCOPowerLandStat	coAWDSMatsuri,0,0,0,0
+	setCOPowerTransportStat	coAWDSMatsuri,0,20,2,0
 
-	setCOSuperSoldierStat	coAWDSJess,50,50,2,0
-	setCOSuperLandStat	coAWDSJess,0,0,0,0
-	setCOSuperTransportStat	coAWDSJess,0,30,3,0
+	setCOSuperSoldierStat	coAWDSMatsuri,50,50,2,0
+	setCOSuperLandStat	coAWDSMatsuri,0,0,0,0
+	setCOSuperTransportStat	coAWDSMatsuri,0,30,3,0
 
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
