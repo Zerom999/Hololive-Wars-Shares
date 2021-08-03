@@ -1,15 +1,15 @@
-setCODefaults           coAWDSTowa
-	setCOGameID		coAWDSTowa,Game_AWDS
+        setCODefaults           coAWDSSora
+	setCOGameID		coAWDSSora,Game_AWDS
 
-	setCOGFXFullbody        coAWDSTowa,GraphicsAWDSTowaGraphic
-	setCOGFXName            coAWDSTowa,GraphicsAWDSTowaName
-	setCOGFXPalette         coAWDSTowa,GraphicsAWDSTowaPalette
-	setCOGFXFace            coAWDSTowa,GraphicsAWDSTowaFace,GraphicsAWDSTowaHappyFace,GraphicsAWDSTowaSadFace
-	setCOGFXSmallFace       coAWDSTowa,GraphicsAWDSTowaMugshot
-	setCOGFXPowerAnim       coAWDSTowa,0,0
-	setCOGFXPowerSFX        coAWDSTowa,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSTowa,7,7
-	setCOGFXSuperSFX        coAWDSTowa,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSSora,GraphicsAWDSSoraGraphic
+	setCOGFXName            coAWDSSora,GraphicsAWDSSoraName
+	setCOGFXPalette         coAWDSSora,GraphicsAWDSSoraPalette
+	setCOGFXFace            coAWDSSora,GraphicsAWDSoraFace,GraphicsAWDSSoraHappyFace,GraphicsAWDSSoraSadFace
+	setCOGFXSmallFace       coAWDSSora,GraphicsAWDSSoraMugshot
+	setCOGFXPowerAnim       coAWDSSora,0,0
+	setCOGFXPowerSFX        coAWDSSoeda,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSSora,7,7
+	setCOGFXSuperSFX        coAWDSSora,0x1f7,0x1f8
 	
 	setCOName               coAWDSTowa,ScriptAWDSTowa
 	setCOpowerName          coAWDSTowa,ScriptAWDSTowa+1
