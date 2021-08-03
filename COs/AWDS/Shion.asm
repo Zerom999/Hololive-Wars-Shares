@@ -14,7 +14,7 @@
 	setCOName               coAWDSShion,ScriptAWDSShion
 	setCOpowerName          coAWDSShion,ScriptAWDSShion+1
 	setCOsuperName          coAWDSShion,ScriptAWDSShion+2
-	setCOpowerText          coAWDSShion,ScriptAWDSShion+8,ScriptAWDSShion+9,ScriptAWDSShion+10,ScriptAWDSShion+11,ScriptAWDSShion+12,ScriptAWDSShio+13
+	setCOpowerText          coAWDSShion,ScriptAWDSShion+8,ScriptAWDSShion+9,ScriptAWDSShion+10,ScriptAWDSShion+11,ScriptAWDSShion+12,ScriptAWDSShion+13
 	setCOprofileText        coAWDSShion,ScriptAWDSShion+3,ScriptAWDSShion+4,ScriptAWDSShion+5,ScriptAWDSShion+6
 	setCOvictoryText        coAWDSShion,ScriptAWDSShion+7
 
