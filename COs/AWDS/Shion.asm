@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSEagle
-	setCOGameID		coAWDSEagle,Game_AWDS
+        setCODefaults           coAWDSShion
+	setCOGameID		coAWDSShion,Game_AWDS
 
-	setCOGFXFullbody        coAWDSEagle,GraphicsAWDSEagleGraphic
-	setCOGFXName            coAWDSEagle,GraphicsAWDSEagleName
-	setCOGFXPalette         coAWDSEagle,GraphicsAWDSEaglePalette
-	setCOGFXFace            coAWDSEagle,GraphicsAWDSEagleFace,GraphicsAWDSEagleHappyFace,GraphicsAWDSEagleSadFace
-	setCOGFXSmallFace       coAWDSEagle,GraphicsAWDSEagleMugshot
-	setCOGFXPowerAnim       coAWDSEagle,3,1
-	setCOGFXPowerSFX        coAWDSEagle,0xBA,0xbb
-	setCOGFXSuperAnim       coAWDSEagle,7,7
-	setCOGFXSuperSFX        coAWDSEagle,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSShion,GraphicsAWDSShionGraphic
+	setCOGFXName            coAWDSShion,GraphicsAWDSShionName
+	setCOGFXPalette         coAWDSShion,GraphicsAWDSShionPalette
+	setCOGFXFace            coAWDSShion,GraphicsAWDSShionFace,GraphicsAWDSShionHappyFace,GraphicsAWDSShionSadFace
+	setCOGFXSmallFace       coAWDSShion,GraphicsAWDSShionMugshot
+	setCOGFXPowerAnim       coAWDSShion,3,1
+	setCOGFXPowerSFX        coAWDSShion,0xBA,0xbb
+	setCOGFXSuperAnim       coAWDSShion,7,7
+	setCOGFXSuperSFX        coAWDSShion,0x1f7,0x1f8
 	
 	setCOName               coAWDSEagle,ScriptAWDSEagle
 	setCOpowerName          coAWDSEagle,ScriptAWDSEagle+1
