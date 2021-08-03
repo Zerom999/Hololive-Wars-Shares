@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSEagle,ScriptAWDSEagle+3,ScriptAWDSEagle+4,ScriptAWDSEagle+5,ScriptAWDSEagle+6
 	setCOvictoryText        coAWDSEagle,ScriptAWDSEagle+7
 
-	setCOFaction			coAWDSEagle,ArmyGreenEarth
+	setCOFaction		coAWDSEagle,ArmyGreenEarth	
 	setCOMusic          	coAWDSEagle,MusicEagleTheme
 
 	setCOPowerCost          coAWDSEagle,5
