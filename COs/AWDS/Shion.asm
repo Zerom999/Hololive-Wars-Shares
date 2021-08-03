@@ -24,8 +24,6 @@
 	setCOPowerCost          coAWDSEagle,5
 	setCOSuperCost          coAWDSEagle,10
 	
-	setCOD2DAirStat		coAWDSEagle,10,0,0,0
-
 	setCOPowerAllStat	coAWDSEagle,0,-50,0,0
 	
 	setCOSuperAllStat	coAWDSEagle,20,20,0,0
