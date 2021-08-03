@@ -18,16 +18,16 @@
 	setCOprofileText        coAWDSSora,ScriptAWDSSora+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
 	setCOvictoryText        coAWDSSora,ScriptAWDSSora+7
 
-	setCOFaction		coAWDSTowa,ArmyYellowComet
-	setCOMusic          	coAWDSTowa,MusicTowaComet
+	setCOFaction		coAWDSSora,ArmyYellowComet
+	setCOMusic          	coAWDSSora,MusicSoraComet
 
-	setCOPowerCost          coAWDSTowa,5
-	setCOSuperCost          coAWDSTowa,10
+	setCOPowerCost          coAWDSSora,5
+	setCOSuperCost          coAWDSSora,10
 
-	setCOD2DAllStat		coAWDSTowa,10,10,0,0
-	setCOPowerAllStat	coAWDSTowa,50,30,1,1
-	setCOSuperAllStat	coAWDSTowa,90,50,2,2
+	setCOD2DAllStat		coAWDSSora,10,10,0,0
+	setCOPowerAllStat	coAWDSSora,50,30,1,1
+	setCOSuperAllStat	coAWDSSora,90,50,2,2
 	
-	setCOAIPowerRange       coAWDSTowa,25
-	setCOAIPowerTrigger     coAWDSTowa,95
+	setCOAIPowerRange       coAWDSSora,25
+	setCOAIPowerTrigger     coAWDSSora,95
 ; blank line
