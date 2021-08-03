@@ -24,17 +24,17 @@
 	setCOPowerCost          coAWDSJess,3
 	setCOSuperCost          coAWDSJess,6
 	
-	setCOD2DSoldierStat     coAWDSJess,20,0,0,0
-	setCOD2DLandStat	coAWDSJess,20,0,0,0
-	setCOD2DTransportStat	coAWDSJess,20,0,0,0	
+	setCOD2DSoldierStat     coAWDSJess,10,10,0,0
+	setCOD2DLandStat	coAWDSJess,-10,0,0,0
+	setCOD2DTransportStat	coAWDSJess,0,10,1,0	
 	
-	setCOPowerSoldierStat	coAWDSJess,40,0,1,0
-	setCOPowerLandStat	coAWDSJess,-10,0,0,0
-	setCOPowerTransportStat	coAWDSJess,-10,0,0,0
+	setCOPowerSoldierStat	coAWDSJess,30,30,1,0
+	setCOPowerLandStat	coAWDSJess,0,0,0,0
+	setCOPowerTransportStat	coAWDSJess,0,20,2,0
 
-	setCOSuperSoldierStat	coAWDSJess,60,0,2,0
-	setCOSuperLandStat	coAWDSJess,-10,0,0,0
-	setCOSuperTransportStat	coAWDSJess,-10,0,0,0
+	setCOSuperSoldierStat	coAWDSJess,50,50,2,0
+	setCOSuperLandStat	coAWDSJess,0,0,0,0
+	setCOSuperTransportStat	coAWDSJess,0,30,3,0
 
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
