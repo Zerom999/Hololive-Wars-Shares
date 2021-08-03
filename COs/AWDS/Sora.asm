@@ -21,12 +21,12 @@
 	setCOFaction		coAWDSTowa,ArmyYellowComet
 	setCOMusic          	coAWDSTowa,MusicTowaComet
 
-	setCOPowerCost          coAWDSTowa,3
-	setCOSuperCost          coAWDSTowa,6
+	setCOPowerCost          coAWDSTowa,5
+	setCOSuperCost          coAWDSTowa,10
 
-	setCOD2DAllStat		coAWDSTowa,40,-20,0,0
-	setCOPowerAllStat	coAWDSTowa,70,-10,0,0
-	setCOSuperAllStat	coAWDSTowa,100,-10,0,0
+	setCOD2DAllStat		coAWDSTowa,10,10,0,0
+	setCOPowerAllStat	coAWDSTowa,50,30,1,1
+	setCOSuperAllStat	coAWDSTowa,90,50,2,2
 	
 	setCOAIPowerRange       coAWDSTowa,25
 	setCOAIPowerTrigger     coAWDSTowa,95
