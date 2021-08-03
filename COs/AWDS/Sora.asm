@@ -7,7 +7,7 @@
 	setCOGFXFace            coAWDSSora,GraphicsAWDSoraFace,GraphicsAWDSSoraHappyFace,GraphicsAWDSSoraSadFace
 	setCOGFXSmallFace       coAWDSSora,GraphicsAWDSSoraMugshot
 	setCOGFXPowerAnim       coAWDSSora,0,0
-	setCOGFXPowerSFX        coAWDSSoeda,0xb7,0xb8
+	setCOGFXPowerSFX        coAWDSSora,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSSora,7,7
 	setCOGFXSuperSFX        coAWDSSora,0x1f7,0x1f8
 	
