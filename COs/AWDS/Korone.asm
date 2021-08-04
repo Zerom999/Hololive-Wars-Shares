@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSKorone,7,7
 	setCOGFXSuperSFX        coAWDSKorone,0x1f7,0x1f8
 	
-	setCOName               coAWDSSubaru,ScriptAWDSSubaru
-	setCOpowerName          coAWDSSubaru,ScriptAWDSSubaru+1
-	setCOsuperName          coAWDSSubaru,ScriptAWDSSubaru+2
-	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
-	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
-	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
+	setCOName               coAWDSKorone,ScriptAWDSKorone
+	setCOpowerName          coAWDSKorone,ScriptAWDSKorone+1
+	setCOsuperName          coAWDSKorone,ScriptAWDSKorone+2
+	setCOpowerText          coAWDSKorone,ScriptAWDSKorone+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
+	setCOprofileText        coAWDSKorone,ScriptAWDSKorone+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
+	setCOvictoryText        coAWDSKorone,ScriptAWDSKorone+7
 
 	setCOFaction		coAWDSSubaru,ArmyGreenEarth
 	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
