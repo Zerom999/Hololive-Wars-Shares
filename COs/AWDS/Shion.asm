@@ -21,12 +21,12 @@
 	setCOFaction		coAWDSShion,ArmyGreenEarth	
 	setCOMusic          	coAWDSShion,MusicShionTheme
 
-	setCOPowerCost          coAWDSEagle,5
-	setCOSuperCost          coAWDSEagle,10
+	setCOPowerCost          coAWDSShion,5
+	setCOSuperCost          coAWDSShion,10
 	
-	setCOPowerAllStat	coAWDSEagle,-20,-20,0,0
+	setCOPowerAllStat	coAWDSShion,0,0,0,0
 	
-	setCOSuperAllStat	coAWDSEagle,20,20,1,0
+	setCOSuperAllStat	coAWDSShion,60,60,1,0
 	
 	setCOGFXPowerRule	coAWDSEagle,COPCheckAerialClassOrWaitMode
 	setCOGFXPowerFX		coAWDSEagle,COPEffectReanimateUnit
