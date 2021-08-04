@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSKoal
-	setCOGameID		coAWDSKoal,Game_AWDS
+        setCODefaults           coAWDSSubaru
+	setCOGameID		coAWDSSubaru,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKoal,GraphicsAWDSKoalGraphic
-	setCOGFXName            coAWDSKoal,GraphicsAWDSKoalName
-	setCOGFXPalette         coAWDSKoal,GraphicsAWDSKoalPalette
-	setCOGFXFace            coAWDSKoal,GraphicsAWDSKoalFace,GraphicsAWDSKoalHappyFace,GraphicsAWDSKoalSadFace
-	setCOGFXSmallFace       coAWDSKoal,GraphicsAWDSKoalMugshot
-	setCOGFXPowerAnim       coAWDSKoal,0,0
-	setCOGFXPowerSFX        coAWDSKoal,0xb4,0xb4
-	setCOGFXSuperAnim       coAWDSKoal,7,7
-	setCOGFXSuperSFX        coAWDSKoal,0x1f4,0x1f5
+	setCOGFXFullbody        coAWDSSubaru,GraphicsAWDSKoalGraphic
+	setCOGFXName            coAWDSSubaru,GraphicsAWDSKoalName
+	setCOGFXPalette         coAWDSSubaru,GraphicsAWDSKoalPalette
+	setCOGFXFace            coAWDSSubaru,GraphicsAWDSKoalFace,GraphicsAWDSKoalHappyFace,GraphicsAWDSKoalSadFace
+	setCOGFXSmallFace       coAWDSSubaru,GraphicsAWDSKoalMugshot
+	setCOGFXPowerAnim       coAWDSSubaru,0,0
+	setCOGFXPowerSFX        coAWDSSubaru,0xb4,0xb4
+	setCOGFXSuperAnim       coAWDSSubaru,7,7
+	setCOGFXSuperSFX        coAWDSSubaru,0x1f4,0x1f5
 	
 	setCOName               coAWDSKoal,ScriptAWDSKoal
 	setCOpowerName          coAWDSKoal,ScriptAWDSKoal+1
