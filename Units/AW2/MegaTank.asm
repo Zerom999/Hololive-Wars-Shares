@@ -1,29 +1,29 @@
-;Unit_Neotank
-	setUnitDefaults		Unit_NeoTank
+;Unit_MegaTank
+	setUnitDefaults		Unit_MegaTank
 	
-	setUnitName		Unit_NeoTank,2236
-	setUnitPrimaryName	Unit_NeoTank,2267
-	setUnitSecondaryName	Unit_NeoTank,2253
+	setUnitName		Unit_MegaTank,2236
+	setUnitPrimaryName	Unit_MegaTank,2267
+	setUnitSecondaryName	Unit_MegaTank,2253
 	
-	setUnitPrice		Unit_NeoTank,2000
-	setUnitMove		Unit_NeoTank,6
-	setUnitAmmo		Unit_NeoTank,9
-	setUnitFuel		Unit_NeoTank,99
-	setUnitVision		Unit_NeoTank,1
+	setUnitPrice		Unit_MegaTank,3000
+	setUnitMove		Unit_MegaTank,4
+	setUnitAmmo		Unit_MegaTank,6
+	setUnitFuel		Unit_MegaTank,50
+	setUnitVision		Unit_MegaTank,1
 
-	setUnitClass		Unit_NeoTank,ClassVehicle
-	setUnitMoveType		Unit_NeoTank,MoveTread
-	setUnitBuildLocation	Unit_NeoTank,BuildBase
-	setUnitSupplyTerrain	Unit_NeoTank,SuppliedByBase
-	setUnitFuelBurn		Unit_NeoTank,FuelUseageTypeGround
+	setUnitClass		Unit_MegaTank,ClassVehicle
+	setUnitMoveType		Unit_MegaTank,MoveTread
+	setUnitBuildLocation	Unit_MegaTank,BuildBase
+	setUnitSupplyTerrain	Unit_MegaTank,SuppliedByBase
+	setUnitFuelBurn		Unit_MegaTank,FuelUseageTypeGround
 	
 
-	setUnitAIType			Unit_NeoTank,AIDirectCombat
-	setUnitAIPriorityTarget		Unit_NeoTank,AITargetGround
-	setUnitAIUnitClass		Unit_NeoTank,AITargetGround
+	setUnitAIType			Unit_MegaTank,AIDirectCombat
+	setUnitAIPriorityTarget		Unit_MegaTank,AITargetGround
+	setUnitAIUnitClass		Unit_MegaTank,AITargetGround
 	
-	setUnitDamagePrimary		Unit_NeoTank,35,Unit_Infantry
-	setUnitDamagePrimary		Unit_NeoTank,35,Unit_Mech
+	setUnitDamagePrimary		Unit_MegaTank,55,Unit_Infantry
+	setUnitDamagePrimary		Unit_MegaTank,55,Unit_Mech
 	
 	setUnitDamagePrimary		Unit_NeoTank,115,Unit_Tank
 	setUnitDamagePrimary		Unit_NeoTank,85,Unit_MidTank
