@@ -27,7 +27,7 @@
 	
 	setUnitDamagePrimary	Unit_AntiAir,25,Unit_Tank
 	setUnitDamagePrimary	Unit_AntiAir,15,Unit_MidTank
-	setUnitDamagePrimary	Unit_AntiAir,05,Unit_Neotank
+	setUnitDamagePrimary	Unit_AntiAir,05,Unit_NeoTank
 	
 	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Artillery
 	setUnitDamagePrimary	Unit_AntiAir,65,Unit_Rockets
