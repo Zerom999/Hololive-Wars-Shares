@@ -32,3 +32,58 @@ String3163:
 	.ascii "weapons vs. non-",TextNL
 	.ascii "infantry ground units."
 	TextEnd
+	; Original offset: 0x0860f174
+String3164:
+	.ascii TextRed
+	.ascii "NeoTank",TextBlack
+	.ascii " cannons are",TextNL
+	.ascii "slightly weaker against",TextNL
+	.ascii "ships than rockets are."
+	TextEnd
+; Original offset: 0x0860f1bc
+String3165:
+	.ascii TextRed
+	.ascii "NeoTanks",TextBlack
+	.ascii " are weak",TextNL
+	.ascii "vs. ",TextRed
+	.ascii "subs",TextBlack
+	.ascii " and can't",TextNL
+	.ascii TextBlue
+	.ascii "fire",TextBlack
+	.ascii " on submerged",TextNL
+	.ascii TextRed
+	.ascii "subs",TextBlack
+	.ascii "."
+	TextEnd
+; Original offset: 0x0860f204
+String3166:
+	.ascii TextRed
+	.ascii "NeoTank",TextBlack
+	.ascii " M guns vs.",TextNL
+	.ascii "infantry units are more",TextNL
+	.ascii "powerful than those",TextNL
+	.ascii "of ",TextRed
+	.ascii "Md tanks",TextBlack
+	.ascii "."
+	TextEnd
+; Original offset: 0x0860f254
+String3167:
+	.ascii TextRed
+	.ascii "NeoTank",TextBlack
+	.ascii " secondary",TextNL
+	.ascii "weapons are effective",TextNL
+	.ascii "against non-infantry",TextNL
+	.ascii "ground units."
+	TextEnd
+; Original offset: 0x0860f2a4
+String3168:
+	.ascii TextRed
+	.ascii "NeoTank",TextBlack
+	.ascii " machine guns",TextNL
+	.ascii "do minimal damage to",TextNL
+	.ascii TextRed
+	.ascii "B copters",TextBlack
+	.ascii "."
+	TextEnd
+	
+	
