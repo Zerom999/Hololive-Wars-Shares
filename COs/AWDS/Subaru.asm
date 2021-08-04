@@ -35,5 +35,5 @@
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	
 	setCOAIPowerRange       coAWDSSubaru,25
-	setCOAIPowerTrigger     coAWDSMax,95
+	setCOAIPowerTrigger     coAWDSSubaru,95
 ; blank line
