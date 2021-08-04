@@ -18,24 +18,24 @@
 	setCOprofileText        coAWDSKorone,ScriptAWDSKorone+3,ScriptAWDSKorone+4,ScriptAWDSKorone+5,ScriptAWDSKorone+6
 	setCOvictoryText        coAWDSKorone,ScriptAWDSKorone+7
 
-	setCOFaction		coAWDSSubaru,ArmyGreenEarth
-	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
+	setCOFaction		coAWDSKorone,ArmyGreenEarth
+	setCOMusic          	coAWDSKorone,MusicKoroneTheme
 
-	setCOPowerCost          coAWDSSubaru,3
-	setCOSuperCost          coAWDSSubaru,6
+	setCOPowerCost          coAWDSKorone,3
+	setCOSuperCost          coAWDSKorone,6
 	
-	setCOD2DLandStat	coAWDSSubaru,30,0,0,0
-	setCOD2DNavyStat	coAWDSSubaru,-10,0,0,0
-	setCOD2DAirStat		coAWDSSubaru,-10,0,0,0
+	setCOD2DLandStat	coAWDSKorone,30,0,0,0
+	setCOD2DNavyStat	coAWDSKorone,-10,0,0,0
+	setCOD2DAirStat		coAWDSKorone,-10,0,0,0
 	
-	setCOPowerLandStat	coAWDSSubaru,60,0,1,0
-	setCOPowerNavyStat	coAWDSSubaru,0,0,0,0
-	setCOPowerAirStat	coAWDSSubaru,0,0,0,0
+	setCOPowerLandStat	coAWDSKorone,60,0,1,0
+	setCOPowerNavyStat	coAWDSKorone,0,0,0,0
+	setCOPowerAirStat	coAWDSKorone,0,0,0,0
 	
-	setCOSuperLandStat	coAWDSSubaru,90,0,2,0
-	setCOSuperNavyStat	coAWDSSubaru,0,0,0,0
-	setCOSuperAirStat	coAWDSSubaru,0,0,0,0
+	setCOSuperLandStat	coAWDSKorone,90,0,2,0
+	setCOSuperNavyStat	coAWDSKorone,0,0,0,0
+	setCOSuperAirStat	coAWDSKorone,0,0,0,0
 	
-	setCOAIPowerRange       coAWDSSubaru,25
-	setCOAIPowerTrigger     coAWDSSubaru,95
+	setCOAIPowerRange       coAWDSKorone,25
+	setCOAIPowerTrigger     coAWDSKorone,95
 ; blank line
