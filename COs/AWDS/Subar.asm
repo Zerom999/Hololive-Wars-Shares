@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSKoal,ScriptAWDSKoal+3,ScriptAWDSKoal+4,ScriptAWDSKoal+5,ScriptAWDSKoal+6
 	setCOvictoryText        coAWDSKoal,ScriptAWDSKoal+7
 
-	setCOFaction		coAWDSKoal,ArmyBlackHole
+	setCOFaction		coAWDSKoal,ArmyOrangeStar
 	setCOMusic          	coAWDSKoal,MusicBlackHole
 	setCOPowerMusic              coAWDSKoal,MusicBlackPower
 	setCOSuperMusic              coAWDSKoal,MusicBlackSuper
