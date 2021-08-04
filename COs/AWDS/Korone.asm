@@ -14,8 +14,8 @@
 	setCOName               coAWDSKorone,ScriptAWDSKorone
 	setCOpowerName          coAWDSKorone,ScriptAWDSKorone+1
 	setCOsuperName          coAWDSKorone,ScriptAWDSKorone+2
-	setCOpowerText          coAWDSKorone,ScriptAWDSKorone+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
-	setCOprofileText        coAWDSKorone,ScriptAWDSKorone+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
+	setCOpowerText          coAWDSKorone,ScriptAWDSKorone+8,ScriptAWDSKorone+9,ScriptAWDSKorone+10,ScriptAWDSKorone+11,ScriptAWDSKorone+12,ScriptAWDSKorone+13
+	setCOprofileText        coAWDSKorone,ScriptAWDSKorone+3,ScriptAWDSKorone+4,ScriptAWDSKorone+5,ScriptAWDSKorone+6
 	setCOvictoryText        coAWDSKorone,ScriptAWDSKorone+7
 
 	setCOFaction		coAWDSSubaru,ArmyGreenEarth
