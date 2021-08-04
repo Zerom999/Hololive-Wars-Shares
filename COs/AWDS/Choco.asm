@@ -18,19 +18,19 @@
 	setCOprofileText        coAWDSChoco,ScriptAWDSChoco+3,ScriptAWDSChoco+4,ScriptAWDSaChoco+5,ScriptAWDSChoco+6
 	setCOvictoryText        coAWDSChoco,ScriptAWDSChoco+7
 
-	setCOFaction		coAWDSKanata,ArmyOrangeStar
-	setCOMusic          	coAWDSKanata,MusicKanataTheme
+	setCOFaction		coAWDSChoco,ArmyOrangeStar
+	setCOMusic          	coAWDSChoco,MusicChocoTheme
 
-	setCOPowerCost          coAWDSKanata,3
-	setCOSuperCost          coAWDSKanata,6
+	setCOPowerCost          coAWDSChoco,3
+	setCOSuperCost          coAWDSChoco,6
 
-	setCOSuperAllStat	coAWDSKanata,30,10,1,0
+	setCOSuperAllStat	coAWDSChoco,30,10,1,0
 
-	setCOGFXPowerFX         coAWDSkanata,COPEffectHealThreeHP
-	setCOGFXSuperFX         coAWDSkanata,COPEffectHealSixHP
+	setCOGFXPowerFX         coAWDSChoco,COPEffectHealThreeHP
+	setCOGFXSuperFX         coAWDSChoco,COPEffectHealSixHP
 	
-	setCOAIPowerRange       coAWDSKanata,25
-	setCOAIPowerTrigger     coAWDSKanata,95
-	setCOAIPowerTriggerASM  coAWDSkanata,AIActivateIfInjured
+	setCOAIPowerRange       coAWDSChoco,25
+	setCOAIPowerTrigger     coAWDSChoco,95
+	setCOAIPowerTriggerASM  coAWDSChoco,AIActivateIfInjured
 
 ; blank line
