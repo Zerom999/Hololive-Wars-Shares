@@ -1,10 +1,10 @@
 ;NeoTank Descriptions
 ; Original offset: 0x0860f038
 String3160:
-	.ascii "These are new weapons",TextNL
-	.ascii "developed by Black Hole.",TextNL
-	.ascii "They are more powerful",TextNL
-	.ascii "than Md tanks."
+	.ascii "Mega Tanks are the",TextNL
+	.ascii "new weapons developeed.",TextNL
+	.ascii "by Green Earth.They are.",TextNL
+	.ascii "the strongest tank of all."
 	TextEnd
 ; Original offset: 0x0860f090
 String3161:
