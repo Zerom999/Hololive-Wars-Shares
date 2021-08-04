@@ -28,7 +28,7 @@
 	
 	setUnitDamagePrimary		Unit_Battleship,125,Unit_Tank
 	setUnitDamagePrimary		Unit_Battleship,105,Unit_MidTank
-	setUnitDamagePrimary		Unit_Battleship,85,Unit_Neotank
+	setUnitDamagePrimary		Unit_Battleship,85,Unit_NeoTank
 	
 	setUnitDamagePrimary		Unit_Battleship,135,Unit_Artillery
 	setUnitDamagePrimary		Unit_Battleship,135,Unit_Rockets
