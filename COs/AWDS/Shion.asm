@@ -28,12 +28,12 @@
 	
 	setCOSuperAllStat	coAWDSShion,60,60,1,0
 	
-	setCOGFXPowerRule	coAWDSEagle,COPCheckAerialClassOrWaitMode
-	setCOGFXPowerFX		coAWDSEagle,COPEffectReanimateUnit
-	setCOGFXSuperRule	coAWDSEagle,COPCheckAerialClassOrWaitMode
-	setCOGFXSuperFX		coAWDSEagle,COPEffectReanimateUnit
+	setCOGFXPowerRule	coAWDSShion,COPCheckAerialClassOrWaitMode
+	setCOGFXPowerFX		coAWDSShion,COPEffectReanimateUnit
+	setCOGFXSuperRule	coAWDSShion,COPCheckAerialClassOrWaitMode
+	setCOGFXSuperFX		coAWDSShion,COPEffectReanimateUnit
 
-	setCOAIPowerRange       coAWDSEagle,15
-	setCOAIPowerTrigger     coAWDSEagle,70
-	setCOAIPowerTriggerASM  coAWDSEagle,AIActivateCOPStartSCOPEnd
+	setCOAIPowerRange       coAWDSShion,15
+	setCOAIPowerTrigger     coAWDSShion,70
+	setCOAIPowerTriggerASM  coAWDSShion,AIActivateCOPStartSCOPEnd
 ; blank line
