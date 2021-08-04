@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSChoco,7,7
 	setCOGFXSuperSFX        coAWDSChoco,0x1f7,0x1f8
 	
-	setCOName               coAWDSKanata,ScriptAWDSKanata
-	setCOpowerName          coAWDSKanata,ScriptAWDSKanata+1
-	setCOsuperName          coAWDSKanata,ScriptAWDSKanata+2
-	setCOpowerText          coAWDSKanata,ScriptAWDSKanata+8,ScriptAWDSKanata+9,ScriptAWDSKanata+10,ScriptAWDSKanata+11,ScriptAWDSKanata+12,ScriptAWDSKanata+13
-	setCOprofileText        coAWDSKanata,ScriptAWDSKanata+3,ScriptAWDSKanata+4,ScriptAWDSKanata+5,ScriptAWDSKanata+6
-	setCOvictoryText        coAWDSKanata,ScriptAWDSKanata+7
+	setCOName               coAWDSChoco,ScriptAWDSChoco
+	setCOpowerName          coAWDSChoco,ScriptAWDSChoco+1
+	setCOsuperName          coAWDSChoco,ScriptAWDSChoco+2
+	setCOpowerText          coAWDSChoco,ScriptAWDSChoco+8,ScriptAWDSChoco+9,ScriptAWDSChoco+10,ScriptAWDSChoco+11,ScriptAWDSChoco+12,ScriptAWDSChoco+13
+	setCOprofileText        coAWDSChoco,ScriptAWDSChoco+3,ScriptAWDSChoco+4,ScriptAWDSaChoco+5,ScriptAWDSChoco+6
+	setCOvictoryText        coAWDSChoco,ScriptAWDSChoco+7
 
 	setCOFaction		coAWDSKanata,ArmyOrangeStar
 	setCOMusic          	coAWDSKanata,MusicKanataTheme
