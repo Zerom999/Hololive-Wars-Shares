@@ -2,7 +2,7 @@
 ; Original offset: 0x0860f038
 String3160:
 	.ascii "Mega Tanks are the",TextNL
-	.ascii "new weapons developeed.",TextNL
+	.ascii "new weapons developed.",TextNL
 	.ascii "by Green Earth.They are.",TextNL
 	.ascii "the strongest tank of all."
 	TextEnd
