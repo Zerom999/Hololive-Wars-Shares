@@ -1,5 +1,5 @@
-	setCODefaults           coAWDSMax
-	setCOGameID		coAWDSMax,Game_AWDS
+	setCODefaults           coAWDSSubaru
+	setCOGameID		coAWDSSubaru,Game_AWDS
 
 	setCOGFXFullbody        coAWDSMax,GraphicsAWDSMaxGraphic
 	setCOGFXName            coAWDSMax,GraphicsAWDSMaxName
