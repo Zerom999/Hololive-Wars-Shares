@@ -1,46 +1,46 @@
 ;Unit_Neotank
-	setUnitDefaults		Unit_Neotank
+	setUnitDefaults		Unit_NeoTank
 	
-	setUnitName		Unit_Neotank,2236
-	setUnitPrimaryName	Unit_Neotank,2267
-	setUnitSecondaryName	Unit_Neotank,2253
+	setUnitName		Unit_NeoTank,2236
+	setUnitPrimaryName	Unit_NeoTank,2267
+	setUnitSecondaryName	Unit_NeoTank,2253
 	
-	setUnitPrice		Unit_Neotank,2000
-	setUnitMove		Unit_Neotank,6
-	setUnitAmmo		Unit_Neotank,9
-	setUnitFuel		Unit_Neotank,99
-	setUnitVision		Unit_Neotank,1
+	setUnitPrice		Unit_NeoTank,2000
+	setUnitMove		Unit_NeoTank,6
+	setUnitAmmo		Unit_NeoTank,9
+	setUnitFuel		Unit_NeoTank,99
+	setUnitVision		Unit_NeoTank,1
 
-	setUnitClass		Unit_Neotank,ClassVehicle
-	setUnitMoveType		Unit_Neotank,MoveTread
-	setUnitBuildLocation	Unit_Neotank,BuildBase
-	setUnitSupplyTerrain	Unit_Neotank,SuppliedByBase
-	setUnitFuelBurn		Unit_Neotank,FuelUseageTypeGround
+	setUnitClass		Unit_NeoTank,ClassVehicle
+	setUnitMoveType		Unit_NeoTank,MoveTread
+	setUnitBuildLocation	Unit_NeoTank,BuildBase
+	setUnitSupplyTerrain	Unit_NeoTank,SuppliedByBase
+	setUnitFuelBurn		Unit_NeoTank,FuelUseageTypeGround
 	
 
-	setUnitAIType			Unit_Neotank,AIDirectCombat
-	setUnitAIPriorityTarget		Unit_Neotank,AITargetGround
-	setUnitAIUnitClass		Unit_Neotank,AITargetGround
+	setUnitAIType			Unit_NeoTank,AIDirectCombat
+	setUnitAIPriorityTarget		Unit_NeoTank,AITargetGround
+	setUnitAIUnitClass		Unit_NeoTank,AITargetGround
 	
-	setUnitDamagePrimary		Unit_Neotank,35,Unit_Infantry
-	setUnitDamagePrimary		Unit_Neotank,35,Unit_Mech
+	setUnitDamagePrimary		Unit_NeoTank,35,Unit_Infantry
+	setUnitDamagePrimary		Unit_NeoTank,35,Unit_Mech
 	
-	setUnitDamagePrimary		Unit_Neotank,115,Unit_Tank
-	setUnitDamagePrimary		Unit_Neotank,85,Unit_MidTank
-	setUnitDamagePrimary		Unit_Neotank,55,Unit_Neotank
+	setUnitDamagePrimary		Unit_NeoTank,115,Unit_Tank
+	setUnitDamagePrimary		Unit_NeoTank,85,Unit_MidTank
+	setUnitDamagePrimary		Unit_NeoTank,55,Unit_NeoTank
 	
-	setUnitDamagePrimary		Unit_Neotank,135,Unit_Artillery
-	setUnitDamagePrimary		Unit_Neotank,135,Unit_Rockets
-	setUnitDamagePrimary		Unit_Neotank,135,Unit_Missiles
+	setUnitDamagePrimary		Unit_NeoTank,135,Unit_Artillery
+	setUnitDamagePrimary		Unit_NeoTank,135,Unit_Rockets
+	setUnitDamagePrimary		Unit_NeoTank,135,Unit_Missiles
 
-	setUnitDamagePrimary		Unit_Neotank,125,Unit_Recon
-	setUnitDamagePrimary		Unit_Neotank,125,Unit_APC
-	setUnitDamagePrimary		Unit_Neotank,115,Unit_AntiAir
+	setUnitDamagePrimary		Unit_NeoTank,125,Unit_Recon
+	setUnitDamagePrimary		Unit_NeoTank,125,Unit_APC
+	setUnitDamagePrimary		Unit_NeoTank,115,Unit_AntiAir
 
-	setUnitDamagePrimary		Unit_Neotank,35,Unit_Battleship
-	setUnitDamagePrimary		Unit_Neotank,55,Unit_Cruiser
-	setUnitDamagePrimary		Unit_Neotank,55,Unit_Lander
-	setUnitDamagePrimary		Unit_Neotank,55,Unit_Sub
+	setUnitDamagePrimary		Unit_NeoTank,35,Unit_Battleship
+	setUnitDamagePrimary		Unit_NeoTank,55,Unit_Cruiser
+	setUnitDamagePrimary		Unit_NeoTank,55,Unit_Lander
+	setUnitDamagePrimary		Unit_NeoTank,55,Unit_Sub
 
 	setUnitDamageSecondary		Unit_Neotank,125,Unit_Infantry
 	setUnitDamageSecondary		Unit_Neotank,115,Unit_Mech
