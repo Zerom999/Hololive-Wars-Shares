@@ -18,22 +18,22 @@
 	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
 	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
 
-	setCOFaction		coAWDSMax,ArmyOrangeStar
-	setCOMusic          	coAWDSMax,MusicMaxTheme
+	setCOFaction		coAWDSSubaru,ArmyOrangeStar
+	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
 
-	setCOPowerCost          coAWDSMax,3
-	setCOSuperCost          coAWDSMax,6
+	setCOPowerCost          coAWDSSubaru,3
+	setCOSuperCost          coAWDSSubaru,6
 
-	setCOD2DDirectStat	coAWDSMax,30,0,0,0	
-	setCOD2DIndirectStat	coAWDSMax,-20,0,0,0	
-	setCOPowerDirectStat	coAWDSMax,30,0,0,0	
-	setCOPowerIndirectStat	coAWDSMax,-20,0,0,0
-	setCOSuperDirectStat	coAWDSMax,30,0,0,0	
-	setCOSuperIndirectStat	coAWDSMax,-20,0,0,0
+	setCOD2DDirectStat	coAWDSSubaru,30,0,0,0	
+	setCOD2DIndirectStat	coAWDSSubaru,-20,0,0,0	
+	setCOPowerDirectStat	coAWDSSubaru,30,0,0,0	
+	setCOPowerIndirectStat	coAWDSSubaru,-20,0,0,0
+	setCOSuperDirectStat	coAWDSSubaru,30,0,0,0	
+	setCOSuperIndirectStat	coAWDSSubaru,-20,0,0,0
 
-	setCOGFXPowerRule       coAWDSMax,COPCheckDirectCombatUnits
-	setCOGFXSuperRule       coAWDSMax,COPCheckDirectCombatUnits
+	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
+	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	
-	setCOAIPowerRange       coAWDSMax,25
+	setCOAIPowerRange       coAWDSSubaru,25
 	setCOAIPowerTrigger     coAWDSMax,95
 ; blank line
