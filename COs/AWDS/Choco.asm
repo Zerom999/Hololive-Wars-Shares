@@ -1,15 +1,15 @@
-	setCODefaults           coAWDSKanata
-	setCOGameID		coAWDSKanata,Game_AWDS
+	setCODefaults           coAWDSChoco
+	setCOGameID		coAWDSChoco,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKanata,GraphicsAWDSKanataGraphic
-	setCOGFXName            coAWDSKanata,GraphicsAWDSKanataName
-	setCOGFXPalette         coAWDSKanata,GraphicsAWDSKanataPalette
-	setCOGFXFace            coAWDSKanata,GraphicsAWDSKanataFace,GraphicsAWDSKanataHappyFace,GraphicsAWDSKanataSadFace
-	setCOGFXSmallFace       coAWDSKanata,GraphicsAWDSKanataMugshot
-	setCOGFXPowerAnim       coAWDSKanata,5,0
-	setCOGFXPowerSFX        coAWDSKanata,0xb4,0xb5
-	setCOGFXSuperAnim       coAWDSKanata,7,7
-	setCOGFXSuperSFX        coAWDSKanata,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSChoco,GraphicsAWDSChocoGraphic
+	setCOGFXName            coAWDSChoco,GraphicsAWDSChocoName
+	setCOGFXPalette         coAWDSChoco,GraphicsAWDSChocoPalette
+	setCOGFXFace            coAWDSChoco,GraphicsAWDSChocoFace,GraphicsAWDSChocoHappyFace,GraphicsAWDSChocoSadFace
+	setCOGFXSmallFace       coAWDSChoco,GraphicsAWDSChocoMugshot
+	setCOGFXPowerAnim       coAWDSChoco,5,0
+	setCOGFXPowerSFX        coAWDSChoco,0xb4,0xb5
+	setCOGFXSuperAnim       coAWDSChoco,7,7
+	setCOGFXSuperSFX        coAWDSChoco,0x1f7,0x1f8
 	
 	setCOName               coAWDSKanata,ScriptAWDSKanata
 	setCOpowerName          coAWDSKanata,ScriptAWDSKanata+1
