@@ -47,7 +47,7 @@
 	
 	setUnitDamageSecondary		Unit_NeoTank,15,Unit_Tank
 	setUnitDamageSecondary		Unit_NeoTank,05,Unit_MidTank
-	setUnitDamageSecondary		Unit_NeoTank,01,Unit_Neotank
+	setUnitDamageSecondary		Unit_NeoTank,01,Unit_NeoTank
 	
 	setUnitDamageSecondary		Unit_NeoTank,75,Unit_Artillery
 	setUnitDamageSecondary		Unit_NeoTank,75,Unit_Rockets
