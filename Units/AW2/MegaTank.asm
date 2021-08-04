@@ -25,40 +25,40 @@
 	setUnitDamagePrimary		Unit_MegaTank,55,Unit_Infantry
 	setUnitDamagePrimary		Unit_MegaTank,55,Unit_Mech
 	
-	setUnitDamagePrimary		Unit_NeoTank,115,Unit_Tank
-	setUnitDamagePrimary		Unit_NeoTank,85,Unit_MidTank
-	setUnitDamagePrimary		Unit_NeoTank,55,Unit_NeoTank
+	setUnitDamagePrimary		Unit_MegaTank,185,Unit_Tank
+	setUnitDamagePrimary		Unit_MegaTank,155,Unit_MidTank
+	setUnitDamagePrimary		Unit_MegaTank,125,Unit_NeoTank
 	
-	setUnitDamagePrimary		Unit_NeoTank,135,Unit_Artillery
-	setUnitDamagePrimary		Unit_NeoTank,135,Unit_Rockets
-	setUnitDamagePrimary		Unit_NeoTank,135,Unit_Missiles
+	setUnitDamagePrimary		Unit_MegaTank,205,Unit_Artillery
+	setUnitDamagePrimary		Unit_MegaTank,205,Unit_Rockets
+	setUnitDamagePrimary		Unit_MegaTank,205,Unit_Missiles
 
-	setUnitDamagePrimary		Unit_NeoTank,125,Unit_Recon
-	setUnitDamagePrimary		Unit_NeoTank,125,Unit_APC
-	setUnitDamagePrimary		Unit_NeoTank,115,Unit_AntiAir
+	setUnitDamagePrimary		Unit_MegaTank,205,Unit_Recon
+	setUnitDamagePrimary		Unit_MegaTank,205,Unit_APC
+	setUnitDamagePrimary		Unit_MegaTank,195,Unit_AntiAir
 
-	setUnitDamagePrimary		Unit_NeoTank,35,Unit_Battleship
-	setUnitDamagePrimary		Unit_NeoTank,55,Unit_Cruiser
-	setUnitDamagePrimary		Unit_NeoTank,55,Unit_Lander
-	setUnitDamagePrimary		Unit_NeoTank,55,Unit_Sub
+	setUnitDamagePrimary		Unit_MegaTank,65,Unit_Battleship
+	setUnitDamagePrimary		Unit_MegaTank,105,Unit_Cruiser
+	setUnitDamagePrimary		Unit_MegaTank,105,Unit_Lander
+	setUnitDamagePrimary		Unit_MegaTank,105,Unit_Sub
 
-	setUnitDamageSecondary		Unit_NeoTank,125,Unit_Infantry
-	setUnitDamageSecondary		Unit_NeoTank,115,Unit_Mech
+	setUnitDamageSecondary		Unit_MegaTank,185,Unit_Infantry
+	setUnitDamageSecondary		Unit_MegaTank,185,Unit_Mech
 	
-	setUnitDamageSecondary		Unit_NeoTank,15,Unit_Tank
-	setUnitDamageSecondary		Unit_NeoTank,05,Unit_MidTank
-	setUnitDamageSecondary		Unit_NeoTank,01,Unit_NeoTank
+	setUnitDamageSecondary		Unit_MegaTank,15,Unit_Tank
+	setUnitDamageSecondary		Unit_MegaTank,05,Unit_MidTank
+	setUnitDamageSecondary		Unit_MegaTank,01,Unit_NeoTank
 	
-	setUnitDamageSecondary		Unit_NeoTank,75,Unit_Artillery
-	setUnitDamageSecondary		Unit_NeoTank,75,Unit_Rockets
-	setUnitDamageSecondary		Unit_Neotank,75,Unit_Missiles
+	setUnitDamageSecondary		Unit_MegaTank,75,Unit_Artillery
+	setUnitDamageSecondary		Unit_MegaTank,75,Unit_Rockets
+	setUnitDamageSecondary		Unit_Megatank,75,Unit_Missiles
 
-	setUnitDamageSecondary		Unit_NeoTank,75,Unit_Recon
-	setUnitDamageSecondary		Unit_NeoTank,65,Unit_APC
-	setUnitDamageSecondary		Unit_NeoTank,35,Unit_AntiAir
+	setUnitDamageSecondary		Unit_MegaTank,75,Unit_Recon
+	setUnitDamageSecondary		Unit_MegaTank,65,Unit_APC
+	setUnitDamageSecondary		Unit_MegaTank,35,Unit_AntiAir
 
-	setUnitDamageSecondary		Unit_NeoTank,55,Unit_Battlecopter
-	setUnitDamageSecondary		Unit_NeoTank,95,Unit_TransportCopter
+	setUnitDamageSecondary		Unit_MegaTank,55,Unit_Battlecopter
+	setUnitDamageSecondary		Unit_MegaTank,95,Unit_TransportCopter
 
-	setUnitInventionDamage		Unit_NeoTank,75,01
+	setUnitInventionDamage		Unit_MegaTank,75,01
 	
