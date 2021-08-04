@@ -1,5 +1,5 @@
-        setCODefaults           coAWDSSubaru
-	setCOGameID		coAWDSSubaru,Game_AWDS
+        setCODefaults           coAWDSKorone
+	setCOGameID		coAWDSKorone,Game_AWDS
 
 	setCOGFXFullbody        coAWDSSubaru,GraphicsAWDSSubaruGraphic
 	setCOGFXName            coAWDSSubaru,GraphicsAWDSSubaruName
