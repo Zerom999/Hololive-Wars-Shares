@@ -86,4 +86,3 @@ String3168:
 	.ascii "."
 	TextEnd
 	
-	
