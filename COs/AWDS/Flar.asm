@@ -1,4 +1,4 @@
-setCODefaults           coAWDSKoal
+        setCODefaults           coAWDSKoal
 	setCOGameID		coAWDSKoal,Game_AWDS
 
 	setCOGFXFullbody        coAWDSKoal,GraphicsAWDSKoalGraphic
