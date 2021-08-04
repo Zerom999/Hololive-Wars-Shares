@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSSubaru,7,7
 	setCOGFXSuperSFX        coAWDSSubaru,0x1f7,0x01f8
 	
-	setCOName               coAWDSMax,ScriptAWDSMax
-	setCOpowerName          coAWDSMax,ScriptAWDSMax+1
-	setCOsuperName          coAWDSMax,ScriptAWDSMax+2
-	setCOpowerText          coAWDSMax,ScriptAWDSMax+8,ScriptAWDSMax+9,ScriptAWDSMax+10,ScriptAWDSMax+11,ScriptAWDSMax+12,ScriptAWDSMax+13
-	setCOprofileText        coAWDSMax,ScriptAWDSMax+3,ScriptAWDSMax+4,ScriptAWDSMax+5,ScriptAWDSMax+6
-	setCOvictoryText        coAWDSMax,ScriptAWDSMax+7
+	setCOName               coAWDSSubaru,ScriptAWDSSubaru
+	setCOpowerName          coAWDSSubaru,ScriptAWDSSubaru+1
+	setCOsuperName          coAWDSSubaru,ScriptAWDSSubaru+2
+	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSMax+9,ScriptAWDSMax+10,ScriptAWDSMax+11,ScriptAWDSMax+12,ScriptAWDSMax+13
+	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSMax+4,ScriptAWDSMax+5,ScriptAWDSMax+6
+	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
 
 	setCOFaction		coAWDSMax,ArmyOrangeStar
 	setCOMusic          	coAWDSMax,MusicMaxTheme
