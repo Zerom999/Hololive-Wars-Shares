@@ -1,4 +1,4 @@
-;Unit_Neotank
+;Unit_NeoTank
 	setUnitDefaults		Unit_NeoTank
 	
 	setUnitName		Unit_NeoTank,2236
