@@ -14,8 +14,8 @@
 	setCOName               coAWDSSubaru,ScriptAWDSSubaru
 	setCOpowerName          coAWDSSubaru,ScriptAWDSSubaru+1
 	setCOsuperName          coAWDSSubaru,ScriptAWDSSubaru+2
-	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSMax+9,ScriptAWDSMax+10,ScriptAWDSMax+11,ScriptAWDSMax+12,ScriptAWDSMax+13
-	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSMax+4,ScriptAWDSMax+5,ScriptAWDSMax+6
+	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
+	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
 	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
 
 	setCOFaction		coAWDSMax,ArmyOrangeStar
