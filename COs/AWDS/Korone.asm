@@ -1,11 +1,11 @@
         setCODefaults           coAWDSKorone
 	setCOGameID		coAWDSKorone,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKorone,GraphicsAWDSSubaruGraphic
-	setCOGFXName            coAWDSKorone,GraphicsAWDSSubaruName
-	setCOGFXPalette         coAWDSKorone,GraphicsAWDSSubaruPalette
-	setCOGFXFace            coAWDSKorone,GraphicsAWDSSubaruFace,GraphicsAWDSSubaruHappyFace,GraphicsAWDSSubaruSadFace
-	setCOGFXSmallFace       coAWDSKorone,GraphicsAWDSSubaruMugshot
+	setCOGFXFullbody        coAWDSKorone,GraphicsAWDSKoroneGraphic
+	setCOGFXName            coAWDSKorone,GraphicsAWDSKoroneName
+	setCOGFXPalette         coAWDSKorone,GraphicsAWDSKoronePalette
+	setCOGFXFace            coAWDSKorone,GraphicsAWDSKoroneFace,GraphicsAWDSKoroneHappyFace,GraphicsAWDSKoroneSadFace
+	setCOGFXSmallFace       coAWDSKorone,GraphicsAWDSKoroneMugshot
 	setCOGFXPowerAnim       coAWDSKorone,0x04,0x00
 	setCOGFXPowerSFX        coAWDSKorone,0xba,0xbb
 	setCOGFXSuperAnim       coAWDSKorone,7,7
