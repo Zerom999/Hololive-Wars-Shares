@@ -1,4 +1,4 @@
-;Neotank Descriptions
+;NeoTank Descriptions
 ; Original offset: 0x0860f038
 String3160:
 	.ascii "These are new weapons",TextNL
