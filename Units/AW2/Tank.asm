@@ -28,7 +28,7 @@
 	
 	setUnitDamagePrimary		Unit_Tank,55,Unit_Tank
 	setUnitDamagePrimary		Unit_Tank,35,Unit_MidTank
-	setUnitDamagePrimary		Unit_Tank,15,Unit_Neotank
+	setUnitDamagePrimary		Unit_Tank,15,Unit_NeoTank
 	
 	setUnitDamagePrimary		Unit_Tank,75,Unit_Artillery
 	setUnitDamagePrimary		Unit_Tank,75,Unit_Rockets
