@@ -22,7 +22,7 @@
 	
 	setUnitDamagePrimary		Unit_BattleCopter,55,Unit_Tank
 	setUnitDamagePrimary		Unit_BattleCopter,35,Unit_MidTank
-	setUnitDamagePrimary		Unit_BattleCopter,15,Unit_Neotank
+	setUnitDamagePrimary		Unit_BattleCopter,15,Unit_NeoTank
 	
 	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_Artillery
 	setUnitDamagePrimary		Unit_BattleCopter,65,Unit_Rockets
@@ -42,7 +42,7 @@
 	
 	setUnitDamageSecondary		Unit_BattleCopter,05,Unit_Tank
 	setUnitDamageSecondary		Unit_BattleCopter,01,Unit_MidTank
-	setUnitDamageSecondary		Unit_BattleCopter,01,Unit_Neotank
+	setUnitDamageSecondary		Unit_BattleCopter,01,Unit_NeoTank
 	
 	setUnitDamageSecondary		Unit_BattleCopter,35,Unit_Artillery
 	setUnitDamageSecondary		Unit_BattleCopter,35,Unit_Rockets
