@@ -45,20 +45,20 @@
 	setUnitDamageSecondary		Unit_MegaTank,185,Unit_Infantry
 	setUnitDamageSecondary		Unit_MegaTank,185,Unit_Mech
 	
-	setUnitDamageSecondary		Unit_MegaTank,15,Unit_Tank
-	setUnitDamageSecondary		Unit_MegaTank,05,Unit_MidTank
-	setUnitDamageSecondary		Unit_MegaTank,01,Unit_NeoTank
+	setUnitDamageSecondary		Unit_MegaTank,35,Unit_Tank
+	setUnitDamageSecondary		Unit_MegaTank,15,Unit_MidTank
+	setUnitDamageSecondary		Unit_MegaTank,05,Unit_NeoTank
 	
-	setUnitDamageSecondary		Unit_MegaTank,75,Unit_Artillery
-	setUnitDamageSecondary		Unit_MegaTank,75,Unit_Rockets
-	setUnitDamageSecondary		Unit_Megatank,75,Unit_Missiles
+	setUnitDamageSecondary		Unit_MegaTank,105,Unit_Artillery
+	setUnitDamageSecondary		Unit_MegaTank,105,Unit_Rockets
+	setUnitDamageSecondary		Unit_Megatank,105,Unit_Missiles
 
-	setUnitDamageSecondary		Unit_MegaTank,75,Unit_Recon
-	setUnitDamageSecondary		Unit_MegaTank,65,Unit_APC
-	setUnitDamageSecondary		Unit_MegaTank,35,Unit_AntiAir
+	setUnitDamageSecondary		Unit_MegaTank,105,Unit_Recon
+	setUnitDamageSecondary		Unit_MegaTank,75,Unit_APC
+	setUnitDamageSecondary		Unit_MegaTank,55,Unit_AntiAir
 
-	setUnitDamageSecondary		Unit_MegaTank,55,Unit_Battlecopter
-	setUnitDamageSecondary		Unit_MegaTank,95,Unit_TransportCopter
+	setUnitDamageSecondary		Unit_MegaTank,85,Unit_Battlecopter
+	setUnitDamageSecondary		Unit_MegaTank,125,Unit_TransportCopter
 
 	setUnitInventionDamage		Unit_MegaTank,75,01
 	
