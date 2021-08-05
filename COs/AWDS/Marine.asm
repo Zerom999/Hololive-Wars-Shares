@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSMarine,7,7
 	setCOGFXSuperSFX        coAWDSMarine,0x1f7,0x1f8
 	
-	setCOName               coAWDSAqua,ScriptAWDSAqua
-	setCOpowerName          coAWDSAqua,ScriptAWDSAqua+1
-	setCOsuperName          coAWDSAqua,ScriptAWDSAqua+2
-	setCOpowerText          coAWDSAqua,ScriptAWDSAqua+8,ScriptAWDSAqua+9,ScriptAWDSAqua+10,ScriptAWDSAqua+11,ScriptAWDSAqua+12,ScriptAWDSAqua+13
-	setCOprofileText        coAWDSAqua,ScriptAWDSAqua+3,ScriptAWDSAqua+4,ScriptAWDSAqua+5,ScriptAWDSAqua+6
-	setCOvictoryText        coAWDSAqua,ScriptAWDSAqua+7
+	setCOName               coAWDSMarine,ScriptAWDSMarine
+	setCOpowerName          coAWDSMarine,ScriptAWDSMarine+1
+	setCOsuperName          coAWDSMarine,ScriptAWDSMarine+2
+	setCOpowerText          coAWDSMarine,ScriptAWDSMarine+8,ScriptAWDSMarine+9,ScriptAWDSMarine+10,ScriptAWDSMarine+11,ScriptAWDSMarine+12,ScriptAWDSMarine+13
+	setCOprofileText        coAWDSMarine,ScriptAWDSMarine+3,ScriptAWDSMarine+4,ScriptAWDSMarine+5,ScriptAWDSMarine+6
+	setCOvictoryText        coAWDSMarine,ScriptAWDSMarine+7
 
 	setCOFaction		coAWDSAqua,ArmyGreenEarth
 	setCOMusic          	coAWDSAqua,MusicAquaTheme
