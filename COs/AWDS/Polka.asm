@@ -1,15 +1,15 @@
-setCODefaults           coAWDSNoel
-	setCOGameID		coAWDSNoel,Game_AWDS
+        setCODefaults           coAWDSPolka
+	setCOGameID		coAWDSPolka,Game_AWDS
 
-	setCOGFXFullbody        coAWDSNoel,GraphicsAWDSNoelGraphic
-	setCOGFXName            coAWDSNoel,GraphicsAWDSNoelName
-	setCOGFXPalette         coAWDSNoel,GraphicsAWDSNoelPalette
-	setCOGFXFace            coAWDSNoel,GraphicsAWDSNoelFace,GraphicsAWDSNoelHappyFace,GraphicsAWDSNoelSadFace
-	setCOGFXSmallFace       coAWDSNoel,GraphicsAWDSNoelMugshot
-	setCOGFXPowerAnim       coAWDSNoel,0,0
-	setCOGFXPowerSFX        coAWDSNoel,0xab,0xac
-	setCOGFXSuperAnim       coAWDSNoel,7,7
-	setCOGFXSuperSFX        coAWDSNoel,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSPolka,GraphicsAWDSPolkaGraphic
+	setCOGFXName            coAWDSPolka,GraphicsAWDSNPolkaname
+	setCOGFXPalette         coAWDSPolka,GraphicsAWDSPolkaPalette
+	setCOGFXFace            coAWDSPolka,GraphicsAWDSPolkaFace,GraphicsAWDSPolkaHappyFace,GraphicsAWDSNoelPolkaFace
+	setCOGFXSmallFace       coAWDSPolka,GraphicsAWDSPolkaMugshot
+	setCOGFXPowerAnim       coAWDSPolka,0,0
+	setCOGFXPowerSFX        coAWDSPolka,0xab,0xac
+	setCOGFXSuperAnim       coAWDSPolka,7,7
+	setCOGFXSuperSFX        coAWDSPolka,0x1f7,0x1f8
 	
 	setCOName               coAWDSNoel,ScriptAWDSNoel
 	setCOpowerName          coAWDSNoel,ScriptAWDSNoel+1
