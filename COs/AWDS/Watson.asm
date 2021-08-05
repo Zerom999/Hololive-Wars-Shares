@@ -18,15 +18,15 @@
 	setCOprofileText        coAWDSWatson,ScriptAWDSWatson+3,ScriptAWDSWatson+4,ScriptAWDSWalter+5,ScriptAWDSWatson+6
 	setCOvictoryText        coAWDSWatson,ScriptAWDSWatson+7
 
-	setCOFaction		coCCOWalter,ArmyGreenEarth
-	setCOMusic          	coCCOWalter,MusicGreenEarth
+	setCOFaction		coAWDSWatson,ArmyGreenEarth
+	setCOMusic          	coAWDSWatson,MusicGreenEarth
 
-	setCOPowerCost          coCCOWalter,3
-	setCOSuperCost          coCCOWalter,6
+	setCOPowerCost          coAWDSWatson,3
+	setCOSuperCost          coAWDSWatson,6
 	
-	setCOD2DAbilities		coCCOWalter,SpecialViewAccurateHP
-	setCOPowerAbilities		coCCOWalter,SpecialViewAccurateHP
-	setCOPowerDamageReflect	coCCOWalter,50
+	setCOD2DAbilities		coAWDSWatson,SpecialViewAccurateHP
+	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP
+	setCOPowerDamageReflect	coAWDSWalter,50
 	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
 
 	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
