@@ -14,8 +14,8 @@
 	setCOName               coCCOWatson,ScriptCCOWatson
 	setCOpowerName          coCCOWatson,ScriptCCOWatson+1
 	setCOsuperName          coCCOWatson,ScriptCCOWatson+2
-	setCOpowerText          coCCOWatson,ScriptCCOWatson+8,ScriptCCOWalter+9,ScriptCCOWalter+10,ScriptCCOWalter+11,ScriptCCOWalter+12,ScriptCCOWalter+13
-	setCOprofileText        coCCOWatson,ScriptCCOWatson+3,ScriptCCOWalter+4,ScriptCCOWalter+5,ScriptCCOWalter+6
+	setCOpowerText          coCCOWatson,ScriptCCOWatson+8,ScriptCCOWatson+9,ScriptCCOWalter+10,ScriptCCOWatson+11,ScriptCCOWatson+12,ScriptCCOWatson+13
+	setCOprofileText        coCCOWatson,ScriptCCOWatson+3,ScriptCCOWatson+4,ScriptCCOWalter+5,ScriptCCOWatson+6
 	setCOvictoryText        coCCOWatson,ScriptCCOWatson+7
 
 	setCOFaction		coCCOWalter,ArmyGreenEarth
