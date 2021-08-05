@@ -24,13 +24,13 @@
 	setCOPowerCost          coAWDSFlare,3
 	setCOSuperCost          coAWDSFlare,6
 
-	setCOD2DDirectStat		coAWDSFlare,-20,0,0,0
-	setCOD2DIndirectStat		coAWDSFlare,20,0,0,1
+	setCOD2DDirectStat	coAWDSFlare,-20,0,0,0	
+	setCOD2DIndirectStat	coAWDSFlare,20,0,0,1	
 	
-	setCOPowerDirectStat		coAWDSFlare,-20,0,0,0
+	setCOPowerDirectStat	coAWDSFlare,-20,0,0,0	
 	setCOPowerIndirectStat	coAWDSFlare,40,0,0,2
 
-	setCOSuperDirectStat		coAWDSFlare,-20,0,0,0
+	setCOSuperDirectStat	coAWDSFlare,-20,0,0,0	
 	setCOSuperIndirectStat	coAWDSFlare,60,0,0,3
 
 	setCOGFXPowerRule       coAWDSFlare,COPCheckIndirectCombatUnits
