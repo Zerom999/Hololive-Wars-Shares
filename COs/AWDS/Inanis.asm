@@ -24,9 +24,9 @@
 	setCOPowerCost          coAWDSInanis,4
 	setCOSuperCost          coAWDSInanis,8
 	
-	setCOd2dAbilities			coAWDSSonja,SpecialHiddenHP
-	setCOPowerAbilities			coAWDSSonja,SpecialHiddenHP
-	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP
+	setCOd2dAbilities			coAWDSInanis,SpecialHiddenHP
+	setCOPowerAbilities			coAWDSInanis,SpecialHiddenHP
+	setCOSuperAbilities			coAWDSInanis,SpecialHiddenHP
 
 	setCOD2DNavyStat	coAWDSDrake,20,20,0,0
 	setCOD2DAirStat		coAWDSDrake,-40,0,0,0
