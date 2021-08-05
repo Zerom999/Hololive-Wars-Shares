@@ -33,6 +33,6 @@
 	setCOSuperAllStat	coAWDSPolka,50,-10,3,0
 	setCOSuperIndirectStat	coAWDSPolka,0,0,0,2	
 	
-	setCOAIPowerRange       coAWDSNoel,25
-	setCOAIPowerTrigger     coAWDSNoel,95
+	setCOAIPowerRange       coAWDSPolka,25
+	setCOAIPowerTrigger     coAWDSPolka,95
 ; blank line
