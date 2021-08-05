@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSPolka,7,7
 	setCOGFXSuperSFX        coAWDSPolka,0x1f7,0x1f8
 	
-	setCOName               coAWDSNoel,ScriptAWDSNoel
-	setCOpowerName          coAWDSNoel,ScriptAWDSNoel+1
-	setCOsuperName          coAWDSNoel,ScriptAWDSNoel+2
-	setCOpowerText          coAWDSNoel,ScriptAWDSNoel+8,ScriptAWDSNoel+9,ScriptAWDSNoel+10,ScriptAWDSNoel+11,ScriptAWDSNoel+12,ScriptAWDSNoel+13
-	setCOprofileText        coAWDSNoel,ScriptAWDSNoel+3,ScriptAWDSNoel+4,ScriptAWDSNoel+5,ScriptAWDSNoel+6
-	setCOvictoryText        coAWDSNoel,ScriptAWDSNoel+7
+	setCOName               coAWDSPolka,ScriptAWDSPolka
+	setCOpowerName          coAWDSPolka,ScriptAWDSPolka+1
+	setCOsuperName          coAWDSPolka,ScriptAWDSPolka+2
+	setCOpowerText          coAWDSPolka,ScriptAWDSPolka+8,ScriptAWDSPolka+9,ScriptAWDSPolka+10,ScriptAWDSPolka+11,ScriptAWDSPolka+12,ScriptAWDSPolka+13
+	setCOprofileText        coAWDSPolka,ScriptAWDSPolka+3,ScriptAWDSPolka+4,ScriptAWDSPolka+5,ScriptAWDSPolka+6
+	setCOvictoryText        coAWDSPolka,ScriptAWDSPolka+7
 
 	setCOFaction		coAWDSNoel,ArmyYellowComet
 	setCOMusic          	coAWDSNoel,MusicNoelTheme
