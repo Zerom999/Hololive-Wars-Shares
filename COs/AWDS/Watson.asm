@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSWatson,7,7
 	setCOGFXSuperSFX        coAWDSWatson,0xF7,1
 	
-	setCOName               coCCOWatson,ScriptCCOWatson
-	setCOpowerName          coCCOWatson,ScriptCCOWatson+1
-	setCOsuperName          coCCOWatson,ScriptCCOWatson+2
-	setCOpowerText          coCCOWatson,ScriptCCOWatson+8,ScriptCCOWatson+9,ScriptCCOWalter+10,ScriptCCOWatson+11,ScriptCCOWatson+12,ScriptCCOWatson+13
-	setCOprofileText        coCCOWatson,ScriptCCOWatson+3,ScriptCCOWatson+4,ScriptCCOWalter+5,ScriptCCOWatson+6
-	setCOvictoryText        coCCOWatson,ScriptCCOWatson+7
+	setCOName               coAWDSWatson,ScriptAWDSWatson
+	setCOpowerName          coAWDSWatson,ScriptAWDSWatson+1
+	setCOsuperName          coAWDSWatson,ScriptAWDSWatson+2
+	setCOpowerText          coAWDSWatson,ScriptAWDSWatson+8,ScriptAWDSWatson+9,ScriptAWDSWalter+10,ScriptAWDSWatson+11,ScriptAWDSWatson+12,ScriptAWDSWatson+13
+	setCOprofileText        coAWDSWatson,ScriptAWDSWatson+3,ScriptAWDSWatson+4,ScriptAWDSWalter+5,ScriptAWDSWatson+6
+	setCOvictoryText        coAWDSWatson,ScriptAWDSWatson+7
 
 	setCOFaction		coCCOWalter,ArmyGreenEarth
 	setCOMusic          	coCCOWalter,MusicGreenEarth
