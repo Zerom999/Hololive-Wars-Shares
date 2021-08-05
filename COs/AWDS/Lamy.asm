@@ -27,7 +27,11 @@
 	setCOD2DSnowFirepower	coAWDSLamy,10,30,0,0
 	setCOPowerSnowFirepower	coAWDSLamy,10,30,0,0
 	setCOSuperSnowFirepower	coAWDSLamy,10,30,0,0
-
+	
+	setCOD2DMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOPowerMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOSuperMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
+	
 	setCOPowerASM		coAWDSLamy,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSLamy,COPowerExtendedWinterFury
 	
