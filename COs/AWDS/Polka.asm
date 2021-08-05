@@ -18,17 +18,17 @@
 	setCOprofileText        coAWDSPolka,ScriptAWDSPolka+3,ScriptAWDSPolka+4,ScriptAWDSPolka+5,ScriptAWDSPolka+6
 	setCOvictoryText        coAWDSPolka,ScriptAWDSPolka+7
 
-	setCOFaction		coAWDSNoel,ArmyYellowComet
-	setCOMusic          	coAWDSNoel,MusicNoelTheme
+	setCOFaction		coAWDSPolka,ArmyYellowComet
+	setCOMusic          	coAWDSPolka,MusicPolkaTheme
 
-	setCOPowerCost          coAWDSNoel,4
-	setCOSuperCost          coAWDSNoel,8
+	setCOPowerCost          coAWDSPolka,4
+	setCOSuperCost          coAWDSPolka,8
 
-	setCOD2DAllStat		coAWDSNoel,20,20,1,0
+	setCOD2DAllStat		coAWDSPolka,20,20,1,0
 		
-	setCOPowerAllStat	coAWDSNoel,40,40,2,0
+	setCOPowerAllStat	coAWDSPolka,40,40,2,0
 	
-	setCOSuperAllStat	coAWDSNoel,60,60,3,0
+	setCOSuperAllStat	coAWDSPolka,60,60,3,0
 	
 	setCOAIPowerRange       coAWDSNoel,25
 	setCOAIPowerTrigger     coAWDSNoel,95
