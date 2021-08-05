@@ -18,7 +18,7 @@ COPCheckNavalClass:
 	beq	COPCheckNavalClassTrue
 	cmp	r0,0x3
 	beq	COPCheckNavalClassTrue
-COPCheckAerialClassFalse:
+COPCheckNavalClassFalse:
 	mov	r0,0x0
 	b	COPCheckNavalClassEnd
 	.pool
