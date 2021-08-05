@@ -26,7 +26,7 @@
 	
 	setCOD2DAbilities		coAWDSWatson,SpecialViewAccurateHP
 	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP
-	setCOPowerDamageReflect	coAWDSWalter,50
+	
 	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
 
 	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
