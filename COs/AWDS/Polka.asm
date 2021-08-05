@@ -24,11 +24,11 @@
 	setCOPowerCost          coAWDSPolka,4
 	setCOSuperCost          coAWDSPolka,8
 
-	setCOD2DAllStat		coAWDSPolka,20,20,1,0
+	setCOD2DAllStat		coAWDSPolka,10,-20,1,0
 		
-	setCOPowerAllStat	coAWDSPolka,40,40,2,0
+	setCOPowerAllStat	coAWDSPolka,30,-10,2,0
 	
-	setCOSuperAllStat	coAWDSPolka,60,60,3,0
+	setCOSuperAllStat	coAWDSPolka,50,-10,3,0
 	
 	setCOAIPowerRange       coAWDSNoel,25
 	setCOAIPowerTrigger     coAWDSNoel,95
