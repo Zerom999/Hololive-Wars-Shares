@@ -28,7 +28,7 @@
 	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP
 	
 	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
-	setCOSuperAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
+	setCOSuperAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP+SpecialPiercingVision
 
 	setCOSuperASM		coAWDSWatson,COPowerMagnumOpus
 	
