@@ -18,24 +18,24 @@
 	setCOprofileText        coAWDSMarine,ScriptAWDSMarine+3,ScriptAWDSMarine+4,ScriptAWDSMarine+5,ScriptAWDSMarine+6
 	setCOvictoryText        coAWDSMarine,ScriptAWDSMarine+7
 
-	setCOFaction		coAWDSAqua,ArmyGreenEarth
-	setCOMusic          	coAWDSAqua,MusicAquaTheme
+	setCOFaction		coAWDSMarine,ArmyGreenEarth
+	setCOMusic          	coAWDSMarine,MusicMarineTheme
 
-	setCOPowerCost          coAWDSAqua,4
-	setCOSuperCost          coAWDSAqua,8
+	setCOPowerCost          coAWDSMarine,4
+	setCOSuperCost          coAWDSMarine,8
 	
-	setCOD2DLandStat	coAWDSAqua,0,0,0,0
-	setCOD2DNavyStat	coAWDSAqua,30,30,0,0
-	setCOD2DAirStat		coAWDSAqua,-50,0,0,0
+	setCOD2DLandStat	coAWDSMarine,0,0,0,0
+	setCOD2DNavyStat	coAWDSMarine,30,30,0,0
+	setCOD2DAirStat		coAWDSMarine,-50,0,0,0
 	
-	setCOPowerLandStat	coAWDSAqua,0,0,0,0
-	setCOPowerNavyStat	coAWDSAqua,60,60,0,0
-	setCOPowerAirStat	coAWDSAqua,-40,0,0,0
+	setCOPowerLandStat	coAWDSMarine,0,0,0,0
+	setCOPowerNavyStat	coAWDSMarine,60,60,0,0
+	setCOPowerAirStat	coAWDSMarine,-40,0,0,0
 	
-	setCOSuperLandStat	coAWDSAqua,0,0,0,0
-	setCOSuperNavyStat	coAWDSAqua,90,90,0,0
-	setCOSuperAirStat	coAWDSAqua,-40,0,0,0
+	setCOSuperLandStat	coAWDSMarine,0,0,0,0
+	setCOSuperNavyStat	coAWDSMarine,90,90,0,0
+	setCOSuperAirStat	coAWDSMarine,-40,0,0,0
 	
-	setCOAIPowerRange       coAWDSAqua,25
-	setCOAIPowerTrigger     coAWDSAqua,95
+	setCOAIPowerRange       coAWDSMarine,25
+	setCOAIPowerTrigger     coAWDSMarine,95
 ; blank line
