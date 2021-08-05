@@ -1,15 +1,15 @@
-setCODefaults           coAWDSGura
-	setCOGameID		coAWDSGura,Game_AWDS
+        setCODefaults           coAWDSKiara
+	setCOGameID		coAWDSKiara,Game_AWDS
 
-	setCOGFXFullbody        coAWDSGura,GraphicsAWDSGuraGraphic
-	setCOGFXName            coAWDSGura,GraphicsAWDSGuraName
-	setCOGFXPalette         coAWDSGura,GraphicsAWDSGuraPalette
-	setCOGFXFace            coAWDSGura,GraphicsAWDSGuraFace,GraphicsAWDSGuraHappyFace,GraphicsAWDSGuraSadFace
-	setCOGFXSmallFace       coAWDSGura,GraphicsAWDSGuraMugshot
-	setCOGFXPowerAnim       coAWDSGura,0x04,0x00
-	setCOGFXPowerSFX        coAWDSGura,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSGura,7,7
-	setCOGFXSuperSFX        coAWDSGura,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSKiara,GraphicsAWDSKiaraGraphic
+	setCOGFXName            coAWDSKiara,GraphicsAWDSKiaraName
+	setCOGFXPalette         coAWDSKiara,GraphicsAWDSKiaraPalette
+	setCOGFXFace            coAWDSKiara,GraphicsAWDSKiaraFace,GraphicsAWDSKiaraHappyFace,GraphicsAWDSKiaraSadFace
+	setCOGFXSmallFace       coAWDSKiara,GraphicsAWDSKiaraMugshot
+	setCOGFXPowerAnim       coAWDSKiara,0x04,0x00
+	setCOGFXPowerSFX        coAWDSKiara,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSKiara,7,7
+	setCOGFXSuperSFX        coAWDSKiara,0x1f7,0x1f8
 	
 	setCOName               coAWDSGura,ScriptAWDSGura
 	setCOpowerName          coAWDSGura,ScriptAWDSGura+1
