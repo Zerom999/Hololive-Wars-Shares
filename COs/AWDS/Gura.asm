@@ -24,18 +24,18 @@
 	setCOPowerCost          coAWDSGura,4
 	setCOSuperCost          coAWDSGura,8
 	
-	setCOD2DLandStat	coAWDSAqua,0,0,0,0
-	setCOD2DNavyStat	coAWDSAqua,0,20,1,0
-	setCOD2DAirStat		coAWDSAqua,-20,0,0,0
+	setCOD2DLandStat	coAWDSGura,0,0,0,0
+	setCOD2DNavyStat	coAWDSGura,60,0,1,0
+	setCOD2DAirStat		coAWDSGura,-50,0,-1,0
 	
-	setCOPowerLandStat	coAWDSAqua,0,0,0,0
-	setCOPowerNavyStat	coAWDSAqua,0,40,2,0
-	setCOPowerAirStat	coAWDSAqua,-10,0,0,0
+	setCOPowerLandStat	coAWDSGura,0,0,0,0
+	setCOPowerNavyStat	coAWDSGura,90,0,2,0
+	setCOPowerAirStat	coAWDSGura,-40,0,-1,0
 	
-	setCOSuperLandStat	coAWDSAqua,0,0,0,0
-	setCOSuperNavyStat	coAWDSAqua,0,60,3,0
-	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
+	setCOSuperLandStat	coAWDSGura,0,0,0,0
+	setCOSuperNavyStat	coAWDSGura,120,0,3,0
+	setCOSuperAirStat	coAWDSGura,-40,0,-1,0
 	
-	setCOAIPowerRange       coAWDSAqua,25
-	setCOAIPowerTrigger     coAWDSAqua,95
+	setCOAIPowerRange       coAWDSGura,25
+	setCOAIPowerTrigger     coAWDSGura,95
 ; blank line
