@@ -1,15 +1,15 @@
-        setCODefaults           coCCOWatson
-	setCOGameID		coCCOWatson,Game_AWDS
+        setCODefaults           coAWDSWatson
+	setCOGameID		coAWDSatson,Game_AWDS
 
-	setCOGFXFullbody        coCCOWatson,GraphicsCCOWatsonGraphic
-	setCOGFXName            coCCOWatson,GraphicsCCOWatsonName
-	setCOGFXPalette         coCCOWatson,GraphicsCCOWatsonPalette
-	setCOGFXFace            coCCOWatson,GraphicsCCOWatsonFace,GraphicsCCOWatsonHappyFace,GraphicsCCOWatsonSadFace
-	setCOGFXSmallFace       coCCOWatson,GraphicsCCOWatsonMugshot
-	setCOGFXPowerAnim       coCCOWatson,2,0
-	setCOGFXPowerSFX        coCCOWatson,183,0
-	setCOGFXSuperAnim       coCCOWatson,7,7
-	setCOGFXSuperSFX        coCCOWatson,0xF7,1
+	setCOGFXFullbody        coAWDSWatson,GraphicsAWDSWatsonGraphic
+	setCOGFXName            coAWDSWatson,GraphicsAWDSWatsonName
+	setCOGFXPalette         coAWDSWatson,GraphicsAWDSWatsonPalette
+	setCOGFXFace            coAWDSWatson,GraphicsAWDSWatsonFace,GraphicsAWDSWatsonHappyFace,GraphicsAWDSWatsonSadFace
+	setCOGFXSmallFace       cAWDSWatson,GraphicsAWDSWatsonMugshot
+	setCOGFXPowerAnim       coAWDSWatson,2,0
+	setCOGFXPowerSFX        coAWDSWatson,183,0
+	setCOGFXSuperAnim       coAWDSWatson,7,7
+	setCOGFXSuperSFX        coAWDSWatson,0xF7,1
 	
 	setCOName               coCCOWalter,ScriptCCOWalter
 	setCOpowerName          coCCOWalter,ScriptCCOWalter+1
