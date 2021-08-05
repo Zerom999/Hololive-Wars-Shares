@@ -24,12 +24,15 @@
 	setCOPowerCost          coAWDSCoco,5
 	setCOSuperCost          coAWDSCoco,10
 	
+	setCOD2DLandStat	coAWDSCoco,0,0,0,0
 	setCOD2DNavyStat	coAWDSCoco,-50,0,0,0
 	setCOD2DAirStat		coAWDSCoco,30,30,0,0
 
+        setCOPowerLandStat	coAWDSCoco,0,0,0,0
 	setCOPowerNavyStat	coAWDSCoco,-40,0,0,0
 	setCOPowerAirStat	coAWDSCoco,60,60,0,0
 
+        setCOSuperLandStat	coAWDSCoco,0,0,0,0
 	setCOSuperNavyStat	coAWDSCoco,-40,0,0,0
 	setCOSuperAirStat	coAWDSCoco,90,90,0,0
 
