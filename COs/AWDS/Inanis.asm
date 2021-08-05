@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSInanis,7,7
 	setCOGFXSuperSFX        coAWDSInanis,0xC1,0xC1
 	
-	setCOName               coAWDSDrake,ScriptAWDSDrake
-	setCOpowerName          coAWDSDrake,ScriptAWDSDrake+1
-	setCOsuperName          coAWDSDrake,ScriptAWDSDrake+2
-	setCOpowerText          coAWDSDrake,ScriptAWDSDrake+8,ScriptAWDSDrake+9,ScriptAWDSDrake+10,ScriptAWDSDrake+11,ScriptAWDSDrake+12,ScriptAWDSDrake+13
-	setCOprofileText        coAWDSDrake,ScriptAWDSDrake+3,ScriptAWDSDrake+4,ScriptAWDSDrake+5,ScriptAWDSDrake+6
-	setCOvictoryText        coAWDSDrake,ScriptAWDSDrake+7
+	setCOName               coAWDSInanis,ScriptAWDSInanis
+	setCOpowerName          coAWDSInanis,ScriptAWDSInanis+1
+	setCOsuperName          coAWDSInanis,ScriptAWDSInanis+2
+	setCOpowerText          coAWDSInanis,ScriptAWDSInanis+8,ScriptAWDSInanis+9,ScriptAWDSInanis+10,ScriptAWDSInanis+11,ScriptAWDSInanis+12,ScriptAWDSInanis+13
+	setCOprofileText        coAWDSInanis,ScriptAWDSInanis+3,ScriptAWDSInanis+4,ScriptAWDSInanis+5,ScriptAWDSInanis+6
+	setCOvictoryText        coAWDSInanis,ScriptAWDSInanis+7
 
 	setCOFaction		coAWDSDrake,ArmyGreenEarth
 	setCOMusic          	coAWDSDrake,MusicDrakeTheme
