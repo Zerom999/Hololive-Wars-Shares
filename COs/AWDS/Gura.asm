@@ -36,6 +36,9 @@
 	setCOSuperNavyStat	coAWDSGura,120,0,3,0
 	setCOSuperAirStat	coAWDSGura,-40,0,-1,0
 	
+	setCOGFXPowerRule	coAWDSGura,COPCheckNavalClass
+	setCOGFXSuperRule	coAWDSGura,COPCheckNavalClass
+	
 	setCOAIPowerRange       coAWDSGura,25
 	setCOAIPowerTrigger     coAWDSGura,95
 ; blank line
