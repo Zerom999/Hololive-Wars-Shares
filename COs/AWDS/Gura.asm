@@ -2,7 +2,7 @@
 	setCOGameID		coAWDSGura,Game_AWDS
 
 	setCOGFXFullbody        coAWDSGura,GraphicsAWDSGuraGraphic
-	setCOGFXName            coAWDSGuraa,GraphicsAWDSGuraName
+	setCOGFXName            coAWDSGura,GraphicsAWDSGuraName
 	setCOGFXPalette         coAWDSGura,GraphicsAWDSGuraPalette
 	setCOGFXFace            coAWDSGura,GraphicsAWDSGuraFace,GraphicsAWDSGuraHappyFace,GraphicsAWDSGuraSadFace
 	setCOGFXSmallFace       coAWDSGura,GraphicsAWDSGuraMugshot
@@ -18,11 +18,11 @@
 	setCOprofileText        coAWDSGura,ScriptAWDSGura+3,ScriptAWDSGura+4,ScriptAWDSGura+5,ScriptAWDSGura+6
 	setCOvictoryText        coAWDSGura,ScriptAWDSGura+7
 
-	setCOFaction		coAWDSAqua,ArmyGreenEarth
-	setCOMusic          	coAWDSAqua,MusicAquaTheme
+	setCOFaction		coAWDSGura,ArmyGreenEarth
+	setCOMusic          	coAWDSGura,MusicGuraTheme
 
-	setCOPowerCost          coAWDSAqua,4
-	setCOSuperCost          coAWDSAqua,8
+	setCOPowerCost          coAWDSGura,4
+	setCOSuperCost          coAWDSGura,8
 	
 	setCOD2DLandStat	coAWDSAqua,0,0,0,0
 	setCOD2DNavyStat	coAWDSAqua,0,20,1,0
