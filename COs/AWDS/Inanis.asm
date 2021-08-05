@@ -23,6 +23,10 @@
 
 	setCOPowerCost          coAWDSDrake,4
 	setCOSuperCost          coAWDSDrake,8
+	
+	setCOd2dAbilities			coAWDSSonja,SpecialHiddenHP
+	setCOPowerAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision
+	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision+SpecialPreEmptiveCounter
 
 	setCOD2DNavyStat	coAWDSDrake,20,20,0,0
 	setCOD2DAirStat		coAWDSDrake,-40,0,0,0
