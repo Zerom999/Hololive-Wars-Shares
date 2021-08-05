@@ -18,15 +18,15 @@
 	setCOprofileText        coAWDSInanis,ScriptAWDSInanis+3,ScriptAWDSInanis+4,ScriptAWDSInanis+5,ScriptAWDSInanis+6
 	setCOvictoryText        coAWDSInanis,ScriptAWDSInanis+7
 
-	setCOFaction		coAWDSDrake,ArmyGreenEarth
-	setCOMusic          	coAWDSDrake,MusicDrakeTheme
+	setCOFaction		coAWDSInanis,ArmyGreenEarth
+	setCOMusic          	coAWDSInanis,MusicInanisTheme
 
-	setCOPowerCost          coAWDSDrake,4
-	setCOSuperCost          coAWDSDrake,8
+	setCOPowerCost          coAWDSInanis,4
+	setCOSuperCost          coAWDSInanis,8
 	
 	setCOd2dAbilities			coAWDSSonja,SpecialHiddenHP
-	setCOPowerAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision
-	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP+SpecialPiercingVision+SpecialPreEmptiveCounter
+	setCOPowerAbilities			coAWDSSonja,SpecialHiddenHP
+	setCOSuperAbilities			coAWDSSonja,SpecialHiddenHP
 
 	setCOD2DNavyStat	coAWDSDrake,20,20,0,0
 	setCOD2DAirStat		coAWDSDrake,-40,0,0,0
