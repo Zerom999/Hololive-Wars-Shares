@@ -1,15 +1,15 @@
-setCODefaults           coAWDSDrake
-	setCOGameID		coAWDSDrake,Game_AWDS
+        setCODefaults           coAWDSInanis
+	setCOGameID		coAWDSInanis,Game_AWDS
 
-	setCOGFXFullbody        coAWDSDrake,GraphicsAWDSDrakeGraphic
-	setCOGFXName            coAWDSDrake,GraphicsAWDSDrakeName
-	setCOGFXPalette         coAWDSDrake,GraphicsAWDSDrakePalette
-	setCOGFXFace            coAWDSDrake,GraphicsAWDSDrakeFace,GraphicsAWDSDrakeHappyFace,GraphicsAWDSDrakeSadFace
-	setCOGFXSmallFace       coAWDSDrake,GraphicsAWDSDrakeMugshot
-	setCOGFXPowerAnim       coAWDSDrake,6,4
-	setCOGFXPowerSFX        coAWDSDrake,0xC0,0xC1
-	setCOGFXSuperAnim       coAWDSDrake,7,7
-	setCOGFXSuperSFX        coAWDSDrake,0xC1,0xC1
+	setCOGFXFullbody        coAWDSInanis,GraphicsAWDSInanisGraphic
+	setCOGFXName            coAWDSInanis,GraphicsAWDSInanisName
+	setCOGFXPalette         coAWDSInanis,GraphicsAWDSInanisPalette
+	setCOGFXFace            coAWDSInanis,GraphicsAWDSInanisFace,GraphicsAWDSInanisHappyFace,GraphicsAWDSInanisSadFace
+	setCOGFXSmallFace       coAWDSInanis,GraphicsAWDSInanisMugshot
+	setCOGFXPowerAnim       coAWDSInanis,6,4
+	setCOGFXPowerSFX        coAWDSInanis,0xC0,0xC1
+	setCOGFXSuperAnim       coAWDSInanis,7,7
+	setCOGFXSuperSFX        coAWDSInanis,0xC1,0xC1
 	
 	setCOName               coAWDSDrake,ScriptAWDSDrake
 	setCOpowerName          coAWDSDrake,ScriptAWDSDrake+1
