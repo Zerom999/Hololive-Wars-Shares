@@ -1,4 +1,4 @@
-# Infinite COs Project for Advance Wars 2: Black Hole Rising
+# Hololive COs Project for Advance Wars 2: Black Hole Rising
 
 This is a massive expansion and partial disassembly/reimplementation project of Advance Wars 2. It provides a lot of expanded functionality and content.
 
