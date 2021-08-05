@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSLuna,ArmyBlueMoon
 	setCOMusic          	coAWDSLuna,MusicLunaTheme
 
-	setCOPowerCost          coAWDSLuna,3
-	setCOSuperCost          coAWDSLuna,6
+	setCOPowerCost          coAWDSLuna,4
+	setCOSuperCost          coAWDSLuna,8
 
 	setCOAllStat		coAWDSLuna,-10,-10,0,0
 	setCOD2DPrice		coAWDSLuna,-30
