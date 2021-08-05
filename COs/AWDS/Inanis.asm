@@ -28,17 +28,17 @@
 	setCOPowerAbilities			coAWDSInanis,SpecialHiddenHP
 	setCOSuperAbilities			coAWDSInanis,SpecialHiddenHP
 
-	setCOD2DNavyStat	coAWDSDrake,20,10,0,0
-	setCOD2DAirStat		coAWDSDrake,-10,0,0,0
-	setCOPowerNavyStat	coAWDSDrake,40,20,0,0
-	setCOPowerAirStat	coAWDSDrake,0,0,0,0
-	setCOSuperNavyStat	coAWDSDrake,60,30,0,0
-	setCOSuperAirStat	coAWDSDrake,0,0,0,0
+	setCOD2DNavyStat	coAWDSInanis,20,10,0,0
+	setCOD2DAirStat		coAWDSInanis,-10,0,0,0
+	setCOPowerNavyStat	coAWDSInanis,40,20,0,0
+	setCOPowerAirStat	coAWDSInanis,0,0,0,0
+	setCOSuperNavyStat	coAWDSInanis,60,30,0,0
+	setCOSuperAirStat	coAWDSInanis,0,0,0,0
 
-	setCOPowerASM		coAWDSDrake,COPowerTsunami
-	setCOSuperASM		coAWDSDrake,COPowerTyphoon
+	setCOPowerASM		coAWDSInanis,COPowerTsunami
+	setCOSuperASM		coAWDSInanis,COPowerTyphoon
 	
-	setCOAIPowerRange       coAWDSDrake,35
-	setCOAIPowerTrigger     coAWDSDrake,95
+	setCOAIPowerRange       coAWDSInanis,35
+	setCOAIPowerTrigger     coAWDSInanis,95
 	setCOAIPowerTriggerASM  coAWDSDrake,AIActivateAlways
 ; blank line
