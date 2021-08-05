@@ -18,24 +18,24 @@
 	setCOprofileText        coAWDSKiara,ScriptAWDSKiara+3,ScriptAWDSKiara+4,ScriptAWDSKiara+5,ScriptAWDSKiara+6
 	setCOvictoryText        coAWDSKiara,ScriptAWDSKiara+7
 
-	setCOFaction		coAWDSGura,ArmyGreenEarth
-	setCOMusic          	coAWDSGura,MusicGuraTheme
+	setCOFaction		coAWDSKiara,ArmyGreenEarth
+	setCOMusic          	coAWDSKiara,MusicKiaraTheme
 
-	setCOPowerCost          coAWDSGura,4
-	setCOSuperCost          coAWDSGura,8
+	setCOPowerCost          coAWDSKiara,4
+	setCOSuperCost          coAWDSKiara,8
 	
-	setCOD2DLandStat	coAWDSGura,0,0,0,0
-	setCOD2DNavyStat	coAWDSGura,60,0,1,0
-	setCOD2DAirStat		coAWDSGura,-50,0,-1,0
+	setCOD2DLandStat	coAWDSKiara,0,0,0,0
+	setCOD2DNavyStat	coAWDSKiara,60,0,1,0
+	setCOD2DAirStat		coAWDSKiara,-50,0,-1,0
 	
-	setCOPowerLandStat	coAWDSGura,0,0,0,0
-	setCOPowerNavyStat	coAWDSGura,90,0,2,0
-	setCOPowerAirStat	coAWDSGura,-40,0,-1,0
+	setCOPowerLandStat	coAWDSKiara,0,0,0,0
+	setCOPowerNavyStat	coAWDSKiara,90,0,2,0
+	setCOPowerAirStat	coAWDSKiara,-40,0,-1,0
 	
-	setCOSuperLandStat	coAWDSGura,0,0,0,0
-	setCOSuperNavyStat	coAWDSGura,120,0,3,0
-	setCOSuperAirStat	coAWDSGura,-40,0,-1,0
+	setCOSuperLandStat	coAWDSKiara,0,0,0,0
+	setCOSuperNavyStat	coAWDSKiara,120,0,3,0
+	setCOSuperAirStat	coAWDSKiara,-40,0,-1,0
 	
-	setCOAIPowerRange       coAWDSGura,25
-	setCOAIPowerTrigger     coAWDSGura,95
+	setCOAIPowerRange       coAWDSKiara,25
+	setCOAIPowerTrigger     coAWDSKiara,95
 ; blank line
