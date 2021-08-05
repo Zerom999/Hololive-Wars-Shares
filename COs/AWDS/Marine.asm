@@ -1,4 +1,4 @@
-setCODefaults           coAWDSAqua
+        setCODefaults           coAWDSAqua
 	setCOGameID		coAWDSAqua,Game_AWDS
 
 	setCOGFXFullbody        coAWDSAqua,GraphicsAWDSAquaGraphic
