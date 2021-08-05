@@ -27,10 +27,11 @@
 	setCOD2DAbilities		coAWDSWatson,SpecialViewAccurateHP
 	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP
 	
-	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
+	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
+	setCOSuperAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
 
-	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
+	setCOSuperASM		coAWDSWatson,COPowerMagnumOpus
 	
-	setCOAIPowerRange       coCCOWalter,25
-	setCOAIPowerTrigger     coCCOWalter,95
+	setCOAIPowerRange       coAWDSWatson,25
+	setCOAIPowerTrigger     coAWDSWatson,95
 ; blank line
