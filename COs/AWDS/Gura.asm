@@ -1,15 +1,15 @@
-setCODefaults           coAWDSAqua
-	setCOGameID		coAWDSAqua,Game_AWDS
+        setCODefaults           coAWDSGura
+	setCOGameID		coAWDSGura,Game_AWDS
 
-	setCOGFXFullbody        coAWDSAqua,GraphicsAWDSAquaGraphic
-	setCOGFXName            coAWDSAqua,GraphicsAWDSAquaName
-	setCOGFXPalette         coAWDSAqua,GraphicsAWDSAquaPalette
-	setCOGFXFace            coAWDSAqua,GraphicsAWDSAquaFace,GraphicsAWDSAquaHappyFace,GraphicsAWDSAquaSadFace
-	setCOGFXSmallFace       coAWDSAqua,GraphicsAWDSAquaMugshot
-	setCOGFXPowerAnim       coAWDSAqua,0x04,0x00
-	setCOGFXPowerSFX        coAWDSAqua,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSAqua,7,7
-	setCOGFXSuperSFX        coAWDSAqua,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSGura,GraphicsAWDSGuraGraphic
+	setCOGFXName            coAWDSGuraa,GraphicsAWDSGuraName
+	setCOGFXPalette         coAWDSGura,GraphicsAWDSGuraPalette
+	setCOGFXFace            coAWDSGura,GraphicsAWDSGuraFace,GraphicsAWDSGuraHappyFace,GraphicsAWDSGuraSadFace
+	setCOGFXSmallFace       coAWDSGura,GraphicsAWDSGuraMugshot
+	setCOGFXPowerAnim       coAWDSGura,0x04,0x00
+	setCOGFXPowerSFX        coAWDSGura,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSGura,7,7
+	setCOGFXSuperSFX        coAWDSGura,0x1f7,0x1f8
 	
 	setCOName               coAWDSAqua,ScriptAWDSAqua
 	setCOpowerName          coAWDSAqua,ScriptAWDSAqua+1
