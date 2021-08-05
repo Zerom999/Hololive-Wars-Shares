@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSKiara,7,7
 	setCOGFXSuperSFX        coAWDSKiara,0x1f7,0x1f8
 	
-	setCOName               coAWDSGura,ScriptAWDSGura
-	setCOpowerName          coAWDSGura,ScriptAWDSGura+1
-	setCOsuperName          coAWDSGura,ScriptAWDSGura+2
-	setCOpowerText          coAWDSGura,ScriptAWDSGura+8,ScriptAWDSGura+9,ScriptAWDSGura+10,ScriptAWDSGura+11,ScriptAWDSGura+12,ScriptAWDSGura+13
-	setCOprofileText        coAWDSGura,ScriptAWDSGura+3,ScriptAWDSGura+4,ScriptAWDSGura+5,ScriptAWDSGura+6
-	setCOvictoryText        coAWDSGura,ScriptAWDSGura+7
+	setCOName               coAWDSKiara,ScriptAWDSKiara
+	setCOpowerName          coAWDSKiara,ScriptAWDSKiara+1
+	setCOsuperName          coAWDSKiara,ScriptAWDSKiara+2
+	setCOpowerText          coAWDSKiara,ScriptAWDSKiara+8,ScriptAWDSKiara+9,ScriptAWDSKiara+10,ScriptAWDSKiara+11,ScriptAWDSKiara+12,ScriptAWDSKiara+13
+	setCOprofileText        coAWDSKiara,ScriptAWDSKiara+3,ScriptAWDSKiara+4,ScriptAWDSKiara+5,ScriptAWDSKiara+6
+	setCOvictoryText        coAWDSKiara,ScriptAWDSKiara+7
 
 	setCOFaction		coAWDSGura,ArmyGreenEarth
 	setCOMusic          	coAWDSGura,MusicGuraTheme
