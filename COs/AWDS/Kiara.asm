@@ -36,6 +36,9 @@
 	setCOSuperNavyStat	coAWDSKiara,120,0,3,0
 	setCOSuperAirStat	coAWDSKiara,-40,0,-1,0
 	
+	setCOGFXPowerRule	coAWDSKiara,COPCheckAerialClass
+	setCOGFXSuperRule	coAWDSKiara,COPCheckAerialClass
+	
 	setCOAIPowerRange       coAWDSKiara,25
 	setCOAIPowerTrigger     coAWDSKiara,95
 ; blank line
