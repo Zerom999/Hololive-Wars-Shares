@@ -27,7 +27,11 @@
 	setCOD2DSnowFirepower	coAWDSFubuki,20,0,1,0
 	setCOPowerSnowFirepower	coAWDSFubuki,20,0,1,0
 	setCOSuperSnowFirepower	coAWDSFubuki,20,0,1,0
-
+	
+	setCOD2DMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOPowerMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOSuperMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	
 	setCOPowerASM		coAWDSFubuki,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSFubuki,COPowerExtendedWinterFury
 	
