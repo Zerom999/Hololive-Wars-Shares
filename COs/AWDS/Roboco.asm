@@ -18,13 +18,13 @@
 	setCOprofileText        coAWDSRoboco,ScriptAWDSRoboco+3,ScriptAWDSRoboco+4,ScriptAWDSRoboco+5,ScriptAWDSRoboco+6
 	setCOvictoryText        coAWDSRoboco,ScriptAWDSRoboco+7
 
-	setCOFaction		coAWDSRoboco,ArmyBlackHole
+	setCOFaction		coAWDSRoboco,ArmyOrangeStar
 	setCOMusic          	coAWDSRoboco,MusicBlackHole
 	setCOPowerMusic		coAWDSRoboco,MusicBlackPower
 	setCOSuperMusic		coAWDSRoboco,MusicBlackSuper
 
-	setCOPowerCost		coAWDSRoboco,3
-	setCOSuperCost		coAWDSRoboco,6
+	setCOPowerCost		coAWDSRoboco,5
+	setCOSuperCost		coAWDSRoboco,10
 	
 	setCOD2DTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoDaytoDay
 	setCOPowerTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoPower
