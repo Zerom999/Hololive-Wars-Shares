@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSKiara,ArmyGreenEarth
 	setCOMusic          	coAWDSKiara,MusicKiaraTheme
 
-	setCOPowerCost          coAWDSKiara,4
-	setCOSuperCost          coAWDSKiara,8
+	setCOPowerCost          coAWDSKiara,5
+	setCOSuperCost          coAWDSKiara,10
 	
 	setCOD2DLandStat	coAWDSKiara,0,0,0,0
 	setCOD2DNavyStat	coAWDSKiara,-50,0,-1,0
