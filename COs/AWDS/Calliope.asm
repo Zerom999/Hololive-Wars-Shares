@@ -24,14 +24,14 @@
 	setCOPowerCost          coAWDSKiara,4
 	setCOSuperCost          coAWDSKiara,8
 	
-	setCOPowerDirectStat	coAWDSCalliope,30,0,0,0	
-	setCOPowerIndirectStat	coAWDSCalliope,-20,0,0,0	
+	setCOPowerDirectStat	coAWDSCalliope,60,0,0,0	
+	setCOPowerIndirectStat	coAWDSCalliope,-50,0,0,-1	
 	
-	setCOSuperDirectStat	coAWDSCalliope,30,0,0,0	
-	setCOSuperIndirectStat	coAWDSCalliope,-20,0,0,0	
+	setCOSuperDirectStat	coAWDSCalliope,30,0,1,0	
+	setCOSuperIndirectStat	coAWDSCalliope,-40,0,0,-1	
 	
-	setCOD2DDirectStat	coAWDSCalliope,30,0,0,0	
-	setCOD2DIndirectStat	coAWDSCalliope,-20,0,0,0	
+	setCOD2DDirectStat	coAWDSCalliope,30,0,2,0	
+	setCOD2DIndirectStat	coAWDSCalliope,-40,0,0,-1	
 	
 	setCOAIPowerRange       coAWDSKiara,25
 	setCOAIPowerTrigger     coAWDSKiara,95
