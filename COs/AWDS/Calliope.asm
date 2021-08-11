@@ -14,12 +14,12 @@
 	setCOName               coAWDSCalliope,ScriptAWDSCalliope
 	setCOpowerName          coAWDSCalliope,ScriptAWDSCalliope+1
 	setCOsuperName          coAWDSCalliope,ScriptAWDSCalliope+2
-	setCOpowerText          coAWDSCalliope,ScriptAWDSCalliope+8,ScriptAWDSKiara+9,ScriptAWDSKiara+10,ScriptAWDSKiara+11,ScriptAWDSKiara+12,ScriptAWDSKiara+13
-	setCOprofileText        coAWDSCalliope,ScriptAWDSCalliope+3,ScriptAWDSKiara+4,ScriptAWDSKiara+5,ScriptAWDSKiara+6
+	setCOpowerText          coAWDSCalliope,ScriptAWDSCalliope+8,ScriptAWDSCalliope+9,ScriptAWDSCalliope+10,ScriptAWDSCalliope+11,ScriptAWDSCalliope+12,ScriptAWDSCalliope+13
+	setCOprofileText        coAWDSCalliope,ScriptAWDSCalliope+3,ScriptAWDSCalliope+4,ScriptAWDSCalliope+5,ScriptAWDSCalliope+6
 	setCOvictoryText        coAWDSCalliope,ScriptAWDSCalliope+7
 
-	setCOFaction		coAWDSKiara,ArmyGreenEarth
-	setCOMusic          	coAWDSKiara,MusicKiaraTheme
+	setCOFaction		coAWDSCalliope,ArmyGreenEarth
+	setCOMusic          	coAWDSCalliope,MusicCalliopeTheme
 
 	setCOPowerCost          coAWDSKiara,5
 	setCOSuperCost          coAWDSKiara,10
