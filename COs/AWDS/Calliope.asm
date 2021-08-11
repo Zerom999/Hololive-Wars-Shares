@@ -1,4 +1,4 @@
-setCODefaults           coAWDSKiara
+        setCODefaults           coAWDSKiara
 	setCOGameID		coAWDSKiara,Game_AWDS
 
 	setCOGFXFullbody        coAWDSKiara,GraphicsAWDSKiaraGraphic
