@@ -1,15 +1,15 @@
         setCODefaults           coAWDSCalliope
 	setCOGameID		coAWDSCalliope,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKiara,GraphicsAWDSKiaraGraphic
-	setCOGFXName            coAWDSKiara,GraphicsAWDSKiaraName
-	setCOGFXPalette         coAWDSKiara,GraphicsAWDSKiaraPalette
-	setCOGFXFace            coAWDSKiara,GraphicsAWDSKiaraFace,GraphicsAWDSKiaraHappyFace,GraphicsAWDSKiaraSadFace
-	setCOGFXSmallFace       coAWDSKiara,GraphicsAWDSKiaraMugshot
-	setCOGFXPowerAnim       coAWDSKiara,0x04,0x00
-	setCOGFXPowerSFX        coAWDSKiara,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSKiara,7,7
-	setCOGFXSuperSFX        coAWDSKiara,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSCalliope,GraphicsAWDSKiaraGraphic
+	setCOGFXName            coAWDSCalliope,GraphicsAWDSKiaraName
+	setCOGFXPalette         coAWDSCalliope,GraphicsAWDSKiaraPalette
+	setCOGFXFace            coAWDSCalliope,GraphicsAWDSKiaraFace,GraphicsAWDSKiaraHappyFace,GraphicsAWDSKiaraSadFace
+	setCOGFXSmallFace       coAWDSCalliope,GraphicsAWDSKiaraMugshot
+	setCOGFXPowerAnim       coAWDSCalliope,0x04,0x00
+	setCOGFXPowerSFX        coAWDSCalliope,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSCalliope,7,7
+	setCOGFXSuperSFX        coAWDSCalliope,0x1f7,0x1f8
 	
 	setCOName               coAWDSKiara,ScriptAWDSKiara
 	setCOpowerName          coAWDSKiara,ScriptAWDSKiara+1
