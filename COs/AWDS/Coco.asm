@@ -35,6 +35,9 @@
         setCOSuperLandStat	coAWDSCoco,0,0,0,0
 	setCOSuperNavyStat	coAWDSCoco,-40,0,0,0
 	setCOSuperAirStat	coAWDSCoco,90,90,0,0
+	
+	setCOGFXPowerRule	coAWDSEagle,COPCheckAerialClass
+	setCOGFXSuperRule	coAWDSEagle,COPCheckAerialClass
 
 	setCOAIPowerRange       coAWDSCoco,25
 	setCOAIPowerTrigger     coAWDSCoco,95
