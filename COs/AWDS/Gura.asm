@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSGura,ArmyGreenEarth
 	setCOMusic          	coAWDSGura,MusicGuraTheme
 
-	setCOPowerCost          coAWDSGura,4
-	setCOSuperCost          coAWDSGura,8
+	setCOPowerCost          coAWDSGura,5
+	setCOSuperCost          coAWDSGura,10
 	
 	setCOD2DLandStat	coAWDSGura,0,0,0,0
 	setCOD2DNavyStat	coAWDSGura,60,0,1,0
