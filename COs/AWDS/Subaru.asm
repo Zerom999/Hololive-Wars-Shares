@@ -26,10 +26,10 @@
 
 	setCOD2DDirectStat	coAWDSSubaru,30,0,0,0	
 	setCOD2DIndirectStat	coAWDSSubaru,-20,0,0,0	
-	setCOPowerDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOPowerIndirectStat	coAWDSSubaru,-20,0,0,0
-	setCOSuperDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOSuperIndirectStat	coAWDSSubaru,-20,0,0,0
+	setCOPowerDirectStat	coAWDSSubaru,30,10,0,0	
+	setCOPowerIndirectStat	coAWDSSubaru,-20,10,0,0
+	setCOSuperDirectStat	coAWDSSubaru,30,20,0,0	
+	setCOSuperIndirectStat	coAWDSSubaru,-20,20,0,0
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
