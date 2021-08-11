@@ -27,10 +27,10 @@
 	setCOPowerDirectStat	coAWDSCalliope,60,0,0,0	
 	setCOPowerIndirectStat	coAWDSCalliope,-50,0,0,-1	
 	
-	setCOSuperDirectStat	coAWDSCalliope,30,0,1,0	
+	setCOSuperDirectStat	coAWDSCalliope,90,0,1,0	
 	setCOSuperIndirectStat	coAWDSCalliope,-40,0,0,-1	
 	
-	setCOD2DDirectStat	coAWDSCalliope,30,0,2,0	
+	setCOD2DDirectStat	coAWDSCalliope,120,0,2,0	
 	setCOD2DIndirectStat	coAWDSCalliope,-40,0,0,-1	
 	
 	setCOAIPowerRange       coAWDSKiara,25
