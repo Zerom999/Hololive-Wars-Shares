@@ -32,7 +32,7 @@
 	setCOSuperDirectStat		coAWDSBotan,-10,0,0,0
 
 	setCOD2DCapture			coAWDSBotan,100
-	setCOPowerCapture		coAWDSBotan,100
+	setCOPowerCapture		coAWDSBotan,500
 	setCOSuperCapture		coAWDSBotan,2000
 
 	setCOGFXPowerRule       coAWDSBotan,COPCheckSoldierClass
