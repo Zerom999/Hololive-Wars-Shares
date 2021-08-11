@@ -1,5 +1,5 @@
-        setCODefaults           coAWDSKiara
-	setCOGameID		coAWDSKiara,Game_AWDS
+        setCODefaults           coAWDSCalliope
+	setCOGameID		coAWDSCalliope,Game_AWDS
 
 	setCOGFXFullbody        coAWDSKiara,GraphicsAWDSKiaraGraphic
 	setCOGFXName            coAWDSKiara,GraphicsAWDSKiaraName
