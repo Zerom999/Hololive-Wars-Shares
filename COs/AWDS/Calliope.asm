@@ -30,8 +30,8 @@
 	setCOSuperDirectStat	coAWDSCalliope,90,0,1,0	
 	setCOSuperIndirectStat	coAWDSCalliope,-40,0,0,-1	
 	
-	setCOD2DDirectStat	coAWDSCalliope,120,0,2,0	
-	setCOD2DIndirectStat	coAWDSCalliope,-40,0,0,-1	
+	setCOGFXPowerRule       coAWDSCalliope,COPCheckDirectCombatUnits
+	setCOGFXSuperRule       coAWDSCalliope,COPCheckDirectCombatUnits
 	
 	setCOAIPowerRange       coAWDSCalliope,25
 	setCOAIPowerTrigger     coAWDSCalliope,95
