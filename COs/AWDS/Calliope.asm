@@ -1,11 +1,11 @@
         setCODefaults           coAWDSCalliope
 	setCOGameID		coAWDSCalliope,Game_AWDS
 
-	setCOGFXFullbody        coAWDSCalliope,GraphicsAWDSKiaraGraphic
-	setCOGFXName            coAWDSCalliope,GraphicsAWDSKiaraName
-	setCOGFXPalette         coAWDSCalliope,GraphicsAWDSKiaraPalette
-	setCOGFXFace            coAWDSCalliope,GraphicsAWDSKiaraFace,GraphicsAWDSKiaraHappyFace,GraphicsAWDSKiaraSadFace
-	setCOGFXSmallFace       coAWDSCalliope,GraphicsAWDSKiaraMugshot
+	setCOGFXFullbody        coAWDSCalliope,GraphicsAWDSCalliopeGraphic
+	setCOGFXName            coAWDSCalliope,GraphicsAWDSCalliopeName
+	setCOGFXPalette         coAWDSCalliope,GraphicsAWDSCalliopePalette
+	setCOGFXFace            coAWDSCalliope,GraphicsAWDSCalliopeFace,GraphicsAWDSCalliopeHappyFace,GraphicsAWDSCalliopeSadFace
+	setCOGFXSmallFace       coAWDSCalliope,GraphicsAWDSCalliopeMugshot
 	setCOGFXPowerAnim       coAWDSCalliope,0x04,0x00
 	setCOGFXPowerSFX        coAWDSCalliope,0xba,0xbb
 	setCOGFXSuperAnim       coAWDSCalliope,7,7
