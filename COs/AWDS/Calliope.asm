@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSCalliope,ArmyGreenEarth
 	setCOMusic          	coAWDSCalliope,MusicCalliopeTheme
 
-	setCOPowerCost          coAWDSKiara,5
-	setCOSuperCost          coAWDSKiara,10
+	setCOPowerCost          coAWDSCalliope,5
+	setCOSuperCost          coAWDSCalliope,10
 	
 	setCOPowerDirectStat	coAWDSCalliope,60,0,0,0	
 	setCOPowerIndirectStat	coAWDSCalliope,-50,0,0,-1	
@@ -33,6 +33,6 @@
 	setCOD2DDirectStat	coAWDSCalliope,120,0,2,0	
 	setCOD2DIndirectStat	coAWDSCalliope,-40,0,0,-1	
 	
-	setCOAIPowerRange       coAWDSKiara,25
-	setCOAIPowerTrigger     coAWDSKiara,95
+	setCOAIPowerRange       coAWDSCalliope,25
+	setCOAIPowerTrigger     coAWDSCalliope,95
 ; blank line
