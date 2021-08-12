@@ -1,8 +1,8 @@
-;terrainboosterjakedaily.asm
+;terrainboosterWatamedaily.asm
 
 ;Terrain Boosting Table
 
-TerrainFirepowerBoostJakeDaytoDay:
+TerrainFirepowerBoostWatameDaytoDay:
 	;Null, Plains, River, Mountain
 	.db 0,20,0,0
 	;Forest, Road, City, Sea
@@ -20,7 +20,7 @@ TerrainFirepowerBoostJakeDaytoDay:
 	;Volcano, Factory, Deathray, Variable Tile
 	.db 0,0,0,0
 	
-TerrainFirepowerBoostJakePower:
+TerrainFirepowerBoostWatamePower:
 	;Null, Plains, River, Mountain
 	.db 0,40,0,0
 	;Forest, Road, City, Sea
@@ -38,7 +38,7 @@ TerrainFirepowerBoostJakePower:
 	;Volcano, Factory, Deathray, Variable Tile
 	.db 0,0,0,0	
 	
-TerrainFirepowerBoostJakeSuper:
+TerrainFirepowerBoostWatameSuper:
 	;Null, Plains, River, Mountain
 	.db 0,60,0,0
 	;Forest, Road, City, Sea
