@@ -1,7 +1,7 @@
-;COPower8HPMeteor.asm
+;COPower8HPAsteroid.asm
 
 .org 0x08044A88
-COPowerMeteorStrike8HP:
+COPowerAsteroidStrike8HP:
 	push	{r14}
 	mov	r1,r0
 	ldr	r0,=0x084A0858
