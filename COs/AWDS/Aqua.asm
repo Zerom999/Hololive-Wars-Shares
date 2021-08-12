@@ -36,6 +36,9 @@
 	setCOSuperNavyStat	coAWDSAqua,0,60,3,0
 	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
 	
+	setCOGFXPowerFX		coAWDSAqua,COPEffectResupplyUnit
+	setCOGFXSuperFX		coAWDSAqua,COPEffectResupplyUnit
+	
 	setCOAIPowerRange       coAWDSAqua,25
 	setCOAIPowerTrigger     coAWDSAqua,95
 ; blank line
