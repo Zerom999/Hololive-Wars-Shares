@@ -26,8 +26,8 @@
 	
 	setCOD2DAllStat		coAWDSSuisei,30,-10,0,0
 
-	setCOPowerASM		coAWDSSuisei,COPowerMeteorStrike4HP
-	setCOSuperASM		coAWDSSuisei,COPowerMeteorStrike8HP
+	setCOPowerASM		coAWDSSuisei,COPowerCometStrike4HP
+	setCOSuperASM		coAWDSSuisei,COPowerAsteroidStrike8HP
 	
 	setCOAIPowerRange       coAWDSSuisei,25
 	setCOAIPowerTrigger     coAWDSSuisei,95
