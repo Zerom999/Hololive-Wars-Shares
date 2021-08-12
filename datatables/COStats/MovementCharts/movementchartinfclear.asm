@@ -119,7 +119,7 @@ MovementChartClear:
 	;HQ, None, Airport, Port
 	.db -1,-1,-1,01
 	;Bridge, Shoal, Base, Pipeline
-	.db -1,01,-1,-1
+	.db 01,01,-1,-1
 	;Pipeseam, Silo, Silo - Launched, Reef
 	.db -1,-1,-1,02
 	;Lab, Minicannon, Tower, Ruins
