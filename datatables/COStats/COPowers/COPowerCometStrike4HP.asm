@@ -1,7 +1,7 @@
-;COPower4HPMeteor.asm
+;COPower4HPComet.asm
 
 .org 0x08044AA0
-COPowerMeteorStrike4HP:
+COPowerCometStrike4HP:
 	push	{r14}
 	mov	r1,r0
 	ldr	r0,=0x084A0858
