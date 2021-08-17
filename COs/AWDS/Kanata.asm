@@ -2,7 +2,7 @@
 	setCOGameID		coAWDSKanata,Game_AWDS
 
 	setCOGFXFullbody        coAWDSKanata,GraphicsAWDSKanataGraphic
-	setCOGFXName            coAWDSKanata,GraphicsAWDSNKanataName
+	setCOGFXName            coAWDSKanata,GraphicsAWDSKanataName
 	setCOGFXPalette         coAWDSKanata,GraphicsAWDSKanataPalette
 	setCOGFXFace            coAWDSKanata,GraphicsAWDSKanataFace,GraphicsAWDSKanataHappyFace,GraphicsAWDSKanataSadFace
 	setCOGFXSmallFace       coAWDSKanata,GraphicsAWDSKanataMugshot
