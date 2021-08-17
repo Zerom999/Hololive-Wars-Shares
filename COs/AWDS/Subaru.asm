@@ -23,21 +23,15 @@
 
 	setCOPowerCost          coAWDSSubaru,3
 	setCOSuperCost          coAWDSSubaru,6
-
-	setCOD2DDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOD2DIndirectStat	coAWDSSubaru,-20,0,0,0	
+  
 	setCOD2DUnitStat	coAWDSSubaru,Unit_Recon,50,0,0,1
 	setCOD2DUnitStat	coAWDSSubaru,Unit_Rockets,50,0,1,0
 	setCOD2DUnitStat	coAWDSSubaru,Unit_Missile,50,0,1,0
 	
-	setCOPowerDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOPowerIndirectStat	coAWDSSubaru,-20,0,0,0
 	setCOPowerUnitStat	coAWDSSubaru,Unit_Recon,50,0,2,0
 	setCOPowerUnitStat	coAWDSSubaru,Unit_Rockets,50,0,2,0
 	setCOPowerUnitStat	coAWDSSubaru,Unit_Missile,50,0,2,0
 	
-	setCOSuperDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOSuperIndirectStat	coAWDSSubaru,-20,0,0,0
 	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,50,0,3,0
 	setCOSuperUnitStat	coAWDSSubaru,Unit_Rockets,50,0,3,0
 	setCOSuperUnitStat	coAWDSSubaru,Unit_Missile,50,0,3,0
