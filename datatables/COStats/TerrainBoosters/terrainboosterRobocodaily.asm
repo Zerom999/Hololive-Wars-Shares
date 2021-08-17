@@ -6,15 +6,15 @@ TerrainFirepowerBoostRobocoDaytoDay:
 	;Null, Plains, River, Mountain
 	;.db 0,0,0,0
 	;Forest, Road, City, Sea
-	;.db 0,0,50,0
+	;.db 0,0,60,0
 	;HQ, None, Airport, Port
-	;.db 50,0,50,50
+	;.db 60,0,60,60
 	;Bridge, Shoal, Base, Pipeline
-	;.db 0,0,50,0
+	;.db 0,0,60,0
 	;Pipeseam, Silo, Silo - Launched, Reef
-	;.db 0,50,50,0
+	;.db 0,60,60,0
 	;Lab, MinicannonS, MinicannonN, MinicannonW
-	;.db 50,0,0,0
+	;.db 60,0,0,0
 	;MinicannonE, Laser, BlackCannonS, BlackCannonN
 	;.db 0,0,0,0
 	;Volcano, Factory, Deathray, Variable Tile
@@ -23,15 +23,15 @@ TerrainFirepowerBoostRobocoDaytoDay:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
-	.db 0,0,50,0
+	.db 0,0,60,0
 	;HQ, None, Airport, Port
-	.db 50,0,50,50
+	.db 60,0,60,60
 	;Bridge, Shoal, Base, Pipeline
-	.db 0,0,50,0
+	.db 0,0,60,0
 	;Pipeseam, Silo, Silo - Launched, Reef
-	.db 0,50,50,0
+	.db 0,60,60,0
 	;Lab, Minicannon, Tower, None
-	.db 50,0,50,0
+	.db 60,0,0,0
 	;None, Laser, BlackCannonS, BlackCannonN
 	.db 0,0,0,0
 	;Volcano, Factory, Deathray, Variable Tile
