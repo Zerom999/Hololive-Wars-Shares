@@ -32,9 +32,15 @@
 	
 	setCOPowerDirectStat	coAWDSSubaru,30,0,0,0	
 	setCOPowerIndirectStat	coAWDSSubaru,-20,0,0,0
+	setCOPowerUnitStat	coAWDSSubaru,Unit_Recon,50,0,0,0
+	setCOPowerUnitStat	coAWDSSubaru,Unit_Rockets,50,0,0,0
+	setCOPowerUnitStat	coAWDSSubaru,Unit_Missile,50,0,0,0
 	
 	setCOSuperDirectStat	coAWDSSubaru,30,0,0,0	
 	setCOSuperIndirectStat	coAWDSSubaru,-20,0,0,0
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,50,0,0,0
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Rockets,50,0,0,0
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Missile,50,0,0,0
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
