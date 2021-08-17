@@ -18,22 +18,22 @@
 	setCOprofileText        coAWDSSubaru,ScriptAWDSKanata+3,ScriptAWDSKanata+4,ScriptAWDSKanata+5,ScriptAWDSKanata+6
 	setCOvictoryText        coAWDSSubaru,ScriptAWDSKanata+7
 
-	setCOFaction		coAWDSSubaru,ArmyOrangeStar
-	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
+	setCOFaction		coAWDSKanata,ArmyOrangeStar
+	setCOMusic          	coAWDSKanata,MusicKanataTheme
 
-	setCOPowerCost          coAWDSSubaru,3
-	setCOSuperCost          coAWDSSubaru,6
+	setCOPowerCost          coAWDSKanata,3
+	setCOSuperCost          coAWDSKanata,6
 
-	setCOD2DDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOD2DIndirectStat	coAWDSSubaru,-20,0,0,0	
-	setCOPowerDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOPowerIndirectStat	coAWDSSubaru,-20,0,0,0
-	setCOSuperDirectStat	coAWDSSubaru,30,0,0,0	
-	setCOSuperIndirectStat	coAWDSSubaru,-20,0,0,0
+	setCOD2DDirectStat	coAWDSKanata,30,0,0,0	
+	setCOD2DIndirectStat	coAWDSKanata,-20,0,0,0	
+	setCOPowerDirectStat	coAWDSKanata,30,0,0,0	
+	setCOPowerIndirectStat	coAWDSKanata,-20,0,0,0
+	setCOSuperDirectStat	coAWDSKanata,30,0,0,0	
+	setCOSuperIndirectStat	coAWDSKanata,-20,0,0,0
 
-	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
-	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
+	setCOGFXPowerRule       coAWDSKanata,COPCheckDirectCombatUnits
+	setCOGFXSuperRule       coAWDSKanata,COPCheckDirectCombatUnits
 	
-	setCOAIPowerRange       coAWDSSubaru,25
-	setCOAIPowerTrigger     coAWDSSubaru,95
+	setCOAIPowerRange       coAWDSKanata,25
+	setCOAIPowerTrigger     coAWDSKanata,95
 ; blank line
