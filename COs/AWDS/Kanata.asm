@@ -1,18 +1,18 @@
         setCODefaults           coAWDSKanata
 	setCOGameID		coAWDSKanata,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKanata,GraphicsAWDSSubaruGraphic
-	setCOGFXName            coAWDSKanata,GraphicsAWDSSubaruName
-	setCOGFXPalette         coAWDSKanata,GraphicsAWDSSubaruPalette
-	setCOGFXFace            coAWDSSubaru,GraphicsAWDSSubaruFace,GraphicsAWDSSubaruHappyFace,GraphicsAWDSSubaruSadFace
-	setCOGFXSmallFace       coAWDSSubaru,GraphicsAWDSSubaruMugshot
-	setCOGFXPowerAnim       coAWDSSubaru,4,1
-	setCOGFXPowerSFX        coAWDSSubaru,0xbd,0xbe
-	setCOGFXSuperAnim       coAWDSSubaru,7,7
-	setCOGFXSuperSFX        coAWDSSubaru,0x1f7,0x01f8
+	setCOGFXFullbody        coAWDSKanata,GraphicsAWDSKanataGraphic
+	setCOGFXName            coAWDSKanata,GraphicsAWDSNKanataGame
+	setCOGFXPalette         coAWDSKanata,GraphicsAWDSKanataPalette
+	setCOGFXFace            coAWDSKanata,GraphicsAWDSKanataFace,GraphicsAWDSKanataHappyFace,GraphicsAWDSKanataSadFace
+	setCOGFXSmallFace       coAWDSKanata,GraphicsAWDSKanataMugshot
+	setCOGFXPowerAnim       coAWDSKanata,4,1
+	setCOGFXPowerSFX        coAWDSKanata,0xbd,0xbe
+	setCOGFXSuperAnim       coAWDSKanata,7,7
+	setCOGFXSuperSFX        coAWDSKanata,0x1f7,0x01f8
 	
-	setCOName               coAWDSSubaru,ScriptAWDSSubaru
-	setCOpowerName          coAWDSSubaru,ScriptAWDSSubaru+1
+	setCOName               coAWDSKanata,ScriptAWDSSubaru
+	setCOpowerName          coAWDSKanata,ScriptAWDSSubaru+1
 	setCOsuperName          coAWDSSubaru,ScriptAWDSSubaru+2
 	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
 	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
