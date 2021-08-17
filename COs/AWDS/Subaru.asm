@@ -26,7 +26,9 @@
 
 	setCOD2DDirectStat	coAWDSSubaru,30,0,0,0	
 	setCOD2DIndirectStat	coAWDSSubaru,-20,0,0,0	
-	setCOD2DUnitStat	coAWDSSubaru,Unit_BattleCopter,50,0,0,0	
+	setCOD2DUnitStat	coAWDSSubaru,Unit_Recon,50,0,0,0
+	setCOD2DUnitStat	coAWDSSubaru,Unit_Rockets,50,0,0,0
+	setCOD2DUnitStat	coAWDSSubaru,Unit_Missile,50,0,0,0
 	
 	setCOPowerDirectStat	coAWDSSubaru,30,0,0,0	
 	setCOPowerIndirectStat	coAWDSSubaru,-20,0,0,0
