@@ -2,7 +2,7 @@
 	setCOGameID		coAWDSKanata,Game_AWDS
 
 	setCOGFXFullbody        coAWDSKanata,GraphicsAWDSKanataGraphic
-	setCOGFXName            coAWDSKanata,GraphicsAWDSNKanataGame
+	setCOGFXName            coAWDSKanata,GraphicsAWDSNKanataName
 	setCOGFXPalette         coAWDSKanata,GraphicsAWDSKanataPalette
 	setCOGFXFace            coAWDSKanata,GraphicsAWDSKanataFace,GraphicsAWDSKanataHappyFace,GraphicsAWDSKanataSadFace
 	setCOGFXSmallFace       coAWDSKanata,GraphicsAWDSKanataMugshot
@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSKanata,7,7
 	setCOGFXSuperSFX        coAWDSKanata,0x1f7,0x01f8
 	
-	setCOName               coAWDSKanata,ScriptAWDSSubaru
-	setCOpowerName          coAWDSKanata,ScriptAWDSSubaru+1
-	setCOsuperName          coAWDSSubaru,ScriptAWDSSubaru+2
-	setCOpowerText          coAWDSSubaru,ScriptAWDSSubaru+8,ScriptAWDSSubaru+9,ScriptAWDSSubaru+10,ScriptAWDSSubaru+11,ScriptAWDSSubaru+12,ScriptAWDSSubaru+13
-	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
-	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
+	setCOName               coAWDSKanata,ScriptAWDSKanata
+	setCOpowerName          coAWDSKanata,ScriptAWDSKanata+1
+	setCOsuperName          coAWDSSubaru,ScriptAWDSKanata+2
+	setCOpowerText          coAWDSSubaru,ScriptAWDSKanata+8,ScriptAWDSKanata+9,ScriptAWDSKanata+10,ScriptAWDSKanata+11,ScriptAWDSKanata+12,ScriptAWDSKanata+13
+	setCOprofileText        coAWDSSubaru,ScriptAWDSKanata+3,ScriptAWDSKanata+4,ScriptAWDSKanata+5,ScriptAWDSKanata+6
+	setCOvictoryText        coAWDSSubaru,ScriptAWDSKanata+7
 
 	setCOFaction		coAWDSSubaru,ArmyOrangeStar
 	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
