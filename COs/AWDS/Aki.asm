@@ -28,10 +28,10 @@
 	setCOSuperAbilities			coAWDSAki,SpecialHiddenHP
 	
 	setCOD2DAllStat		coAWDSAki,-20,20,0,0
-        setCOd2dCounter		coAWDSAki,20
+        setCOd2dCounter		coAWDSAki,60
 	
 	setCOPowerAllStat	coAWDSAki,-10,40,0,0		
-	setCOPowerCounter	coAWDSAki,60	
+	setCOPowerCounter	coAWDSAki,80	
 	
 	setCOSuperrAllStat	coAWDSAki,0,60,0,0
 	setCOPowerCounter	coAWDSAki,100	
