@@ -25,15 +25,16 @@
 	setCOSuperCost          coAWDSAki,6
 	
 	setCOPowwrAbilities			coAWDSAki,SpecialHiddenHP
-	setCOSuperAbilities			coAWDSAki,SpecialHiddenHP+SpecialPreEmptiveCounter
+	setCOSuperAbilities			coAWDSAki,SpecialHiddenHP
 	
 	setCOD2DAllStat		coAWDSAki,-20,20,0,0
-        setCOd2dCounter		coAWDSAki,50
+        setCOd2dCounter		coAWDSAki,20
 	
 	setCOPowerAllStat	coAWDSAki,-10,40,0,0		
-	setCOPowerCounter	coAWDSAki,100	
+	setCOPowerCounter	coAWDSAki,60	
 	
-	setCOSuperrAllStat	coAWDSAki,0,60,0,0		
+	setCOSuperrAllStat	coAWDSAki,0,60,0,0
+	setCOPowerCounter	coAWDSAki,100	
 	
 	setCOAIPowerRange       coAWDSAki,15
 	setCOAIPowerTrigger     coAWDSAki,70
