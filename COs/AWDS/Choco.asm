@@ -24,7 +24,7 @@
 	setCOPowerCost          coAWDSChoco,3
 	setCOSuperCost          coAWDSChoco,6
 
-	setCOSuperAllStat	coAWDSChoco,30,10,1,0
+	setCOSuperAllStat	coAWDSChoco,30,10,1,1
 
 	setCOGFXPowerFX         coAWDSChoco,COPEffectHealThreeHP
 	setCOGFXSuperFX         coAWDSChoco,COPEffectHealSixHP
