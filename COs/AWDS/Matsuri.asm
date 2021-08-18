@@ -25,8 +25,8 @@
 	setCOSuperCost          coAWDSMatsuri,6
 	
 	setCOD2DSoldierStat     coAWDSMatsuri,10,0,0,0
-	setCOD2DLandStat	coAWDSMatsuri,-20,0,0,0
-	setCOD2DNavyStat        coAWDSMatsuri,-20,0,0,0
+	setCOD2DLandStat	coAWDSMatsuri,-10,0,0,0
+	setCOD2DNavyStat        coAWDSMatsuri,-10,0,0,0
 	setCOD2DTransportStat	coAWDSMatsuri,0,0,1,0	
 	
 	setCOPowerSoldierStat	coAWDSMatsuri,30,0,1,0
