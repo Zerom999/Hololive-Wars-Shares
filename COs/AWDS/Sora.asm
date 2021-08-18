@@ -24,11 +24,11 @@
 	setCOPowerCost          coAWDSSora,5
 	setCOSuperCost          coAWDSSora,10
 
-	setCOPowerDirectStat	coAWDSSora,30,0,0,0	
-	setCOPowerIndirectStat	coAWDSSora,-20,0,0,0
+	setCOPowerDirectStat	coAWDSSora,30,30,1,1	
+	setCOPowerIndirectStat	coAWDSSora,30,30,1,1
 	
-	setCOSuperDirectStat	coAWDSSora,30,0,0,0	
-	setCOSuperIndirectStat	coAWDSSora,-20,0,0,0
+	setCOSuperDirectStat	coAWDSSora,60,0,0,0	
+	setCOSuperIndirectStat	coAWDSSora,60,0,0,0
 	
 	setCOAIPowerRange       coAWDSSora,25
 	setCOAIPowerTrigger     coAWDSSora,95
