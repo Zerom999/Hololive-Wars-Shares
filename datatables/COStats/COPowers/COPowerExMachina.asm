@@ -39,12 +39,12 @@ ExMachinaTargetingCost:
 	ldr	r4,=MeteorTargetHighestCost
 	
 ExMachinaTargetingFinish:	
-	str	r4,[r0]
-	mov	r4, ExmachinaDamage
-	strb	r4,[r0,0x4]
-	mov	r4, ExmachinaIgnoreThreshold
-	strb	r4,[r0,0x5]	
-	pop	{r4}
+	str	r9,[r0]
+	mov	r9, ExmachinaDamage
+	strb	r9,[r0,0x4]
+	mov	r9, ExmachinaIgnoreThreshold
+	strb	r9,[r0,0x5]	
+	pop	{r9}
 	pop	{r0}
 	bx	r0
 	.pool
