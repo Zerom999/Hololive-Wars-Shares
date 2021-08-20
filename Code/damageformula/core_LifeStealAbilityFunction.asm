@@ -1,7 +1,7 @@
-;DamageReflectionAbilityFunction.asm
+;LifeStealAbilityFunction.asm
 ;Adds the functionality for damage reflection to the Damage Formula
 
-DamageReflectionAbilityFunction:
+LifeStealAbilityFunction:
 	mov	r0,r5
 	bl	@LongBLApplyDamage
 	mov	r0,r4
@@ -20,7 +20,7 @@ DamageReflectionAbilityFunction:
 @LongBLApplyDamage:
 	LongBL	r1,0x0802505C+1
 	
-@DamageReflectionSubroutine:
+@LifeStealSubroutine:
 	push	{r4,r5,r14}
 	mov	r4,r0
 	mov	r1,r5
