@@ -8,10 +8,10 @@ LifeStealAbilityFunction:
 	bl	@LongBLApplyDamage
 	mov	r0,r5
 	mov	r1,r4
-	bl	@DamageReflectionSubroutine
+	bl	@LifeStealSubroutine
 	mov	r0,r4
 	mov	r1,r5
-	bl	@DamageReflectionSubroutine
+	bl	@LifeStealSubroutine
 	pop	{r4,r5}
 	pop	{r0}
 	bx	r0
@@ -57,7 +57,7 @@ LifeStealAbilityFunction:
 	add	r1,r0,r1
 	ldrb	r0,[r1,	0x1D]
 	ldrb	r1,[r1,0x1E]
-	mov	r2,Gather_CO_DamageReflection
+	mov	r2,Gather_CO_LifeSteal
 	bl	GatherCOAbility
 	
 	cmp	r0,0
