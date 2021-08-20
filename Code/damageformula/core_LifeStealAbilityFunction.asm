@@ -33,9 +33,9 @@ LifeStealAbilityFunction:
 	and	r1,r2
 	sub	r0,r1,r0
 	cmp	r0,0
-	ble	@DamageReflectionSubroutineEnd
+	ble	@LifeStealSubroutineEnd
 	
-	;Work out the Damage Reflection Amount
+	;Work out the Life Steal Amount
 	mov	r3,r0
 	ldr	r0,=BaseUnitMemory
 	ldr	r0,[r0]	
@@ -61,7 +61,7 @@ LifeStealAbilityFunction:
 	bl	GatherCOAbility
 	
 	cmp	r0,0
-	beq	@DamageReflectionSubroutineEnd
+	beq	@LifeStealSubroutineEnd
 	mul	r0,r3
 	mov	r1,100
 	bl	DivisionFunction
