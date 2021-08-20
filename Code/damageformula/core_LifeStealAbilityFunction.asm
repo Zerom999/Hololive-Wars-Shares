@@ -71,13 +71,13 @@ LifeStealAbilityFunction:
 	mov	r2,0x7F
 	and	r1,r2
 	cmp	r1,0
-	ble	@DamageReflectionSubroutineEnd
+	ble	@LifeStealSubroutineEnd
 	
 	sub	r0,r1,r0
 	cmp	r0,0
-	bgt	@DamageReflectionSubroutineSaveDamage
+	bgt	@LifeStealSubroutineSaveDamage
 	mov	r0,1
-@DamageReflectionSubroutineSaveDamage:	
+@LifeStealSubroutineSaveDamage:	
 	ldr	r1,[r5]
 	ldrb	r1,[r1,0x4]
 	mov	r2,0x80
@@ -86,7 +86,7 @@ LifeStealAbilityFunction:
 	ldr	r1,[r5]
 	strb	r0,[r1,0x4]
 
-@DamageReflectionSubroutineEnd:	
+@LifeStealSubroutineEnd:	
 	pop	{r4,r5}
 	pop	{r0}
 	bx	r0
