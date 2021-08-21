@@ -1,7 +1,7 @@
-        setCODefaults           coAWDSAdder
-	setCOGameID		coAWDSAdder,Game_AWDS
+        setCODefaults           coAWDSOkayu
+	setCOGameID		coAWDSOkayu,Game_AWDS
 
-	setCOGFXFullbody        coAWDSAdder,GraphicsAWDSAdderGraphic
+	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSAdderGraphic
 	setCOGFXName            coAWDSAdder,GraphicsAWDSAdderName
 	setCOGFXPalette         coAWDSAdder,GraphicsAWDSAdderPalette
 	setCOGFXFace            coAWDSAdder,GraphicsAWDSAdderFace,GraphicsAWDSAdderHappyFace,GraphicsAWDSAdderSadFace
