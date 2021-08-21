@@ -28,13 +28,13 @@
 	setCOD2DUnitStat	coAWDSSubaru,Unit_Rockets,10,0,1,0
 	setCOD2DUnitStat	coAWDSSubaru,Unit_Missile,10,0,1,0
 	
-	setCOPowerUnitStat	coAWDSSubaru,Unit_Recon,30,0,2,0
-	setCOPowerUnitStat	coAWDSSubaru,Unit_Rockets,30,0,2,0
-	setCOPowerUnitStat	coAWDSSubaru,Unit_Missile,30,0,2,0
+	setCOPowerUnitStat	coAWDSSubaru,Unit_Recon,30,10,2,0
+	setCOPowerUnitStat	coAWDSSubaru,Unit_Rockets,30,10,2,0
+	setCOPowerUnitStat	coAWDSSubaru,Unit_Missile,30,10,2,0
 	
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,50,0,3,0
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Rockets,50,0,3,0
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Missile,50,0,3,0
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,50,20,3,0
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Rockets,50,20,3,0
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Missile,50,20,3,0
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
