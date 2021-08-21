@@ -34,7 +34,7 @@
 	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
 	setCOPowerTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioPower
 	
-	setCOSuperVision
+	setCOSuperVision                        coAWDSMio,3
 	setCOSuperLandStat		coAWDSMio,0,0,1,0
 	setCOSuperIndirectLandStat	coAWDSMio,0,0,1,0
 	setCOSuperTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioSuper
