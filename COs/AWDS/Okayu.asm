@@ -18,11 +18,9 @@
 	setCOprofileText        coAWDSAdder,ScriptAWDSAdder+3,ScriptAWDSAdder+4,ScriptAWDSAdder+5,ScriptAWDSAdder+6
 	setCOvictoryText        coAWDSAdder,ScriptAWDSAdder+7
 
-	setCOFaction		coAWDSAdder,ArmyBlackHole
-	setCOMusic          	coAWDSAdder,MusicAdderTheme
-	setCOPowerMusic         coAWDSAdder,MusicBlackPower
-	setCOSuperMusic         coAWDSAdder,MusicBlackSuper
-
+	setCOFaction		coAWDSOkayu,ArmyGreenEarth
+	setCOMusic          	coAWDSOkayu,MusicOkayuTheme
+	
 	setCOPowerCost          coAWDSAdder,3
 	setCOSuperCost          coAWDSAdder,6
 	
