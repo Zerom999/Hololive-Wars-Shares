@@ -11,9 +11,9 @@
 	setCOGFXSuperAnim       coAWDSOkayu,7,7
 	setCOGFXSuperSFX        coAWDSOkayu,0x1F4,0x1f5
 	
-	setCOName               coAWDSAdder,ScriptAWDSAdder
-	setCOpowerName          coAWDSAdder,ScriptAWDSAdder+1
-	setCOsuperName          coAWDSAdder,ScriptAWDSAdder+2
+	setCOName               coAWDSOkayu,ScriptAWDSAdder
+	setCOpowerName          coAWDSOkayu,ScriptAWDSAdder+1
+	setCOsuperName          coAWDSOkayu,ScriptAWDSAdder+2
 	setCOpowerText          coAWDSAdder,ScriptAWDSAdder+8,ScriptAWDSAdder+9,ScriptAWDSAdder+10,ScriptAWDSAdder+11,ScriptAWDSAdder+12,ScriptAWDSAdder+13
 	setCOprofileText        coAWDSAdder,ScriptAWDSAdder+3,ScriptAWDSAdder+4,ScriptAWDSAdder+5,ScriptAWDSAdder+6
 	setCOvictoryText        coAWDSAdder,ScriptAWDSAdder+7
