@@ -32,7 +32,7 @@
 	setCOPowerUnitStat	coAWDSSubaru,Unit_Rockets,30,0,2,1
 	setCOPowerUnitStat	coAWDSSubaru,Unit_Missile,30,0,2,1
 	
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,50,20,3,2
+	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,50,0,3,2
 	setCOSuperUnitStat	coAWDSSubaru,Unit_Rockets,50,0,3,2
 	setCOSuperUnitStat	coAWDSSubaru,Unit_Missile,50,0,3,2
 
