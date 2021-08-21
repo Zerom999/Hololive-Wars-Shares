@@ -20,8 +20,8 @@
 
 	setCOFaction		coAWDSAdder,ArmyBlackHole
 	setCOMusic          	coAWDSAdder,MusicAdderTheme
-	setCOPowerMusic              coAWDSAdder,MusicBlackPower
-	setCOSuperMusic              coAWDSAdder,MusicBlackSuper
+	setCOPowerMusic         coAWDSAdder,MusicBlackPower
+	setCOSuperMusic         coAWDSAdder,MusicBlackSuper
 
 	setCOPowerCost          coAWDSAdder,3
 	setCOSuperCost          coAWDSAdder,6
