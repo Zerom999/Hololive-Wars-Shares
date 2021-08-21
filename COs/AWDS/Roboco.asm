@@ -18,11 +18,9 @@
 	setCOprofileText        coAWDSRoboco,ScriptAWDSRoboco+3,ScriptAWDSRoboco+4,ScriptAWDSRoboco+5,ScriptAWDSRoboco+6
 	setCOvictoryText        coAWDSRoboco,ScriptAWDSRoboco+7
 
-	setCOFaction		coAWDSRoboco,ArmyOrangeStar
-	setCOMusic          	coAWDSRoboco,MusicBlackHole
-	setCOPowerMusic		coAWDSRoboco,MusicBlackPower
-	setCOSuperMusic		coAWDSRoboco,MusicBlackSuper
-
+	setCOFaction		coAWDSRoboco,ArmyGreenEarth
+	setCOMusic          	coAWDSRoboco,MusicRobocoTheme
+	
 	setCOPowerCost		coAWDSRoboco,5
 	setCOSuperCost		coAWDSRoboco,10
 	
