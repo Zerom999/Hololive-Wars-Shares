@@ -1,11 +1,11 @@
         setCODefaults           coAWDSOkayu
 	setCOGameID		coAWDSOkayu,Game_AWDS
 
-	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSAdderGraphic
-	setCOGFXName            coAWDSOkayu,GraphicsAWDSAdderName
-	setCOGFXPalette         coAWDSOkayu,GraphicsAWDSAdderPalette
-	setCOGFXFace            coAWDSOkayu,GraphicsAWDSAdderFace,GraphicsAWDSAdderHappyFace,GraphicsAWDSAdderSadFace
-	setCOGFXSmallFace       coAWDSOkayu,GraphicsAWDSAdderMugshot
+	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSOkayuGraphic
+	setCOGFXName            coAWDSOkayu,GraphicsAWDSOkayuName
+	setCOGFXPalette         coAWDSOkayu,GraphicsAWDSOkayuPalette
+	setCOGFXFace            coAWDSOkayu,GraphicsAWDSOkayuFace,GraphicsAWDSAdderHappyFace,GraphicsAWDSAdderSadFace
+	setCOGFXSmallFace       coAWDSOkayu,GraphicsAWDSOkayuMugshot
 	setCOGFXPowerAnim       coAWDSOkayu,0,0
 	setCOGFXPowerSFX        coAWDSOkayu,0xB4,0xB4
 	setCOGFXSuperAnim       coAWDSOkayu,7,7
