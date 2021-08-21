@@ -29,12 +29,12 @@
 	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
         setCOD2DTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioDaytoDay
 	
-	setCOPowerVision				coAWDSMio,2
+	setCOPowerVision			coAWDSMio,2	
 	setCOPowerLandStat		coAWDSMio,0,0,0,0
 	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
 	setCOPowerTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioPower
 	
-	setCOSuperVision				coAWDSMio,3
+	setCOSuperVision
 	setCOSuperLandStat		coAWDSMio,0,0,1,0
 	setCOSuperIndirectLandStat	coAWDSMio,0,0,1,0
 	setCOSuperTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioSuper
