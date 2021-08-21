@@ -25,6 +25,8 @@
 	setCOSuperCost          coAWDSMio,8
 	
 	setCOd2dVision				coAWDSMio,1
+	setCOPowerLandStat		coAWDSMio,0,0,0,0
+	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
         setCOD2DTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioDaytoDay
 	
 	setCOPowerVision				coAWDSMio,2
