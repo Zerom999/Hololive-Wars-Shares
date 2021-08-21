@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSOkayu,7,7
 	setCOGFXSuperSFX        coAWDSOkayu,0x1F4,0x1f5
 	
-	setCOName               coAWDSOkayu,ScriptAWDSAdder
-	setCOpowerName          coAWDSOkayu,ScriptAWDSAdder+1
-	setCOsuperName          coAWDSOkayu,ScriptAWDSAdder+2
-	setCOpowerText          coAWDSAdder,ScriptAWDSAdder+8,ScriptAWDSAdder+9,ScriptAWDSAdder+10,ScriptAWDSAdder+11,ScriptAWDSAdder+12,ScriptAWDSAdder+13
-	setCOprofileText        coAWDSAdder,ScriptAWDSAdder+3,ScriptAWDSAdder+4,ScriptAWDSAdder+5,ScriptAWDSAdder+6
-	setCOvictoryText        coAWDSAdder,ScriptAWDSAdder+7
+	setCOName               coAWDSOkayu,ScriptAWDSOkayu
+	setCOpowerName          coAWDSOkayu,ScriptAWDSOkayu+1
+	setCOsuperName          coAWDSOkayu,ScriptAWDSOkayu+2
+	setCOpowerText          coAWDSOkayu,ScriptAWDSOkayu+8,ScriptAWDSOkayu+9,ScriptAWDSOkayu+10,ScriptAWDSOkayu+11,ScriptAWDSOkayu+12,ScriptAWDSOkayu+13
+	setCOprofileText        coAWDSOkayu,ScriptAWDSOkayu+3,ScriptAWDSOkayu+4,ScriptAWDSOkayu+5,ScriptAWDSOkayu+6
+	setCOvictoryText        coAWDSOkayu,ScriptAWDSOkayu+7
 
 	setCOFaction		coAWDSOkayu,ArmyGreenEarth
 	setCOMusic          	coAWDSOkayu,MusicOkayuTheme
