@@ -24,18 +24,15 @@
 	setCOPowerCost          coAWDSMio,4
 	setCOSuperCost          coAWDSMio,8
 	
-	setCOPowerAbilities			coAWDSMio,SpecialPiercingVision
-	setCOSuperAbilities			coAWDSMio,SpecialPiercingVision+MovementChartPerfect,MovementChartSnow,MovementChartPerfect
-	
-	setCOd2dVision				coAWDSMio,2
+	setCOd2dVision				coAWDSMio,1
         setCOD2DTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioDaytoDay
 	
-	setCOPowerVision				coAWDSMio,4
+	setCOPowerVision				coAWDSMio,2
 	setCOPowerLandStat		coAWDSMio,0,0,0,0
 	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
 	setCOPowerTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioPower
 	
-	setCOSuperVision				coAWDSMio,6
+	setCOSuperVision				coAWDSMio,3
 	setCOSuperLandStat		coAWDSMio,0,0,1,0
 	setCOSuperIndirectLandStat	coAWDSMio,0,0,1,0
 	setCOSuperTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioSuper
