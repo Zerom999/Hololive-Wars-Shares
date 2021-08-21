@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSMio,ArmyOrangeStar
 	setCOMusic          	coAWDSMio,MusicMioTheme
 
-	setCOPowerCost          coAWDSMio,4
-	setCOSuperCost          coAWDSMio,8
+	setCOPowerCost          coAWDSMio,3
+	setCOSuperCost          coAWDSMio,6
 	
 	setCOd2dVision				coAWDSMio,1
 	setCOPowerLandStat		coAWDSMio,0,0,0,0
@@ -30,13 +30,13 @@
         setCOD2DTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioDaytoDay
 	
 	setCOPowerVision			coAWDSMio,2	
-	setCOPowerLandStat		coAWDSMio,0,0,0,0
-	setCOPowerIndirectLandStat	coAWDSMio,0,0,0,0
+	setCOPowerLandStat		coAWDSMio,0,0,1,0
+	setCOPowerIndirectLandStat	coAWDSMio,0,0,1,0
 	setCOPowerTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioPower
 	
 	setCOSuperVision                        coAWDSMio,3
-	setCOSuperLandStat		coAWDSMio,0,0,1,0
-	setCOSuperIndirectLandStat	coAWDSMio,0,0,1,0
+	setCOSuperLandStat		coAWDSMio,0,0,2,0
+	setCOSuperIndirectLandStat	coAWDSMio,0,0,2,0
 	setCOSuperTerrainFirepowerList	coAWDSMio,TerrainFirepowerBoostMioSuper
 	
 	setCOAIPowerRange       coAWDSMio,25
