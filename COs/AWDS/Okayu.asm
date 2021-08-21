@@ -4,7 +4,7 @@
 	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSOkayuGraphic
 	setCOGFXName            coAWDSOkayu,GraphicsAWDSOkayuName
 	setCOGFXPalette         coAWDSOkayu,GraphicsAWDSOkayuPalette
-	setCOGFXFace            coAWDSOkayu,GraphicsAWDSOkayuFace,GraphicsAWDSAdderHappyFace,GraphicsAWDSAdderSadFace
+	setCOGFXFace            coAWDSOkayu,GraphicsAWDSOkayuFace,GraphicsAWDSOkayuHappyFace,GraphicsAWDSOkayuSadFace
 	setCOGFXSmallFace       coAWDSOkayu,GraphicsAWDSOkayuMugshot
 	setCOGFXPowerAnim       coAWDSOkayu,0,0
 	setCOGFXPowerSFX        coAWDSOkayu,0xB4,0xB4
