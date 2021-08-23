@@ -18,8 +18,8 @@
 	setCOprofileText        coAWDSAnya,ScriptAWDSAnya+3,ScriptAWDSAnya+4,ScriptAWDSAnya+5,ScriptAWDSAnya+6
 	setCOvictoryText        coAWDSAnya,ScriptAWDSAnya+7
 
-	setCOFaction		coCCOWalter,ArmyGreenEarth
-	setCOMusic          	coCCOWalter,MusicGreenEarth
+	setCOFaction		coAWDSAnya,ArmyGreenEarth
+	setCOMusic          	coAWDSAnya,MusicAnya
 
 	setCOPowerCost          coCCOWalter,3
 	setCOSuperCost          coCCOWalter,6
