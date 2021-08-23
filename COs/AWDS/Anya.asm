@@ -27,12 +27,12 @@
 	setCOD2DAbilities		coAWDSAnya,SpecialViewAccurateHP
 	
 	setCOPowerAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
-	setCOPowerDamageReflect	coCCOWalter,20
-	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHiddenHP
+	setCOPowerDamageReflect	coAWDSAnya,20
+	setCOSuperAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
 
 	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
 	
-	setCOAIPowerRange       coCCOWalter,25
-	setCOAIPowerTrigger     coCCOWalter,95
+	setCOAIPowerRange       coAWDSAnya,25
+	setCOAIPowerTrigger     coAWDSAnya,95
 ; blank line
 
