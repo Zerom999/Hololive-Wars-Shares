@@ -11,7 +11,7 @@
 	setCOGFXSuperAnim       coAWDSAnya,7,7
 	setCOGFXSuperSFX        coAWDSAnya,0xF7,1
 	
-	setCOName               coCCOWalter,ScriptCCOWalter
+	setCOName               coAWDSAnya,ScriptCCOWalter
 	setCOpowerName          coCCOWalter,ScriptCCOWalter+1
 	setCOsuperName          coCCOWalter,ScriptCCOWalter+2
 	setCOpowerText          coCCOWalter,ScriptCCOWalter+8,ScriptCCOWalter+9,ScriptCCOWalter+10,ScriptCCOWalter+11,ScriptCCOWalter+12,ScriptCCOWalter+13
