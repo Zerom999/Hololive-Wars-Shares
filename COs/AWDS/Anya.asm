@@ -28,7 +28,9 @@
 	
 	setCOPowerAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
 	setCOPowerDamageReflect	coAWDSAnya,20
+	
 	setCOSuperAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
+	setCOPowerDamageReflect	coAWDSAnya,50
 
 	setCOAIPowerRange       coAWDSAnya,25
 	setCOAIPowerTrigger     coAWDSAnya,95
