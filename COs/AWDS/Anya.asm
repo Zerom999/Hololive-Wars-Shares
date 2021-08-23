@@ -1,4 +1,4 @@
-setCODefaults           coCCOWalter
+        setCODefaults           coCCOWalter
 	setCOGameID		coCCOWalter,Game_Custom
 
 	setCOGFXFullbody        coCCOWalter,GraphicsCCOWalterGraphic
