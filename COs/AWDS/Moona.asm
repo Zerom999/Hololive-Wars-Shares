@@ -28,10 +28,6 @@
 	setCOPowerSnowFirepower	coAWDSMoona,20,0,0,0
 	setCOSuperSnowFirepower	coAWDSMoona,20,0,0,0
 	
-	setCOD2DMove		coAWDSMoona, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOPowerMove		coAWDSMoona, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOSuperMove		coAWDSMoona, MovementChartClear,MovementChartClear,MovementChartSnow
-	
 	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSMoona,COPowerExtendedWinterFury
 	
