@@ -25,8 +25,9 @@
 	setCOSuperCost          coAWDSAnya,6
 	
 	setCOD2DAbilities		coCCOWalter,SpecialViewAccurateHP
-	setCOPowerAbilities		coCCOWalter,SpecialViewAccurateHP
-	setCOPowerDamageReflect	coCCOWalter,50
+	
+	setCOPowerAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHiddenHP
+	setCOPowerDamageReflect	coCCOWalter,20
 	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHiddenHP
 
 	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
