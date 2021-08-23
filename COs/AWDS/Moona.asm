@@ -1,22 +1,22 @@
         setCODefaults           coAWDSMoona
 	setCOGameID		coAWDSMoona,Game_AWDS
 
-	setCOGFXFullbody        coAWDSMoona,GraphicsAWDSFubukiGraphic
-	setCOGFXName            coAWDSMoona,GraphicsAWDSFubukiName
-	setCOGFXPalette         coAWDSMoona,GraphicsAWDSFubukiPalette
-	setCOGFXFace            coAWDSMoona,GraphicsAWDSFubukiFace,GraphicsAWDSFubukiHappyFace,GraphicsAWDSFubukiSadFace
-	setCOGFXSmallFace       coAWDSMoona,GraphicsAWDSFubukiMugshot
+	setCOGFXFullbody        coAWDSMoona,GraphicsAWDSMoonaGraphic
+	setCOGFXName            coAWDSMoona,GraphicsAWDSMoonaName
+	setCOGFXPalette         coAWDSMoona,GraphicsAWDSMoonaPalette
+	setCOGFXFace            coAWDSMoona,GraphicsAWDSFMoonaace,GraphicsAWDSMoonaHappyFace,GraphicsAWDSMoonaSadFace
+	setCOGFXSmallFace       coAWDSMoona,GraphicsAWDSMoonaMugshot
 	setCOGFXPowerAnim       coAWDSMoona,0,0
 	setCOGFXPowerSFX        coAWDSMoona,0xC3,0
 	setCOGFXSuperAnim       coAWDSMoona,7,7
 	setCOGFXSuperSFX        coAWDSMoona,0x1f7,0x1f8
 	
-	setCOName               coAWDSMoona,ScriptAWDSFubuki
-	setCOpowerName          coAWDSMoona,ScriptAWDSFubuki+1
-	setCOsuperName          coAWDSMoona,ScriptAWDSFubuki+2
-	setCOpowerText          coAWDSMoona,ScriptAWDSFubuki+8,ScriptAWDSFubuki+9,ScriptAWDSFubuki+10,ScriptAWDSFubuki+11,ScriptAWDSFubuki+12,ScriptAWDSFubuki+13
-	setCOprofileText        coAWDSMoona,ScriptAWDSFubuki+3,ScriptAWDSFubuki+4,ScriptAWDSFubuki+5,ScriptAWDSFubuki+6
-	setCOvictoryText        coAWDSMoona,ScriptAWDSFubuki+7
+	setCOName               coAWDSMoona,ScriptAWDSMoona
+	setCOpowerName          coAWDSMoona,ScriptAWDSMoona+1
+	setCOsuperName          coAWDSMoona,ScriptAWDSMoona+2
+	setCOpowerText          coAWDSMoona,ScriptAWDSMoona+8,ScriptAWDSMoona+9,ScriptAWDSMoona+10,ScriptAWDSMoona+11,ScriptAWDSMoona+12,ScriptAWDSMoona+13
+	setCOprofileText        coAWDSMoona,ScriptAWDSMoona+3,ScriptAWDSMoona+4,ScriptAWDSMoona+5,ScriptAWDSMoona+6
+	setCOvictoryText        coAWDSMoona,ScriptAWDSMoona+7
 
 	setCOFaction		coAWDSMoona,ArmyBlueMoon
 	setCOMusic          	coAWDSMoona,MusicMoonaTheme
@@ -33,8 +33,8 @@
 	setCOSuperVison                         coAWDSMoona,3	
 	setCOSuperDAllStat	coAWDSMoona,20,40,0,0			
 	
-	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
-	setCOSuperASM		coAWDSMoona,COPowerExtendedWinterFury
+	setCOPowerASM		coAWDSMoona,COPowerFog
+	setCOSuperASM		coAWDSMoona,COPowerFog
 	
 	setCOAIPowerRange       coAWDSMoona,15
 	setCOAIPowerTrigger     coAWDSMoona,70
