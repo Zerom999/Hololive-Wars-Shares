@@ -12,11 +12,11 @@
 	setCOGFXSuperSFX        coAWDSAnya,0xF7,1
 	
 	setCOName               coAWDSAnya,ScriptAWDSAnya
-	setCOpowerName          coAWDSAnya,ScriptCCOWalter+1
-	setCOsuperName          coAWDSAnya,ScriptCCOWalter+2
-	setCOpowerText          coAWDSAnya,ScriptCCOWalter+8,ScriptCCOWalter+9,ScriptCCOWalter+10,ScriptCCOWalter+11,ScriptCCOWalter+12,ScriptCCOWalter+13
-	setCOprofileText        coAWDSAnya,ScriptCCOWalter+3,ScriptCCOWalter+4,ScriptCCOWalter+5,ScriptCCOWalter+6
-	setCOvictoryText        coAWDSAnya,ScriptCCOWalter+7
+	setCOpowerName          coAWDSAnya,ScriptAWDSAnya+1
+	setCOsuperName          coAWDSAnya,ScriptAWDSAnya+2
+	setCOpowerText          coAWDSAnya,ScriptAWDSAnya+8,ScriptCCOWalter+9,ScriptCCOWalter+10,ScriptCCOWalter+11,ScriptCCOWalter+12,ScriptCCOWalter+13
+	setCOprofileText        coAWDSAnya,ScriptAWDSAnya+3,ScriptCCOWalter+4,ScriptCCOWalter+5,ScriptCCOWalter+6
+	setCOvictoryText        coAWDSAnya,ScriptAWDSAnya+7
 
 	setCOFaction		coCCOWalter,ArmyGreenEarth
 	setCOMusic          	coCCOWalter,MusicGreenEarth
