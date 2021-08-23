@@ -25,13 +25,13 @@
 	setCOSuperCost          coAWDSMoona,8
 
 	setCOd2dVision				coAWDSSonja,1
-	setCOD2DAllStat		coAWDSMoona,40,-20,0,0	
+	setCOD2DAllStat		coAWDSMoona,0,0,0,0	
 	
 	setCOPowerVision			coAWDSSonja,2	
-	setCOPowerAllStat		coAWDSMoona,40,-20,0,0	
+	setCOPowerAllStat	coAWDSMoona,10,20,0,0		
 	
 	setCOSuperVison                         coAWDSSonja,3	
-	setCOSuperDAllStat		coAWDSMoona,40,-20,0,0	
+	setCOSuperDAllStat	coAWDSMoona,20,40,0,0			
 	
 	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSMoona,COPowerExtendedWinterFury
