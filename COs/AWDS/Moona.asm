@@ -19,24 +19,24 @@
 	setCOvictoryText        coAWDSMoona,ScriptAWDSFubuki+7
 
 	setCOFaction		coAWDSMoona,ArmyBlueMoon
-	setCOMusic          	coAWDSMoona,MusicFubukiTheme
+	setCOMusic          	coAWDSMoona,MusicMoonaTheme
 
 	setCOPowerCost          coAWDSMoona,4
 	setCOSuperCost          coAWDSMoona,8
 
-	setCOD2DSnowFirepower	coAWDSFubuki,20,0,1,0
-	setCOPowerSnowFirepower	coAWDSFubuki,20,0,1,0
-	setCOSuperSnowFirepower	coAWDSFubuki,20,0,1,0
+	setCOD2DSnowFirepower	coAWDSMoona,20,0,1,0
+	setCOPowerSnowFirepower	coAWDSMoona,20,0,1,0
+	setCOSuperSnowFirepower	coAWDSMoona,20,0,1,0
 	
-	setCOD2DMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOPowerMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOSuperMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOD2DMove		coAWDSMoona, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOPowerMove		coAWDSMoona, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOSuperMove		coAWDSMoona, MovementChartClear,MovementChartClear,MovementChartSnow
 	
-	setCOPowerASM		coAWDSFubuki,COPowerExtendedBlizzard
-	setCOSuperASM		coAWDSFubuki,COPowerExtendedWinterFury
+	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
+	setCOSuperASM		coAWDSMoona,COPowerExtendedWinterFury
 	
-	setCOAIPowerRange       coAWDSFubuki,15
-	setCOAIPowerTrigger     coAWDSFubuki,70
-	setCOAIPowerTriggerASM	coAWDSOlaf,AIActivateNotSnow
+	setCOAIPowerRange       coAWDSMoona,15
+	setCOAIPowerTrigger     coAWDSMoona,70
+	setCOAIPowerTriggerASM	coAWDSMoona,AIActivateNotFog
 ; blank line
 
