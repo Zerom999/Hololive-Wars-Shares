@@ -1,4 +1,4 @@
-setCODefaults           coAWDSFubuki
+        setCODefaults           coAWDSFubuki
 	setCOGameID		coAWDSFubuki,Game_AWDS
 
 	setCOGFXFullbody        coAWDSFubuki,GraphicsAWDSFubukiGraphic
