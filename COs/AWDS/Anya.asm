@@ -4,7 +4,7 @@
 	setCOGFXFullbody        coAWDSAnya,GraphicsAWDSAnyaGraphic
 	setCOGFXName            coAWDSAnya,GraphicsAWDSAnyaName
 	setCOGFXPalette         coAWDSAnya,GraphicsAWDSAnyaPalette
-	setCOGFXFace            coAWDSAnya,GraphicsAWDSAnyaFace,GraphicsAWDSWalterHappyFace,GraphicsAWDSWalterSadFace
+	setCOGFXFace            coAWDSAnya,GraphicsAWDSAnyaFace,GraphicsAWDSAnyaHappyFace,GraphicsAWDSAnyaSadFace
 	setCOGFXSmallFace       coAWDSAnya,GraphicsAWDSAnyaMugshot
 	setCOGFXPowerAnim       coAWDSAnya,2,0
 	setCOGFXPowerSFX        coAWDSAnya,183,0
