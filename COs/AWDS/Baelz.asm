@@ -1,4 +1,4 @@
-setCODefaults           coAWDSOkayu
+        setCODefaults           coAWDSOkayu
 	setCOGameID		coAWDSOkayu,Game_AWDS
 
 	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSOkayuGraphic
