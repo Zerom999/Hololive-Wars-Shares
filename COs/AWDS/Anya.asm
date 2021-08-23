@@ -1,15 +1,15 @@
         setCODefaults           coAWDSAnya
 	setCOGameID		coAWDSAnya,Game_Custom
 
-	setCOGFXFullbody        coAWDSAnya,GraphicsAWDSWalterGraphic
-	setCOGFXName            coAWDSAnya,GraphicsAWDSWalterName
-	setCOGFXPalette         coAWDSAnya,GraphicsAWDSWalterPalette
-	setCOGFXFace            coAWDSAnya,GraphicsAWDSWalterFace,GraphicsAWDSWalterHappyFace,GraphicsAWDSWalterSadFace
-	setCOGFXSmallFace       coAWDSAnya,GraphicsAWDSWalterMugshot
+	setCOGFXFullbody        coAWDSAnya,GraphicsAWDSAnyaGraphic
+	setCOGFXName            coAWDSAnya,GraphicsAWDSAnyaName
+	setCOGFXPalette         coAWDSAnya,GraphicsAWDSAnyaPalette
+	setCOGFXFace            coAWDSAnya,GraphicsAWDSAnyaFace,GraphicsAWDSWalterHappyFace,GraphicsAWDSWalterSadFace
+	setCOGFXSmallFace       coAWDSAnya,GraphicsAWDSAnyaMugshot
 	setCOGFXPowerAnim       coAWDSAnya,2,0
 	setCOGFXPowerSFX        coAWDSAnya,183,0
 	setCOGFXSuperAnim       coAWDSAnya,7,7
-	setCOGFXSuperSFX        coAWDSWalter,0xF7,1
+	setCOGFXSuperSFX        coAWDSAnya,0xF7,1
 	
 	setCOName               coCCOWalter,ScriptCCOWalter
 	setCOpowerName          coCCOWalter,ScriptCCOWalter+1
