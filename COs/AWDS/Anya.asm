@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSAnya,ArmyGreenEarth
 	setCOMusic          	coAWDSAnya,MusicAnya
 
-	setCOPowerCost          coCCOWalter,3
-	setCOSuperCost          coCCOWalter,6
+	setCOPowerCost          coAWDSAnya,3
+	setCOSuperCost          coAWDSAnya,6
 	
 	setCOD2DAbilities		coCCOWalter,SpecialViewAccurateHP
 	setCOPowerAbilities		coCCOWalter,SpecialViewAccurateHP
