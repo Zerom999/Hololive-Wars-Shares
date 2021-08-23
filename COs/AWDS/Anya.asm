@@ -1,8 +1,8 @@
-        setCODefaults           coCCOWalter
-	setCOGameID		coCCOWalter,Game_Custom
+        setCODefaults           coAWDSAnya
+	setCOGameID		coAWDSAnya,Game_Custom
 
-	setCOGFXFullbody        coCCOWalter,GraphicsCCOWalterGraphic
-	setCOGFXName            coCCOWalter,GraphicsCCOWalterName
+	setCOGFXFullbody        coAWDSAnya,GraphicsCCOWalterGraphic
+	setCOGFXName            coAWDSAnya,GraphicsCCOWalterName
 	setCOGFXPalette         coCCOWalter,GraphicsCCOWalterPalette
 	setCOGFXFace            coCCOWalter,GraphicsCCOWalterFace,GraphicsCCOWalterHappyFace,GraphicsCCOWalterSadFace
 	setCOGFXSmallFace       coCCOWalter,GraphicsCCOWalterMugshot
