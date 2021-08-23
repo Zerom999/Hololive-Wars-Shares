@@ -30,8 +30,6 @@
 	setCOPowerDamageReflect	coAWDSAnya,20
 	setCOSuperAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
 
-	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
-	
 	setCOAIPowerRange       coAWDSAnya,25
 	setCOAIPowerTrigger     coAWDSAnya,95
 ; blank line
