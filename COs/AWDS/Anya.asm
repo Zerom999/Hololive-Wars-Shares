@@ -14,8 +14,8 @@
 	setCOName               coAWDSAnya,ScriptAWDSAnya
 	setCOpowerName          coAWDSAnya,ScriptAWDSAnya+1
 	setCOsuperName          coAWDSAnya,ScriptAWDSAnya+2
-	setCOpowerText          coAWDSAnya,ScriptAWDSAnya+8,ScriptCCOWalter+9,ScriptCCOWalter+10,ScriptCCOWalter+11,ScriptCCOWalter+12,ScriptCCOWalter+13
-	setCOprofileText        coAWDSAnya,ScriptAWDSAnya+3,ScriptCCOWalter+4,ScriptCCOWalter+5,ScriptCCOWalter+6
+	setCOpowerText          coAWDSAnya,ScriptAWDSAnya+8,ScriptAWDSAnya+9,ScriptAWDSAnya+10,ScriptAWDSAnya+11,ScriptAWDSAnya+12,ScriptAWDSAnya+13
+	setCOprofileText        coAWDSAnya,ScriptAWDSAnya+3,ScriptAWDSAnya+4,ScriptAWDSAnya+5,ScriptAWDSAnya+6
 	setCOvictoryText        coAWDSAnya,ScriptAWDSAnya+7
 
 	setCOFaction		coCCOWalter,ArmyGreenEarth
