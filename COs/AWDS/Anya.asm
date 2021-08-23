@@ -1,5 +1,5 @@
         setCODefaults           coAWDSAnya
-	setCOGameID		coAWDSAnya,Game_Custom
+	setCOGameID		coAWDSAnya,Game_AWDS
 
 	setCOGFXFullbody        coAWDSAnya,GraphicsAWDSAnyaGraphic
 	setCOGFXName            coAWDSAnya,GraphicsAWDSAnyaName
