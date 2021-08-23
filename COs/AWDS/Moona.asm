@@ -24,9 +24,11 @@
 	setCOPowerCost          coAWDSMoona,4
 	setCOSuperCost          coAWDSMoona,8
 
-	setCOD2DSnowFirepower	coAWDSMoona,20,0,0,0
-	setCOPowerSnowFirepower	coAWDSMoona,20,0,0,0
-	setCOSuperSnowFirepower	coAWDSMoona,20,0,0,0
+	setCOd2dVision				coAWDSSonja,1
+	
+	setCOPowerVision				coAWDSSonja,1
+	
+	setCOSuperVision				coAWDSSonja,1
 	
 	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSMoona,COPowerExtendedWinterFury
