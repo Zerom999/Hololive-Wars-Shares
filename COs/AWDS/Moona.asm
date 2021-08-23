@@ -24,13 +24,13 @@
 	setCOPowerCost          coAWDSMoona,4
 	setCOSuperCost          coAWDSMoona,8
 
-	setCOd2dVision				coAWDSSonja,1
+	setCOd2dVision				coAWDSMoona,1
 	setCOD2DAllStat		coAWDSMoona,0,0,0,0	
 	
-	setCOPowerVision			coAWDSSonja,2	
+	setCOPowerVision			coAWDSMoona,2	
 	setCOPowerAllStat	coAWDSMoona,10,20,0,0		
 	
-	setCOSuperVison                         coAWDSSonja,3	
+	setCOSuperVison                         coAWDSMoona,3	
 	setCOSuperDAllStat	coAWDSMoona,20,40,0,0			
 	
 	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
