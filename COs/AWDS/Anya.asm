@@ -27,7 +27,7 @@
 	setCOD2DAbilities		coCCOWalter,SpecialViewAccurateHP
 	setCOPowerAbilities		coCCOWalter,SpecialViewAccurateHP
 	setCOPowerDamageReflect	coCCOWalter,50
-	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP
+	setCOSuperAbilities		coCCOWalter,SpecialViewAccurateHP+SpecialHiddenHP
 
 	setCOSuperASM		coCCOWalter,COPowerMagnumOpus
 	
