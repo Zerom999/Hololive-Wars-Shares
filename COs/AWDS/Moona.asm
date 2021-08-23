@@ -26,9 +26,9 @@
 
 	setCOd2dVision				coAWDSSonja,1
 	
-	setCOPowerVision				coAWDSSonja,1
+	setCOPowerVision			coAWDSSonja,2	
 	
-	setCOSuperVision				coAWDSSonja,1
+	setCOSuperVison                         coAWDSSonja,3	
 	
 	setCOPowerASM		coAWDSMoona,COPowerExtendedBlizzard
 	setCOSuperASM		coAWDSMoona,COPowerExtendedWinterFury
