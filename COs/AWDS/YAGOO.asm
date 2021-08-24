@@ -2,14 +2,14 @@
 	setCOGameID		coAWDSYAGOO,Game_AWDS
 
 	setCOGFXFullbody        coAWDSYAGOO,GraphicsAWDSHachiGraphic
-	setCOGFXName            coAWDSHachi,GraphicsAWDSHachiName
-	setCOGFXPalette         coAWDSHachi,GraphicsAWDSHachiPalette
-	setCOGFXFace            coAWDSHachi,GraphicsAWDSHachiFace,GraphicsAWDSHachiHappyFace,GraphicsAWDSHachiSadFace
-	setCOGFXSmallFace       coAWDSHachi,GraphicsAWDSHachiMugshot
-	setCOGFXPowerAnim       coAWDSHachi,3,0
-	setCOGFXPowerSFX        coAWDSHachi,0x1f6,0x0
-	setCOGFXSuperAnim       coAWDSHachi,7,7
-	setCOGFXSuperSFX        coAWDSHachi,0x1f6,0x0
+	setCOGFXName            coAWDSYAGOO,GraphicsAWDSHachiName
+	setCOGFXPalette         coAWDSYAGOO,GraphicsAWDSHachiPalette
+	setCOGFXFace            coAWDSYAGOO,GraphicsAWDSHachiFace,GraphicsAWDSHachiHappyFace,GraphicsAWDSHachiSadFace
+	setCOGFXSmallFace       coAWDSYAGOO,GraphicsAWDSHachiMugshot
+	setCOGFXPowerAnim       coAWDSYAGOO,3,0
+	setCOGFXPowerSFX        coAWDSYAGOO,0x1f6,0x0
+	setCOGFXSuperAnim       coAWDSYAGOO,7,7
+	setCOGFXSuperSFX        coAWDSYAGOO,0x1f6,0x0
 	
 	setCOName               coAWDSHachi,ScriptAWDSHachi
 	setCOpowerName          coAWDSHachi,ScriptAWDSHachi+1
