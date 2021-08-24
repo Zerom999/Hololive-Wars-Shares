@@ -1,7 +1,7 @@
-	setCODefaults           coAWDSHachi
-	setCOGameID		coAWDSHachi,Game_AWDS
+	setCODefaults           coAWDSYAGOO
+	setCOGameID		coAWDSYAGOO,Game_AWDS
 
-	setCOGFXFullbody        coAWDSHachi,GraphicsAWDSHachiGraphic
+	setCOGFXFullbody        coAWDSYAGOO,GraphicsAWDSHachiGraphic
 	setCOGFXName            coAWDSHachi,GraphicsAWDSHachiName
 	setCOGFXPalette         coAWDSHachi,GraphicsAWDSHachiPalette
 	setCOGFXFace            coAWDSHachi,GraphicsAWDSHachiFace,GraphicsAWDSHachiHappyFace,GraphicsAWDSHachiSadFace
