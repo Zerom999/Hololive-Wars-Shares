@@ -1,11 +1,11 @@
         setCODefaults           coAWDSIRyS
 	setCOGameID		coAWDSIRyS,Game_AWDS
 
-	setCOGFXFullbody        coAWDSIRyS,GraphicsAWDSHawkeGraphic
-	setCOGFXName            coAWDSIRyS,GraphicsAWDSHawkeName
-	setCOGFXPalette         coAWDSIRyS,GraphicsAWDSHawkePalette
-	setCOGFXFace            coAWDSIRyS,GraphicsAWDSHawkeFace,GraphicsAWDSHawkeHappyFace,GraphicsAWDSHawkeSadFace
-	setCOGFXSmallFace       coAWDSIRyS,GraphicsAWDSHawkeMugshot
+	setCOGFXFullbody        coAWDSIRyS,GraphicsAWDSIRySGraphic
+	setCOGFXName            coAWDSIRyS,GraphicsAWDSIRySName
+	setCOGFXPalette         coAWDSIRyS,GraphicsAWDSIRySPalette
+	setCOGFXFace            coAWDSIRyS,GraphicsAWDSIRySFace,GraphicsAWDSHIRySappyFace,GraphicsAWDSIRySSadFace
+	setCOGFXSmallFace       coAWDSIRyS,GraphicsAWDSIRySMugshot
 	setCOGFXPowerAnim       coAWDSIRyS,6,4
 	setCOGFXPowerSFX        coAWDSIRyS,0xbd,0xbe
 	setCOGFXSuperAnim       coAWDSIRyS,7,7
