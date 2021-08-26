@@ -23,6 +23,8 @@
 
 	setCOPowerCost          coAWDSFubuki,4
 	setCOSuperCost          coAWDSFubuki,8
+	
+	movementchartforest
 
 	setCOD2DSnowFirepower	coAWDSFubuki,20,0,1,0
 	setCOPowerSnowFirepower	coAWDSFubuki,20,0,1,0
