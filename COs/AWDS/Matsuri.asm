@@ -34,11 +34,13 @@
 	setCOPowerLandStat	coAWDSMatsuri,0,0,0,0
 	setCOPowerNavyStat      coAWDSMatsuri,0,0,0,0
 	setCOPowerTransportStat	coAWDSMatsuri,0,0,2,0
+	setCOPowerUnitStat	coAWDSMatsuri,Unit_BattleCopter,60,0,0,0
 	
 	setCOSuperSoldierStat	coAWDSMatsuri,60,0,2,0
 	setCOSuperLandStat	coAWDSMatsuri,0,0,0,0
 	setCOSuperNavyStat      coAWDSMatsuri,0,0,0,0
 	setCOSuperTransportStat	coAWDSMatsuri,0,0,3,0
+	setCOSuperUnitStat	coAWDSMatsuri,Unit_BattleCopter,90,0,0,0
 	
 	setCOGFXPowerFX		coAWDSMatsuri,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSMatsuri,COPEffectResupplyUnit
