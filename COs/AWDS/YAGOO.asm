@@ -11,27 +11,27 @@
 	setCOGFXSuperAnim       coAWDSYAGOO,7,7
 	setCOGFXSuperSFX        coAWDSYAGOO,0x1f6,0x0
 	
-	setCOName               coAWDSHachi,ScriptAWDSHachi
-	setCOpowerName          coAWDSHachi,ScriptAWDSHachi+1
-	setCOsuperName          coAWDSHachi,ScriptAWDSHachi+2
-	setCOpowerText          coAWDSHachi,ScriptAWDSHachi+8,ScriptAWDSHachi+9,ScriptAWDSHachi+10,ScriptAWDSHachi+11,ScriptAWDSHachi+12,ScriptAWDSHachi+13
-	setCOprofileText        coAWDSHachi,ScriptAWDSHachi+3,ScriptAWDSHachi+4,ScriptAWDSHachi+5,ScriptAWDSHachi+6
-	setCOvictoryText        coAWDSHachi,ScriptAWDSHachi+7
+	setCOName               coAWDSYAGOO,ScriptAWDSHachi
+	setCOpowerName          coAWDSYAGOO,ScriptAWDSHachi+1
+	setCOsuperName          coAWDSYAGOO,ScriptAWDSHachi+2
+	setCOpowerText          coAWDSYAGOO,ScriptAWDSHachi+8,ScriptAWDSHachi+9,ScriptAWDSHachi+10,ScriptAWDSHachi+11,ScriptAWDSHachi+12,ScriptAWDSHachi+13
+	setCOprofileText        coAWDSYAGOO,ScriptAWDSHachi+3,ScriptAWDSHachi+4,ScriptAWDSHachi+5,ScriptAWDSHachi+6
+	setCOvictoryText        coAWDSYAGOO,ScriptAWDSHachi+7
 
 	setCOFaction		coAWDSHachi,ArmyOrangeStar
 	setCOMusic          	coAWDSHachi,MusicHachiTheme
 
-	setCOPowerCost          coAWDSHachi,3
-	setCOSuperCost          coAWDSHachi,6
+	setCOPowerCost          coAWDSYAGOO,3
+	setCOSuperCost          coAWDSYAGOO,6
 
-	setCOD2DPrice		coAWDSHachi,-10
-	setCOPowerPrice		coAWDSHachi,-50
-	setCOSuperPrice		coAWDSHachi,-80
+	setCOD2DPrice		coAWDSYAGOO,-10
+	setCOPowerPrice		coAWDSYAGOO,-50
+	setCOSuperPrice		coAWDSYAGOO,-80
 
-	setCOPowerASM		coAWDSHachi,COPowerBarterFade
-	setCOSuperASM		coAWDSHachi,COPowerBarterFade
-	setCOSuperAbilities	coAWDSHachi,SpecialCityDeploy
+	setCOPowerASM		coAWDSYAGOO,COPowerBarterFade
+	setCOSuperASM		coAWDSYAGOO,COPowerBarterFade
+	setCOSuperAbilities	coAWDSYAGOO,SpecialCityDeploy
 	
-	setCOAIPowerRange       coAWDSHachi,20
-	setCOAIPowerTrigger     coAWDSHachi,90
+	setCOAIPowerRange       coAWDSYAGOO,20
+	setCOAIPowerTrigger     coAWDSYAGOO,90
 ; blank line
