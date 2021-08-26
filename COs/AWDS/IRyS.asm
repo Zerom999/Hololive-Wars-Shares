@@ -18,11 +18,9 @@
 	setCOprofileText        coAWDSHawke,ScriptAWDSHawke+3,ScriptAWDSHawke+4,ScriptAWDSHawke+5,ScriptAWDSHawke+6
 	setCOvictoryText        coAWDSHawke,ScriptAWDSHawke+7
 
-	setCOFaction		coAWDSHawke,ArmyBlackHole
-	setCOMusic          	coAWDSHawke,MusicHawkeTheme
-	setCOPowerMusic              coAWDSHawke,MusicBlackPower
-	setCOSuperMusic              coAWDSHawke,MusicBlackSuper
-
+	setCOFaction		coAWDSCalliope,ArmyGreenEarth
+	setCOMusic          	coAWDSCalliope,MusicCalliopeTheme
+	
 	setCOPowerCost          coAWDSHawke,5
 	setCOSuperCost          coAWDSHawke,10
 
