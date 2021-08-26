@@ -25,7 +25,10 @@ setCODefaults           coAWDSSasha
 	setCOSuperCost          	coAWDSSasha,6
 
 	setCOD2DIncome			coAWDSSasha,200
+	
 	setCOPowerIncome		coAWDSSasha,200
+	setCOSuperDamageToFunds	coAWDSSasha,20
+	
 	setCOSuperIncome		coAWDSSasha,200
 	setCOSuperDamageToFunds	coAWDSSasha,50
 
