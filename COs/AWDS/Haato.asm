@@ -21,8 +21,8 @@
 	setCOFaction			coAWDSHaato,ArmyBlueMoon
 	setCOMusic          		coAWDSHaato,MusicHaato
 
-	setCOPowerCost          	coAWDSHaato,3
-	setCOSuperCost          	coAWDSHaato,6
+	setCOPowerCost          	coAWDSHaato,4
+	setCOSuperCost          	coAWDSHaato,8
 
 	setCOD2DIncome			coAWDSHaato,200
 	
