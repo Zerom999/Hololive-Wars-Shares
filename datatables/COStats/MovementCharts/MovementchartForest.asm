@@ -43,7 +43,7 @@ MovementChartClear:
 	;Null, Plains, River, Mountain
 	.db -1,01,-1,-1
 	;Forest, Road, City, Sea
-	.db 02,01,01,-1
+	.db 01,01,01,-1
 	;HQ, None, Airport, Port
 	.db 01,-1,01,01
 	;Bridge, Shoal, Base, Pipeline
@@ -61,7 +61,7 @@ MovementChartClear:
 	;Null, Plains, River, Mountain
 	.db -1,02,-1,-1
 	;Forest, Road, City, Sea
-	.db 03,01,01,-1
+	.db 01,01,01,-1
 	;HQ, None, Airport, Port
 	.db 01,-1,01,01
 	;Bridge, Shoal, Base, Pipeline
