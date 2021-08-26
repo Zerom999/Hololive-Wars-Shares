@@ -1,4 +1,4 @@
-;movementchartclear.asm
+;movementchartforest.asm
 ;Movement Chart in Sunny Weather
 
 MovementChartClear:
