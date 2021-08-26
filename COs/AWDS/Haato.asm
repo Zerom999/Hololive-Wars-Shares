@@ -24,16 +24,12 @@
 	setCOPowerCost          	coAWDSHaato,4
 	setCOSuperCost          	coAWDSHaato,8
 
-	setCOD2DIncome			coAWDSHaato,200
+	setCOSuperDamageToFunds	coAWDSHaato,50
 	
-	setCOPowerIncome		coAWDSHaato,200
-	setCOSuperDamageToFunds	coAWDSSasha,50
-	
-	setCOSuperIncome		coAWDSSasha,200
-	setCOSuperDamageToFunds	coAWDSSasha,100
+	setCOSuperDamageToFunds	coAWDSHaato,100
 
-	setCOPowerASM			coAWDSSasha,COPowerMarketCrash
+	setCOPowerASM			coAWDSHaato,COPowerMarketCrash
 	
-	setCOAIPowerRange       coAWDSSasha,35
-	setCOAIPowerTrigger     coAWDSSasha,95
+	setCOAIPowerRange       coAWDSHaato,35
+	setCOAIPowerTrigger     coAWDSHaato,95
 ; blank line
