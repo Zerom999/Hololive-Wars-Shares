@@ -19,7 +19,7 @@
 	setCOvictoryText        coAWDSIRyS,ScriptAWDSIRyS+7
 
 	setCOFaction		coAWDSIRyS,ArmyGreenEarth
-	setCOMusic          	coAWDSIRyS,MusicCalliopeTheme
+	setCOMusic          	coAWDSIRyS,MusicIRySTheme
 	
 	setCOPowerCost          coAWDSIRyS,5
 	setCOSuperCost          coAWDSIRyS,10
