@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSAki,ArmyYellowComet
 	setCOMusic          	coAWDSAki,MusicAkiTheme
 
-	setCOPowerCost          coAWDSAki,3
-	setCOSuperCost          coAWDSAki,6
+	setCOPowerCost          coAWDSAki,4
+	setCOSuperCost          coAWDSAki,8
 	
 	setCOPowwrAbilities			coAWDSAki,SpecialHiddenHP
 	setCOSuperAbilities			coAWDSAki,SpecialHiddenHP+SpecialPreEmptiveCounter
