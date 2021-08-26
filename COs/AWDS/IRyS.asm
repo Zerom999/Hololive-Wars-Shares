@@ -1,36 +1,36 @@
-        setCODefaults           coAWDSHawke
-	setCOGameID		coAWDSHawke,Game_AWDS
+        setCODefaults           coAWDSIRyS
+	setCOGameID		coAWDSIRyS,Game_AWDS
 
-	setCOGFXFullbody        coAWDSHawke,GraphicsAWDSHawkeGraphic
-	setCOGFXName            coAWDSHawke,GraphicsAWDSHawkeName
-	setCOGFXPalette         coAWDSHawke,GraphicsAWDSHawkePalette
-	setCOGFXFace            coAWDSHawke,GraphicsAWDSHawkeFace,GraphicsAWDSHawkeHappyFace,GraphicsAWDSHawkeSadFace
-	setCOGFXSmallFace       coAWDSHawke,GraphicsAWDSHawkeMugshot
-	setCOGFXPowerAnim       coAWDSHawke,6,4
-	setCOGFXPowerSFX        coAWDSHawke,0xbd,0xbe
-	setCOGFXSuperAnim       coAWDSHawke,7,7
-	setCOGFXSuperSFX        coAWDSHawke,0x1f4,0x1f5
+	setCOGFXFullbody        coAWDSIRyS,GraphicsAWDSHawkeGraphic
+	setCOGFXName            coAWDSIRyS,GraphicsAWDSHawkeName
+	setCOGFXPalette         coAWDSIRyS,GraphicsAWDSHawkePalette
+	setCOGFXFace            coAWDSIRyS,GraphicsAWDSHawkeFace,GraphicsAWDSHawkeHappyFace,GraphicsAWDSHawkeSadFace
+	setCOGFXSmallFace       coAWDSIRyS,GraphicsAWDSHawkeMugshot
+	setCOGFXPowerAnim       coAWDSIRyS,6,4
+	setCOGFXPowerSFX        coAWDSIRyS,0xbd,0xbe
+	setCOGFXSuperAnim       coAWDSIRyS,7,7
+	setCOGFXSuperSFX        coAWDSIRyS,0x1f4,0x1f5
 	
-	setCOName               coAWDSHawke,ScriptAWDSHawke
-	setCOpowerName          coAWDSHawke,ScriptAWDSHawke+1
-	setCOsuperName          coAWDSHawke,ScriptAWDSHawke+2
-	setCOpowerText          coAWDSHawke,ScriptAWDSHawke+8,ScriptAWDSHawke+9,ScriptAWDSHawke+10,ScriptAWDSHawke+11,ScriptAWDSHawke+12,ScriptAWDSHawke+13
-	setCOprofileText        coAWDSHawke,ScriptAWDSHawke+3,ScriptAWDSHawke+4,ScriptAWDSHawke+5,ScriptAWDSHawke+6
-	setCOvictoryText        coAWDSHawke,ScriptAWDSHawke+7
+	setCOName               coAWDSIRyS,ScriptAWDSHawke
+	setCOpowerName          coAWDSIRyS,ScriptAWDSHawke+1
+	setCOsuperName          coAWDSIRyS,ScriptAWDSHawke+2
+	setCOpowerText          coAWDSIRyS,ScriptAWDSHawke+8,ScriptAWDSHawke+9,ScriptAWDSHawke+10,ScriptAWDSHawke+11,ScriptAWDSHawke+12,ScriptAWDSHawke+13
+	setCOprofileText        coAWDSIRyS,ScriptAWDSHawke+3,ScriptAWDSHawke+4,ScriptAWDSHawke+5,ScriptAWDSHawke+6
+	setCOvictoryText        coAWDSIRyS,ScriptAWDSHawke+7
 
-	setCOFaction		coAWDSCalliope,ArmyGreenEarth
-	setCOMusic          	coAWDSCalliope,MusicCalliopeTheme
+	setCOFaction		coAWDSIRyS,ArmyGreenEarth
+	setCOMusic          	coAWDSIRyS,MusicCalliopeTheme
 	
-	setCOPowerCost          coAWDSHawke,5
-	setCOSuperCost          coAWDSHawke,10
+	setCOPowerCost          coAWDSIRyS,5
+	setCOSuperCost          coAWDSIRyS,10
 
-	setCOAllStat		coAWDSHawke,10,10,0,0
+	setCOAllStat		coAWDSIRyS,10,10,0,0
 
-	setCOPowerASM		coAWDSHawke,COPowerBlackWave
-	setCOSuperASM		coAWDSHawke,COPowerBlackStorm
+	setCOPowerASM		coAWDSIRyS,COPowerBlackWave
+	setCOSuperASM		coAWDSIRyS,COPowerBlackStorm
 	
-	setCOAIPowerRange       coAWDSHawke,35
-	setCOAIPowerTrigger     coAWDSHawke,95
-	setCOAIPowerTriggerASM  coAWDSHawke,AIActivateAlways
+	setCOAIPowerRange       coAWDSIRyS,35
+	setCOAIPowerTrigger     coAWDSIRyS,95
+	setCOAIPowerTriggerASM  coAWDSIRyS,AIActivateAlways
 ; blank line
 
