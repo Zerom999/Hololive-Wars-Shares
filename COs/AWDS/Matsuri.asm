@@ -28,6 +28,7 @@
 	setCOD2DLandStat	coAWDSMatsuri,-10,0,0,0
 	setCOD2DNavyStat        coAWDSMatsuri,-10,0,0,0
 	setCOD2DTransportStat	coAWDSMatsuri,0,0,1,0	
+	setCOD2DUnitStat	coAWDSMatsuri,Unit_BattleCopter,30,0,0,0
 	
 	setCOPowerSoldierStat	coAWDSMatsuri,40,0,1,0
 	setCOPowerLandStat	coAWDSMatsuri,0,0,0,0
