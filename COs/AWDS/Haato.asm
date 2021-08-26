@@ -1,11 +1,11 @@
         setCODefaults           coAWDSHaato
 	setCOGameID		coAWDSHaato,Game_AWDS
 
-	setCOGFXFullbody        coAWDSHaato,GraphicsAWDSSashaGraphic
-	setCOGFXName            coAWDSHaato,GraphicsAWDSSashaName
-	setCOGFXPalette         coAWDSHaato,GraphicsAWDSSashaPalette
-	setCOGFXFace            coAWDSHaato,GraphicsAWDSSashaFace,GraphicsAWDSSashaHappyFace,GraphicsAWDSSashaSadFace
-	setCOGFXSmallFace       coAWDSHaato,GraphicsAWDSSashaMugshot
+	setCOGFXFullbody        coAWDSHaato,GraphicsAWDSHaatoGraphic
+	setCOGFXName            coAWDSHaato,GraphicsAWDSHaatoName
+	setCOGFXPalette         coAWDSHaato,GraphicsAWDSHaatoPalette
+	setCOGFXFace            coAWDSHaato,GraphicsAWDSHaatoFace,GraphicsAWDSHaatoHappyFace,GraphicsAWDSSHaatoadFace
+	setCOGFXSmallFace       coAWDSHaato,GraphicsAWDSHaatoMugshot
 	setCOGFXPowerAnim       coAWDSHaato,0x02,0x00
 	setCOGFXPowerSFX        coAWDSHaato,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSHaato,7,7
