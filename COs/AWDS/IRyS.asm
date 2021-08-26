@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSIRyS,7,7
 	setCOGFXSuperSFX        coAWDSIRyS,0x1f4,0x1f5
 	
-	setCOName               coAWDSIRyS,ScriptAWDSHawke
-	setCOpowerName          coAWDSIRyS,ScriptAWDSHawke+1
-	setCOsuperName          coAWDSIRyS,ScriptAWDSHawke+2
-	setCOpowerText          coAWDSIRyS,ScriptAWDSHawke+8,ScriptAWDSHawke+9,ScriptAWDSHawke+10,ScriptAWDSHawke+11,ScriptAWDSHawke+12,ScriptAWDSHawke+13
-	setCOprofileText        coAWDSIRyS,ScriptAWDSHawke+3,ScriptAWDSHawke+4,ScriptAWDSHawke+5,ScriptAWDSHawke+6
-	setCOvictoryText        coAWDSIRyS,ScriptAWDSHawke+7
+	setCOName               coAWDSIRyS,ScriptAWDSIRyS
+	setCOpowerName          coAWDSIRyS,ScriptAWDSIRyS+1
+	setCOsuperName          coAWDSIRyS,ScriptAWDSIRyS+2
+	setCOpowerText          coAWDSIRyS,ScriptAWDSIRyS+8,ScriptAWDSIRyS+9,ScriptAWDSIRyS+10,ScriptAWDSIRyS+11,ScriptAWDSIRyS+12,ScriptAWDSIRyS+13
+	setCOprofileText        coAWDSIRyS,ScriptAWDSIRyS+3,ScriptAWDSIRyS+4,ScriptAWDSIRyS+5,ScriptAWDSIRyS+6
+	setCOvictoryText        coAWDSIRyS,ScriptAWDSIRyS+7
 
 	setCOFaction		coAWDSIRyS,ArmyGreenEarth
 	setCOMusic          	coAWDSIRyS,MusicCalliopeTheme
