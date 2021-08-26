@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSHaato,7,7
 	setCOGFXSuperSFX        coAWDSHaato,0x1f7,0x1f8
 	
-	setCOName               coAWDSHaato,ScriptAWDSSasha
-	setCOpowerName          coAWDSHaato,ScriptAWDSSasha+1
-	setCOsuperName          coAWDSHaato,ScriptAWDSSasha+2
-	setCOpowerText          coAWDSHaato,ScriptAWDSSasha+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
-	setCOprofileText        coAWDSHaato,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
-	setCOvictoryText        coAWDSHaato,ScriptAWDSSasha+7
+	setCOName               coAWDSHaato,ScriptAWDSHaato
+	setCOpowerName          coAWDSHaato,ScriptAWDSHaato+1
+	setCOsuperName          coAWDSHaato,ScriptAWDSHaato+2
+	setCOpowerText          coAWDSHaato,ScriptAWDSHaato+8,ScriptAWDSHaato+9,ScriptAWDSHaato+10,ScriptAWDSHaato+11,ScriptAWDSHaato+12,ScriptAWDSHaato+13
+	setCOprofileText        coAWDSHaato,ScriptAWDSHaato+3,ScriptAWDSHaato+4,ScriptAWDSHaato+5,ScriptAWDSHaato+6
+	setCOvictoryText        coAWDSHaato,ScriptAWDSHaato+7
 
 	setCOFaction			coAWDSHaato,ArmyBlueMoon
 	setCOMusic          		coAWDSHaato,MusicHaato
