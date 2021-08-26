@@ -1,32 +1,32 @@
         setCODefaults           coAWDSHaato
-	setCOGameID		coAWDSSasha,Game_AWDS
+	setCOGameID		coAWDSHaato,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSasha,GraphicsAWDSSashaGraphic
-	setCOGFXName            coAWDSSasha,GraphicsAWDSSashaName
-	setCOGFXPalette         coAWDSSasha,GraphicsAWDSSashaPalette
-	setCOGFXFace            coAWDSSasha,GraphicsAWDSSashaFace,GraphicsAWDSSashaHappyFace,GraphicsAWDSSashaSadFace
-	setCOGFXSmallFace       coAWDSSasha,GraphicsAWDSSashaMugshot
-	setCOGFXPowerAnim       coAWDSSasha,0x02,0x00
-	setCOGFXPowerSFX        coAWDSSasha,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSSasha,7,7
-	setCOGFXSuperSFX        coAWDSSasha,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSHaato,GraphicsAWDSSashaGraphic
+	setCOGFXName            coAWDSHaato,GraphicsAWDSSashaName
+	setCOGFXPalette         coAWDSHaato,GraphicsAWDSSashaPalette
+	setCOGFXFace            coAWDSHaato,GraphicsAWDSSashaFace,GraphicsAWDSSashaHappyFace,GraphicsAWDSSashaSadFace
+	setCOGFXSmallFace       coAWDSHaato,GraphicsAWDSSashaMugshot
+	setCOGFXPowerAnim       coAWDSHaato,0x02,0x00
+	setCOGFXPowerSFX        coAWDSHaato,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSHaato,7,7
+	setCOGFXSuperSFX        coAWDSHaato,0x1f7,0x1f8
 	
-	setCOName               coAWDSSasha,ScriptAWDSSasha
-	setCOpowerName          coAWDSSasha,ScriptAWDSSasha+1
-	setCOsuperName          coAWDSSasha,ScriptAWDSSasha+2
-	setCOpowerText          coAWDSSasha,ScriptAWDSSasha+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
-	setCOprofileText        coAWDSSasha,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
-	setCOvictoryText        coAWDSSasha,ScriptAWDSSasha+7
+	setCOName               coAWDSHaato,ScriptAWDSSasha
+	setCOpowerName          coAWDSHaato,ScriptAWDSSasha+1
+	setCOsuperName          coAWDSHaato,ScriptAWDSSasha+2
+	setCOpowerText          coAWDSHaato,ScriptAWDSSasha+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
+	setCOprofileText        coAWDSHaato,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
+	setCOvictoryText        coAWDSHaato,ScriptAWDSSasha+7
 
-	setCOFaction			coAWDSSasha,ArmyBlueMoon
-	setCOMusic          		coAWDSSasha,MusicBlueMoon
+	setCOFaction			coAWDSHaato,ArmyBlueMoon
+	setCOMusic          		coAWDSHaato,MusicHaato
 
-	setCOPowerCost          	coAWDSSasha,3
-	setCOSuperCost          	coAWDSSasha,6
+	setCOPowerCost          	coAWDSHaato,3
+	setCOSuperCost          	coAWDSHaato,6
 
-	setCOD2DIncome			coAWDSSasha,200
+	setCOD2DIncome			coAWDSHaato,200
 	
-	setCOPowerIncome		coAWDSSasha,200
+	setCOPowerIncome		coAWDSHaato,200
 	setCOSuperDamageToFunds	coAWDSSasha,50
 	
 	setCOSuperIncome		coAWDSSasha,200
