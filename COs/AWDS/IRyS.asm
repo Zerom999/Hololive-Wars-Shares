@@ -1,4 +1,4 @@
-setCODefaults           coAWDSHawke
+        setCODefaults           coAWDSHawke
 	setCOGameID		coAWDSHawke,Game_AWDS
 
 	setCOGFXFullbody        coAWDSHawke,GraphicsAWDSHawkeGraphic
