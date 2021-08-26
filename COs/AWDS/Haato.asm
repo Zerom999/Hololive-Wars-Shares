@@ -1,4 +1,4 @@
-setCODefaults           coAWDSSasha
+        setCODefaults           coAWDSHaato
 	setCOGameID		coAWDSSasha,Game_AWDS
 
 	setCOGFXFullbody        coAWDSSasha,GraphicsAWDSSashaGraphic
