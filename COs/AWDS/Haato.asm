@@ -28,8 +28,6 @@
 	
 	setCOSuperDamageToFunds	coAWDSHaato,100
 
-	setCOPowerASM			coAWDSHaato,COPowerMarketCrash
-	
 	setCOAIPowerRange       coAWDSHaato,35
 	setCOAIPowerTrigger     coAWDSHaato,95
 ; blank line
