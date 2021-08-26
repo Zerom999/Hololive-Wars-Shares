@@ -38,7 +38,6 @@ MovementChartClear:
 	.db -1,-1,-1,-1
 	;Volcano, Factory, Deathray, Variable Tile
 	.db -1,-1,-1,-1
-	
 
 ;Tread Movement Type	
 	;Null, Plains, River, Mountain
