@@ -28,7 +28,7 @@
 		
 	setCOPowerAllStat	coAWDSNoel,40,40,0,0
 	
-	setCOSuperAllStat	coAWDSNoel,60,60,0,0
+	setCOSuperAllStat	coAWDSNoel,60,60,1,0
 	
 	setCOAIPowerRange       coAWDSNoel,25
 	setCOAIPowerTrigger     coAWDSNoel,95
