@@ -21,11 +21,11 @@
 	setCOFaction		coAWDSOkayu,ArmyGreenEarth
 	setCOMusic          	coAWDSOkayu,MusicOkayuTheme
 	
-	setCOPowerCost          coAWDSOkayu,2
-	setCOSuperCost          coAWDSOkayu,4
+	setCOPowerCost          coAWDSOkayu,3
+	setCOSuperCost          coAWDSOkayu,6
 	
-	setCOPowerAllStat	coAWDSOkayu,10,0,1,0
-	setCOSuperAllStat	coAWDSOkayu,20,0,2,0
+	setCOPowerAllStat	coAWDSOkayu,20,0,1,0
+	setCOSuperAllStat	coAWDSOkayu,40,0,2,0
 
 	setCOAIPowerRange       coAWDSOkayu,35
 	setCOAIPowerTrigger     coAWDSOkayu,95
