@@ -30,11 +30,11 @@
 	
 	setCOPowerLandStat	coAWDSMarine,0,0,0,0
 	setCOPowerNavyStat	coAWDSMarine,60,60,0,0
-	setCOPowerAirStat	coAWDSMarine,-40,0,0,0
+	setCOPowerAirStat	coAWDSMarine,-50,0,0,0
 	
 	setCOSuperLandStat	coAWDSMarine,0,0,0,0
 	setCOSuperNavyStat	coAWDSMarine,90,90,0,0
-	setCOSuperAirStat	coAWDSMarine,-40,0,0,0
+	setCOSuperAirStat	coAWDSMarine,-50,0,0,0
 	
 	setCOAIPowerRange       coAWDSMarine,25
 	setCOAIPowerTrigger     coAWDSMarine,95
