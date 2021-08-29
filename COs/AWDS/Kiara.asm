@@ -29,11 +29,11 @@
 	setCOD2DAirStat		coAWDSKiara,60,0,1,0
 	
 	setCOPowerLandStat	coAWDSKiara,0,0,0,0
-	setCOPowerNavyStat	coAWDSKiara,-40,0,-1,0
+	setCOPowerNavyStat	coAWDSKiara,-50,0,-1,0
 	setCOPowerAirStat	coAWDSKiara,90,0,2,0
 	
 	setCOSuperLandStat	coAWDSKiara,0,0,0,0
-	setCOSuperNavyStat	coAWDSKiara,-40,0,-1,0
+	setCOSuperNavyStat	coAWDSKiara,-50,0,-1,0
 	setCOSuperAirStat	coAWDSKiara,120,0,3,0
 	
 	setCOGFXPowerRule	coAWDSKiara,COPCheckAerialClass
