@@ -29,12 +29,12 @@
 	setCOD2DAirStat		coAWDSKorone,-10,0,0,0
 	
 	setCOPowerLandStat	coAWDSKorone,60,0,1,0
-	setCOPowerNavyStat	coAWDSKorone,0,0,0,0
-	setCOPowerAirStat	coAWDSKorone,0,0,0,0
+	setCOPowerNavyStat	coAWDSKorone,-10,0,0,0
+	setCOPowerAirStat	coAWDSKorone,-10,0,0,0
 	
 	setCOSuperLandStat	coAWDSKorone,90,0,2,0
-	setCOSuperNavyStat	coAWDSKorone,0,0,0,0
-	setCOSuperAirStat	coAWDSKorone,0,0,0,0
+	setCOSuperNavyStat	coAWDSKorone,-10,0,0,0
+	setCOSuperAirStat	coAWDSKorone,-10,0,0,0
 	
 	setCOAIPowerRange       coAWDSKorone,25
 	setCOAIPowerTrigger     coAWDSKorone,95
