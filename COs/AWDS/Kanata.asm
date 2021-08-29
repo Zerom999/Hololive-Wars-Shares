@@ -27,10 +27,10 @@
 	setCOD2DDirectStat	coAWDSKanata,30,0,0,0	
 	setCOD2DIndirectStat	coAWDSKanata,-20,0,0,0	
 	
-	setCOPowerDirectStat	coAWDSKanata,30,0,0,0	
+	setCOPowerDirectStat	coAWDSKanata,60,0,0,0	
 	setCOPowerIndirectStat	coAWDSKanata,-20,0,0,0
 	
-	setCOSuperDirectStat	coAWDSKanata,30,0,0,0	
+	setCOSuperDirectStat	coAWDSKanata,90,0,0,0	
 	setCOSuperIndirectStat	coAWDSKanata,-20,0,0,0
 
 	setCOGFXPowerRule       coAWDSKanata,COPCheckDirectCombatUnits
