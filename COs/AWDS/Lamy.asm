@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSLamy,ArmyBlueMoon
 	setCOMusic          	coAWDSLamy,MusicLamyTheme
 
-	setCOPowerCost          coAWDSLamy,4
-	setCOSuperCost          coAWDSLamy,8
+	setCOPowerCost          coAWDSLamy,2
+	setCOSuperCost          coAWDSLamy,4
 
 	setCOD2DSnowFirepower	coAWDSLamy,20
 	setCOPowerSnowFirepower	coAWDSLamy,40
@@ -32,8 +32,8 @@
 	setCOPowerMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
 	setCOSuperMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
 	
-	setCOPowerASM		coAWDSLamy,COPowerExtendedBlizzard
-	setCOSuperASM		coAWDSLamy,COPowerExtendedWinterFury
+	setCOPowerASM		coAWDSLamy,COPowerBlizzard
+	setCOSuperASM		coAWDSLamy,COPowerExtendedBlizzard
 	
 	setCOAIPowerRange       coAWDSLamy,15
 	setCOAIPowerTrigger     coAWDSLamy,70
