@@ -32,12 +32,12 @@
 	setCOD2DIndirectStat            coAWDSRushia,-20,0,0,0
 	
 	setCOPowerSoldierStat		coAWDSRushia,60,40,1,0
-	setCOPowerLandtat		coAWDSRushia,-10,0,0,0
-	setCOPowerIndirectStat          coAWDSRushia,-10,0,0,0
+	setCOPowerLandtat		coAWDSRushia,-20,0,0,0
+	setCOPowerIndirectStat          coAWDSRushia,-20,0,0,0
 	
 	setCOSuperSoldierStat		coAWDSRushia,90,50,2,0
-	setCOSuperLandtat		coAWDSRushia,-10,0,0,0
-	setCOSuperIndirectStat          coAWDSRushia,-10,0,0,0
+	setCOSuperLandtat		coAWDSRushia,-20,0,0,0
+	setCOSuperIndirectStat          coAWDSRushia,-20,0,0,0
 	
 	setCOAIPowerRange       coAWDSRushia,15
 	setCOAIPowerTrigger     coAWDSRushia,70
