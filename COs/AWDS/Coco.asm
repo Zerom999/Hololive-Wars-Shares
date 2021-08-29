@@ -29,11 +29,11 @@
 	setCOD2DAirStat		coAWDSCoco,30,30,0,0
 
         setCOPowerLandStat	coAWDSCoco,10,10,0,0
-	setCOPowerNavyStat	coAWDSCoco,-40,0,0,0
+	setCOPowerNavyStat	coAWDSCoco,-50,0,0,0
 	setCOPowerAirStat	coAWDSCoco,60,60,0,0
 
         setCOSuperLandStat	coAWDSCoco,20,20,0,0
-	setCOSuperNavyStat	coAWDSCoco,-40,0,0,0
+	setCOSuperNavyStat	coAWDSCoco,-50,0,0,0
 	setCOSuperAirStat	coAWDSCoco,90,90,0,0
 	
 	setCOGFXPowerRule	coAWDSCoco,COPCheckAerialClass
