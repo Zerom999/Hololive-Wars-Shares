@@ -28,10 +28,10 @@
 	setCOD2DIndirectStat	coAWDSCalliope,-50,0,0,-1
 	
 	setCOPowerDirectStat	coAWDSCalliope,90,0,1,0	
-	setCOPowerIndirectStat	coAWDSCalliope,-40,0,0,-1	
+	setCOPowerIndirectStat	coAWDSCalliope,-50,0,0,-1	
 	
 	setCOSuperDirectStat	coAWDSCalliope,120,00,2,0	
-	setCOSuperIndirectStat	coAWDSCalliope,-40,00,0,-1	
+	setCOSuperIndirectStat	coAWDSCalliope,-50,00,0,-1	
 	
 	setCOGFXPowerRule       coAWDSCalliope,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSCalliope,COPCheckDirectCombatUnits
