@@ -30,11 +30,11 @@
 	
 	setCOPowerLandStat	coAWDSAqua,0,0,0,0
 	setCOPowerNavyStat	coAWDSAqua,0,40,2,0
-	setCOPowerAirStat	coAWDSAqua,-10,0,0,0
+	setCOPowerAirStat	coAWDSAqua,-20,0,0,0
 	
 	setCOSuperLandStat	coAWDSAqua,0,0,0,0
 	setCOSuperNavyStat	coAWDSAqua,0,60,3,0
-	setCOSuperAirStat	coAWDSAqua,-10,0,0,0
+	setCOSuperAirStat	coAWDSAqua,-20,0,0,0
 	
 	setCOGFXPowerFX		coAWDSAqua,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSAqua,COPEffectResupplyUnit
