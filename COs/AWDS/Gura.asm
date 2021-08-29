@@ -30,11 +30,11 @@
 	
 	setCOPowerLandStat	coAWDSGura,0,0,0,0
 	setCOPowerNavyStat	coAWDSGura,90,0,2,0
-	setCOPowerAirStat	coAWDSGura,-40,0,-1,0
+	setCOPowerAirStat	coAWDSGura,-50,0,-1,0
 	
 	setCOSuperLandStat	coAWDSGura,0,0,0,0
 	setCOSuperNavyStat	coAWDSGura,120,0,3,0
-	setCOSuperAirStat	coAWDSGura,-40,0,-1,0
+	setCOSuperAirStat	coAWDSGura,-50,0,-1,0
 	
 	setCOAIPowerRange       coAWDSGura,25
 	setCOAIPowerTrigger     coAWDSGura,95
