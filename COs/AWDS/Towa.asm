@@ -25,8 +25,8 @@
 	setCOSuperCost          coAWDSTowa,6
 
 	setCOD2DAllStat		coAWDSTowa,40,-20,0,0
-	setCOPowerAllStat	coAWDSTowa,70,-10,0,0
-	setCOSuperAllStat	coAWDSTowa,100,-10,0,0
+	setCOPowerAllStat	coAWDSTowa,70,-20,0,0
+	setCOSuperAllStat	coAWDSTowa,100,-20,0,0
 	
 	setCOAIPowerRange       coAWDSTowa,25
 	setCOAIPowerTrigger     coAWDSTowa,95
