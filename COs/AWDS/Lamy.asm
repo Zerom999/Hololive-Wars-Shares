@@ -24,9 +24,9 @@
 	setCOPowerCost          coAWDSLamy,4
 	setCOSuperCost          coAWDSLamy,8
 
-	setCOD2DSnowFirepower	coAWDSLamy,10,30,0,0
-	setCOPowerSnowFirepower	coAWDSLamy,10,30,0,0
-	setCOSuperSnowFirepower	coAWDSLamy,10,30,0,0
+	setCOD2DSnowFirepower	coAWDSLamy,20
+	setCOPowerSnowFirepower	coAWDSLamy,40
+	setCOSuperSnowFirepower	coAWDSLamy,60
 	
 	setCOD2DMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
 	setCOPowerMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
