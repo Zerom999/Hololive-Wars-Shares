@@ -24,7 +24,7 @@
 	setCOPowerCost          coAWDSTowa,3
 	setCOSuperCost          coAWDSTowa,6
 
-	setCOD2DAllStat		coAWDSTowa,40,-20,0,0
+	setCOD2DSoldierStat		coAWDSBotan,20,0,0,0
 	setCOPowerAllStat	coAWDSTowa,70,-20,0,0
 	setCOSuperAllStat	coAWDSTowa,100,-20,0,0
 	
