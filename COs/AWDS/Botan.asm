@@ -28,7 +28,7 @@
 	setCOD2DDirectStat		coAWDSBotan,-20,0,0,0
 	setCOPowerSoldierStat		coAWDSBotan,60,0,2,0
 	setCOPowerDirectStat		coAWDSBotan,-20,0,0,0
-	setCOSuperSoldierStat		coAWDSBotan,100,0,6,0
+	setCOSuperSoldierStat		coAWDSBotan,100,0,4,0
 	setCOSuperDirectStat		coAWDSBotan,-20,0,0,0
 
 	setCOD2DCapture			coAWDSBotan,100
