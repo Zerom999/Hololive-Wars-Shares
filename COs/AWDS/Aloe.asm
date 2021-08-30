@@ -1,34 +1,36 @@
         setCODefaults           coAWDSAloe
-	setCOGameID		coAWDSTowa,Game_AWDS
+	setCOGameID		coAWDSAloe,Game_AWDS
 
-	setCOGFXFullbody        coAWDSTowa,GraphicsAWDSTowaGraphic
-	setCOGFXName            coAWDSTowa,GraphicsAWDSTowaName
-	setCOGFXPalette         coAWDSTowa,GraphicsAWDSTowaPalette
-	setCOGFXFace            coAWDSTowa,GraphicsAWDSTowaFace,GraphicsAWDSTowaHappyFace,GraphicsAWDSTowaSadFace
-	setCOGFXSmallFace       coAWDSTowa,GraphicsAWDSTowaMugshot
-	setCOGFXPowerAnim       coAWDSTowa,0,0
-	setCOGFXPowerSFX        coAWDSTowa,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSTowa,7,7
-	setCOGFXSuperSFX        coAWDSTowa,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSAloe,GraphicsAWDSTowaGraphic
+	setCOGFXName            coAWDSAloe,GraphicsAWDSTowaName
+	setCOGFXPalette         coAWDSAloe,GraphicsAWDSTowaPalette
+	setCOGFXFace            coAWDSAloe,GraphicsAWDSTowaFace,GraphicsAWDSTowaHappyFace,GraphicsAWDSTowaSadFace
+	setCOGFXSmallFace       coAWDSAloe,GraphicsAWDSTowaMugshot
+	setCOGFXPowerAnim       coAWDSAloe,0,0
+	setCOGFXPowerSFX        coAWDSAloe,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSAloe,7,7
+	setCOGFXSuperSFX        coAWDSAloe,0x1f7,0x1f8
 	
-	setCOName               coAWDSTowa,ScriptAWDSTowa
-	setCOpowerName          coAWDSTowa,ScriptAWDSTowa+1
-	setCOsuperName          coAWDSTowa,ScriptAWDSTowa+2
-	setCOpowerText          coAWDSTowa,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSTowa+10,ScriptAWDSTowa+11,ScriptAWDSTowa+12,ScriptAWDSTowa+13
-	setCOprofileText        coAWDSTowa,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
-	setCOvictoryText        coAWDSTowa,ScriptAWDSTowa+7
+	setCOName               coAWDSAloe,ScriptAWDSTowa
+	setCOpowerName          coAWDSAloe,ScriptAWDSTowa+1
+	setCOsuperName          coAWDSAloe,ScriptAWDSTowa+2
+	setCOpowerText          coAWDSAloe,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSTowa+10,ScriptAWDSTowa+11,ScriptAWDSTowa+12,ScriptAWDSTowa+13
+	setCOprofileText        coAWDSAloe,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
+	setCOvictoryText        coAWDSAloe,ScriptAWDSTowa+7
 
-	setCOFaction		coAWDSTowa,ArmyYellowComet
-	setCOMusic          	coAWDSTowa,MusicTowaTheme
+	setCOFaction		coAWDSAloe,ArmyYellowComet
+	setCOMusic          	coAWDSAloe,MusicAloeheme
 
-	setCOPowerCost          coAWDSTowa,3
-	setCOSuperCost          coAWDSTowa,6
+	setCOPowerCost          coAWDSAloe,3
+	setCOSuperCost          coAWDSAloe,6
 
-	setCOD2DAllStat		coAWDSTowa,40,-20,0,0
-	setCOPowerAllStat	coAWDSTowa,70,-20,0,0
-	setCOSuperAllStat	coAWDSTowa,100,-20,0,0
+	setCOD2DAllStat		coAWDSAloe,40,-20,0,0
 	
-	setCOAIPowerRange       coAWDSTowa,25
-	setCOAIPowerTrigger     coAWDSTowa,95
+	setCOPowerAllStat	coAWDSAloe,70,-20,0,0
+	
+	setCOSuperAllStat	coAWDSAloe,100,-20,0,0
+	
+	setCOAIPowerRange       coAWDSAloe,25
+	setCOAIPowerTrigger     coAWDSAloe,95
 ; blank line
 
