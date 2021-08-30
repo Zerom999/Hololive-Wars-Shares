@@ -25,10 +25,10 @@
 	setCOSuperCost          coAWDSTowa,6
 
 	setCOD2DSoldierStat	coAWDSTowa,20,0,0,0	
-	setCOD2DIndirectStat	coAWDSTowa,20,0,0,1
+	setCOD2DIndirectStat	coAWDSTowa,20,0,0,0
+	setCOD2DDirectStat	coAWDSTowa,-20,0,0,0
 	
 	setCOPowerAllStat	coAWDSTowa,70,-20,0,0
-	setCOSuperAllStat	coAWDSTowa,100,-20,0,0
 	
 	setCOAIPowerRange       coAWDSTowa,25
 	setCOAIPowerTrigger     coAWDSTowa,95
