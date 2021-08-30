@@ -28,7 +28,9 @@
 	setCOD2DIndirectStat	coAWDSTowa,20,0,0,0
 	setCOD2DDirectStat	coAWDSTowa,-20,0,0,0
 	
-	setCOPowerAllStat	coAWDSTowa,70,-20,0,0
+	setCOPowerSoldierStat	coAWDSTowa,40,0,0,0
+	setCOPowerIndirectStat	coAWDSTowa,40,0,0,0
+	setCOPowerSDirecttat	coAWDSTowa,-20,0,0,0
 	
 	setCOAIPowerRange       coAWDSTowa,25
 	setCOAIPowerTrigger     coAWDSTowa,95
