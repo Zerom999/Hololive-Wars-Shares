@@ -24,8 +24,10 @@
 	setCOPowerCost          	coAWDSHaato,4
 	setCOSuperCost          	coAWDSHaato,8
 
+	setCOPowerAllStat	coAWDSHaato,20,0,0,0
 	setCOSuperDamageToFunds	coAWDSHaato,50
 	
+	setCOPowerAllStat	coAWDSHaato,40,0,0,0
 	setCOSuperDamageToFunds	coAWDSHaato,100
 
 	setCOAIPowerRange       coAWDSHaato,35
