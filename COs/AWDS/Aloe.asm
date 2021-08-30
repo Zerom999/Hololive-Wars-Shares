@@ -1,17 +1,17 @@
         setCODefaults           coAWDSAloe
 	setCOGameID		coAWDSAloe,Game_AWDS
 
-	setCOGFXFullbody        coAWDSAloe,GraphicsAWDSTowaGraphic
-	setCOGFXName            coAWDSAloe,GraphicsAWDSTowaName
-	setCOGFXPalette         coAWDSAloe,GraphicsAWDSTowaPalette
-	setCOGFXFace            coAWDSAloe,GraphicsAWDSTowaFace,GraphicsAWDSTowaHappyFace,GraphicsAWDSTowaSadFace
-	setCOGFXSmallFace       coAWDSAloe,GraphicsAWDSTowaMugshot
+	setCOGFXFullbody        coAWDSAloe,GraphicsAWDSAloeGraphic
+	setCOGFXName            coAWDSAloe,GraphicsAWDSAloeName
+	setCOGFXPalette         coAWDSAloe,GraphicsAWDSAloePalette
+	setCOGFXFace            coAWDSAloe,GraphicsAWDSAloeFace,GraphicsAWDSAloeHappyFace,GraphicsAWDSAloeSadFace
+	setCOGFXSmallFace       coAWDSAloe,GraphicsAWDSAloeMugshot
 	setCOGFXPowerAnim       coAWDSAloe,0,0
 	setCOGFXPowerSFX        coAWDSAloe,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSAloe,7,7
 	setCOGFXSuperSFX        coAWDSAloe,0x1f7,0x1f8
 	
-	setCOName               coAWDSAloe,ScriptAWDSTowa
+	setCOName               coAWDSAloe,ScriptAWDSAloe
 	setCOpowerName          coAWDSAloe,ScriptAWDSTowa+1
 	setCOsuperName          coAWDSAloe,ScriptAWDSTowa+2
 	setCOpowerText          coAWDSAloe,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSTowa+10,ScriptAWDSTowa+11,ScriptAWDSTowa+12,ScriptAWDSTowa+13
