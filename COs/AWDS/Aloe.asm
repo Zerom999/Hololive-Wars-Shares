@@ -12,11 +12,11 @@
 	setCOGFXSuperSFX        coAWDSAloe,0x1f7,0x1f8
 	
 	setCOName               coAWDSAloe,ScriptAWDSAloe
-	setCOpowerName          coAWDSAloe,ScriptAWDSTowa+1
-	setCOsuperName          coAWDSAloe,ScriptAWDSTowa+2
-	setCOpowerText          coAWDSAloe,ScriptAWDSTowa+8,ScriptAWDSTowa+9,ScriptAWDSTowa+10,ScriptAWDSTowa+11,ScriptAWDSTowa+12,ScriptAWDSTowa+13
-	setCOprofileText        coAWDSAloe,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
-	setCOvictoryText        coAWDSAloe,ScriptAWDSTowa+7
+	setCOpowerName          coAWDSAloe,ScriptAWDSAloe+1
+	setCOsuperName          coAWDSAloe,ScriptAWDSAloe+2
+	setCOpowerText          coAWDSAloe,ScriptAWDSAloe+8,ScriptAWDSAloe+9,ScriptAWDSAloe+10,ScriptAWDSAloe+11,ScriptAWDSAloe+12,ScriptAWDSAloe+13
+	setCOprofileText        coAWDSAloe,ScriptAWDSAloe+3,ScriptAWDSAloe+4,ScriptAWDSAloe+5,ScriptAWDSAloe+6
+	setCOvictoryText        coAWDSAloe,ScriptAWDSAloe+7
 
 	setCOFaction		coAWDSAloe,ArmyYellowComet
 	setCOMusic          	coAWDSAloe,MusicAloeheme
