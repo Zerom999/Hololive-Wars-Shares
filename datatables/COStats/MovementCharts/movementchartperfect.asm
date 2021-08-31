@@ -41,7 +41,7 @@ MovementChartPerfect:
 	
 ;Tread Movement Type
 	;Null, Plains, River, Mountain
-	.db -1,01,-1,-1
+	.db -1,01,01,-1
 	;Forest, Road, City, Sea
 	.db 01,01,01,-1
 	;HQ, None, Airport, Port
@@ -59,7 +59,7 @@ MovementChartPerfect:
 	
 ;Tyre Movement Type
 	;Null, Plains, River, Mountain
-	.db -1,01,-1,-1
+	.db -1,01,01,-1
 	;Forest, Road, City, Sea
 	.db 01,01,01,-1
 	;HQ, None, Airport, Port
