@@ -25,9 +25,9 @@
 	setCOSuperCost          coAWDSOllie,8
 
 	setCOd2dRepair		coAWDSOllie,3
-	setCOD2DSoldierStat	coAWDSOllie,60,0,0,0	
-	setCOD2DSDirectStat	coAWDSOllie,60,0,0,0
-	setCOD2DIndirectStat	coAWDSOllie,60,0,0,0
+	setCOD2DSoldierStat	coAWDSOllie,60,0,1,0	
+	setCOD2DSDirectStat	coAWDSOllie,-30,0,0,0
+	setCOD2DIndirectStat	coAWDSOllie,-30,0,0,0
 	
 	setCOPowerRepair	coAWDSOllie,3
 	setCOSuperRepair	coAWDSOllie,3
