@@ -25,8 +25,6 @@
 	setCOSuperCost          coAWDSWatson,6
 	
 	setCOD2DAbilities		coAWDSWatson,SpecialViewAccurateHP
-	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP
-	
 	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP+SpecialPiercingVision
 	setCOSuperAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP+SpecialPiercingVision+SpecialPreEmptiveCounter
 	
