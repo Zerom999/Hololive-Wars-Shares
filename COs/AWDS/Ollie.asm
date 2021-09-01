@@ -25,6 +25,8 @@
 	setCOSuperCost          coAWDSOllie,8
 
 	setCOd2dRepair		coAWDSOllie,3
+	setCOD2DSoldierStat	coAWDSSensei,20,0,0,0	
+	
 	
 	setCOPowerRepair	coAWDSOllie,3
 	setCOSuperRepair	coAWDSOllie,3
