@@ -25,7 +25,11 @@
 	setCOSuperCost          coAWDSIRyS,10
 
 	setCOAllStat		coAWDSIRyS,10,10,0,0
-
+	
+	setCOPowerStat		coAWDSIRyS,20,20,0,0
+	
+	setCOSuperStat		coAWDSIRyS,30,30,0,0
+		
 	setCOPowerASM		coAWDSIRyS,COPowerBlackWave
 	setCOSuperASM		coAWDSIRyS,COPowerBlackStorm
 	
