@@ -24,10 +24,10 @@ setCODefaults           coAWDSNene
 	setCOPowerCost          coAWDSNene,4
 	setCOSuperCost          coAWDSNene,8
 
-	setCOd2dRepair		coAWDSNene,1
+	setCOd2dRepair		coAWDSNene,3
 	setCOPowerASM		coAWDSNene,TestMissile	
-	setCOPowerRepair	coAWDSNene,1
-	setCOSuperRepair	coAWDSNene,1
+	setCOPowerRepair	coAWDSNene,3
+	setCOSuperRepair	coAWDSNene,3
 	setCOSuperASM		coAWDSNene,COPowerCoveringFire
 	
 	setCOAIPowerRange       coAWDSNene,15
