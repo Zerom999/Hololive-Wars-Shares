@@ -30,11 +30,11 @@
 	setCOSuperMove			coAWDSLash, MovementChartPerfect,MovementChartSnow,MovementChartPerfect
 	
 	setCOd2dAbilities		coAWDSLash,SpecialTerrainGivesFirepower
-	setCOd2dTerrainPowerMult	coAWDSLash,10	
+	setCOd2dTerrainPowerMult	coAWDSLash,0	
 	setCOPowerAbilities		coAWDSLash,SpecialTerrainGivesFirepower
-	setCOPowerTerrainPowerMult	coAWDSLash,10
+	setCOPowerTerrainPowerMult	coAWDSLash,0
 	setCOSuperAbilities		coAWDSLash,SpecialTerrainGivesFirepower+SpecialDoubleTerrainStars
-	setCOSuperTerrainPowerMult	coAWDSLash,10
+	setCOSuperTerrainPowerMult	coAWDSLash,0
 
 	setCOAIPowerRange       coAWDSLash,10
 	setCOAIPowerTrigger     coAWDSLash,70
