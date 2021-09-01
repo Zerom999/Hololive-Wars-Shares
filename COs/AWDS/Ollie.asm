@@ -1,4 +1,4 @@
-        setCODefaults           coAWDSNene
+        setCODefaults           coAWDSOllie
 	setCOGameID		coAWDSNene,Game_AWDS
 
 	setCOGFXFullbody        coAWDSNene,GraphicsAWDSNeneGraphic
