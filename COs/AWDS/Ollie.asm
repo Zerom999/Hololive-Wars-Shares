@@ -25,10 +25,12 @@
 	setCOSuperCost          coAWDSOllie,8
 
 	setCOd2dRepair		coAWDSOllie,3
-	setCOPowerASM		coAWDSNene,TestMissile	
+	
 	setCOPowerRepair	coAWDSOllie,3
 	setCOSuperRepair	coAWDSOllie,3
-	setCOSuperASM		coAWDSNene,COPowerCoveringFire
+	
+	setCOPowerASM			coAWDSOllie,COPowerCopterCommand
+	setCOSuperASM			coAWDSOllie,COPowerAirborneAssault	
 	
 	setCOAIPowerRange       coAWDSOllie,15
 	setCOAIPowerTrigger     coAWDSOllie,70
