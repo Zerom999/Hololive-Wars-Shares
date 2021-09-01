@@ -25,6 +25,10 @@
 	setCOSuperCost          coAWDSSuisei,10
 	
 	setCOD2DAllStat		coAWDSSuisei,30,-10,0,0
+	
+	setCOPowerAllStat		coAWDSSuisei,50,-10,0,0
+	
+	setCOSuperAllStat		coAWDSSuisei,30,-10,0,0
 
 	setCOPowerASM		coAWDSSuisei,COPowerCometStrike4HP
 	setCOSuperASM		coAWDSSuisei,COPowerAsteroidStrike8HP
