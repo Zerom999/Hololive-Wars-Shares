@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSWatson,ArmyGreenEarth
 	setCOMusic          	coAWDSWatson,MusicWatsonEarth
 
-	setCOPowerCost          coAWDSWatson,3
-	setCOSuperCost          coAWDSWatson,6
+	setCOPowerCost          coAWDSWatson,4
+	setCOSuperCost          coAWDSWatson,8
 	
 	setCOD2DAbilities		coAWDSWatson,SpecialViewAccurateHP
 	setCOPowerAbilities		coAWDSWatson,SpecialViewAccurateHP+SpecialHideAllHP+SpecialHiddenHP+SpecialPiercingVision
