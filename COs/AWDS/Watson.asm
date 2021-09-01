@@ -19,7 +19,7 @@
 	setCOvictoryText        coAWDSWatson,ScriptAWDSWatson+7
 
 	setCOFaction		coAWDSWatson,ArmyGreenEarth
-	setCOMusic          	coAWDSWatson,MusicGreenEarth
+	setCOMusic          	coAWDSWatson,MusicWatsonEarth
 
 	setCOPowerCost          coAWDSWatson,3
 	setCOSuperCost          coAWDSWatson,6
