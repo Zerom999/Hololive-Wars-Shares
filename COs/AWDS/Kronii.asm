@@ -24,20 +24,21 @@ setCODefaults           coAWDSSensei
 	setCOPowerCost          	coAWDSSensei,3
 	setCOSuperCost          	coAWDSSensei,6
 
-	setCOD2DSLandStat		coAWDSSensei,20,0,0,0
+	setCOPowerSoldierStat		coAWDSSensei,-30,0,0,0
+	setCOD2DSLandStat		coAWDSSensei,-30,0,0,0
 	setCOD2DNavyStat		coAWDSSensei,-50,0,0,0
 	setCOD2DTransportStat		coAWDSSensei,0,50,1,0
 	setCOD2DUnitStat		coAWDSSensei,Unit_BattleCopter,50,50,1,0
 
-	setCOPowerSoldierStat		coAWDSSensei,40,0,0,0
+	setCOPowerSoldierStat		coAWDSSensei,-30,0,0,0
 	setCOPowerNavyStat		coAWDSSensei,-30,0,0,0
 	setCOPowerTransportStat		coAWDSSensei,0,0,1,0
-	setCOPowerUnitStat		coAWDSSensei,Unit_BattleCopter,70,0,0,0
+	setCOPowerUnitStat		coAWDSSensei,Unit_BattleCopter,70,70,1,0
 
-	setCOSuperSoldierStat		coAWDSSensei,60,0,0,0
+	setCOSuperSoldierStat		coAWDSSensei,-30,0,0,0
 	setCOSuperNavyStat		coAWDSSensei,-30,0,0,0
 	setCOSuperTransportStat    	coAWDSSensei,0,0,1,0
-	setCOSuperUnitStat		coAWDSSensei,Unit_BattleCopter,90,0,0,0
+	setCOSuperUnitStat		coAWDSSensei,Unit_BattleCopter,90,90,1,0
 
 	setCOPowerASM			coAWDSSensei,COPowerCopterCommand
 	setCOSuperASM			coAWDSSensei,COPowerAirborneAssault	
