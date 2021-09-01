@@ -21,8 +21,8 @@ setCODefaults           coAWDSSensei
 	setCOFaction			coAWDSSensei,ArmyYellowComet
 	setCOMusic          		coAWDSSensei,MusicSenseiTheme
 
-	setCOPowerCost          	coAWDSSensei,3
-	setCOSuperCost          	coAWDSSensei,6
+	setCOPowerCost          	coAWDSSensei,5
+	setCOSuperCost          	coAWDSSensei,10
 
 	setCOPowerSoldierStat		coAWDSSensei,-30,0,0,0
 	setCOD2DSLandStat		coAWDSSensei,-30,0,0,0
