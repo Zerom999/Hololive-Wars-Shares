@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSOllie,ArmyOrangeStar
 	setCOMusic          	coAWDSOllie,MusicOrangeStar
 
-	setCOPowerCost          coAWDSOllie,4
-	setCOSuperCost          coAWDSOllie,8
+	setCOPowerCost          coAWDSOllie,3
+	setCOSuperCost          coAWDSOllie,6
 
 	setCOd2dRepair		coAWDSOllie,3
 	setCOD2DSoldierStat	coAWDSOllie,60,0,1,0	
@@ -30,7 +30,14 @@
 	setCOD2DIndirectStat	coAWDSOllie,-30,0,0,0
 	
 	setCOPowerRepair	coAWDSOllie,3
+	setCOPowerSoldierStat	coAWDSOllie,60,0,1,0	
+	setCOPowerirectStat	coAWDSOllie,-30,0,0,0
+	setCOPowerIndirectStat	coAWDSOllie,-30,0,0,0
+	
 	setCOSuperRepair	coAWDSOllie,3
+	setCOSuperSoldierStat	coAWDSOllie,60,0,1,0	
+	setCOSuperDirectStat	coAWDSOllie,-30,0,0,0
+	setCOSuperIndirectStat	coAWDSOllie,-30,0,0,0
 	
 	setCOPowerASM			coAWDSOllie,COPowerCopterCommand
 	setCOSuperASM			coAWDSOllie,COPowerAirborneAssault	
