@@ -1,36 +1,36 @@
         setCODefaults           coAWDSOllie
-	setCOGameID		coAWDSNene,Game_AWDS
+	setCOGameID		coAWDSOllie,Game_AWDS
 
-	setCOGFXFullbody        coAWDSNene,GraphicsAWDSNeneGraphic
-	setCOGFXName            coAWDSNene,GraphicsAWDSNeneName
-	setCOGFXPalette         coAWDSNene,GraphicsAWDSNenePalette
-	setCOGFXFace            coAWDSNene,GraphicsAWDSNeneFace,GraphicsAWDSNeneHappyFace,GraphicsAWDSNeneSadFace
-	setCOGFXSmallFace       coAWDSNene,GraphicsAWDSNeneMugshot
-	setCOGFXPowerAnim       coAWDSNene,2,0
-	setCOGFXPowerSFX        coAWDSNene,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSNene,7,7
-	setCOGFXSuperSFX        coAWDSNene,0x1c6,0
+	setCOGFXFullbody        coAWDSOllie,GraphicsAWDSNeneGraphic
+	setCOGFXName            coAWDSOllie,GraphicsAWDSNeneName
+	setCOGFXPalette         coAWDSOllie,GraphicsAWDSNenePalette
+	setCOGFXFace            coAWDSOllie,GraphicsAWDSNeneFace,GraphicsAWDSNeneHappyFace,GraphicsAWDSNeneSadFace
+	setCOGFXSmallFace       coAWDSOllie,GraphicsAWDSNeneMugshot
+	setCOGFXPowerAnim       coAWDSOllie,2,0
+	setCOGFXPowerSFX        coAWDSOllie,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSOllie,7,7
+	setCOGFXSuperSFX        coAWDSOllie,0x1c6,0
 	
-	setCOName               coAWDSNene,ScriptAWDSNene
-	setCOpowerName          coAWDSNene,ScriptAWDSNene+1
-	setCOsuperName          coAWDSNene,ScriptAWDSNene+2
-	setCOpowerText          coAWDSNene,ScriptAWDSNene+8,ScriptAWDSNene+9,ScriptAWDSNene+10,ScriptAWDSNene+11,ScriptAWDSNene+12,ScriptAWDSNene+13
-	setCOprofileText        coAWDSNene,ScriptAWDSNene+3,ScriptAWDSNene+4,ScriptAWDSNene+5,ScriptAWDSNene+6
-	setCOvictoryText        coAWDSNene,ScriptAWDSNene+7
+	setCOName               coAWDSOllie,ScriptAWDSNene
+	setCOpowerName          coAWDSOllie,ScriptAWDSNene+1
+	setCOsuperName          coAWDSOllie,ScriptAWDSNene+2
+	setCOpowerText          coAWDSOllie,ScriptAWDSNene+8,ScriptAWDSNene+9,ScriptAWDSNene+10,ScriptAWDSNene+11,ScriptAWDSNene+12,ScriptAWDSNene+13
+	setCOprofileText        coAWDSOllie,ScriptAWDSNene+3,ScriptAWDSNene+4,ScriptAWDSNene+5,ScriptAWDSNene+6
+	setCOvictoryText        coAWDSOllie,ScriptAWDSNene+7
 
-	setCOFaction		coAWDSNene,ArmyOrangeStar
-	setCOMusic          	coAWDSNene,MusicOrangeStar
+	setCOFaction		coAWDSOllie,ArmyOrangeStar
+	setCOMusic          	coAWDSOllie,MusicOrangeStar
 
-	setCOPowerCost          coAWDSNene,4
-	setCOSuperCost          coAWDSNene,8
+	setCOPowerCost          coAWDSOllie,4
+	setCOSuperCost          coAWDSOllie,8
 
-	setCOd2dRepair		coAWDSNene,3
+	setCOd2dRepair		coAWDSOllie,3
 	setCOPowerASM		coAWDSNene,TestMissile	
-	setCOPowerRepair	coAWDSNene,3
-	setCOSuperRepair	coAWDSNene,3
+	setCOPowerRepair	coAWDSOllie,3
+	setCOSuperRepair	coAWDSOllie,3
 	setCOSuperASM		coAWDSNene,COPowerCoveringFire
 	
-	setCOAIPowerRange       coAWDSNene,15
-	setCOAIPowerTrigger     coAWDSNene,70
+	setCOAIPowerRange       coAWDSOllie,15
+	setCOAIPowerTrigger     coAWDSOllie,70
 ; blank line
 
