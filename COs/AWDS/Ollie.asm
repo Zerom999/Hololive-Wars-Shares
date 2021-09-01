@@ -26,18 +26,18 @@
 
 	setCOd2dRepair		coAWDSOllie,3
 	setCOD2DSoldierStat	coAWDSOllie,60,0,1,0	
-	setCOD2DSDirectStat	coAWDSOllie,-30,0,0,0
-	setCOD2DIndirectStat	coAWDSOllie,-30,0,0,0
+	setCOD2DSDirectStat	coAWDSOllie,-40,0,0,0
+	setCOD2DIndirectStat	coAWDSOllie,-40,0,0,0
 	
 	setCOPowerRepair	coAWDSOllie,3
 	setCOPowerSoldierStat	coAWDSOllie,90,0,1,0	
-	setCOPowerirectStat	coAWDSOllie,-30,0,0,0
-	setCOPowerIndirectStat	coAWDSOllie,-30,0,0,0
+	setCOPowerirectStat	coAWDSOllie,-40,0,0,0
+	setCOPowerIndirectStat	coAWDSOllie,-40,0,0,0
 	
 	setCOSuperRepair	coAWDSOllie,3
 	setCOSuperSoldierStat	coAWDSOllie,120,0,1,0	
-	setCOSuperDirectStat	coAWDSOllie,-30,0,0,0
-	setCOSuperIndirectStat	coAWDSOllie,-30,0,0,0
+	setCOSuperDirectStat	coAWDSOllie,-40,0,0,0
+	setCOSuperIndirectStat	coAWDSOllie,-40,0,0,0
 	
 	setCOPowerASM			coAWDSOllie,COPowerCopterCommand
 	setCOSuperASM			coAWDSOllie,COPowerAirborneAssault	
