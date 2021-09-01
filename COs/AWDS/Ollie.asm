@@ -30,12 +30,12 @@
 	setCOD2DIndirectStat	coAWDSOllie,-30,0,0,0
 	
 	setCOPowerRepair	coAWDSOllie,3
-	setCOPowerSoldierStat	coAWDSOllie,60,0,1,0	
+	setCOPowerSoldierStat	coAWDSOllie,90,0,1,0	
 	setCOPowerirectStat	coAWDSOllie,-30,0,0,0
 	setCOPowerIndirectStat	coAWDSOllie,-30,0,0,0
 	
 	setCOSuperRepair	coAWDSOllie,3
-	setCOSuperSoldierStat	coAWDSOllie,60,0,1,0	
+	setCOSuperSoldierStat	coAWDSOllie,120,0,1,0	
 	setCOSuperDirectStat	coAWDSOllie,-30,0,0,0
 	setCOSuperIndirectStat	coAWDSOllie,-30,0,0,0
 	
