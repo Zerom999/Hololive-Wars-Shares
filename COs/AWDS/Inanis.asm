@@ -28,10 +28,13 @@
 	setCOPowerAbilities			coAWDSInanis,SpecialHiddenHP
 	setCOSuperAbilities			coAWDSInanis,SpecialHiddenHP
 
+        setCOD2DIndirectStat	coAWDSInanis,20,10,0,0
 	setCOD2DNavyStat	coAWDSInanis,20,10,0,0
 	setCOD2DAirStat		coAWDSInanis,-10,0,0,0
+	
 	setCOPowerNavyStat	coAWDSInanis,40,20,0,0
 	setCOPowerAirStat	coAWDSInanis,0,0,0,0
+	
 	setCOSuperNavyStat	coAWDSInanis,60,30,0,0
 	setCOSuperAirStat	coAWDSInanis,0,0,0,0
 
