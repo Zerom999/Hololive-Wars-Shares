@@ -28,15 +28,17 @@
 	setCOPowerAbilities			coAWDSInanis,SpecialHiddenHP
 	setCOSuperAbilities			coAWDSInanis,SpecialHiddenHP
 
-        setCOD2DIndirectStat	coAWDSInanis,20,10,0,0
-	setCOD2DNavyStat	coAWDSInanis,20,10,0,0
-	setCOD2DAirStat		coAWDSInanis,-10,0,0,0
+        setCOD2DIndirectStat	coAWDSInanis,30,0,0,0
+	setCOD2DNavyStat	coAWDSInanis,30,0,0,0
+	setCOD2DAirStat		coAWDSInanis,-40,0,0,0
 	
-	setCOPowerNavyStat	coAWDSInanis,40,20,0,0
-	setCOPowerAirStat	coAWDSInanis,0,0,0,0
+	setCOD2DIndirectStat	coAWDSInanis,60,0,0,0
+	setCOPowerNavyStat	coAWDSInanis,60,20,0,0
+	setCOPowerAirStat	coAWDSInanis,-40,0,0,0
 	
-	setCOSuperNavyStat	coAWDSInanis,60,30,0,0
-	setCOSuperAirStat	coAWDSInanis,0,0,0,0
+	setCOD2DIndirectStat	coAWDSInanis,90,0,0,0
+	setCOSuperNavyStat	coAWDSInanis,90,30,0,0
+	setCOSuperAirStat	coAWDSInanis,-40,0,0,0
 
 	setCOPowerASM		coAWDSInanis,COPowerTsunami
 	setCOSuperASM		coAWDSInanis,COPowerTyphoon
