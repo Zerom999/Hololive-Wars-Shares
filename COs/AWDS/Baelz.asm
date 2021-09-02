@@ -18,16 +18,16 @@
 	setCOprofileText        coAWDSBaelz,ScriptAWDSOkayu+3,ScriptAWDSOkayu+4,ScriptAWDSOkayu+5,ScriptAWDSOkayu+6
 	setCOvictoryText        coAWDSBaelz,ScriptAWDSOkayu+7
 
-	setCOFaction		coAWDSOkayu,ArmyGreenEarth
-	setCOMusic          	coAWDSOkayu,MusicOkayuTheme
+	setCOFaction		coAWDSBaelz,ArmyGreenEarth
+	setCOMusic          	coAWDSBaelz,MusicBaelzTheme
 	
-	setCOPowerCost          coAWDSOkayu,2
-	setCOSuperCost          coAWDSOkayu,4
+	setCOPowerCost          coAWDSBaelz,2
+	setCOSuperCost          coAWDSBaelz,4
 	
-	setCOPowerAllStat	coAWDSOkayu,10,0,1,0
-	setCOSuperAllStat	coAWDSOkayu,20,0,2,0
+	setCOPowerAllStat	coAWDSBaelz,10,0,1,0
+	setCOSuperAllStat	coAWDSBaelz,20,0,2,0
 
-	setCOAIPowerRange       coAWDSOkayu,35
-	setCOAIPowerTrigger     coAWDSOkayu,95
+	setCOAIPowerRange       coAWDSBaelz,35
+	setCOAIPowerTrigger     coAWDSBaelz,95
 ; blank line
 
