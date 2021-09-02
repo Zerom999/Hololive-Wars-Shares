@@ -1,4 +1,4 @@
-setCODefaults           coAWDSSonja
+        setCODefaults           coAWDSSonja
 	setCOGameID		coAWDSSonja,Game_AWDS
 
 	setCOGFXFullbody        coAWDSSonja,GraphicsAWDSSonjaGraphic
