@@ -26,7 +26,7 @@
   
 	setCOD2DTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalDaytoDay
 	
-	setCOPowerAllStat			coAWDSKoal,0,0,1,0
+	setCOPowerAllStat		coAWDSKoal,0,0,1,0	
 	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
 	
 	setCOSuperAllStat			coAWDSKoal,0,0,3,0
