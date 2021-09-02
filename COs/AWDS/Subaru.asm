@@ -24,13 +24,13 @@
 	setCOPowerCost          coAWDSSubaru,4
 	setCOSuperCost          coAWDSSubaru,8
   
-	setCOD2DTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalDaytoDay
+	setCOD2DTerrainFirepowerList	coAWDSSubaru,TerrainFirepowerBoostSubaruDaytoDay
 	
-	setCOPowerAllStat		coAWDSKoal,0,0,1,0	
-	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
+	setCOPowerAllStat		coAWDSSubaru,0,0,1,0	
+	setCOPowerTerrainFirepowerList	coAWDSSubaru,TerrainFirepowerBoostSubaruPower
 	
-	setCOSuperAllStat		coAWDSKoal,0,0,3,0
-	setCOSuperTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalSuper
+	setCOSuperAllStat		coAWDSSubaru,0,0,3,0
+	setCOSuperTerrainFirepowerList	coAWDSSubaru,TerrainFirepowerBoostSubaruSuper
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
