@@ -27,6 +27,8 @@
 	setCOD2DTerrainStarReduction	coAWDSSonja,1
 
 	setCOPowerTerrainStarReduction	coAWDSSonja,2
+	
+	setCOPowerTerrainStarReduction	coAWDSSonja,4
 
 	setCOAIPowerRange       coAWDSSonja,15
 	setCOAIPowerTrigger     coAWDSSonja,70
