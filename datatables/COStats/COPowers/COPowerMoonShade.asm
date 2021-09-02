@@ -1,7 +1,7 @@
 ;COPowerMoonShade.asm
 
 .org 0x08044CBC
-COPowerTyphoon:
+COPowerMoonShade:
 	push	{r4-r6,r14}
 	add	sp,-0x14
 	ldr	r6,=0x084A0994		;
