@@ -26,10 +26,10 @@
   
 	setCOD2DTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalDaytoDay
 	
-	setCOPowerAllStat			coAWDSKoal,0,0,2,0
+	setCOPowerAllStat			coAWDSKoal,0,0,1,0
 	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
 	
-	setCOSuperAllStat			coAWDSKoal,0,0,4,0
+	setCOSuperAllStat			coAWDSKoal,0,0,3,0
 	setCOSuperTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalSuper
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
