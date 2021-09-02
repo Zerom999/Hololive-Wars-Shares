@@ -1,4 +1,4 @@
-        setCODefaults           coAWDSOkayu
+        setCODefaults           coAWDSBaelz
 	setCOGameID		coAWDSOkayu,Game_AWDS
 
 	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSOkayuGraphic
