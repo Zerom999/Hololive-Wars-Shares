@@ -18,13 +18,13 @@ COPowerTypePowerOfMoney:
 	lsl	r1,r2,0x4
 	sub	r1,r1,r2
 	lsl	r1,r1,0x2
-	add	r1,r1,r3
+	add	r1,r1,r5
 	strh	r0,[r1,0x26]
 	ldrh	r1,[r4]
 	lsl	r0,r1,0x4
 	sub	r0,r0,r1
 	lsl	r0,r0,0x2
-	add	r0,r0,r3
+	add	r0,r0,r5
 	mov	r1,0xA
 	strh	r1,[r0,0x28]
 	pop	{r4,r5}
