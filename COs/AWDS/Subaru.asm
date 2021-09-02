@@ -29,7 +29,7 @@
 	setCOPowerAllStat		coAWDSKoal,0,0,1,0	
 	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
 	
-	setCOSuperAllStat			coAWDSKoal,0,0,3,0
+	setCOSuperAllStat		coAWDSKoal,0,0,3,0
 	setCOSuperTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalSuper
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
