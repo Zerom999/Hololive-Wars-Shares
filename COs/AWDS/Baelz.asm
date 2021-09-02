@@ -1,22 +1,22 @@
         setCODefaults           coAWDSBaelz
-	setCOGameID		coAWDSOkayu,Game_AWDS
+	setCOGameID		coAWDSBaelz,Game_AWDS
 
-	setCOGFXFullbody        coAWDSOkayu,GraphicsAWDSOkayuGraphic
-	setCOGFXName            coAWDSOkayu,GraphicsAWDSOkayuName
-	setCOGFXPalette         coAWDSOkayu,GraphicsAWDSOkayuPalette
-	setCOGFXFace            coAWDSOkayu,GraphicsAWDSOkayuFace,GraphicsAWDSOkayuHappyFace,GraphicsAWDSOkayuSadFace
-	setCOGFXSmallFace       coAWDSOkayu,GraphicsAWDSOkayuMugshot
-	setCOGFXPowerAnim       coAWDSOkayu,0,0
-	setCOGFXPowerSFX        coAWDSOkayu,0xB4,0xB4
-	setCOGFXSuperAnim       coAWDSOkayu,7,7
-	setCOGFXSuperSFX        coAWDSOkayu,0x1F4,0x1f5
+	setCOGFXFullbody        coAWDSBaelz,GraphicsAWDSOkayuGraphic
+	setCOGFXName            coAWDSBaelz,GraphicsAWDSOkayuName
+	setCOGFXPalette         coAWDSBaelz,GraphicsAWDSOkayuPalette
+	setCOGFXFace            coAWDSBaelz,GraphicsAWDSOkayuFace,GraphicsAWDSOkayuHappyFace,GraphicsAWDSOkayuSadFace
+	setCOGFXSmallFace       coAWDSBaelz,GraphicsAWDSOkayuMugshot
+	setCOGFXPowerAnim       coAWDSBaelz,0,0
+	setCOGFXPowerSFX        coAWDSBaelz,0xB4,0xB4
+	setCOGFXSuperAnim       coAWDSBaelz,7,7
+	setCOGFXSuperSFX        coAWDSBaelz,0x1F4,0x1f5
 	
-	setCOName               coAWDSOkayu,ScriptAWDSOkayu
-	setCOpowerName          coAWDSOkayu,ScriptAWDSOkayu+1
-	setCOsuperName          coAWDSOkayu,ScriptAWDSOkayu+2
-	setCOpowerText          coAWDSOkayu,ScriptAWDSOkayu+8,ScriptAWDSOkayu+9,ScriptAWDSOkayu+10,ScriptAWDSOkayu+11,ScriptAWDSOkayu+12,ScriptAWDSOkayu+13
-	setCOprofileText        coAWDSOkayu,ScriptAWDSOkayu+3,ScriptAWDSOkayu+4,ScriptAWDSOkayu+5,ScriptAWDSOkayu+6
-	setCOvictoryText        coAWDSOkayu,ScriptAWDSOkayu+7
+	setCOName               coAWDSBaelz,ScriptAWDSOkayu
+	setCOpowerName          coAWDSBaelz,ScriptAWDSOkayu+1
+	setCOsuperName          coAWDSBaelz,ScriptAWDSOkayu+2
+	setCOpowerText          coAWDSBaelz,ScriptAWDSOkayu+8,ScriptAWDSOkayu+9,ScriptAWDSOkayu+10,ScriptAWDSOkayu+11,ScriptAWDSOkayu+12,ScriptAWDSOkayu+13
+	setCOprofileText        coAWDSBaelz,ScriptAWDSOkayu+3,ScriptAWDSOkayu+4,ScriptAWDSOkayu+5,ScriptAWDSOkayu+6
+	setCOvictoryText        coAWDSBaelz,ScriptAWDSOkayu+7
 
 	setCOFaction		coAWDSOkayu,ArmyGreenEarth
 	setCOMusic          	coAWDSOkayu,MusicOkayuTheme
