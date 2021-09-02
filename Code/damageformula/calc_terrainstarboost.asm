@@ -14,10 +14,6 @@ FirepowerBoost_TerrainStars:
 	mov	r1,GatherUnitClass
 	mov	r2,1
 	bl	GatherUnitAbility
-	cmp	r0,ClassCopter
-	beq	@TerrainIntoFirepowerMultiplier_False
-	cmp	r0,ClassPlane
-	beq	@TerrainIntoFirepowerMultiplier_False
 	
 	;Check for Terrain Stars to Firepower Skill
 	mov	r0,r6
