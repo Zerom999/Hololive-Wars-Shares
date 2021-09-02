@@ -24,17 +24,13 @@
 	setCOPowerCost          coAWDSSubaru,3
 	setCOSuperCost          coAWDSSubaru,6
   
-	setCOD2DUnitStat	coAWDSSubaru,Unit_Recon,0,0,1,0
-	setCOD2DUnitStat	coAWDSSubaru,Unit_Rockets,0,0,1,0
-	setCOD2DUnitStat	coAWDSSubaru,Unit_Missile,0,0,1,0
-	
-	setCOPowerUnitStat	coAWDSSubaru,Unit_Recon,30,0,2,0
-	setCOPowerUnitStat	coAWDSSubaru,Unit_Rockets,30,0,2,1
-	setCOPowerUnitStat	coAWDSSubaru,Unit_Missile,30,0,2,1
-	
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Recon,60,0,3,0
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Rockets,60,0,3,2
-	setCOSuperUnitStat	coAWDSSubaru,Unit_Missile,60,0,3,2
+	setCOD2DTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalDaytoDay
+	setCOPowerAllStat			coAWDSKoal,20,0,2,0
+	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
+	setCOSuperAllStat			coAWDSKoal,40,0,4,0
+	setCOSuperTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalSuper
+
+
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
