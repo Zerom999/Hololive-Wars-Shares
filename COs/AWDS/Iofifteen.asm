@@ -26,17 +26,8 @@
 
 	setCOD2DTerrainStarReduction	coAWDSSonja,1
 
-	setCOPowerVision			coAWDSSonja,2
-	setCOPowerBadLuck			coAWDSSonja,5
 	setCOPowerTerrainStarReduction	coAWDSSonja,2
 
-	setCOSuperVision			coAWDSSonja,2
-	setCOSuperBadLuck			coAWDSSonja,5
-	setCOSuperTerrainStarReduction	coAWDSSonja,3
-
-	setCOPowerASM         		coAWDSSonja,COPowerEnhancedVisionFade
-	setCOSuperASM         		coAWDSSonja,COPowerEnhancedVisionFade
-	
 	setCOAIPowerRange       coAWDSSonja,15
 	setCOAIPowerTrigger     coAWDSSonja,70
 ; blank line
