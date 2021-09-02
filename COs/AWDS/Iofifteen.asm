@@ -18,19 +18,19 @@
 	setCOprofileText        coAWDSIofifteen,ScriptAWDSSonja+3,ScriptAWDSSonja+4,ScriptAWDSSonja+5,ScriptAWDSSonja+6
 	setCOvictoryText        coAWDSIofifteen,ScriptAWDSSonja+7
 
-	setCOFaction		coAWDSSonja,ArmyYellowComet
-	setCOMusic          	coAWDSSonja,MusicSonjaTheme
+	setCOFaction		coAWDSIofifteen,ArmyYellowComet
+	setCOMusic          	coAWDSIofifteen,MusicIofifteenTheme
 
-	setCOPowerCost          coAWDSSonja,3
-	setCOSuperCost          coAWDSSonja,6
+	setCOPowerCost          coAWDSIofifteen,3
+	setCOSuperCost          coAWDSIofifteen,6
 
-	setCOD2DTerrainStarReduction	coAWDSSonja,1
+	setCOD2DTerrainStarReduction	coAWDSIofifteen,1
 
-	setCOPowerTerrainStarReduction	coAWDSSonja,2
+	setCOPowerTerrainStarReduction	coAWDSIofifteen,2
 	
-	setCOPowerTerrainStarReduction	coAWDSSonja,4
+	setCOPowerTerrainStarReduction	coAWDSIofifteen,4
 
-	setCOAIPowerRange       coAWDSSonja,15
-	setCOAIPowerTrigger     coAWDSSonja,70
+	setCOAIPowerRange       coAWDSIofifteen,15
+	setCOAIPowerTrigger     coAWDSIofifteen,70
 ; blank line
 
