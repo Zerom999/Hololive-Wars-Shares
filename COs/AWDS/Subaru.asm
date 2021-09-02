@@ -21,16 +21,16 @@
 	setCOFaction		coAWDSSubaru,ArmyOrangeStar
 	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
 
-	setCOPowerCost          coAWDSSubaru,3
-	setCOSuperCost          coAWDSSubaru,6
+	setCOPowerCost          coAWDSSubaru,4
+	setCOSuperCost          coAWDSSubaru,8
   
 	setCOD2DTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalDaytoDay
-	setCOPowerAllStat			coAWDSKoal,20,0,2,0
+	
+	setCOPowerAllStat			coAWDSKoal,0,0,2,0
 	setCOPowerTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalPower
-	setCOSuperAllStat			coAWDSKoal,40,0,4,0
+	
+	setCOSuperAllStat			coAWDSKoal,0,0,4,0
 	setCOSuperTerrainFirepowerList	coAWDSKoal,TerrainFirepowerBoostKoalSuper
-
-
 
 	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
 	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
