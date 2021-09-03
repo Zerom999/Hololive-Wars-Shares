@@ -25,9 +25,11 @@
 	setCOSuperCost          coAWDSIofifteen,6
 
 	setCOD2DTerrainStarReduction	coAWDSIofifteen,1
-
+         
+	setCOPowerAllStat	coAWDSIofifteen,20,0,0,0
 	setCOPowerTerrainStarReduction	coAWDSIofifteen,2
 	
+	setCOPowerAllStat	coAWDSIofifteen,40,0,0,0
 	setCOPowerTerrainStarReduction	coAWDSIofifteen,4
 
 	setCOAIPowerRange       coAWDSIofifteen,15
