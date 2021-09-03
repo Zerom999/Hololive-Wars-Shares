@@ -14,7 +14,7 @@
 	setCOName               coAWDSIofifteen,ScriptAWDSIofifteen
 	setCOpowerName          coAWDSIofifteen,ScriptAWDSIofifteen+1
 	setCOsuperName          coAWDSIofifteen,ScriptAWDSIofifteen+2
-	setCOpowerText          coAWDSIofifteen,ScriptAWDSIofifteen+8,ScriptAWDSIofifteen+9,ScriptAWDSIofifteen+10,ScriptAWDSSonja+11,ScriptAWDSIofifteen+12,ScriptAWDSIofifteen+13
+	setCOpowerText          coAWDSIofifteen,ScriptAWDSIofifteen+8,ScriptAWDSIofifteen+9,ScriptAWDSIofifteen+10,ScriptAWDSIofifteen+11,ScriptAWDSIofifteen+12,ScriptAWDSIofifteen+13
 	setCOprofileText        coAWDSIofifteen,ScriptAWDSIofifteen+3,ScriptAWDSIofifteen+4,ScriptAWDSIofifteen+5,ScriptAWDSIofifteen+6
 	setCOvictoryText        coAWDSIofifteen,ScriptAWDSIofifteen+7
 
