@@ -1,11 +1,11 @@
         setCODefaults           coAWDSIofifteen
 	setCOGameID		coAWDSIofifteen,Game_AWDS
 
-	setCOGFXFullbody        coAWDSIofifteen,GraphicsAWDSSonjaGraphic
-	setCOGFXName            coAWDSIofifteen,GraphicsAWDSSonjaName
-	setCOGFXPalette         coAWDSIofifteen,GraphicsAWDSSonjaPalette
-	setCOGFXFace            coAWDSIofifteen,GraphicsAWDSSonjaFace,GraphicsAWDSSonjaHappyFace,GraphicsAWDSSonjaSadFace
-	setCOGFXSmallFace       coAWDSIofifteen,GraphicsAWDSSonjaMugshot
+	setCOGFXFullbody        coAWDSIofifteen,GraphicsAWDSIofifteenraphic
+	setCOGFXName            coAWDSIofifteen,GraphicsAWDSIofifteenName
+	setCOGFXPalette         coAWDSIofifteen,GraphicsAWDSIofifteenPalette
+	setCOGFXFace            coAWDSIofifteen,GraphicsAWDSIofifteenFace,GraphicsAWDSIofifteenFace,GraphicsAWDSIofifteenSadFace
+	setCOGFXSmallFace       coAWDSIofifteen,GraphicsAWDSIofifteenMugshot
 	setCOGFXPowerAnim       coAWDSIofifteen,0,0
 	setCOGFXPowerSFX        coAWDSIofifteen,0xC4,0
 	setCOGFXSuperAnim       coAWDSIofifteen,7,7
