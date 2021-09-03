@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSIofifteen,7,7
 	setCOGFXSuperSFX        coAWDSIofifteen,0xC4,0
 	
-	setCOName               coAWDSIofifteen,ScriptAWDSSonja
-	setCOpowerName          coAWDSIofifteen,ScriptAWDSSonja+1
-	setCOsuperName          coAWDSIofifteen,ScriptAWDSSonja+2
-	setCOpowerText          coAWDSIofifteen,ScriptAWDSSonja+8,ScriptAWDSSonja+9,ScriptAWDSSonja+10,ScriptAWDSSonja+11,ScriptAWDSSonja+12,ScriptAWDSSonja+13
-	setCOprofileText        coAWDSIofifteen,ScriptAWDSSonja+3,ScriptAWDSSonja+4,ScriptAWDSSonja+5,ScriptAWDSSonja+6
-	setCOvictoryText        coAWDSIofifteen,ScriptAWDSSonja+7
+	setCOName               coAWDSIofifteen,ScriptAWDSIofifteen
+	setCOpowerName          coAWDSIofifteen,ScriptAWDSIofifteen+1
+	setCOsuperName          coAWDSIofifteen,ScriptAWDSIofifteen+2
+	setCOpowerText          coAWDSIofifteen,ScriptAWDSIofifteen+8,ScriptAWDSIofifteen+9,ScriptAWDSIofifteen+10,ScriptAWDSSonja+11,ScriptAWDSIofifteen+12,ScriptAWDSIofifteen+13
+	setCOprofileText        coAWDSIofifteen,ScriptAWDSIofifteen+3,ScriptAWDSIofifteen+4,ScriptAWDSIofifteen+5,ScriptAWDSIofifteen+6
+	setCOvictoryText        coAWDSIofifteen,ScriptAWDSIofifteen+7
 
 	setCOFaction		coAWDSIofifteen,ArmyYellowComet
 	setCOMusic          	coAWDSIofifteen,MusicIofifteenTheme
