@@ -20,8 +20,8 @@
 
 	setCOFaction		coAWDSFlak,ArmyBlackHole
 	setCOMusic          	coAWDSFlak,MusicFlakTheme
-	setCOPowerMusic              coAWDSFlak,MusicBlackPower
-	setCOSuperMusic              coAWDSFlak,MusicBlackSuper
+	setCOPowerMusic         coAWDSFlak,MusicBlackPower
+	setCOSuperMusic         coAWDSFlak,MusicBlackSuper
 
 	setCOPowerCost          coAWDSFlak,3
 	setCOSuperCost          coAWDSFlak,6
