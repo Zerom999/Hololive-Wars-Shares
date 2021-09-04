@@ -25,7 +25,7 @@
 	setCOSuperCost          	coAWDSHaato,8
 
 	setCOPowerAllStat	coAWDSHaato,20,0,0,0
-	setCOSuperDamageToFunds	coAWDSHaato,50
+	setCOPowerDamageToFunds	coAWDSHaato,50
 	
 	setCOPowerAllStat	coAWDSHaato,40,0,0,0
 	setCOSuperDamageToFunds	coAWDSHaato,100
