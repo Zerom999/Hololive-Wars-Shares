@@ -11,15 +11,15 @@
 	setCOGFXSuperAnim       coAWDSYAGOO,7,7
 	setCOGFXSuperSFX        coAWDSYAGOO,0x1f6,0x0
 	
-	setCOName               coAWDSYAGOO,ScriptAWDSHachi
-	setCOpowerName          coAWDSYAGOO,ScriptAWDSHachi+1
-	setCOsuperName          coAWDSYAGOO,ScriptAWDSHachi+2
-	setCOpowerText          coAWDSYAGOO,ScriptAWDSHachi+8,ScriptAWDSHachi+9,ScriptAWDSHachi+10,ScriptAWDSHachi+11,ScriptAWDSHachi+12,ScriptAWDSHachi+13
-	setCOprofileText        coAWDSYAGOO,ScriptAWDSHachi+3,ScriptAWDSHachi+4,ScriptAWDSHachi+5,ScriptAWDSHachi+6
-	setCOvictoryText        coAWDSYAGOO,ScriptAWDSHachi+7
+	setCOName               coAWDSYAGOO,ScriptAWDSYAGOO
+	setCOpowerName          coAWDSYAGOO,ScriptAWDSYAGOO+1
+	setCOsuperName          coAWDSYAGOO,ScriptAWDSYAGOO+2
+	setCOpowerText          coAWDSYAGOO,ScriptAWDSYAGOO+8,ScriptAWDSYAGOO+9,ScriptAWDSYAGOO+10,ScriptAWDSYAGOO+11,ScriptAWDSYAGOO+12,ScriptAWDSYAGOO+13
+	setCOprofileText        coAWDSYAGOO,ScriptAWDSYAGOO+3,ScriptAWDSYAGOO+4,ScriptAWDSYAGOO+5,ScriptAWDSYAGOO+6
+	setCOvictoryText        coAWDSYAGOO,ScriptAWDSYAGOO+7
 
-	setCOFaction		coAWDSHachi,ArmyOrangeStar
-	setCOMusic          	coAWDSHachi,MusicHachiTheme
+	setCOFaction		coAWDSYAGOO,ArmyOrangeStar
+	setCOMusic          	coAWDSYAGOO,MusicYAGOOTheme
 
 	setCOPowerCost          coAWDSYAGOO,3
 	setCOSuperCost          coAWDSYAGOO,6
