@@ -28,12 +28,12 @@
 
 	setCOD2DIncome		coAWDSSasha,200	
 	
-	setCOPowerIncome		coAWDSSasha,200
+	setCOPowerIncome	coAWDSSasha,200	
 	setCOPowerAllStat	coAWDSSpadeEcho,20,0,0,0
 	
-	setCOSuperIncome		coAWDSSasha,200
+	setCOSuperIncome	coAWDSSasha,200	
 	
-	setCOPowerASM			coAWDSSasha,COPowerMarketCrash
+	setCOPowerASM		coAWDSSasha,COPowerMarketCrash	
 	
 	setCOAIPowerRange       coAWDSSasha,35
 	setCOAIPowerTrigger     coAWDSSasha,95
