@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSSpadeEcho,7,7
 	setCOGFXSuperSFX        coAWDSSpadeEcho,0x1f7,0x1f8
 	
-	setCOName               coAWDSSpadeEcho,ScriptAWDSSasha
-	setCOpowerName          coAWDSSpadeEcho,ScriptAWDSSasha+1
-	setCOsuperName          coAWDSSpadeEcho,ScriptAWDSSasha+2
-	setCOpowerText          coAWDSSpadeEcho,ScriptAWDSSasha+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
-	setCOprofileText        coAWDSSpadeEcho,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
-	setCOvictoryText        coAWDSSpadeEcho,ScriptAWDSSasha+7
+	setCOName               coAWDSSpadeEcho,ScriptAWDSSpadeEcho
+	setCOpowerName          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+1
+	setCOsuperName          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+2
+	setCOpowerText          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
+	setCOprofileText        coAWDSSpadeEcho,ScriptAWDSSpadeEcho+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
+	setCOvictoryText        coAWDSSpadeEcho,ScriptAWDSSpadeEcho+7
 
 	setCOFaction		coAWDSSpadeEcho,ArmyBlackHole
 	setCOMusic          	coAWDSSpadeEcho,MusicFlakTheme
