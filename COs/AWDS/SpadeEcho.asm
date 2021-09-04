@@ -34,6 +34,7 @@
 	setCOSuperIncome	coAWDSSasha,200	
 	
 	setCOPowerASM		coAWDSSasha,COPowerMarketCrash	
+	setCOPowerASM		coAWDSSasha,COPowerMarketCrash
 	
 	setCOAIPowerRange       coAWDSSasha,35
 	setCOAIPowerTrigger     coAWDSSasha,95
