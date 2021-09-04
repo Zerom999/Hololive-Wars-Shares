@@ -1,27 +1,27 @@
-	setCODefaults           coAWDSJugger
-	setCOGameID		coAWDSJugger,Game_AWDS
+	setCODefaults           coAWDSYogiri
+	setCOGameID		coAWDSYogiri,Game_AWDS
 
-	setCOGFXFullbody        coAWDSJugger,GraphicsAWDSJuggerGraphic
-	setCOGFXName            coAWDSJugger,GraphicsAWDSJuggerName
-	setCOGFXPalette         coAWDSJugger,GraphicsAWDSJuggerPalette
-	setCOGFXFace            coAWDSJugger,GraphicsAWDSJuggerFace,GraphicsAWDSJuggerHappyFace,GraphicsAWDSJuggerSadFace
-	setCOGFXSmallFace       coAWDSJugger,GraphicsAWDSJuggerMugshot
-	setCOGFXPowerAnim       coAWDSJugger,0,0
-	setCOGFXPowerSFX        coAWDSJugger,0xbd,0xbe
-	setCOGFXSuperAnim       coAWDSJugger,7,7
-	setCOGFXSuperSFX        coAWDSJugger,0x1f4,0x1f5
+	setCOGFXFullbody        coAWDSYogiri,GraphicsAWDSJuggerGraphic
+	setCOGFXName            coAWDSYogiri,GraphicsAWDSJuggerName
+	setCOGFXPalette         coAWDSYogiri,GraphicsAWDSJuggerPalette
+	setCOGFXFace            coAWDSYogiri,GraphicsAWDSJuggerFace,GraphicsAWDSJuggerHappyFace,GraphicsAWDSJuggerSadFace
+	setCOGFXSmallFace       coAWDSYogiri,GraphicsAWDSJuggerMugshot
+	setCOGFXPowerAnim       coAWDSYogiri,0,0
+	setCOGFXPowerSFX        coAWDSYogiri,0xbd,0xbe
+	setCOGFXSuperAnim       coAWDSYogiri,7,7
+	setCOGFXSuperSFX        coAWDSYogiri,0x1f4,0x1f5
 	
-	setCOName               coAWDSJugger,ScriptAWDSJugger
-	setCOpowerName          coAWDSJugger,ScriptAWDSJugger+1
-	setCOsuperName          coAWDSJugger,ScriptAWDSJugger+2
-	setCOpowerText          coAWDSJugger,ScriptAWDSJugger+8,ScriptAWDSJugger+9,ScriptAWDSJugger+10,ScriptAWDSJugger+11,ScriptAWDSJugger+12,ScriptAWDSJugger+13
-	setCOprofileText        coAWDSJugger,ScriptAWDSJugger+3,ScriptAWDSJugger+4,ScriptAWDSJugger+5,ScriptAWDSJugger+6
-	setCOvictoryText        coAWDSJugger,ScriptAWDSJugger+7
+	setCOName               coAWDSYogiri,ScriptAWDSJugger
+	setCOpowerName          coAWDSYogiri,ScriptAWDSJugger+1
+	setCOsuperName          coAWDSYogiri,ScriptAWDSJugger+2
+	setCOpowerText          coAWDSYogiri,ScriptAWDSJugger+8,ScriptAWDSJugger+9,ScriptAWDSJugger+10,ScriptAWDSJugger+11,ScriptAWDSJugger+12,ScriptAWDSJugger+13
+	setCOprofileText        coAWDSYogiri,ScriptAWDSJugger+3,ScriptAWDSJugger+4,ScriptAWDSJugger+5,ScriptAWDSJugger+6
+	setCOvictoryText        coAWDSYogiri,ScriptAWDSJugger+7
 
-	setCOFaction		coAWDSJugger,ArmyBlackHole
-	setCOMusic          	coAWDSJugger,MusicBlackHole
-	setCOPowerMusic              coAWDSJugger,MusicBlackPower
-	setCOSuperMusic              coAWDSJugger,MusicBlackSuper
+	setCOFaction		coAWDSYogiri,ArmyBlackHole
+	setCOMusic          	coAWDSYogiri,MusicBlackHole
+	setCOPowerMusic         coAWDSYogiri,MusicBlackPower
+	setCOSuperMusic         coAWDSYogiri,MusicBlackPower
 
 	setCOPowerCost          coAWDSJugger,4
 	setCOSuperCost          coAWDSJugger,8
