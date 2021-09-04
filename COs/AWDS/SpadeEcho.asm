@@ -32,6 +32,7 @@
 	setCOPowerAllStat	coAWDSSpadeEcho,20,0,0,0
 	
 	setCOSuperIncome	coAWDSSasha,200	
+	setCOSuperAllStat	coAWDSSpadeEcho,20,0,0,0
 	
 	setCOPowerASM		coAWDSSasha,COPowerMarketCrash	
 	setCOPowerASM		coAWDSSasha,COPowerMarketCrash
