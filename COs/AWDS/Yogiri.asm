@@ -23,15 +23,15 @@
 	setCOPowerMusic         coAWDSYogiri,MusicBlackPower
 	setCOSuperMusic         coAWDSYogiri,MusicBlackSuper
 
-	setCOPowerCost          coAWDSJugger,4
-	setCOSuperCost          coAWDSJugger,8
+	setCOPowerCost          coAWDSYogiri,4
+	setCOSuperCost          coAWDSYogiri,8
 
-	setCOD2DLuck		coAWDSJugger,40
-	setCOD2DBadLuck		coAWDSJugger,20
-	setCOPowerLuck		coAWDSJugger,90
-	setCOPowerBadLuck	coAWDSJugger,40
-	setCOSuperLuck		coAWDSJugger,140
-	setCOSuperBadLuck	coAWDSJugger,60
+	setCOD2DLuck		coAWDSYogiri,40
+	setCOD2DBadLuck		coAWDSYogiri,20
+	setCOPowerLuck		coAWDSYogiri,80
+	setCOPowerBadLuck	coAWDSYogiri,40
+	setCOSuperLuck		coAWDSYogiri,120
+	setCOSuperBadLuck	coAWDSYogiri,60
 	
 	setCOAIPowerRange       coAWDSJugger,25
 	setCOAIPowerTrigger     coAWDSJugger,95
