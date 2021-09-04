@@ -14,8 +14,8 @@
 	setCOName               coAWDSSpadeEcho,ScriptAWDSSpadeEcho
 	setCOpowerName          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+1
 	setCOsuperName          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+2
-	setCOpowerText          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
-	setCOprofileText        coAWDSSpadeEcho,ScriptAWDSSpadeEcho+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
+	setCOpowerText          coAWDSSpadeEcho,ScriptAWDSSpadeEcho+8,ScriptAWDSSpadeEcho+9,ScriptAWDSSpadeEcho+10,ScriptAWDSSpadeEcho+11,ScriptAWDSSpadeEcho+12,ScriptAWDSSpadeEcho+13
+	setCOprofileText        coAWDSSpadeEcho,ScriptAWDSSpadeEcho+3,ScriptAWDSSpadeEcho+4,ScriptAWDSSpadeEcho+5,ScriptAWDSSpadeEcho+6
 	setCOvictoryText        coAWDSSpadeEcho,ScriptAWDSSpadeEcho+7
 
 	setCOFaction		coAWDSSpadeEcho,ArmyBlackHole
