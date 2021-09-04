@@ -27,7 +27,7 @@
 	setCOD2DIncome			coAWDSSasha,200
 	
 	setCOPowerIncome		coAWDSSasha,200
-	setCOPowerAllStat	
+	setCOPowerAllStat	coAWDSSpadeEcho,20,0,0,0
 	
 	setCOSuperIncome		coAWDSSasha,200
 	
