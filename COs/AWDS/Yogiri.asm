@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSYogiri,7,7
 	setCOGFXSuperSFX        coAWDSYogiri,0x1f4,0x1f5
 	
-	setCOName               coAWDSYogiri,ScriptAWDSJugger
-	setCOpowerName          coAWDSYogiri,ScriptAWDSJugger+1
-	setCOsuperName          coAWDSYogiri,ScriptAWDSJugger+2
-	setCOpowerText          coAWDSYogiri,ScriptAWDSJugger+8,ScriptAWDSJugger+9,ScriptAWDSJugger+10,ScriptAWDSJugger+11,ScriptAWDSJugger+12,ScriptAWDSJugger+13
-	setCOprofileText        coAWDSYogiri,ScriptAWDSJugger+3,ScriptAWDSJugger+4,ScriptAWDSJugger+5,ScriptAWDSJugger+6
-	setCOvictoryText        coAWDSYogiri,ScriptAWDSJugger+7
+	setCOName               coAWDSYogiri,ScriptAWDSYogiri
+	setCOpowerName          coAWDSYogiri,ScriptAWDSYogiri+1
+	setCOsuperName          coAWDSYogiri,ScriptAWDSYogiri+2
+	setCOpowerText          coAWDSYogiri,ScriptAWDSYogiri+8,ScriptAWDSYogiri+9,ScriptAWDSYogiri+10,ScriptAWDSYogiri+11,ScriptAWDSYogiri+12,ScriptAWDSYogiri+13
+	setCOprofileText        coAWDSYogiri,ScriptAWDSYogiri+3,ScriptAWDSYogiri+4,ScriptAWDSYogiri+5,ScriptAWDSYogiri+6
+	setCOvictoryText        coAWDSYogiri,ScriptAWDSYogiri+7
 
 	setCOFaction		coAWDSYogiri,ArmyBlackHole
 	setCOMusic          	coAWDSYogiri,MusicBlackHole
