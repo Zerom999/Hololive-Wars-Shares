@@ -1,11 +1,11 @@
         setCODefaults           coAWDSArtia
 	setCOGameID		coAWDSArtia,Game_AWDS
 
-	setCOGFXFullbody        coAWDSArtia,GraphicsAWDSFlakGraphic
-	setCOGFXName            coAWDSArtia,GraphicsAWDSFlakName
-	setCOGFXPalette         coAWDSArtia,GraphicsAWDSFlakPalette
-	setCOGFXFace            coAWDSArtia,GraphicsAWDSFlakFace,GraphicsAWDSFlakHappyFace,GraphicsAWDSFlakSadFace
-	setCOGFXSmallFace       coAWDSArtia,GraphicsAWDSFlakMugshot
+	setCOGFXFullbody        coAWDSArtia,GraphicsAWDSArtiaGraphic
+	setCOGFXName            coAWDSArtia,GraphicsAWDSArtiaName
+	setCOGFXPalette         coAWDSArtia,GraphicsAWDSArtiaPalette
+	setCOGFXFace            coAWDSArtia,GraphicsAWDSArtiaFace,GraphicsAWDSArtiaHappyFace,GraphicsAWDSArtiaSadFace
+	setCOGFXSmallFace       coAWDSArtia,GraphicsAWDSArtiaMugshot
 	setCOGFXPowerAnim       coAWDSArtia,0,0
 	setCOGFXPowerSFX        coAWDSArtia,0xbd,0xbe
 	setCOGFXSuperAnim       coAWDSArtia,7,7
