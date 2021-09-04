@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSArtia,7,7
 	setCOGFXSuperSFX        coAWDSArtia,0x1f4,0x1f5
 	
-	setCOName               coAWDSArtia,ScriptAWDSFlak
-	setCOpowerName          coAWDSArtia,ScriptAWDSFlak+1
-	setCOsuperName          coAWDSArtia,ScriptAWDSFlak+2
-	setCOpowerText          coAWDSArtia,ScriptAWDSFlak+8,ScriptAWDSFlak+9,ScriptAWDSFlak+10,ScriptAWDSFlak+11,ScriptAWDSFlak+12,ScriptAWDSFlak+13
-	setCOprofileText        coAWDSArtia,ScriptAWDSFlak+3,ScriptAWDSFlak+4,ScriptAWDSFlak+5,ScriptAWDSFlak+6
-	setCOvictoryText        coAWDSArtia,ScriptAWDSFlak+7
+	setCOName               coAWDSArtia,ScriptAWDSArtia
+	setCOpowerName          coAWDSArtia,ScriptAWDSArtia+1
+	setCOsuperName          coAWDSArtia,ScriptAWDSArtia+2
+	setCOpowerText          coAWDSArtia,ScriptAWDSArtia+8,ScriptAWDSArtia+9,ScriptAWDSArtia+10,ScriptAWDSArtia+11,ScriptAWDSArtia+12,ScriptAWDSArtia+13
+	setCOprofileText        coAWDSArtia,ScriptAWDSArtia+3,ScriptAWDSArtia+4,ScriptAWDSArtia+5,ScriptAWDSArtia+6
+	setCOvictoryText        coAWDSArtia,ScriptAWDSArtia+7
 
 	setCOFaction		coAWDSArtia,ArmyBlackHole
 	setCOMusic          	coAWDSArtia,MusicFlakTheme
