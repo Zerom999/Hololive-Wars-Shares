@@ -29,9 +29,9 @@
 	setCOD2DLuck		coAWDSJugger,40
 	setCOD2DBadLuck		coAWDSJugger,20
 	setCOPowerLuck		coAWDSJugger,90
-	setCOPowerBadLuck	coAWDSJugger,45
+	setCOPowerBadLuck	coAWDSJugger,40
 	setCOSuperLuck		coAWDSJugger,140
-	setCOSuperBadLuck	coAWDSJugger,70
+	setCOSuperBadLuck	coAWDSJugger,60
 	
 	setCOAIPowerRange       coAWDSJugger,25
 	setCOAIPowerTrigger     coAWDSJugger,95
