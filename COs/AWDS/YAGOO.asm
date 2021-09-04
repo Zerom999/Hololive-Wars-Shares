@@ -1,11 +1,11 @@
 	setCODefaults           coAWDSYAGOO
 	setCOGameID		coAWDSYAGOO,Game_AWDS
 
-	setCOGFXFullbody        coAWDSYAGOO,GraphicsAWDSHachiGraphic
-	setCOGFXName            coAWDSYAGOO,GraphicsAWDSHachiName
-	setCOGFXPalette         coAWDSYAGOO,GraphicsAWDSHachiPalette
-	setCOGFXFace            coAWDSYAGOO,GraphicsAWDSHachiFace,GraphicsAWDSHachiHappyFace,GraphicsAWDSHachiSadFace
-	setCOGFXSmallFace       coAWDSYAGOO,GraphicsAWDSHachiMugshot
+	setCOGFXFullbody        coAWDSYAGOO,GraphicsAWDSYAGOOGraphic
+	setCOGFXName            coAWDSYAGOO,GraphicsAWDSYAGOOName
+	setCOGFXPalette         coAWDSYAGOO,GraphicsAWDSYAGOOPalette
+	setCOGFXFace            coAWDSYAGOO,GraphicsAWDSYAGOOFace,GraphicsAWDSYAGOOHappyFace,GraphicsAWDSYAGOOSadFace
+	setCOGFXSmallFace       coAWDSYAGOO,GraphicsAWDSYAGOOMugshot
 	setCOGFXPowerAnim       coAWDSYAGOO,3,0
 	setCOGFXPowerSFX        coAWDSYAGOO,0x1f6,0x0
 	setCOGFXSuperAnim       coAWDSYAGOO,7,7
