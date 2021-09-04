@@ -21,7 +21,7 @@
 	setCOFaction		coAWDSYogiri,ArmyBlackHole
 	setCOMusic          	coAWDSYogiri,MusicBlackHole
 	setCOPowerMusic         coAWDSYogiri,MusicBlackPower
-	setCOSuperMusic         coAWDSYogiri,MusicBlackPower
+	setCOSuperMusic         coAWDSYogiri,MusicBlackSuper
 
 	setCOPowerCost          coAWDSJugger,4
 	setCOSuperCost          coAWDSJugger,8
