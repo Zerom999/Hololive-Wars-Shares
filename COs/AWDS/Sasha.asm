@@ -18,11 +18,13 @@
 	setCOprofileText        coAWDSSasha,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
 	setCOvictoryText        coAWDSSasha,ScriptAWDSSasha+7
 
-	setCOFaction			coAWDSSasha,ArmyBlueMoon
-	setCOMusic          		coAWDSSasha,MusicBlueMoon
+	setCOFaction		coAWDSFlak,ArmyBlackHole
+	setCOMusic          	coAWDSFlak,MusicFlakTheme
+	setCOPowerMusic         coAWDSFlak,MusicBlackPower
+	setCOSuperMusic         coAWDSFlak,MusicBlackSuper
 
-	setCOPowerCost          	coAWDSSasha,3
-	setCOSuperCost          	coAWDSSasha,6
+	setCOPowerCost          coAWDSFlak,3
+	setCOSuperCost          coAWDSFlak,6
 
 	setCOD2DIncome			coAWDSSasha,200
 	
