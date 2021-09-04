@@ -26,12 +26,14 @@ setCODefaults           coAWDSFlak
 	setCOPowerCost          coAWDSFlak,3
 	setCOSuperCost          coAWDSFlak,6
 
-	setCOD2DLuck		coAWDSFlak,30
-	setCOD2DBadLuck		coAWDSFlak,15
-	setCOPowerLuck		coAWDSFlak,70
-	setCOPowerBadLuck	coAWDSFlak,35
-	setCOSuperLuck		coAWDSFlak,110
-	setCOSuperBadLuck	coAWDSFlak,55
+	setCOD2DSnowFirepower	coAWDSFubuki,20
+	setCOPowerSnowFirepower	coAWDSFubuki,40
+	setCOSuperSnowFirepower	coAWDSFubuki,60
+	
+	setCOD2DMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOPowerMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	setCOSuperMove		coAWDSFubuki, MovementChartClear,MovementChartClear,MovementChartSnow
+	
 	
 	setCOAIPowerRange       coAWDSFlak,25
 	setCOAIPowerTrigger     coAWDSFlak,95
