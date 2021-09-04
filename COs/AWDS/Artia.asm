@@ -34,6 +34,8 @@
 	setCOPowerMove		coAWDSArtia, MovementChartClear,MovementChartClear,MovementChartSnow
 	setCOSuperMove		coAWDSArtia, MovementChartClear,MovementChartClear,MovementChartSnow
 	
+	setCOPowerAllStat	coAWDSArtia,20,0,1,0
+	setCOSuperAllStat	coAWDSArtia,40,0,2,0
 	
 	setCOAIPowerRange       coAWDSArtia,25
 	setCOAIPowerTrigger     coAWDSArtia,95
