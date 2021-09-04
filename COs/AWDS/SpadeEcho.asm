@@ -26,7 +26,7 @@
 	setCOPowerCost          coAWDSFlak,3
 	setCOSuperCost          coAWDSFlak,6
 
-	setCOD2DIncome			coAWDSSasha,200
+	setCOD2DIncome		coAWDSSasha,200	
 	
 	setCOPowerIncome		coAWDSSasha,200
 	setCOPowerAllStat	coAWDSSpadeEcho,20,0,0,0
