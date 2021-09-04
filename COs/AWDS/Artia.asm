@@ -1,4 +1,4 @@
-setCODefaults           coAWDSFlak
+        setCODefaults           coAWDSArtia
 	setCOGameID		coAWDSFlak,Game_AWDS
 
 	setCOGFXFullbody        coAWDSFlak,GraphicsAWDSFlakGraphic
