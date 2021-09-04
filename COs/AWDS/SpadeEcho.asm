@@ -1,11 +1,11 @@
 	setCODefaults           coAWDSSpadeEcho
 	setCOGameID		coAWDSSpadeEcho,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSpadeEcho,GraphicsAWDSSashaGraphic
-	setCOGFXName            coAWDSSpadeEcho,GraphicsAWDSSashaName
-	setCOGFXPalette         coAWDSSpadeEcho,GraphicsAWDSSashaPalette
-	setCOGFXFace            coAWDSSpadeEcho,GraphicsAWDSSashaFace,GraphicsAWDSSashaHappyFace,GraphicsAWDSSashaSadFace
-	setCOGFXSmallFace       coAWDSSpadeEcho,GraphicsAWDSSashaMugshot
+	setCOGFXFullbody        coAWDSSpadeEcho,GraphicsAWDSSpadeEchoGraphic
+	setCOGFXName            coAWDSSpadeEcho,GraphicsAWDSSpadeEchoName
+	setCOGFXPalette         coAWDSSpadeEcho,GraphicsAWDSSpadeEchoPalette
+	setCOGFXFace            coAWDSSpadeEcho,GraphicsAWDSSpadeEcho,GraphicsAWDSSpadeEchoHappyFace,GraphicsAWDSSSpadeEchoSadFace
+	setCOGFXSmallFace       coAWDSSpadeEcho,GraphicsAWDSSpadeEchoMugshot
 	setCOGFXPowerAnim       coAWDSSpadeEcho,0x02,0x00
 	setCOGFXPowerSFX        coAWDSSpadeEcho,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSSpadeEcho,7,7
