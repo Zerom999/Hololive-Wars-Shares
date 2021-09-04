@@ -1,11 +1,11 @@
 	setCODefaults           coAWDSYogiri
 	setCOGameID		coAWDSYogiri,Game_AWDS
 
-	setCOGFXFullbody        coAWDSYogiri,GraphicsAWDSJuggerGraphic
-	setCOGFXName            coAWDSYogiri,GraphicsAWDSJuggerName
-	setCOGFXPalette         coAWDSYogiri,GraphicsAWDSJuggerPalette
-	setCOGFXFace            coAWDSYogiri,GraphicsAWDSJuggerFace,GraphicsAWDSJuggerHappyFace,GraphicsAWDSJuggerSadFace
-	setCOGFXSmallFace       coAWDSYogiri,GraphicsAWDSJuggerMugshot
+	setCOGFXFullbody        coAWDSYogiri,GraphicsAWDSYogiriGraphic
+	setCOGFXName            coAWDSYogiri,GraphicsAWDSYogiriName
+	setCOGFXPalette         coAWDSYogiri,GraphicsAWDSYogiriPalette
+	setCOGFXFace            coAWDSYogiri,GraphicsAWDSYogiriFace,GraphicsAWDSYogiriHappyFace,GraphicsAWDSYogiriSadFace
+	setCOGFXSmallFace       coAWDSYogiri,GraphicsAWDSYogiriMugshot
 	setCOGFXPowerAnim       coAWDSYogiri,0,0
 	setCOGFXPowerSFX        coAWDSYogiri,0xbd,0xbe
 	setCOGFXSuperAnim       coAWDSYogiri,7,7
@@ -33,6 +33,6 @@
 	setCOSuperLuck		coAWDSYogiri,120
 	setCOSuperBadLuck	coAWDSYogiri,60
 	
-	setCOAIPowerRange       coAWDSJugger,25
-	setCOAIPowerTrigger     coAWDSJugger,95
+	setCOAIPowerRange       coAWDSYogiri,25
+	setCOAIPowerTrigger     coAWDSYogiri,95
 ; blank line
