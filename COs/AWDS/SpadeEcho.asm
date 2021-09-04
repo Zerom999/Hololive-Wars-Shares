@@ -1,42 +1,42 @@
 	setCODefaults           coAWDSSpadeEcho
-	setCOGameID		coAWDSSasha,Game_AWDS
+	setCOGameID		coAWDSSpadeEcho,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSasha,GraphicsAWDSSashaGraphic
-	setCOGFXName            coAWDSSasha,GraphicsAWDSSashaName
-	setCOGFXPalette         coAWDSSasha,GraphicsAWDSSashaPalette
-	setCOGFXFace            coAWDSSasha,GraphicsAWDSSashaFace,GraphicsAWDSSashaHappyFace,GraphicsAWDSSashaSadFace
-	setCOGFXSmallFace       coAWDSSasha,GraphicsAWDSSashaMugshot
-	setCOGFXPowerAnim       coAWDSSasha,0x02,0x00
-	setCOGFXPowerSFX        coAWDSSasha,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSSasha,7,7
-	setCOGFXSuperSFX        coAWDSSasha,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSSpadeEcho,GraphicsAWDSSashaGraphic
+	setCOGFXName            coAWDSSpadeEcho,GraphicsAWDSSashaName
+	setCOGFXPalette         coAWDSSpadeEcho,GraphicsAWDSSashaPalette
+	setCOGFXFace            coAWDSSpadeEcho,GraphicsAWDSSashaFace,GraphicsAWDSSashaHappyFace,GraphicsAWDSSashaSadFace
+	setCOGFXSmallFace       coAWDSSpadeEcho,GraphicsAWDSSashaMugshot
+	setCOGFXPowerAnim       coAWDSSpadeEcho,0x02,0x00
+	setCOGFXPowerSFX        coAWDSSpadeEcho,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSSpadeEcho,7,7
+	setCOGFXSuperSFX        coAWDSSpadeEcho,0x1f7,0x1f8
 	
-	setCOName               coAWDSSasha,ScriptAWDSSasha
-	setCOpowerName          coAWDSSasha,ScriptAWDSSasha+1
-	setCOsuperName          coAWDSSasha,ScriptAWDSSasha+2
-	setCOpowerText          coAWDSSasha,ScriptAWDSSasha+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
-	setCOprofileText        coAWDSSasha,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
-	setCOvictoryText        coAWDSSasha,ScriptAWDSSasha+7
+	setCOName               coAWDSSpadeEcho,ScriptAWDSSasha
+	setCOpowerName          coAWDSSpadeEcho,ScriptAWDSSasha+1
+	setCOsuperName          coAWDSSpadeEcho,ScriptAWDSSasha+2
+	setCOpowerText          coAWDSSpadeEcho,ScriptAWDSSasha+8,ScriptAWDSSasha+9,ScriptAWDSSasha+10,ScriptAWDSSasha+11,ScriptAWDSSasha+12,ScriptAWDSSasha+13
+	setCOprofileText        coAWDSSpadeEcho,ScriptAWDSSasha+3,ScriptAWDSSasha+4,ScriptAWDSSasha+5,ScriptAWDSSasha+6
+	setCOvictoryText        coAWDSSpadeEcho,ScriptAWDSSasha+7
 
-	setCOFaction		coAWDSFlak,ArmyBlackHole
-	setCOMusic          	coAWDSFlak,MusicFlakTheme
-	setCOPowerMusic         coAWDSFlak,MusicBlackPower
-	setCOSuperMusic         coAWDSFlak,MusicBlackSuper
+	setCOFaction		coAWDSSpadeEcho,ArmyBlackHole
+	setCOMusic          	coAWDSSpadeEcho,MusicFlakTheme
+	setCOPowerMusic         coAWDSSpadeEcho,MusicBlackPower
+	setCOSuperMusic         coAWDSSpadeEcho,MusicBlackSuper
 
-	setCOPowerCost          coAWDSFlak,3
-	setCOSuperCost          coAWDSFlak,6
+	setCOPowerCost          coAWDSSpadeEcho,2
+	setCOSuperCost          coAWDSSpadeEcho,4
 
-	setCOD2DIncome		coAWDSSasha,200	
+	setCOD2DIncome		coAWDSSpadeEcho,200	
 	
-	setCOPowerIncome	coAWDSSasha,200	
+	setCOPowerIncome	coAWDSSpadeEcho,200	
 	setCOPowerAllStat	coAWDSSpadeEcho,20,0,0,0
 	
-	setCOSuperIncome	coAWDSSasha,200	
+	setCOSuperIncome	coAWDSSpadeEcho,200	
 	setCOSuperAllStat	coAWDSSpadeEcho,20,0,0,0
 	
-	setCOPowerASM		coAWDSSasha,COPowerMarketCrash	
-	setCOPowerASM		coAWDSSasha,COPowerMarketCrash
+	setCOPowerASM		coAWDSSpadeEcho,COPowerMarketCrash	
+	setCOPowerASM		coAWDSSpadeEcho,COPowerMarketCrash
 	
-	setCOAIPowerRange       coAWDSSasha,35
-	setCOAIPowerTrigger     coAWDSSasha,95
+	setCOAIPowerRange       coAWDSSpadeEcho,35
+	setCOAIPowerTrigger     coAWDSSpadeEcho,95
 ; blank line
