@@ -26,19 +26,13 @@
 	setCOPowerCost          coAWDSDoris,4
 	setCOSuperCost          coAWDSDoris,8
 	
-	setCOD2DRainFirepower	coAWDSDoris,30
-	setCOPowerRainFirepower	coAWDSDoris,60
-	setCOSuoerRainFirepower	coAWDSDoris,90
+	setCOD2DRainFirepower	coAWDSDoris,20
+	setCOPowerRainFirepower	coAWDSDoris,40
+	setCOSuoerRainFirepower	coAWDSDoris,60
 	
-	setCOD2DTerrainFirepowerList	coAWDSDoris,TerrainFirepowerBoostWatameDaytoDay
-	
-	setCOPowerLandStat		coAWDSDoris,0,0,1,0
-	setCOPowerIndirectLandStat	coAWDSDoris,0,0,1,0
-	setCOPowerTerrainFirepowerList	coAWDSDoris,TerrainFirepowerBoostWatamePower
-	
-	setCOSuperLandStat		coAWDSDoris,0,0,2,0
-	setCOSuperIndirectLandStat	coAWDSDoris,0,0,2,0
-	setCOSuperTerrainFirepowerList	coAWDSDoris,TerrainFirepowerBoostWatameSuper
+	setCOD2DTerrainFirepowerList	coAWDSDoris,TerrainFirepowerBoostDorisDaytoDay
+	setCOPowerTerrainFirepowerList	coAWDSDoris,TerrainFirepowerBoostDorisPower
+	setCOSuperTerrainFirepowerList	coAWDSDoris,TerrainFirepowerBoostDorisSuper
 	
 	setCOPowerASM		coAWDSDoris,COPowerTsunami
 	setCOSuperASM		coAWDSDoris,COPowerTyphoon
