@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSShion,ArmyGreenEarth	
 	setCOMusic          	coAWDSShion,MusicShionTheme
 
-	setCOPowerCost          coAWDSShion,5
-	setCOSuperCost          coAWDSShion,10
+	setCOPowerCost          coAWDSShion,6
+	setCOSuperCost          coAWDSShion,12
 	
 	setCOPowerAllStat	coAWDSShion,0,0,0,0
 	
