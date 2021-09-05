@@ -1,42 +1,42 @@
-        setCODefaults           coAWDSDrake
-	setCOGameID		coAWDSDrake,Game_AWDS
+        setCODefaults           coAWDSDoris
+	setCOGameID		coAWDSDoris,Game_AWDS
 
-	setCOGFXFullbody        coAWDSDrake,GraphicsAWDSDrakeGraphic
-	setCOGFXName            coAWDSDrake,GraphicsAWDSDrakeName
-	setCOGFXPalette         coAWDSDrake,GraphicsAWDSDrakePalette
-	setCOGFXFace            coAWDSDrake,GraphicsAWDSDrakeFace,GraphicsAWDSDrakeHappyFace,GraphicsAWDSDrakeSadFace
-	setCOGFXSmallFace       coAWDSDrake,GraphicsAWDSDrakeMugshot
-	setCOGFXPowerAnim       coAWDSDrake,6,4
-	setCOGFXPowerSFX        coAWDSDrake,0xC0,0xC1
-	setCOGFXSuperAnim       coAWDSDrake,7,7
-	setCOGFXSuperSFX        coAWDSDrake,0xC1,0xC1
+	setCOGFXFullbody        coAWDSDoris,GraphicsAWDSDrakeGraphic
+	setCOGFXName            coAWDSDoris,GraphicsAWDSDrakeName
+	setCOGFXPalette         coAWDSDoris,GraphicsAWDSDrakePalette
+	setCOGFXFace            coAWDSDoris,GraphicsAWDSDrakeFace,GraphicsAWDSDrakeHappyFace,GraphicsAWDSDrakeSadFace
+	setCOGFXSmallFace       coAWDSDoris,GraphicsAWDSDrakeMugshot
+	setCOGFXPowerAnim       coAWDSDoris,6,4
+	setCOGFXPowerSFX        coAWDSDoris,0xC0,0xC1
+	setCOGFXSuperAnim       coAWDSDoris,7,7
+	setCOGFXSuperSFX        coAWDSDoris,0xC1,0xC1
 	
-	setCOName               coAWDSDrake,ScriptAWDSDrake
-	setCOpowerName          coAWDSDrake,ScriptAWDSDrake+1
-	setCOsuperName          coAWDSDrake,ScriptAWDSDrake+2
-	setCOpowerText          coAWDSDrake,ScriptAWDSDrake+8,ScriptAWDSDrake+9,ScriptAWDSDrake+10,ScriptAWDSDrake+11,ScriptAWDSDrake+12,ScriptAWDSDrake+13
-	setCOprofileText        coAWDSDrake,ScriptAWDSDrake+3,ScriptAWDSDrake+4,ScriptAWDSDrake+5,ScriptAWDSDrake+6
-	setCOvictoryText        coAWDSDrake,ScriptAWDSDrake+7
+	setCOName               coAWDSDoris,ScriptAWDSDrake
+	setCOpowerName          coAWDSDoris,ScriptAWDSDrake+1
+	setCOsuperName          coAWDSDoris,ScriptAWDSDrake+2
+	setCOpowerText          coAWDSDoris,ScriptAWDSDrake+8,ScriptAWDSDrake+9,ScriptAWDSDrake+10,ScriptAWDSDrake+11,ScriptAWDSDrake+12,ScriptAWDSDrake+13
+	setCOprofileText        coAWDSDoris,ScriptAWDSDrake+3,ScriptAWDSDrake+4,ScriptAWDSDrake+5,ScriptAWDSDrake+6
+	setCOvictoryText        coAWDSDoris,ScriptAWDSDrake+7
 
-	setCOFaction		coAWDSFlak,ArmyBlackHole
-	setCOMusic          	coAWDSFlak,MusicFlakTheme
-	setCOPowerMusic         coAWDSFlak,MusicBlackPower
-	setCOSuperMusic         coAWDSFlak,MusicBlackSuper
+	setCOFaction		coAWDSDoris,ArmyBlackHole
+	setCOMusic          	coAWDSDoris,MusicFlakTheme
+	setCOPowerMusic         coAWDSDoris,MusicBlackPower
+	setCOSuperMusic         coAWDSDoris,MusicBlackSuper
 
-	setCOPowerCost          coAWDSDrake,4
-	setCOSuperCost          coAWDSDrake,8
+	setCOPowerCost          coAWDSDoris,4
+	setCOSuperCost          coAWDSDoris,8
 
-	setCOD2DNavyStat	coAWDSDrake,20,20,0,0
+	setCOD2DNavyStat	coAWDSDoris,20,20,0,0
 	setCOD2DAirStat		coAWDSDrake,-40,0,0,0
 	setCOPowerNavyStat	coAWDSDrake,40,40,0,0
 	setCOPowerAirStat	coAWDSDrake,-40,0,0,0
 	setCOSuperNavyStat	coAWDSDrake,60,60,0,0
 	setCOSuperAirStat	coAWDSDrake,-40,0,0,0
 
-	setCOPowerASM		coAWDSDrake,COPowerTsunami
-	setCOSuperASM		coAWDSDrake,COPowerTyphoon
+	setCOPowerASM		coAWDSDoris,COPowerTsunami
+	setCOSuperASM		coAWDSDoris,COPowerTyphoon
 	
-	setCOAIPowerRange       coAWDSDrake,35
-	setCOAIPowerTrigger     coAWDSDrake,95
-	setCOAIPowerTriggerASM  coAWDSDrake,AIActivateAlways
+	setCOAIPowerRange       coAWDSDoris,35
+	setCOAIPowerTrigger     coAWDSDoris,95
+	setCOAIPowerTriggerASM  coAWDSDoris,AIActivateAlways
 ; blank line
