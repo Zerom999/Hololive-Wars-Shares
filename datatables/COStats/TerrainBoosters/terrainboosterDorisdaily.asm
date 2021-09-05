@@ -1,4 +1,4 @@
-;terrainboosterkoal.asm
+;terrainboosterDoris.asm
 
 ;Terrain Boosting Table
 
@@ -20,7 +20,7 @@ TerrainFirepowerBoostKoalDaytoDay:
 	;Volcano, Factory, Deathray, Variable Tile
 	.db 0,0,0,0
 	
-TerrainFirepowerBoostKoalPower:
+TerrainFirepowerBoostDorisPower:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
@@ -38,7 +38,7 @@ TerrainFirepowerBoostKoalPower:
 	;Volcano, Factory, Deathray, Variable Tile
 	.db 0,0,0,0	
 	
-TerrainFirepowerBoostKoalSuper:
+TerrainFirepowerBoostDorisSuper:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
