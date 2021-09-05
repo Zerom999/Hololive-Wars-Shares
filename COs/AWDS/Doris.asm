@@ -26,15 +26,11 @@
 	setCOPowerCost          coAWDSDoris,4
 	setCOSuperCost          coAWDSDoris,8
 	
-	setCOD2DRainFirepower	coAWDSDoris,20
-
-	setCOD2DNavyStat	coAWDSDoris,20,20,0,0
-	setCOD2DAirStat		coAWDSDrake,-40,0,0,0
-	setCOPowerNavyStat	coAWDSDrake,40,40,0,0
-	setCOPowerAirStat	coAWDSDrake,-40,0,0,0
-	setCOSuperNavyStat	coAWDSDrake,60,60,0,0
-	setCOSuperAirStat	coAWDSDrake,-40,0,0,0
-
+	setCOD2DRainFirepower	coAWDSDoris,30
+	setCOPowerRainFirepower	coAWDSDoris,60
+	setCOSuoerRainFirepower	coAWDSDoris,90
+	
+	
 	setCOPowerASM		coAWDSDoris,COPowerTsunami
 	setCOSuperASM		coAWDSDoris,COPowerTyphoon
 	
