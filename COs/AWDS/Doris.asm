@@ -1,4 +1,4 @@
-setCODefaults           coAWDSDrake
+        setCODefaults           coAWDSDrake
 	setCOGameID		coAWDSDrake,Game_AWDS
 
 	setCOGFXFullbody        coAWDSDrake,GraphicsAWDSDrakeGraphic
@@ -18,8 +18,10 @@ setCODefaults           coAWDSDrake
 	setCOprofileText        coAWDSDrake,ScriptAWDSDrake+3,ScriptAWDSDrake+4,ScriptAWDSDrake+5,ScriptAWDSDrake+6
 	setCOvictoryText        coAWDSDrake,ScriptAWDSDrake+7
 
-	setCOFaction		coAWDSDrake,ArmyGreenEarth
-	setCOMusic          	coAWDSDrake,MusicDrakeTheme
+	setCOFaction		coAWDSFlak,ArmyBlackHole
+	setCOMusic          	coAWDSFlak,MusicFlakTheme
+	setCOPowerMusic         coAWDSFlak,MusicBlackPower
+	setCOSuperMusic         coAWDSFlak,MusicBlackSuper
 
 	setCOPowerCost          coAWDSDrake,4
 	setCOSuperCost          coAWDSDrake,8
