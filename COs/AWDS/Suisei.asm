@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSSuisei,ArmyYellowComet
 	setCOMusic          	coAWDSSuisei,MusicSuiseiComet
 
-	setCOPowerCost          coAWDSSuisei,5
-	setCOSuperCost          coAWDSSuisei,10
+	setCOPowerCost          coAWDSSuisei,6
+	setCOSuperCost          coAWDSSuisei,12
 	
 	setCOD2DAllStat		coAWDSSuisei,30,-10,0,0
 	
