@@ -23,8 +23,8 @@
 	setCOPowerMusic         coAWDSDoris,MusicBlackPower
 	setCOSuperMusic         coAWDSDoris,MusicBlackSuper
 
-	setCOPowerCost          coAWDSDoris,4
-	setCOSuperCost          coAWDSDoris,8
+	setCOPowerCost          coAWDSDoris,5
+	setCOSuperCost          coAWDSDoris,10
 	
 	setCOD2DRainFirepower	coAWDSDoris,20
 	setCOPowerRainFirepower	coAWDSDoris,40
