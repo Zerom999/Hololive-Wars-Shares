@@ -30,6 +30,15 @@
 	setCOPowerRainFirepower	coAWDSDoris,60
 	setCOSuoerRainFirepower	coAWDSDoris,90
 	
+	setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
+	
+	setCOPowerLandStat		coAWDSWatame,0,0,1,0
+	setCOPowerIndirectLandStat	coAWDSWatame,0,0,1,0
+	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
+	
+	setCOSuperLandStat		coAWDSWatame,0,0,2,0
+	setCOSuperIndirectLandStat	coAWDSWatame,0,0,2,0
+	setCOSuperTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameSuper
 	
 	setCOPowerASM		coAWDSDoris,COPowerTsunami
 	setCOSuperASM		coAWDSDoris,COPowerTyphoon
