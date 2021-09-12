@@ -21,12 +21,12 @@
 	setCOFaction		coAWDSMiko,ArmyOrangeStar
 	setCOMusic          	coAWDSMiko,MusicMikoTheme
 
-	setCOPowerCost          coAWDSMiko,3
-	setCOSuperCost          coAWDSMiko,6
+	setCOPowerCost          coAWDSMiko,4
+	setCOSuperCost          coAWDSMiko,8
 
 	setCOD2DLuck		coAWDSMiko,20
-	setCOPowerLuck		coAWDSMiko,60
-	setCOSuperLuck		coAWDSMiko,100
+	setCOPowerLuck		coAWDSMiko,70
+	setCOSuperLuck		coAWDSMiko,120
 	
 	setCOAIPowerRange       coAWDSMiko,25
 	setCOAIPowerTrigger     coAWDSMiko,95
