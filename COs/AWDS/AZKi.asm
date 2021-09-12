@@ -25,11 +25,11 @@
 	setCOSuperCost          coAWDSAZKi,6
 
 	setCOd2dAbilities		coAWDSAZKi,SpecialTowerDefence
-	setCOD2DIndirectDefence		coAWDSAZKi,30
+	setCOD2DIndirectDefence		coAWDSAZKi,20
 	setCOPowerAbilities		coAWDSAZKi,SpecialTowerDefence+SpecialTowerDouble
-	setCOPowerIndirectDefence	coAWDSAZKi,60
+	setCOPowerIndirectDefence	coAWDSAZKi,40
 	setCOSuperAbilities		coAWDSAZKi,SpecialTowerDefence+SpecialTowerTriple
-	setCOSuperIndirectDefence	coAWDSAZKi,90
+	setCOSuperIndirectDefence	coAWDSAZKi,60
 	
 	setCOAIPowerRange       coAWDSAZKi,25
 	setCOAIPowerTrigger     coAWDSAZKi,95
