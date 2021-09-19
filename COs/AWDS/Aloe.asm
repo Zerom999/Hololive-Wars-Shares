@@ -21,14 +21,14 @@
 	setCOFaction		coAWDSAloe,ArmyYellowComet
 	setCOMusic          	coAWDSAloe,MusicAloeheme
 
-	setCOPowerCost          coAWDSAloe,3
-	setCOSuperCost          coAWDSAloe,6
+	setCOPowerCost          coAWDSAloe,4
+	setCOSuperCost          coAWDSAloe,8
 
-	setCOD2DAllStat		coAWDSAloe,40,-20,0,0
+	setCOD2DAllStat		coAWDSAloe,50,-30,0,0
 	
-	setCOPowerAllStat	coAWDSAloe,70,-20,0,0
+	setCOPowerAllStat	coAWDSAloe,80,-30,0,0
 	
-	setCOSuperAllStat	coAWDSAloe,100,-20,0,0
+	setCOSuperAllStat	coAWDSAloe,110,-30,0,0
 	
 	setCOAIPowerRange       coAWDSAloe,25
 	setCOAIPowerTrigger     coAWDSAloe,95
