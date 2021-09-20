@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSIofifteen,ScriptAWDSIofifteen+3,ScriptAWDSIofifteen+4,ScriptAWDSIofifteen+5,ScriptAWDSIofifteen+6
 	setCOvictoryText        coAWDSIofifteen,ScriptAWDSIofifteen+7
 
-	setCOFaction		coAWDSIofifteen,ArmyYellowComet
+	setCOFaction		coAWDSIofifteen,ArmyGreenEarth
 	setCOMusic          	coAWDSIofifteen,MusicIofifteenTheme
 
 	setCOPowerCost          coAWDSIofifteen,3
