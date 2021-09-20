@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSOllie,ScriptAWDSNene+3,ScriptAWDSNene+4,ScriptAWDSNene+5,ScriptAWDSNene+6
 	setCOvictoryText        coAWDSOllie,ScriptAWDSNene+7
 
-	setCOFaction		coAWDSOllie,ArmyOrangeStar
+	setCOFaction		coAWDSOllie,ArmyGreenEarth
 	setCOMusic          	coAWDSOllie,MusicOrangeStar
 
 	setCOPowerCost          coAWDSOllie,3
