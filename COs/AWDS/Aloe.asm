@@ -26,9 +26,9 @@
 
 	setCOD2DAllStat		coAWDSAloe,50,-30,0,0
 	
-	setCOPowerAllStat	coAWDSAloe,80,-30,0,0
+	setCOPowerAllStat	coAWDSAloe,90,-30,0,0
 	
-	setCOSuperAllStat	coAWDSAloe,110,-30,0,0
+	setCOSuperAllStat	coAWDSAloe,130,-30,0,0
 	
 	setCOAIPowerRange       coAWDSAloe,25
 	setCOAIPowerTrigger     coAWDSAloe,95
