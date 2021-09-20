@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSBotan,ScriptAWDSBotan+3,ScriptAWDSBotan+4,ScriptAWDSBotan+5,ScriptAWDSBotan+6
 	setCOvictoryText        coAWDSBotan,ScriptAWDSBotan+7
 
-	setCOFaction		coAWDSBotan,ArmyOrangeStar
+	setCOFaction		coAWDSBotan,ArmyYellowComet
 	setCOMusic          	coAWDSBotan,MusicBotanTheme
 
 	setCOPowerCost          coAWDSBotan,5
