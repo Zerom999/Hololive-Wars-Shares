@@ -29,7 +29,7 @@
 	setCOD2DIncome		coAWDSSpadeEcho,200	
 	
 	setCOPowerIncome	coAWDSSpadeEcho,200	
-	setCOPowerAllStat	coAWDSSpadeEcho,20,0,0,0
+	setCOPowerAllStat	coAWDSSpadeEcho,0,0,0,0
 	
 	setCOSuperIncome	coAWDSSpadeEcho,200	
 	setCOSuperAllStat	coAWDSSpadeEcho,20,0,0,0
