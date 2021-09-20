@@ -11,12 +11,12 @@
 	setCOGFXSuperAnim       coAWDSReine,7,7
 	setCOGFXSuperSFX        coAWDSReine,0x1f7,0x1f8
 	
-	setCOName               coAWDSReine,ScriptAWDSEagle
-	setCOpowerName          coAWDSReine,ScriptAWDSEagle+1
-	setCOsuperName          coAWDSReine,ScriptAWDSEagle+2
-	setCOpowerText          coAWDSReine,ScriptAWDSEagle+8,ScriptAWDSEagle+9,ScriptAWDSEagle+10,ScriptAWDSEagle+11,ScriptAWDSEagle+12,ScriptAWDSEagle+13
-	setCOprofileText        coAWDSReine,ScriptAWDSEagle+3,ScriptAWDSEagle+4,ScriptAWDSEagle+5,ScriptAWDSEagle+6
-	setCOvictoryText        coAWDSReine,ScriptAWDSEagle+7
+	setCOName               coAWDSReine,ScriptAWDSReine
+	setCOpowerName          coAWDSReine,ScriptAWDSReine+1
+	setCOsuperName          coAWDSReine,ScriptAWDSReine+2
+	setCOpowerText          coAWDSReine,ScriptAWDSReine+8,ScriptAWDSReine+9,ScriptAWDSReine+10,ScriptAWDSReine+11,ScriptAWDSReine+12,ScriptAWDSReine+13
+	setCOprofileText        coAWDSReine,ScriptAWDSReine+3,ScriptAWDSReine+4,ScriptAWDSReine+5,ScriptAWDSReine+6
+	setCOvictoryText        coAWDSReine,ScriptAWDSReine+7
 
 	setCOFaction		coAWDSReine,ArmyGreenEarth	
 	setCOMusic          	coAWDSReine,MusicReineTheme
