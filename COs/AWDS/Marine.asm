@@ -18,11 +18,11 @@
 	setCOprofileText        coAWDSMarine,ScriptAWDSMarine+3,ScriptAWDSMarine+4,ScriptAWDSMarine+5,ScriptAWDSMarine+6
 	setCOvictoryText        coAWDSMarine,ScriptAWDSMarine+7
 
-	setCOFaction		coAWDSMarine,ArmyGreenEarth
+	setCOFaction		coAWDSMarine,ArmyBlueMoon
 	setCOMusic          	coAWDSMarine,MusicMarineTheme
 
-	setCOPowerCost          coAWDSMarine,4
-	setCOSuperCost          coAWDSMarine,8
+	setCOPowerCost          coAWDSMarine,6
+	setCOSuperCost          coAWDSMarine,12
 	
 	setCOD2DLandStat	coAWDSMarine,0,0,0,0
 	setCOD2DNavyStat	coAWDSMarine,30,30,0,0
