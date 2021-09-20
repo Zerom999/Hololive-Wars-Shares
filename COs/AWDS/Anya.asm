@@ -24,14 +24,13 @@
 	setCOPowerCost          coAWDSAnya,5
 	setCOSuperCost          coAWDSAnya,10
 	
-	setCOD2DAbilities		coAWDSAnya,SpecialViewAccurateHP
 	setCOD2DAllStats        coAWDSAnya,40,-20,0,0
 	
-	setCOPowerAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
+	setCOPowerAbilities		coAWDSAnya,SpecialHiddenHP
 	setCOPowerDamageReflect	coAWDSAnya,20
 	setCOAllStat		coAWDSAnya,70,-20,0,0
 	
-	setCOSuperAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
+	setCOSuperAbilities		coAWDSAnya,SpecialHiddenHP
 	setCOPowerDamageReflect	coAWDSAnya,50
 	setCOAllStat		coAWDSAnya,100,-20,0,0
 
