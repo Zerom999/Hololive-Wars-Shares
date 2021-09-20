@@ -32,9 +32,6 @@
 	setCOSuperAllStat		coAWDSSubaru,0,0,3,0
 	setCOSuperTerrainFirepowerList	coAWDSSubaru,TerrainFirepowerBoostSubaruSuper
 
-	setCOGFXPowerRule       coAWDSSubaru,COPCheckDirectCombatUnits
-	setCOGFXSuperRule       coAWDSSubaru,COPCheckDirectCombatUnits
-	
 	setCOAIPowerRange       coAWDSSubaru,25
 	setCOAIPowerTrigger     coAWDSSubaru,95
 ; blank line
