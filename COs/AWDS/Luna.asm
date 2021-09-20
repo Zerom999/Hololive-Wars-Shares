@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSLuna,ScriptAWDSLuna+3,ScriptAWDSLuna+4,ScriptAWDSLuna+5,ScriptAWDSLuna+6
 	setCOvictoryText        coAWDSLuna,ScriptAWDSLuna+7
 
-	setCOFaction		coAWDSLuna,ArmyBlueMoon
+	setCOFaction		coAWDSLuna,ArmyYellowComet
 	setCOMusic          	coAWDSLuna,MusicLunaTheme
 
 	setCOPowerCost          coAWDSLuna,4
