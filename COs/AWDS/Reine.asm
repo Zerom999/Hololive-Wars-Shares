@@ -1,22 +1,22 @@
-        setCODefaults           coAWDSEagle
-	setCOGameID		coAWDSEagle,Game_AWDS
+        setCODefaults           coAWDSReine
+	setCOGameID		coAWDSReine,Game_AWDS
 
-	setCOGFXFullbody        coAWDSEagle,GraphicsAWDSEagleGraphic
-	setCOGFXName            coAWDSEagle,GraphicsAWDSEagleName
-	setCOGFXPalette         coAWDSEagle,GraphicsAWDSEaglePalette
-	setCOGFXFace            coAWDSEagle,GraphicsAWDSEagleFace,GraphicsAWDSEagleHappyFace,GraphicsAWDSEagleSadFace
-	setCOGFXSmallFace       coAWDSEagle,GraphicsAWDSEagleMugshot
-	setCOGFXPowerAnim       coAWDSEagle,3,1
-	setCOGFXPowerSFX        coAWDSEagle,0xBA,0xbb
-	setCOGFXSuperAnim       coAWDSEagle,7,7
-	setCOGFXSuperSFX        coAWDSEagle,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSReine,GraphicsAWDSEagleGraphic
+	setCOGFXName            coAWDSReine,GraphicsAWDSEagleName
+	setCOGFXPalette         coAWDSReine,GraphicsAWDSEaglePalette
+	setCOGFXFace            coAWDSReine,GraphicsAWDSEagleFace,GraphicsAWDSEagleHappyFace,GraphicsAWDSEagleSadFace
+	setCOGFXSmallFace       coAWDSReine,GraphicsAWDSEagleMugshot
+	setCOGFXPowerAnim       coAWDSReine,3,1
+	setCOGFXPowerSFX        coAWDSReine,0xBA,0xbb
+	setCOGFXSuperAnim       coAWDSReine,7,7
+	setCOGFXSuperSFX        coAWDSReine,0x1f7,0x1f8
 	
-	setCOName               coAWDSEagle,ScriptAWDSEagle
-	setCOpowerName          coAWDSEagle,ScriptAWDSEagle+1
-	setCOsuperName          coAWDSEagle,ScriptAWDSEagle+2
-	setCOpowerText          coAWDSEagle,ScriptAWDSEagle+8,ScriptAWDSEagle+9,ScriptAWDSEagle+10,ScriptAWDSEagle+11,ScriptAWDSEagle+12,ScriptAWDSEagle+13
-	setCOprofileText        coAWDSEagle,ScriptAWDSEagle+3,ScriptAWDSEagle+4,ScriptAWDSEagle+5,ScriptAWDSEagle+6
-	setCOvictoryText        coAWDSEagle,ScriptAWDSEagle+7
+	setCOName               coAWDSReine,ScriptAWDSEagle
+	setCOpowerName          coAWDSReine,ScriptAWDSEagle+1
+	setCOsuperName          coAWDSReine,ScriptAWDSEagle+2
+	setCOpowerText          coAWDSReine,ScriptAWDSEagle+8,ScriptAWDSEagle+9,ScriptAWDSEagle+10,ScriptAWDSEagle+11,ScriptAWDSEagle+12,ScriptAWDSEagle+13
+	setCOprofileText        coAWDSReine,ScriptAWDSEagle+3,ScriptAWDSEagle+4,ScriptAWDSEagle+5,ScriptAWDSEagle+6
+	setCOvictoryText        coAWDSReine,ScriptAWDSEagle+7
 
 	setCOFaction			coAWDSEagle,ArmyGreenEarth
 	setCOMusic          	coAWDSEagle,MusicEagleTheme
