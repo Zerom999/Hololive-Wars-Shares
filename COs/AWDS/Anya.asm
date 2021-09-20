@@ -21,19 +21,19 @@
 	setCOFaction		coAWDSAnya,ArmyGreenEarth
 	setCOMusic          	coAWDSAnya,MusicAnya
 
-	setCOPowerCost          coAWDSAnya,4
-	setCOSuperCost          coAWDSAnya,8
+	setCOPowerCost          coAWDSAnya,5
+	setCOSuperCost          coAWDSAnya,10
 	
 	setCOD2DAbilities		coAWDSAnya,SpecialViewAccurateHP
-	setCOD2DAllStats        coAWDSAnya,30,-10,0,0
+	setCOD2DAllStats        coAWDSAnya,40,-20,0,0
 	
 	setCOPowerAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
 	setCOPowerDamageReflect	coAWDSAnya,20
-	setCOAllStat		coAWDSAnya,60,-20,0,0
+	setCOAllStat		coAWDSAnya,70,-20,0,0
 	
 	setCOSuperAbilities		coAWDSAnya,SpecialViewAccurateHP+SpecialHiddenHP
 	setCOPowerDamageReflect	coAWDSAnya,50
-	setCOAllStat		coAWDSAnya,90,-30,0,0
+	setCOAllStat		coAWDSAnya,100,-20,0,0
 
 	setCOAIPowerRange       coAWDSAnya,25
 	setCOAIPowerTrigger     coAWDSAnya,95
