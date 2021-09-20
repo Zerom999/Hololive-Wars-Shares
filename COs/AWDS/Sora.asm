@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSSora,ScriptAWDSSora+3,ScriptAWDSSora+4,ScriptAWDSSora+5,ScriptAWDSSora+6
 	setCOvictoryText        coAWDSSora,ScriptAWDSSora+7
 
-	setCOFaction		coAWDSSora,ArmyYellowComet
+	setCOFaction		coAWDSSora,ArmyOrangeStar
 	setCOMusic          	coAWDSSora,MusicSoraTheme
 
 	setCOPowerCost          coAWDSSora,4
