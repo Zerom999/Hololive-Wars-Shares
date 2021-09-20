@@ -28,10 +28,10 @@
 
 	setCOD2DLuck		coAWDSYogiri,40
 	setCOD2DBadLuck		coAWDSYogiri,20
-	setCOPowerLuck		coAWDSYogiri,80
-	setCOPowerBadLuck	coAWDSYogiri,40
-	setCOSuperLuck		coAWDSYogiri,120
-	setCOSuperBadLuck	coAWDSYogiri,60
+	setCOPowerLuck		coAWDSYogiri,120
+	setCOPowerBadLuck	coAWDSYogiri,60
+	setCOSuperLuck		coAWDSYogiri,200
+	setCOSuperBadLuck	coAWDSYogiri,100
 	
 	setCOAIPowerRange       coAWDSYogiri,25
 	setCOAIPowerTrigger     coAWDSYogiri,95
