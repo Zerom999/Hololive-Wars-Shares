@@ -40,9 +40,6 @@
 	setCOSuperNavyStat	coAWDSInanis,90,0,0,0
 	setCOSuperAirStat	coAWDSInanis,-40,0,0,0
 
-	setCOPowerASM		coAWDSInanis,COPowerTsunami
-	setCOSuperASM		coAWDSInanis,COPowerTyphoon
-	
 	setCOAIPowerRange       coAWDSInanis,35
 	setCOAIPowerTrigger     coAWDSInanis,95
 	setCOAIPowerTriggerASM  coAWDSDrake,AIActivateAlways
