@@ -19,10 +19,10 @@
 	setCOvictoryText        coAWDSNene,ScriptAWDSNene+7
 
 	setCOFaction		coAWDSNene,ArmyYellowComet
-	setCOMusic          	coAWDSNene,MusicNene
+	setCOMusic          	coAWDSNene,MusicNeneTheme
 
-	setCOPowerCost          coAWDSNene,4
-	setCOSuperCost          coAWDSNene,8
+	setCOPowerCost          coAWDSNene,5
+	setCOSuperCost          coAWDSNene,10
 
 	setCOd2dRepair		coAWDSNene,1
 	setCOPowerASM		coAWDSNene,COPowerTestMissile	
