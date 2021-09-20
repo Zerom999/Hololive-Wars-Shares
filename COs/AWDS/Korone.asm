@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSKorone,ScriptAWDSKorone+3,ScriptAWDSKorone+4,ScriptAWDSKorone+5,ScriptAWDSKorone+6
 	setCOvictoryText        coAWDSKorone,ScriptAWDSKorone+7
 
-	setCOFaction		coAWDSKorone,ArmyGreenEarth
+	setCOFaction		coAWDSKorone,ArmyOrangeStar
 	setCOMusic          	coAWDSKorone,MusicKoroneTheme
 
 	setCOPowerCost          coAWDSKorone,3
