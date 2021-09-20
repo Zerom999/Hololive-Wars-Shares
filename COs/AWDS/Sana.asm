@@ -1,4 +1,4 @@
-setCODefaults           coAWDSLamy
+        setCODefaults           coAWDSLamy
 	setCOGameID		coAWDSLamy,Game_AWDS
 
 	setCOGFXFullbody        coAWDSLamy,GraphicsAWDSLamyGraphic
