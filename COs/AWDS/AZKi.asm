@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSAZKi,ScriptAWDSAZKi+3,ScriptAWDSAZKi+4,ScriptAWDSAZKi+5,ScriptAWDSAZKi+6
 	setCOvictoryText        coAWDSAZKi,ScriptAWDSAZKi+7
 
-	setCOFaction		coAWDSAZKi,ArmyGreenEarth
+	setCOFaction		coAWDSAZKi,ArmyOrangeStar
 	setCOMusic          	coAWDSAZKi,MusicAZKiTheme
 
 	setCOPowerCost          coAWDSAZKi,3
