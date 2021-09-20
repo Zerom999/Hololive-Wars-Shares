@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSSubaru,ScriptAWDSKanata+3,ScriptAWDSKanata+4,ScriptAWDSKanata+5,ScriptAWDSKanata+6
 	setCOvictoryText        coAWDSSubaru,ScriptAWDSKanata+7
 
-	setCOFaction		coAWDSKanata,ArmyOrangeStar
+	setCOFaction		coAWDSKanata,ArmyYellowComet
 	setCOMusic          	coAWDSKanata,MusicKanataTheme
 
 	setCOPowerCost          coAWDSKanata,3
