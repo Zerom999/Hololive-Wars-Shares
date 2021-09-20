@@ -49,7 +49,7 @@ Core_COPowerStarCost_Versioned:
 	bne	@IsOtherCharge
 	
 @IsAW2Charge:
-	ldr	r0,=9000
+	ldr	r0,=10000
 	b	@DoCalc
 @IsAW1Charge:
 	ldr	r0,=5000
@@ -58,7 +58,7 @@ Core_COPowerStarCost_Versioned:
 	mov	r0,50
 	b	@DoCalc
 @IsOtherCharge:
-	ldr	r0,=9000
+	ldr	r0,=10000
 @DoCalc:
 	mov	r1,r5
 	mul	r0,r1
