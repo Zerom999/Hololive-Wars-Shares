@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSAqua,ScriptAWDSAqua+3,ScriptAWDSAqua+4,ScriptAWDSAqua+5,ScriptAWDSAqua+6
 	setCOvictoryText        coAWDSAqua,ScriptAWDSAqua+7
 
-	setCOFaction		coAWDSAqua,ArmyGreenEarth
+	setCOFaction		coAWDSAqua,ArmyBlueMoon
 	setCOMusic          	coAWDSAqua,MusicAquaTheme
 
 	setCOPowerCost          coAWDSAqua,3
