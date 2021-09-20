@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSRushia,ScriptAWDSRushia+3,ScriptAWDSRushia+4,ScriptAWDSRushia+5,ScriptAWDSRushia+6
 	setCOvictoryText        coAWDSRushia,ScriptAWDSRushia+7
 
-	setCOFaction			coAWDSRushia,ArmyYellowComet
+	setCOFaction			coAWDSRushia,ArmyBlueMoon
 	setCOMusic          		coAWDSRushia,MusicRushiaTheme
 
 	setCOPowerCost          	coAWDSRushia,4
