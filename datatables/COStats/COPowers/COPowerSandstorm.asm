@@ -1,6 +1,6 @@
-;COPowerBlizzard.asm
+;COPowerSandstorm.asm
 
-COPowerExtendedBlizzard:
+COPowerSandstorm:
 	push	{r14}
 	mov	r0,0x23		;Sound Effect to Use
 	bl	PlaySong
@@ -11,7 +11,7 @@ COPowerExtendedBlizzard:
 	pop	{r0}
 	bx	r0
 
-@LongBLExtendedBlizzard:
+@LongBLSandStorm:
 	LongBL	r0,0x08039F58+1
 	
 SetWeatherbyPower:
