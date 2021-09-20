@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSAyame,ScriptAWDSAyame+3,ScriptAWDSAyame+4,ScriptAWDSAyame+5,ScriptAWDSAyame+6
 	setCOvictoryText        coAWDSAyame,ScriptAWDSAyame+7
 
-	setCOFaction		coAWDSAyame,ArmyYellowComet
+	setCOFaction		coAWDSAyame,ArmyBlueMoon
 	setCOMusic          	coAWDSAyame,MusicAyameTheme
 
 	setCOPowerCost          coAWDSAyame,4
