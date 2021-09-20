@@ -30,15 +30,15 @@
         
 	setCOD2DLandStat	coAWDSReine,0,0,0,0
 	setCOD2DAirStat	        coAWDSReine,0,30,0,0
-	setCOD2DNavyStat	coAWDSReine,0,0,0,0
+	setCOD2DNavyStat	coAWDSReine,-20,0,0,0
 
 	setCOPowerLandStat	coAWDSReine,0,0,0,0
 	setCOPowerAirStat	coAWDSReine,0,30,0,0
-	setCOPowerNavyStat	coAWDSReine,0,0,0,0
+	setCOPowerNavyStat	coAWDSReine,-20,0,0,0
 	
 	setCOSuperLandStat	coAWDSReine,0,0,0,0
 	setCOSuperAirStat	coAWDSReine,0,30,0,0
-	setCOSuperNavyStat	coAWDSReine,0,0,0,0
+	setCOSuperNavyStat	coAWDSReine,-20,0,0,0
 
 	setCOAIPowerRange       coAWDSReine,15
 	setCOAIPowerTrigger     coAWDSReine,70
