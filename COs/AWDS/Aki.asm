@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSAki,ScriptAWDSAki+3,ScriptAWDSAki+4,ScriptAWDSAki+5,ScriptAWDSAki+6
 	setCOvictoryText        coAWDSAki,ScriptAWDSAki+7
 
-	setCOFaction		coAWDSAki,ArmyYellowComet
+	setCOFaction		coAWDSAki,ArmyOrangeStar
 	setCOMusic          	coAWDSAki,MusicAkiTheme
 
 	setCOPowerCost          coAWDSAki,4
