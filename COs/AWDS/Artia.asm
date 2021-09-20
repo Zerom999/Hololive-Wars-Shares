@@ -26,9 +26,9 @@
 	setCOPowerCost          coAWDSArtia,3
 	setCOSuperCost          coAWDSArtia,6
 
-	setCOD2DSnowFirepower	coAWDSArtia,30
-	setCOPowerSnowFirepower	coAWDSArtia,60
-	setCOSuperSnowFirepower	coAWDSArtia,90
+	setCOD2DSnowFirepower	coAWDSArtia,20
+	setCOPowerSnowFirepower	coAWDSArtia,40
+	setCOSuperSnowFirepower	coAWDSArtia,60
 	
 	setCOD2DMove		coAWDSArtia, MovementChartClear,MovementChartClear,MovementChartSnow
 	setCOPowerMove		coAWDSArtia, MovementChartClear,MovementChartClear,MovementChartSnow
