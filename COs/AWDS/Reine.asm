@@ -1,11 +1,11 @@
         setCODefaults           coAWDSReine
 	setCOGameID		coAWDSReine,Game_AWDS
 
-	setCOGFXFullbody        coAWDSReine,GraphicsAWDSEagleGraphic
-	setCOGFXName            coAWDSReine,GraphicsAWDSEagleName
-	setCOGFXPalette         coAWDSReine,GraphicsAWDSEaglePalette
-	setCOGFXFace            coAWDSReine,GraphicsAWDSEagleFace,GraphicsAWDSEagleHappyFace,GraphicsAWDSEagleSadFace
-	setCOGFXSmallFace       coAWDSReine,GraphicsAWDSEagleMugshot
+	setCOGFXFullbody        coAWDSReine,GraphicsAWDSReineGraphic
+	setCOGFXName            coAWDSReine,GraphicsAWDSReineName
+	setCOGFXPalette         coAWDSReine,GraphicsAWDSReinePalette
+	setCOGFXFace            coAWDSReine,GraphicsAWDSReineFace,GraphicsAWDSReineHappyFace,GraphicsAWDSReineSadFace
+	setCOGFXSmallFace       coAWDSReine,GraphicsAWDSReineMugshot
 	setCOGFXPowerAnim       coAWDSReine,3,1
 	setCOGFXPowerSFX        coAWDSReine,0xBA,0xbb
 	setCOGFXSuperAnim       coAWDSReine,7,7
