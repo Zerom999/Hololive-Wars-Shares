@@ -18,11 +18,11 @@
 	setCOprofileText        coAWDSCoco,ScriptAWDSCoco+3,ScriptAWDSCoco+4,ScriptAWDSCoco+5,ScriptAWDSCoco+6
 	setCOvictoryText        coAWDSCoco,ScriptAWDSCoco+7
 
-	setCOFaction		coAWDSCoco,ArmyGreenEarth
+	setCOFaction		coAWDSCoco,ArmyYellowComet
 	setCOMusic          	coAWDSCoco,MusicCocoTheme
 
-	setCOPowerCost          coAWDSCoco,5
-	setCOSuperCost          coAWDSCoco,10
+	setCOPowerCost          coAWDSCoco,6
+	setCOSuperCost          coAWDSCoco,12
 	
 	setCOD2DLandStat	coAWDSCoco,0,0,0,0
 	setCOD2DNavyStat	coAWDSCoco,-50,0,0,0
