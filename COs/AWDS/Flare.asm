@@ -21,8 +21,8 @@
 	setCOFaction		coAWDSFlare,ArmyBlueMoon
 	setCOMusic          	coAWDSFlare,MusicFlareTheme
 
-	setCOPowerCost          coAWDSFlare,3
-	setCOSuperCost          coAWDSFlare,6
+	setCOPowerCost          coAWDSFlare,4
+	setCOSuperCost          coAWDSFlare,8
 
 	setCOD2DDirectStat	coAWDSFlare,-20,0,0,0	
 	setCOD2DIndirectStat	coAWDSFlare,20,0,0,1	
