@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSLamy,ScriptAWDSLamy+3,ScriptAWDSLamy+4,ScriptAWDSLamy+5,ScriptAWDSLamy+6
 	setCOvictoryText        coAWDSLamy,ScriptAWDSLamy+7
 
-	setCOFaction		coAWDSLamy,ArmyBlueMoon
+	setCOFaction		coAWDSLamy,ArmyYellowComet
 	setCOMusic          	coAWDSLamy,MusicLamyTheme
 
 	setCOPowerCost          coAWDSLamy,2
