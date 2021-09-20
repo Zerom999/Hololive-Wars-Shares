@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSFubuki,ScriptAWDSFubuki+3,ScriptAWDSFubuki+4,ScriptAWDSFubuki+5,ScriptAWDSFubuki+6
 	setCOvictoryText        coAWDSFubuki,ScriptAWDSFubuki+7
 
-	setCOFaction		coAWDSFubuki,ArmyBlueMoon
+	setCOFaction		coAWDSFubuki,OrangeStar
 	setCOMusic          	coAWDSFubuki,MusicFubukiTheme
 
 	setCOPowerCost          coAWDSFubuki,4
