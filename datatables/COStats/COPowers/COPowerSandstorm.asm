@@ -24,13 +24,22 @@ SetWeatherbyPower:
 	bx	r1
 	.pool
 	
-SetWeatherLength:
-	push	{r4-r6,r14}
-	mov	r4,0x1
-	ldr	r6,=0x03004493
-	mov	r5,0x1
-	sub	r5,r1
-	ldr	r0,=0x080350EC+1	;Runs the rest of the original
-	bx	r0
+mov	r0,r6
+	mov	r1,GatherUnit_MinRange
+	mov	r2,1
+	bl	GatherUnitAbility
+	
+	add	r1,r4,r5
+	cmp	r1,r0
+	bge	@End
+	
+	b	@Minimum
+	
+@End:
+	add	r0,r4,r5
+@Minimum:
+	pop	{r4-r6}
+	pop	{r1}
+	bx	r1
 	.pool
-;Blank Line	
+
