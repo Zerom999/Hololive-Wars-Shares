@@ -21,21 +21,11 @@
 	setCOFaction		coAWDSJess,ArmyGreenEarth
 	setCOMusic          	coAWDSJess,MusicJessTheme
 
-	setCOPowerCost          coAWDSJess,3
-	setCOSuperCost          coAWDSJess,6
+	setCOPowerCost          coAWDSJess,2
+	setCOSuperCost          coAWDSJess,4
 	
-	setCOD2DLandStat	coAWDSJess,20,0,0,0
-	setCOD2DNavyStat	coAWDSJess,-10,0,0,0
-	setCOD2DAirStat		coAWDSJess,-10,0,0,0
-
-	setCOPowerLandStat	coAWDSJess,40,0,1,0
-	setCOPowerNavyStat	coAWDSJess,-10,0,0,0
-	setCOPowerAirStat	coAWDSJess,-10,0,0,0
-
-	setCOSuperLandStat	coAWDSJess,60,0,2,0
-	setCOSuperAirStat	coAWDSJess,-10,0,0,0
-	setCOSuperNavyStat	coAWDSJess,-10,0,0,0
-
+	setCOSuperAllStat	coAWDSJess,20,0,1,0
+	
 	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
 	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
 
