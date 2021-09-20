@@ -24,29 +24,22 @@
 	setCOPowerCost          coAWDSReine,5
 	setCOSuperCost          coAWDSReine,10
 	
-	setCOD2DAbilities	coAWDSEagle,SpecialAerialFuelSaver
-	setCOPowerAbilities	coAWDSEagle,SpecialAerialFuelSaver
-	setCOSuperAbilities	coAWDSEagle,SpecialAerialFuelSaver
+	setCOD2DAbilities	coAWDSReine,SpecialAerialFuelSaver
+	setCOPowerAbilities	coAWDSReine,SpecialAerialFuelSaver
+	setCOSuperAbilities	coAWDSReine,SpecialAerialFuelSaver
         
-	setCOD2DLandStat	coAWDSEagle,0,-30,0,0
-	setCOD2DNavyStat	coAWDSEagle,0,0,0,0
-	setCOD2DAirStat		coAWDSEagle,0,30,0,0
+	setCOD2DLandStat	coAWDSReine,0,-30,0,0
+	setCOD2DNavyStat	coAWDSReine,0,0,0,0
+	setCOD2DAirStat		coAWDSReine,0,30,0,0
 
-	setCOPowerLandStat	coAWDSEagle,0,-30,0,0
-	setCOPowerNavyStat	coAWDSEagle,0,-30,0,0
-	setCOPowerAirStat	coAWDSEagle,0,-30,0,0
+	setCOPowerLandStat	coAWDSReine,0,-30,0,0
+	setCOPowerNavyStat	coAWDSReine,0,-30,0,0
+	setCOPowerAirStat	coAWDSReine,0,-30,0,0
 	
-	setCOSuperLandStat	coAWDSEagle,0,-30,0,0
-	setCOSuperAirStat	coAWDSEagle,60,0,0,0
-	setCOSuperNavyStat	coAWDSEagle,-40,0,0,0
+	setCOSuperLandStat	coAWDSReine,0,-30,0,0
+	setCOSuperAirStat	coAWDSReine,60,0,0,0
+	setCOSuperNavyStat	coAWDSReine,-40,0,0,0
 
-	setCOGFXPowerRule	coAWDSEagle,COPCheckAerialClassOrWaitMode
-	setCOGFXPowerFX		coAWDSEagle,COPEffectReanimateUnit
-	setCOGFXSuperRule	coAWDSEagle,COPCheckAerialClassOrWaitMode
-	setCOGFXSuperFX		coAWDSEagle,COPEffectReanimateUnit
-
-	setCOAIPowerRange       coAWDSEagle,15
-	setCOAIPowerTrigger     coAWDSEagle,70
-	setCOAIPowerTriggerASM  coAWDSEagle,AIActivateCOPStartSCOPEnd
-; blank line
-
+	setCOAIPowerRange       coAWDSReine,15
+	setCOAIPowerTrigger     coAWDSReine,70
+; blank line	
