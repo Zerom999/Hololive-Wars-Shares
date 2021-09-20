@@ -26,8 +26,8 @@
 
 	setCOd2dRepair		coAWDSNene,1
 	setCOPowerASM		coAWDSNene,COPowerTestMissile	
-	setCOPowerRepair	coAWDSNene,1
-	setCOSuperRepair	coAWDSNene,1
+	setCOPowerLuck		coAWDSMiko,30
+	setCOSuperLuck		coAWDSMiko,50
 	setCOSuperASM		coAWDSNene,COPowerCoveringFire
 	
 	setCOAIPowerRange       coAWDSNene,15
