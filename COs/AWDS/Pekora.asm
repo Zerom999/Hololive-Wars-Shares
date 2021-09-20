@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSPekora,ScriptAWDSPekora+3,ScriptAWDSPekora+4,ScriptAWDSPekora+5,ScriptAWDSPekora+6
 	setCOvictoryText        coAWDSPekora,ScriptAWDSPekora+7
 
-	setCOFaction			coAWDSPekora,ArmyYellowComet
+	setCOFaction			coAWDSPekora,ArmyBlueMoon
 	setCOMusic          		coAWDSPekora,MusicPekoraTheme
 
 	setCOPowerCost          	coAWDSPekora,4
