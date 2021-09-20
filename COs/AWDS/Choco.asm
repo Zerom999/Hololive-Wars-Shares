@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSChoco,ScriptAWDSChoco+3,ScriptAWDSChoco+4,ScriptAWDSaChoco+5,ScriptAWDSChoco+6
 	setCOvictoryText        coAWDSChoco,ScriptAWDSChoco+7
 
-	setCOFaction		coAWDSChoco,ArmyOrangeStar
+	setCOFaction		coAWDSChoco,ArmyBlueMoon
 	setCOMusic          	coAWDSChoco,MusicChocoTheme
 
 	setCOPowerCost          coAWDSChoco,3
