@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSHaato,ScriptAWDSHaato+3,ScriptAWDSHaato+4,ScriptAWDSHaato+5,ScriptAWDSHaato+6
 	setCOvictoryText        coAWDSHaato,ScriptAWDSHaato+7
 
-	setCOFaction			coAWDSHaato,ArmyBlueMoon
+	setCOFaction			coAWDSHaato,ArmyOrangeStar
 	setCOMusic          		coAWDSHaato,MusicHaato
 
 	setCOPowerCost          	coAWDSHaato,4
