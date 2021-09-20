@@ -1,35 +1,35 @@
-        setCODefaults           coAWDSJess
-	setCOGameID		coAWDSJess,Game_AWDS
+        setCODefaults           coAWDSRisu
+	setCOGameID		coAWDSRisu,Game_AWDS
 
-	setCOGFXFullbody        coAWDSJess,GraphicsAWDSJessGraphic
-	setCOGFXName            coAWDSJess,GraphicsAWDSJessName
-	setCOGFXPalette         coAWDSJess,GraphicsAWDSJessPalette
-	setCOGFXFace            coAWDSJess,GraphicsAWDSJessFace,GraphicsAWDSJessHappyFace,GraphicsAWDSJessSadFace
-	setCOGFXSmallFace       coAWDSJess,GraphicsAWDSJessMugshot
-	setCOGFXPowerAnim       coAWDSJess,0x04,0x00
-	setCOGFXPowerSFX        coAWDSJess,0xba,0xbb
-	setCOGFXSuperAnim       coAWDSJess,7,7
-	setCOGFXSuperSFX        coAWDSJess,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSRisu,GraphicsAWDSJessGraphic
+	setCOGFXName            coAWDSRisu,GraphicsAWDSJessName
+	setCOGFXPalette         coAWDSRisu,GraphicsAWDSJessPalette
+	setCOGFXFace            coAWDSRisu,GraphicsAWDSJessFace,GraphicsAWDSJessHappyFace,GraphicsAWDSJessSadFace
+	setCOGFXSmallFace       coAWDSRisu,GraphicsAWDSJessMugshot
+	setCOGFXPowerAnim       coAWDSRisu,0x04,0x00
+	setCOGFXPowerSFX        coAWDSRisu,0xba,0xbb
+	setCOGFXSuperAnim       coAWDSRisu,7,7
+	setCOGFXSuperSFX        coAWDSRisu,0x1f7,0x1f8
 	
-	setCOName               coAWDSJess,ScriptAWDSJess
-	setCOpowerName          coAWDSJess,ScriptAWDSJess+1
-	setCOsuperName          coAWDSJess,ScriptAWDSJess+2
-	setCOpowerText          coAWDSJess,ScriptAWDSJess+8,ScriptAWDSJess+9,ScriptAWDSJess+10,ScriptAWDSJess+11,ScriptAWDSJess+12,ScriptAWDSJess+13
-	setCOprofileText        coAWDSJess,ScriptAWDSJess+3,ScriptAWDSJess+4,ScriptAWDSJess+5,ScriptAWDSJess+6
-	setCOvictoryText        coAWDSJess,ScriptAWDSJess+7
+	setCOName               coAWDSRisu,ScriptAWDSJess
+	setCOpowerName          coAWDSRisu,ScriptAWDSJess+1
+	setCOsuperName          coAWDSRisu,ScriptAWDSJess+2
+	setCOpowerText          coAWDSRisu,ScriptAWDSJess+8,ScriptAWDSJess+9,ScriptAWDSJess+10,ScriptAWDSJess+11,ScriptAWDSJess+12,ScriptAWDSJess+13
+	setCOprofileText        coAWDSRisu,ScriptAWDSJess+3,ScriptAWDSJess+4,ScriptAWDSJess+5,ScriptAWDSJess+6
+	setCOvictoryText        coAWDSRisu,ScriptAWDSJess+7
 
-	setCOFaction		coAWDSJess,ArmyGreenEarth
-	setCOMusic          	coAWDSJess,MusicJessTheme
+	setCOFaction		coAWDSRisu,ArmyGreenEarth
+	setCOMusic          	coAWDSRisu,MusicJessTheme
 
-	setCOPowerCost          coAWDSJess,2
-	setCOSuperCost          coAWDSJess,4
+	setCOPowerCost          coAWDSRisu,2
+	setCOSuperCost          coAWDSRisu,4
 	
-	setCOSuperAllStat	coAWDSJess,20,0,1,0
+	setCOSuperAllStat	coAWDSRisu,20,0,1,0
 	
-	setCOGFXPowerFX		coAWDSJess,COPEffectResupplyUnit
-	setCOGFXSuperFX		coAWDSJess,COPEffectResupplyUnit
+	setCOGFXPowerFX		coAWDSRisu,COPEffectResupplyUnit
+	setCOGFXSuperFX		coAWDSRisu,COPEffectResupplyUnit
 
-	setCOAIPowerRange       coAWDSJess,25
-	setCOAIPowerTrigger     coAWDSJess,95
+	setCOAIPowerRange       coAWDSRisu,25
+	setCOAIPowerTrigger     coAWDSRisu,95
 ; blank line
 
