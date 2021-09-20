@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSMatsuri,ScriptAWDSMatsuri+3,ScriptAWDSMatsuri+4,ScriptAWDSMatsuri+5,ScriptAWDSMatsuri+6
 	setCOvictoryText        coAWDSMatsuri,ScriptAWDSMatsuri+7
 
-	setCOFaction		coAWDSMatsuri,ArmyGreenEarth
+	setCOFaction		coAWDSMatsuri,ArmyOrangeStar
 	setCOMusic          	coAWDSMatsuri,MusicMatsuriTheme
 
 	setCOPowerCost          coAWDSMatsuri,3
