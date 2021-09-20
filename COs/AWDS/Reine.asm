@@ -19,7 +19,7 @@
 	setCOvictoryText        coAWDSReine,ScriptAWDSEagle+7
 
 	setCOFaction		coAWDSReine,ArmyGreenEarth	
-	setCOMusic          	coAWDSReine,MusicEagleTheme
+	setCOMusic          	coAWDSReine,MusicReineTheme
 
 	setCOPowerCost          coAWDSReine,5
 	setCOSuperCost          coAWDSReine,10
