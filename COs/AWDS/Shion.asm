@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSShion,ScriptAWDSShion+3,ScriptAWDSShion+4,ScriptAWDSShion+5,ScriptAWDSShion+6
 	setCOvictoryText        coAWDSShion,ScriptAWDSShion+7
 
-	setCOFaction		coAWDSShion,ArmyGreenEarth	
+	setCOFaction		coAWDSShion,ArmyBlueMoon	
 	setCOMusic          	coAWDSShion,MusicShionTheme
 
 	setCOPowerCost          coAWDSShion,6
