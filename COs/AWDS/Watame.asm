@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSWatame,ScriptAWDSWatame+3,ScriptAWDSWatame+4,ScriptAWDSWatame+5,ScriptAWDSWatame+6
 	setCOvictoryText        coAWDSWatame,ScriptAWDSWatame+7
 
-	setCOFaction		coAWDSWatame,ArmyOrangeStar
+	setCOFaction		coAWDSWatame,ArmyYellowComet
 	setCOMusic          	coAWDSWatame,MusicWatameTheme
 
 	setCOPowerCost          coAWDSWatame,3
