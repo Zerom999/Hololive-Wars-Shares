@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSSubaru,ScriptAWDSSubaru+3,ScriptAWDSSubaru+4,ScriptAWDSSubaru+5,ScriptAWDSSubaru+6
 	setCOvictoryText        coAWDSSubaru,ScriptAWDSSubaru+7
 
-	setCOFaction		coAWDSSubaru,ArmyOrangeStar
+	setCOFaction		coAWDSSubaru,ArmyBlueMoon
 	setCOMusic          	coAWDSSubaru,MusicSubaruTheme
 
 	setCOPowerCost          coAWDSSubaru,4
