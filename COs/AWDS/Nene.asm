@@ -18,8 +18,8 @@
 	setCOprofileText        coAWDSNene,ScriptAWDSNene+3,ScriptAWDSNene+4,ScriptAWDSNene+5,ScriptAWDSNene+6
 	setCOvictoryText        coAWDSNene,ScriptAWDSNene+7
 
-	setCOFaction		coAWDSNene,ArmyOrangeStar
-	setCOMusic          	coAWDSNene,MusicOrangeStar
+	setCOFaction		coAWDSNene,ArmyYellowComet
+	setCOMusic          	coAWDSNene,MusicNene
 
 	setCOPowerCost          coAWDSNene,4
 	setCOSuperCost          coAWDSNene,8
