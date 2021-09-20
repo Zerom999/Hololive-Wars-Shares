@@ -25,8 +25,8 @@
 	setCOSuperCost          coAWDSMiko,8
 
 	setCOD2DLuck		coAWDSMiko,20
-	setCOPowerLuck		coAWDSMiko,70
-	setCOSuperLuck		coAWDSMiko,120
+	setCOPowerLuck		coAWDSMiko,80
+	setCOSuperLuck		coAWDSMiko,140
 	
 	setCOAIPowerRange       coAWDSMiko,25
 	setCOAIPowerTrigger     coAWDSMiko,95
