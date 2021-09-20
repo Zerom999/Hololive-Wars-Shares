@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSMoona,ScriptAWDSMoona+3,ScriptAWDSMoona+4,ScriptAWDSMoona+5,ScriptAWDSMoona+6
 	setCOvictoryText        coAWDSMoona,ScriptAWDSMoona+7
 
-	setCOFaction		coAWDSMoona,ArmyBlueMoon
+	setCOFaction		coAWDSMoona,ArmyGreenEarth
 	setCOMusic          	coAWDSMoona,MusicMoonaTheme
 
 	setCOPowerCost          coAWDSMoona,4
