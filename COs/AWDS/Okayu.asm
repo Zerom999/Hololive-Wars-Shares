@@ -18,7 +18,7 @@
 	setCOprofileText        coAWDSOkayu,ScriptAWDSOkayu+3,ScriptAWDSOkayu+4,ScriptAWDSOkayu+5,ScriptAWDSOkayu+6
 	setCOvictoryText        coAWDSOkayu,ScriptAWDSOkayu+7
 
-	setCOFaction		coAWDSOkayu,ArmyGreenEarth
+	setCOFaction		coAWDSOkayu,ArmyOrangeStar
 	setCOMusic          	coAWDSOkayu,MusicOkayuTheme
 	
 	setCOPowerCost          coAWDSOkayu,3
