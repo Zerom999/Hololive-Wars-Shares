@@ -24,13 +24,13 @@
 	setCOPowerCost          coAWDSCalliope,5
 	setCOSuperCost          coAWDSCalliope,10
 	
-	setCOD2DDirectStat	coAWDSCalliope,60,0,0,0	
+	setCOD2DDirectStat	coAWDSCalliope,70,0,0,0	
 	setCOD2DIndirectStat	coAWDSCalliope,-50,0,0,-1
 	
-	setCOPowerDirectStat	coAWDSCalliope,90,0,1,0	
+	setCOPowerDirectStat	coAWDSCalliope,100,0,1,0	
 	setCOPowerIndirectStat	coAWDSCalliope,-50,0,0,-1	
 	
-	setCOSuperDirectStat	coAWDSCalliope,120,0,2,0	
+	setCOSuperDirectStat	coAWDSCalliope,130,0,2,0	
 	setCOSuperIndirectStat	coAWDSCalliope,-50,0,0,-1	
 	
 	setCOGFXPowerRule       coAWDSCalliope,COPCheckDirectCombatUnits
