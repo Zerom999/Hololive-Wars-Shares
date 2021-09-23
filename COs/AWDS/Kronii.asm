@@ -1,22 +1,22 @@
         setCODefaults           coAWDSKronii
 	setCOGameID		coAWDSKronii,Game_AWDS
 
-	setCOGFXFullbody        coAWDSKronii,GraphicsAWDSSenseiGraphic
-	setCOGFXName            coAWDSKronii,GraphicsAWDSSenseiName
-	setCOGFXPalette         coAWDSKronii,GraphicsAWDSSenseiPalette
-	setCOGFXFace            coAWDSKronii,GraphicsAWDSSenseiFace,GraphicsAWDSSenseiHappyFace,GraphicsAWDSSenseiSadFace
-	setCOGFXSmallFace       coAWDSKronii,GraphicsAWDSSenseiMugshot
+	setCOGFXFullbody        coAWDSKronii,GraphicsAWDSKroniiGraphic
+	setCOGFXName            coAWDSKronii,GraphicsAWDSKroniiName
+	setCOGFXPalette         coAWDSKronii,GraphicsAWDSKroniiPalette
+	setCOGFXFace            coAWDSKronii,GraphicsAWDSKroniiFace,GraphicsAWDSKroniiHappyFace,GraphicsAWDSSKroniiSadFace
+	setCOGFXSmallFace       coAWDSKronii,GraphicsAWDSKroniiMugshot
 	setCOGFXPowerAnim       coAWDSKronii,3,0
 	setCOGFXPowerSFX        coAWDSKronii,0xb4,0xb5
 	setCOGFXSuperAnim       coAWDSKronii,7,7
 	setCOGFXSuperSFX        coAWDSKronii,0x1f7,0x1f8
 	
-	setCOName               coAWDSKronii,ScriptAWDSSensei
-	setCOpowerName          coAWDSKronii,ScriptAWDSSensei+1
-	setCOsuperName          coAWDSKronii,ScriptAWDSSensei+2
-	setCOpowerText          coAWDSKronii,ScriptAWDSSensei+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
-	setCOprofileText        coAWDSKronii,ScriptAWDSSensei+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
-	setCOvictoryText        coAWDSKronii,ScriptAWDSSensei+7
+	setCOName               coAWDSKronii,ScriptAWDSKronii
+	setCOpowerName          coAWDSKronii,ScriptAWDSKronii+1
+	setCOsuperName          coAWDSKronii,ScriptAWDSKronii+2
+	setCOpowerText          coAWDSKronii,ScriptAWDSKronii+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
+	setCOprofileText        coAWDSKronii,ScriptAWDSKronii+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
+	setCOvictoryText        coAWDSKronii,ScriptAWDSKroniii+7
 
 	setCOFaction			coAWDSKronii,ArmyYellowComet
 	setCOMusic          		coAWDSKronii,MusicKroniiTheme
