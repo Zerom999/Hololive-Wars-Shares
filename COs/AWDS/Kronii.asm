@@ -21,8 +21,8 @@
 	setCOFaction			coAWDSKronii,ArmyYellowComet
 	setCOMusic          		coAWDSKronii,MusicKroniiTheme
 
-	setCOPowerCost          	coAWDSKronii,5
-	setCOSuperCost          	coAWDSKronii,10
+	setCOPowerCost          	coAWDSKronii,6
+	setCOSuperCost          	coAWDSKronii,12
 	
 	setCOD2DLandStat		coAWDSKronii,-30,0,0,0
 	setCOD2DNavyStat		coAWDSKronii,-50,0,0,0
