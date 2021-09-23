@@ -1,4 +1,4 @@
-setCODefaults           coAWDSWatame
+        setCODefaults           coAWDSWatame
 	setCOGameID		coAWDSWatame,Game_AWDS
 
 	setCOGFXFullbody        coAWDSWatame,GraphicsAWDSWatameGraphic
@@ -21,8 +21,8 @@ setCODefaults           coAWDSWatame
 	setCOFaction		coAWDSWatame,ArmyYellowComet
 	setCOMusic          	coAWDSWatame,MusicWatameTheme
 
-	setCOPowerCost          coAWDSWatame,3
-	setCOSuperCost          coAWDSWatame,6
+	setCOPowerCost          coAWDSWatame,5
+	setCOSuperCost          coAWDSWatame,10
 
 	setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
 	
