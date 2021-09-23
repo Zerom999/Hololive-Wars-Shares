@@ -24,12 +24,10 @@
 	setCOPowerCost          coAWDSSana,2
 	setCOSuperCost          coAWDSSana,4
 
+	setCOPowerASM		coAWDSSana,COPowerBlizzard
+	setCOSuperASM		coAWDSSana,COPowerExtendedBlizzard
 	
-	setCOPowerASM		coAWDSLamy,COPowerBlizzard
-	setCOSuperASM		coAWDSLamy,COPowerExtendedBlizzard
-	
-	setCOAIPowerRange       coAWDSLamy,15
-	setCOAIPowerTrigger     coAWDSLamy,70
-	setCOAIPowerTriggerASM	coAWDSLamy,AIActivateNotSnow
-; blank line
+	setCOAIPowerRange       coAWDSSana,15
+	setCOAIPowerTrigger     coAWDSSana,70
+; blank line	
 
