@@ -29,19 +29,16 @@
 	setCOD2DTransportStat		coAWDSKronii,0,50,1,0
 	setCOD2DUnitStat		coAWDSKronii,Unit_BattleCopter,50,50,1,0
 
-        setCOPowerLandStat		coAWDSSensei,-30,0,0,0
-	setCOPowerNavyStat		coAWDSSensei,-50,0,0,0
-	setCOPowerTransportStat		coAWDSSensei,0,70,1,0
-	setCOPowerUnitStat		coAWDSSensei,Unit_BattleCopter,70,70,1,0
+        setCOPowerLandStat		coAWDSKronii,-30,0,0,0
+	setCOPowerNavyStat		coAWDSKronii,-50,0,0,0
+	setCOPowerTransportStat		coAWDSKronii,0,70,1,0
+	setCOPowerUnitStat		coAWDSKronii,Unit_BattleCopter,70,70,1,0
         
-	setCOSuperLandStat		coAWDSSensei,-30,0,0,0
-	setCOSuperNavyStat		coAWDSSensei,-50,0,0,0
-	setCOSuperTransportStat    	coAWDSSensei,0,90,1,0
-	setCOSuperUnitStat		coAWDSSensei,Unit_BattleCopter,90,90,1,0
-
-	setCOPowerASM			coAWDSSensei,COPowerCopterCommand
-	setCOSuperASM			coAWDSSensei,COPowerAirborneAssault	
-	
+	setCOSuperLandStat		coAWDSKronii,-30,0,0,0
+	setCOSuperNavyStat		coAWDSKronii,-50,0,0,0
+	setCOSuperTransportStat    	coAWDSKronii,0,90,1,0
+	setCOSuperUnitStat		coAWDSKronii,Unit_BattleCopter,90,90,1,0
+			
 	setCOAIPowerRange       coAWDSSensei,15
 	setCOAIPowerTrigger     coAWDSSensei,70
 ; blank line
