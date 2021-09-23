@@ -39,10 +39,10 @@
 	setCOSuperTransportStat    	coAWDSKronii,0,90,1,0
 	setCOSuperUnitStat		coAWDSKronii,Unit_BattleCopter,90,90,1,0
 			
-	setCOPowerASM			coAWDSSensei,COPowerCopterCommand
-	setCOSuperASM			coAWDSSensei,COPowerAirborneAssault	
+	setCOPowerASM			coAWDSKronii,COPowerCopterCommand
+	setCOSuperASM			coAWDSKronii,COPowerAirborneAssault	
 	
-	setCOAIPowerRange       coAWDSSensei,15
-	setCOAIPowerTrigger     coAWDSSensei,70
+	setCOAIPowerRange       coAWDSKronii,15
+	setCOAIPowerTrigger     coAWDSKronii,70
 ; blank line
 
