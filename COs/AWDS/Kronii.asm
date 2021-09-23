@@ -14,8 +14,8 @@
 	setCOName               coAWDSKronii,ScriptAWDSKronii
 	setCOpowerName          coAWDSKronii,ScriptAWDSKronii+1
 	setCOsuperName          coAWDSKronii,ScriptAWDSKronii+2
-	setCOpowerText          coAWDSKronii,ScriptAWDSKronii+8,ScriptAWDSSensei+9,ScriptAWDSSensei+10,ScriptAWDSSensei+11,ScriptAWDSSensei+12,ScriptAWDSSensei+13
-	setCOprofileText        coAWDSKronii,ScriptAWDSKronii+3,ScriptAWDSSensei+4,ScriptAWDSSensei+5,ScriptAWDSSensei+6
+	setCOpowerText          coAWDSKronii,ScriptAWDSKronii+8,ScriptAWDSKronii+9,ScriptAWDSKronii+10,ScriptAWDSKronii+11,ScriptAWDSKronii+12,ScriptAWDSKronii+13
+	setCOprofileText        coAWDSKronii,ScriptAWDSKronii+3,ScriptAWDSKronii+4,ScriptAWDSKronii+5,ScriptAWDSKronii+6
 	setCOvictoryText        coAWDSKronii,ScriptAWDSKroniii+7
 
 	setCOFaction			coAWDSKronii,ArmyYellowComet
