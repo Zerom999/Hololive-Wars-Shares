@@ -1,15 +1,15 @@
-        setCODefaults           coAWDSLamy
-	setCOGameID		coAWDSLamy,Game_AWDS
+        setCODefaults           coAWDSSana
+	setCOGameID		coAWDSSana,Game_AWDS
 
-	setCOGFXFullbody        coAWDSLamy,GraphicsAWDSLamyGraphic
-	setCOGFXName            coAWDSLamy,GraphicsAWDSLamyName
-	setCOGFXPalette         coAWDSLamy,GraphicsAWDSLamyPalette
-	setCOGFXFace            coAWDSLamy,GraphicsAWDSLamyFace,GraphicsAWDSLamyHappyFace,GraphicsAWDSLamySadFace
-	setCOGFXSmallFace       coAWDSLamy,GraphicsAWDSLamyMugshot
-	setCOGFXPowerAnim       coAWDSLamy,0,0
-	setCOGFXPowerSFX        coAWDSLamy,0xC3,0
-	setCOGFXSuperAnim       coAWDSLamy,7,7
-	setCOGFXSuperSFX        coAWDSLamy,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSSana,GraphicsAWDSLamyGraphic
+	setCOGFXName            coAWDSSana,GraphicsAWDSLamyName
+	setCOGFXPalette         coAWDSSana,GraphicsAWDSLamyPalette
+	setCOGFXFace            coAWDSSana,GraphicsAWDSLamyFace,GraphicsAWDSLamyHappyFace,GraphicsAWDSLamySadFace
+	setCOGFXSmallFace       coAWDSSana,GraphicsAWDSLamyMugshot
+	setCOGFXPowerAnim       coAWDSSana,0,0
+	setCOGFXPowerSFX        coAWDSSana,0xC3,0
+	setCOGFXSuperAnim       coAWDSSana,7,7
+	setCOGFXSuperSFX        coAWDSSana,0x1f7,0x1f8
 	
 	setCOName               coAWDSLamy,ScriptAWDSLamy
 	setCOpowerName          coAWDSLamy,ScriptAWDSLamy+1
@@ -27,11 +27,7 @@
 	setCOD2DSnowFirepower	coAWDSLamy,20
 	setCOPowerSnowFirepower	coAWDSLamy,40
 	setCOSuperSnowFirepower	coAWDSLamy,60
-	
-	setCOD2DMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOPowerMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOSuperMove		coAWDSLamy, MovementChartClear,MovementChartClear,MovementChartSnow
-	
+
 	setCOPowerASM		coAWDSLamy,COPowerBlizzard
 	setCOSuperASM		coAWDSLamy,COPowerExtendedBlizzard
 	
