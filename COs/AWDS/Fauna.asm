@@ -18,23 +18,23 @@
 	setCOprofileText        coAWDSFauna,ScriptAWDSWatame+3,ScriptAWDSWatame+4,ScriptAWDSWatame+5,ScriptAWDSWatame+6
 	setCOvictoryText        coAWDSFauna,ScriptAWDSWatame+7
 
-	setCOFaction		coAWDSWatame,ArmyYellowComet
-	setCOMusic          	coAWDSWatame,MusicWatameTheme
+	setCOFaction		coAWDSFauna,ArmyGreenEarth
+	setCOMusic          	coAWDSFauna,MusicFaunaTheme
 
-	setCOPowerCost          coAWDSWatame,5
-	setCOSuperCost          coAWDSWatame,10
+	setCOPowerCost          coAWDSFauna,5
+	setCOSuperCost          coAWDSFauna,10
 
-	setCOD2DTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameDaytoDay
+	setCOD2DTerrainFirepowerList	coAWDSFauna,TerrainFirepowerBoostFaunaDaytoDay
 	
-	setCOPowerLandStat		coAWDSWatame,0,0,1,0
-	setCOPowerIndirectLandStat	coAWDSWatame,0,0,1,0
-	setCOPowerTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatamePower
+	setCOPowerLandStat		coAWDSFauna,0,0,1,0
+	setCOPowerIndirectLandStat	coAWDSFauna,0,0,1,0
+	setCOPowerTerrainFirepowerList	coAWDSFauna,TerrainFirepowerBoostFaunaPower
 	
-	setCOSuperLandStat		coAWDSWatame,0,0,2,0
-	setCOSuperIndirectLandStat	coAWDSWatame,0,0,2,0
-	setCOSuperTerrainFirepowerList	coAWDSWatame,TerrainFirepowerBoostWatameSuper
+	setCOSuperLandStat		coAWDSFauna,0,0,2,0
+	setCOSuperIndirectLandStat	coAWDSFauna,0,0,2,0
+	setCOSuperTerrainFirepowerList	coAWDSFauna,TerrainFirepowerBoostFaunaSuper
 	
-	setCOAIPowerRange       coAWDSWatame,25
-	setCOAIPowerTrigger     coAWDSWatame,95
+	setCOAIPowerRange       coAWDSFauna,25
+	setCOAIPowerTrigger     coAWDSFauna,95
 ; blank line
 
