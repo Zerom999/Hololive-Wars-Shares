@@ -1,4 +1,4 @@
-;terrainboosterSubaru.asm
+;terrainboosterSubarudaily.asm
 
 ;Terrain Boosting Table
 
