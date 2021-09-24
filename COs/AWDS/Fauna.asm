@@ -1,11 +1,11 @@
         setCODefaults           coAWDSFauna
 	setCOGameID		coAWDSFauna,Game_AWDS
 
-	setCOGFXFullbody        coAWDSFauna,GraphicsAWDSWatameGraphic
-	setCOGFXName            coAWDSFauna,GraphicsAWDSWatameName
-	setCOGFXPalette         coAWDSFauna,GraphicsAWDSWatamePalette
-	setCOGFXFace            coAWDSFauna,GraphicsAWDSWatameFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
-	setCOGFXSmallFace       coAWDSFauna,GraphicsAWDSWatameMugshot
+	setCOGFXFullbody        coAWDSFauna,GraphicsAWDSFaunaGraphic
+	setCOGFXName            coAWDSFauna,GraphicsAWDSFaunaName
+	setCOGFXPalette         coAWDSFauna,GraphicsAWDSFaunaPalette
+	setCOGFXFace            coAWDSFauna,GraphicsAWDSFaubaFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
+	setCOGFXSmallFace       coAWDSFauna,GraphicsAWDSFaunaMugshot
 	setCOGFXPowerAnim       coAWDSFauna,2,0
 	setCOGFXPowerSFX        coAWDSFauna,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSFauna,7,7
