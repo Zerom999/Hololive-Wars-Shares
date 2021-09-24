@@ -4,19 +4,19 @@
 	setCOGFXFullbody        coAWDSFauna,GraphicsAWDSFaunaGraphic
 	setCOGFXName            coAWDSFauna,GraphicsAWDSFaunaName
 	setCOGFXPalette         coAWDSFauna,GraphicsAWDSFaunaPalette
-	setCOGFXFace            coAWDSFauna,GraphicsAWDSFaubaFace,GraphicsAWDSWatameHappyFace,GraphicsAWDSWatameSadFace
+	setCOGFXFace            coAWDSFauna,GraphicsAWDSFaunaFace,GraphicsAWDSFaunaHappyFace,GraphicsAWDSFaunaSadFace
 	setCOGFXSmallFace       coAWDSFauna,GraphicsAWDSFaunaMugshot
 	setCOGFXPowerAnim       coAWDSFauna,2,0
 	setCOGFXPowerSFX        coAWDSFauna,0xb7,0xb8
 	setCOGFXSuperAnim       coAWDSFauna,7,7
 	setCOGFXSuperSFX        coAWDSFauna,0x1f7,0x1f8
 	
-	setCOName               coAWDSFauna,ScriptAWDSWatame
-	setCOpowerName          coAWDSFauna,ScriptAWDSWatame+1
-	setCOsuperName          coAWDSFauna,ScriptAWDSWatame+2
-	setCOpowerText          coAWDSFauna,ScriptAWDSWatame+8,ScriptAWDSWatame+9,ScriptAWDSWatame+10,ScriptAWDSWatame+11,ScriptAWDSWatame+12,ScriptAWDSWatame+13
-	setCOprofileText        coAWDSFauna,ScriptAWDSWatame+3,ScriptAWDSWatame+4,ScriptAWDSWatame+5,ScriptAWDSWatame+6
-	setCOvictoryText        coAWDSFauna,ScriptAWDSWatame+7
+	setCOName               coAWDSFauna,ScriptAWDSFauna
+	setCOpowerName          coAWDSFauna,ScriptAWDSFauna+1
+	setCOsuperName          coAWDSFauna,ScriptAWDSFauna+2
+	setCOpowerText          coAWDSFauna,ScriptAWDSFauna+8,ScriptAWDSFauna+9,ScriptAWDSFauna+10,ScriptAWDSFauna+11,ScriptAWDSFauna+12,ScriptAWDSFauna+13
+	setCOprofileText        coAWDSFauna,ScriptAWDSFauna+3,ScriptAWDSFauna+4,ScriptAWDSFauna+5,ScriptAWDSFauna+6
+	setCOvictoryText        coAWDSFauna,ScriptAWDSFauna+7
 
 	setCOFaction		coAWDSFauna,ArmyGreenEarth
 	setCOMusic          	coAWDSFauna,MusicFaunaTheme
