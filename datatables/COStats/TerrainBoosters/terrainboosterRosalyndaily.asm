@@ -1,8 +1,8 @@
-;terrainboosterRobocodaily.asm
+;terrainboosterRosalyndaily.asm
 
 ;Terrain Boosting Table
 
-TerrainFirepowerBoostRobocoDaytoDay:
+TerrainFirepowerBoostRosalynDaytoDay:
 	;Null, Plains, River, Mountain
 	;.db 0,0,0,0
 	;Forest, Road, City, Sea
