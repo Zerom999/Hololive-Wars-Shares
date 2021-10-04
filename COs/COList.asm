@@ -50,6 +50,7 @@
 	.include "AWDS/Kronii.asm"
 	.include "AWDS/Mumei.asm"
 	.include "AWDS/Baelz.asm"
+	.include "AWDS/OmegaA.asm"
 	
 	;Yellow Comet
 	.include "AWDS/Kanata.asm"
