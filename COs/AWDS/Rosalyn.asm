@@ -1,34 +1,34 @@
-        setCODefaults           coAWDSRoboco
-	setCOGameID		coAWDSRoboco,Game_AWDS
+        setCODefaults           coAWDSRosalyn
+	setCOGameID		coAWDSRosalyn,Game_AWDS
 
-	setCOGFXFullbody        coAWDSRoboco,GraphicsAWDSRobocoGraphic
-	setCOGFXName            coAWDSRoboco,GraphicsAWDSRobocoName
-	setCOGFXPalette         coAWDSRoboco,GraphicsAWDSRobocoPalette
-	setCOGFXFace            coAWDSRoboco,GraphicsAWDSRobocoFace,GraphicsAWDSRobocoHappyFace,GraphicsAWDSRobocoSadFace
-	setCOGFXSmallFace       coAWDSRoboco,GraphicsAWDSRobocoMugshot
-	setCOGFXPowerAnim       coAWDSRoboco,2,0
-	setCOGFXPowerSFX        coAWDSRoboco,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSRoboco,7,7
-	setCOGFXSuperSFX        coAWDSRoboco,0x1F4,0x1f5
+	setCOGFXFullbody        coAWDSRosalyn,GraphicsAWDSRobocoGraphic
+	setCOGFXName            coAWDSRosalyn,GraphicsAWDSRobocoName
+	setCOGFXPalette         coAWDSRosalyn,GraphicsAWDSRobocoPalette
+	setCOGFXFace            coAWDSRosalyn,GraphicsAWDSRobocoFace,GraphicsAWDSRobocoHappyFace,GraphicsAWDSRobocoSadFace
+	setCOGFXSmallFace       coAWDSRosalyn,GraphicsAWDSRobocoMugshot
+	setCOGFXPowerAnim       coAWDSRosalyn,2,0
+	setCOGFXPowerSFX        coAWDSRosalyn,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSRosalyn,7,7
+	setCOGFXSuperSFX        coAWDSRosalyn,0x1F4,0x1f5
 	
-	setCOName               coAWDSRoboco,ScriptAWDSRoboco
-	setCOpowerName          coAWDSRoboco,ScriptAWDSRoboco+1
-	setCOsuperName          coAWDSRoboco,ScriptAWDSRoboco+2
-	setCOpowerText          coAWDSRoboco,ScriptAWDSRoboco+8,ScriptAWDSRoboco+9,ScriptAWDSRoboco+10,ScriptAWDSRoboco+11,ScriptAWDSRoboco+12,ScriptAWDSRoboco+13
-	setCOprofileText        coAWDSRoboco,ScriptAWDSRoboco+3,ScriptAWDSRoboco+4,ScriptAWDSRoboco+5,ScriptAWDSRoboco+6
-	setCOvictoryText        coAWDSRoboco,ScriptAWDSRoboco+7
+	setCOName               coAWDSRosalyn,ScriptAWDSRoboco
+	setCOpowerName          coAWDSRosalyn,ScriptAWDSRoboco+1
+	setCOsuperName          coAWDSRosalyn,ScriptAWDSRoboco+2
+	setCOpowerText          coAWDSRosalyn,ScriptAWDSRoboco+8,ScriptAWDSRoboco+9,ScriptAWDSRoboco+10,ScriptAWDSRoboco+11,ScriptAWDSRoboco+12,ScriptAWDSRoboco+13
+	setCOprofileText        coAWDSRosalyn,ScriptAWDSRoboco+3,ScriptAWDSRoboco+4,ScriptAWDSRoboco+5,ScriptAWDSRoboco+6
+	setCOvictoryText        coAWDSRosalyn,ScriptAWDSRoboco+7
 
-	setCOFaction		coAWDSRoboco,ArmyOrangeStar
+	setCOFaction		coAWDSRosalyn,ArmyOrangeStar
 	setCOMusic          	coAWDSRoboco,MusicRobocoTheme
 	
-	setCOPowerCost		coAWDSRoboco,5
-	setCOSuperCost		coAWDSRoboco,10
+	setCOPowerCost		coAWDSRosalyn,5
+	setCOSuperCost		coAWDSRosalyn,10
 	
-	setCOD2DTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoDaytoDay
-	setCOPowerTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoPower
-	setCOSuperTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoSuper
+	setCOD2DTerrainFirepowerList	coAWDSRosalyn,TerrainFirepowerBoostRobocoDaytoDay
+	setCOPowerTerrainFirepowerList	coAWDSRosalyn,TerrainFirepowerBoostRobocoPower
+	setCOSuperTerrainFirepowerList	coAWDSRosalyn,TerrainFirepowerBoostRobocoSuper
 
-	setCOAIPowerRange       	coAWDSRoboco,25
-	setCOAIPowerTrigger     	coAWDSRoboco,95
-	setCOAIPowerTriggerASM  	coAWDSRoboco,AIActivateOnProperties ;Replace with City one for COP when transplanted
+	setCOAIPowerRange       	coAWDSRosalyn,25
+	setCOAIPowerTrigger     	coAWDSRosalyn,95
+	setCOAIPowerTriggerASM  	coAWDSRosalyn,AIActivateOnProperties ;Replace with City one for COP when transplanted
 ; blank line
