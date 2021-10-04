@@ -21,14 +21,14 @@
 	setCOFaction		coAWDSSora,ArmyOrangeStar
 	setCOMusic          	coAWDSSora,MusicSoraTheme
 
-	setCOPowerCost          coAWDSSora,4
-	setCOSuperCost          coAWDSSora,8
+	setCOPowerCost          coAWDSSora,5
+	setCOSuperCost          coAWDSSora,10
 
 	setCOPowerDirectStat	coAWDSSora,30,20,1,0	
-	setCOPowerIndirectStat	coAWDSSora,30,20,1,0
+	setCOPowerIndirectStat	coAWDSSora,30,20,1,1
 	
 	setCOSuperDirectStat	coAWDSSora,60,40,2,0	
-	setCOSuperIndirectStat	coAWDSSora,60,40,2,0
+	setCOSuperIndirectStat	coAWDSSora,60,40,2,2
 	
 	setCOAIPowerRange       coAWDSSora,25
 	setCOAIPowerTrigger     coAWDSSora,95
