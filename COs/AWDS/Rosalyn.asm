@@ -27,6 +27,9 @@
 	setCOD2DTerrainFirepowerList	coAWDSRosalyn,TerrainFirepowerBoostRobocoDaytoDay
 	setCOPowerTerrainFirepowerList	coAWDSRosalyn,TerrainFirepowerBoostRobocoPower
 	setCOSuperTerrainFirepowerList	coAWDSRosalyn,TerrainFirepowerBoostRobocoSuper
+	
+	setCOPowerASM		coAWDSHawke,COPowerBlackWave
+	setCOSuperASM		coAWDSHawke,COPowerBlackStorm
 
 	setCOAIPowerRange       	coAWDSRosalyn,25
 	setCOAIPowerTrigger     	coAWDSRosalyn,95
