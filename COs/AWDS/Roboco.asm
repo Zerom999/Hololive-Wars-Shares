@@ -28,9 +28,6 @@
 	setCOPowerTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoPower
 	setCOSuperTerrainFirepowerList	coAWDSRoboco,TerrainFirepowerBoostRobocoSuper
 
-	setCOPowerASM			coAWDSRoboco,COPowerUrbanBlight
-	setCOGFXSuperType		coAWDSRoboco,COPowerTypeHighSociety
-
 	setCOAIPowerRange       	coAWDSRoboco,25
 	setCOAIPowerTrigger     	coAWDSRoboco,95
 	setCOAIPowerTriggerASM  	coAWDSRoboco,AIActivateOnProperties ;Replace with City one for COP when transplanted
