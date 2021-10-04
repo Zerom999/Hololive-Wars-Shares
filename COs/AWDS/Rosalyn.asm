@@ -18,8 +18,10 @@
 	setCOprofileText        coAWDSRosalyn,ScriptAWDSRosalyn+3,ScriptAWDSRosalyn+4,ScriptAWDSRosalyn+5,ScriptAWDSRosalyn+6
 	setCOvictoryText        coAWDSRosalyn,ScriptAWDSRosalyn+7
 
-	setCOFaction		coAWDSRosalyn,ArmyOrangeStar
-	setCOMusic          	coAWDSRoboco,MusicRobocoTheme
+	setCOFaction		coAWDSRosalyn,ArmyBlackHole
+	setCOMusic          	coAWDSRosalyn,MusicFlakTheme
+	setCOPowerMusic         coAWDSRosalyn,MusicBlackPower
+	setCOSuperMusic         coAWDSRosalyn,MusicBlackSuper
 	
 	setCOPowerCost		coAWDSRosalyn,5
 	setCOSuperCost		coAWDSRosalyn,10
