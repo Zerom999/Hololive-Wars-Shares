@@ -19,18 +19,19 @@
 	setCOvictoryText        coAWDSSora,ScriptAWDSYuujinA+7
 
 	setCOFaction		coAWDSYuujinA,ArmyOrangeStar
-	setCOMusic          	coAWDSYuujinA,MusicSoraTheme
+	setCOMusic          	coAWDSYuujinA,MusicYuujinATheme
 
-	setCOPowerCost          coAWDSYuujinA,6
-	setCOSuperCost          coAWDSSora,12
+	setCOPowerCost          coAWDSYuujinA,0
+	setCOSuperCost          coAWDSYuujinA,0
+	
+	setCOD2DAbilities		coAWDSYuujinA,SpecialDisableSCOP
+	setCOPowerAbilities		coAWDSYuujinA,SpecialDisableSCOP
+	setCOSuperAbilities		coAWDSYuujinA,SpecialDisableSCOP
+	
+	setCOAllStat		coAWDSYuujinA,60,0,0,0
 
-	setCOPowerDirectStat	coAWDSYuujinA,30,20,1,0	
-	setCOPowerIndirectStat	coAWDSYuujinA,20,1,0
+	setCOAIPowerRange       coAWDSYuujinA,0
+	setCOAIPowerTrigger     coAWDSYuujinA,0
+	setCOAIPowerTriggerASM		coAWDSYuujinA,AIActivateNever
 	
-	setCOSuperDirectStat	coAWDSYuujinA,40,2,0	
-	setCOSuperIndirectStat	coAWDSYuujinA,40,2,0
-	
-	setCOAIPowerRange       coAWDSSora,25
-	setCOAIPowerTrigger     coAWDSSora,95
 ; blank line
-
