@@ -1,8 +1,8 @@
-;terrainboosterSubarudaily.asm
+;terrainboosterRobocodaily.asm
 
 ;Terrain Boosting Table
 
-TerrainFirepowerBoostSubaruDaytoDay:
+TerrainFirepowerBoostRobocoDaytoDay:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
@@ -20,7 +20,7 @@ TerrainFirepowerBoostSubaruDaytoDay:
 	;Volcano, Factory, Deathray, Variable Tile
 	.db 0,0,0,0
 	
-TerrainFirepowerBoostSubaruPower:
+TerrainFirepowerBoostRobocoPower:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
@@ -38,7 +38,7 @@ TerrainFirepowerBoostSubaruPower:
 	;Volcano, Factory, Deathray, Variable Tile
 	.db 0,0,0,0	
 	
-TerrainFirepowerBoostSubaruSuper:
+TerrainFirepowerBoostRobocoSuper:
 	;Null, Plains, River, Mountain
 	.db 0,0,0,0
 	;Forest, Road, City, Sea
