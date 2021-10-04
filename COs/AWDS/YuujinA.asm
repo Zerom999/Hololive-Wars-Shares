@@ -1,22 +1,22 @@
- setCODefaults           coAWDSSora
-	setCOGameID		coAWDSSora,Game_AWDS
+        setCODefaults           coAWDSYuujinA
+	setCOGameID		coAWDSYuujinA,Game_AWDS
 
-	setCOGFXFullbody        coAWDSSora,GraphicsAWDSSoraGraphic
-	setCOGFXName            coAWDSSora,GraphicsAWDSSoraName
-	setCOGFXPalette         coAWDSSora,GraphicsAWDSSoraPalette
-	setCOGFXFace            coAWDSSora,GraphicsAWDSoraFace,GraphicsAWDSSoraHappyFace,GraphicsAWDSSoraSadFace
-	setCOGFXSmallFace       coAWDSSora,GraphicsAWDSSoraMugshot
-	setCOGFXPowerAnim       coAWDSSora,0,0
-	setCOGFXPowerSFX        coAWDSSora,0xb7,0xb8
-	setCOGFXSuperAnim       coAWDSSora,7,7
-	setCOGFXSuperSFX        coAWDSSora,0x1f7,0x1f8
+	setCOGFXFullbody        coAWDSYuujinA,GraphicsAWDSYuujinAGraphic
+	setCOGFXName            coAWDSYuujinA,GraphicsAWDSYuujinAName
+	setCOGFXPalette         coAWDSYuujinA,GraphicsAWDSYuujinAPalette
+	setCOGFXFace            coAWDSYuujinA,GraphicsAWDYuujinAFace,GraphicsAWDSYuujinAHappyFace,GraphicsAWDSYuujinASadFace
+	setCOGFXSmallFace       coAWDSYuujinA,GraphicsAWDSYuujinAMugshot
+	setCOGFXPowerAnim       coAWDSYuujinA,0,0
+	setCOGFXPowerSFX        coAWDSYuujinA,0xb7,0xb8
+	setCOGFXSuperAnim       coAWDSYuujinA,7,7
+	setCOGFXSuperSFX        coAWDSYuujinA,0x1f7,0x1f8
 	
-	setCOName               coAWDSSora,ScriptAWDSSora
-	setCOpowerName          coAWDSSora,ScriptAWDSSora+1
-	setCOsuperName          coAWDSSora,ScriptAWDSSora+2
-	setCOpowerText          coAWDSSora,ScriptAWDSSora+8,ScriptAWDSSora+9,ScriptAWDSSora+10,ScriptAWDSSoraa+11,ScriptAWDSSora+12,ScriptAWDSSora+13
-	setCOprofileText        coAWDSSora,ScriptAWDSSora+3,ScriptAWDSSora+4,ScriptAWDSSora+5,ScriptAWDSSora+6
-	setCOvictoryText        coAWDSSora,ScriptAWDSSora+7
+	setCOName               coAWDSYuujinA,ScriptAWDSYuujinA
+	setCOpowerName          coAWDSSora,ScriptAWDSYuujinA+1
+	setCOsuperName          coAWDSSora,ScriptAWDSYuujinA+2
+	setCOpowerText          coAWDSSora,ScriptAWDSYuujinA+8,ScriptAWDSYuujinA+9,ScriptAWDSYuujinA+10,ScriptAWDSYuujinA+11,ScriptAWDSYuujinA+12,ScriptAWDSYuujinA+13
+	setCOprofileText        coAWDSSora,ScriptAWDSYuujinA+3,ScriptAWDSYuujinA+4,ScriptAWDSYuujinA+5,ScriptAWDSYuujinA+6
+	setCOvictoryText        coAWDSSora,ScriptAWDSYuujinA+7
 
 	setCOFaction		coAWDSSora,ArmyOrangeStar
 	setCOMusic          	coAWDSSora,MusicSoraTheme
