@@ -1,5 +1,5 @@
-setCODefaults           coAWDSVonBolt
-	setCOGameID		coAWDSVonBolt,Game_AWDS
+        setCODefaults           coAWDSVonBolt
+ 	setCOGameID		coAWDSVonBolt,Game_AWDS
 
 	setCOGFXFullbody        coAWDSVonBolt,GraphicsAWDSVonBoltGraphic
 	setCOGFXName            coAWDSVonBolt,GraphicsAWDSVonBoltName
@@ -20,13 +20,13 @@ setCODefaults           coAWDSVonBolt
 
 	setCOFaction		coAWDSVonBolt,ArmyBlackHole
 	setCOMusic          	coAWDSVonBolt,MusicBlackHole
-	setCOPowerMusic              coAWDSVonBolt,MusicBlackPower
-	setCOSuperMusic              coAWDSVonBolt,MusicBlackSuper
+	setCOPowerMusic         coAWDSVonBolt,MusicBlackPower
+	setCOSuperMusic         coAWDSVonBolt,MusicBlackSuper
 
 	setCOPowerCost          coAWDSVonBolt,0
-	setCOSuperCost          coAWDSVonBolt,10
+	setCOSuperCost          coAWDSVonBolt,20
 
-	setCOAllStat		coAWDSVonBolt,-10,30,0,0
+	setCOAllStat		coAWDSVonBolt,20,20,0,0
 
 	setCOSuperASM		coAWDSVonBolt,COPowerExMachina
 	
