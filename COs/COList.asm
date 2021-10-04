@@ -37,10 +37,16 @@
 	.include "AWDS/Javier.asm"
 	
 	;Yellow Comet
-	.include "AWDS/Kanbei.asm"
-	.include "AWDS/Sonja.asm"
-	.include "AWDS/Sensei.asm"
-	.include "AWDS/Grimm.asm"
+	.include "AWDS/Kanata.asm"
+	.include "AWDS/Watame.asm"
+	.include "AWDS/Towa.asm"
+	.include "AWDS/Luna.asm"
+	.include "AWDS/Coco.asm"
+	.include "AWDS/Lamy.asm"
+	.include "AWDS/Nene.asm"
+	.include "AWDS/Botan.asm"
+	.include "AWDS/Polka.asm"
+	.include "AWDS/Aloe.asm"
 	
 	;Black Hole
 	.include "AWDS/Flak.asm"
