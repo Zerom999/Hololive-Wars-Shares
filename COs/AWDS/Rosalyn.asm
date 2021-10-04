@@ -1,4 +1,4 @@
-setCODefaults           coAWDSRoboco
+        setCODefaults           coAWDSRoboco
 	setCOGameID		coAWDSRoboco,Game_AWDS
 
 	setCOGFXFullbody        coAWDSRoboco,GraphicsAWDSRobocoGraphic
