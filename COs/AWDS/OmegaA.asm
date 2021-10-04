@@ -18,23 +18,19 @@
 	setCOprofileText        coAWDSOmegaA,ScriptAWDSTowa+3,ScriptAWDSTowa+4,ScriptAWDSTowa+5,ScriptAWDSTowa+6
 	setCOvictoryText        coAWDSOmegaA,ScriptAWDSTowa+7
 
-	setCOFaction		coAWDSOmegaA,ArmyYellowComet
-	setCOMusic          	coAWDSOmegaA,MusicTowaTheme
+	setCOFaction		coAWDSOmegaA,ArmyGreenEarth
+	setCOMusic          	coAWDSOmegaA,MusicOmegaATheme
 
 	setCOPowerCost          coAWDSOmegaA,6
 	setCOSuperCost          coAWDSOmegaA,12
 
-	setCOD2DAllStat	        coAWDSOmegaA,20,0,0,0	
+	setCOD2DAllStat		coAWDSOmegaA,50,50,0,1
 	
-	setCOPowerSoldierStat	coAWDSTowa,40,0,0,0
-	setCOPowerIndirectStat	coAWDSTowa,40,0,0,0
-	setCOPowerSDirecttat	coAWDSTowa,-20,0,0,0
+	setPowerAllStat		coAWDSOmegaA,120,70,0,2
 	
-	setCOPowerSoldierStat	coAWDSTowa,60,0,0,0
-	setCOPowerIndirectStat	coAWDSTowa,60,0,0,0
-	setCOPowerSDirecttat	coAWDSTowa,-20,0,0,0
+	setSuperAllStat		coAWDSOmegaA,200,90,0,3
 	
-	setCOAIPowerRange       coAWDSTowa,25
-	setCOAIPowerTrigger     coAWDSTowa,95
+	setCOAIPowerRange       coAWDSOmegaA,25
+	setCOAIPowerTrigger     coAWDSOmegaA,95
 ; blank line
 
