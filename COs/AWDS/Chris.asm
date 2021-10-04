@@ -28,7 +28,7 @@
 
 	setCOAllStat		coAWDSVonBolt,20,20,0,0
 
-	setCOSuperASM		coAWDSVonBolt,COPowerExMachina
+	setCOSuperASM		coAWDSVonBolt,COPowerMeteorStrikeTripleTest.asm
 	
 	setCOAIPowerRange       coAWDSVonBolt,0
 	setCOAIPowerTrigger     coAWDSVonBolt,0
