@@ -4,6 +4,8 @@
 	;Advance Wars Dual Strike
 	
 	;Orange Star
+	.include "AWDS/YAGOO.asm"
+	.include "AWDS/YuujinA.asm"
 	.include "AWDS/Sora.asm"
 	.include "AWDS/Roboco.asm"
 	.include "AWDS/Miko.asm"
@@ -62,14 +64,16 @@
 	.include "AWDS/Aloe.asm"
 	
 	;Black Hole
-	.include "AWDS/Flak.asm"
-	.include "AWDS/Lash.asm"
-	.include "AWDS/Adder.asm"
-	.include "AWDS/Hawke.asm"
-	.include "AWDS/Jugger.asm"
-	.include "AWDS/Koal.asm"
-	.include "AWDS/Kindle.asm"
-	.include "AWDS/VonBolt.asm"
+	.include "AWDS/Yogiri.asm"
+	.include "AWDS/Civia.asm"
+	.include "AWDS/SpadeEcho.asm"
+	.include "AWDS/Doris.asm"
+	.include "AWDS/Rosayln.asm"
+	.include "AWDS/Artia.asm"
+	.include "AWDS/Chris.asm"
+	.include "AWDS/Kakage.asm"
+	.include "AWDS/Parsley.asm"
+	.include "AWDS/Chris.asm"
 	
 .relativeinclude off	
 	
