@@ -1,22 +1,22 @@
-        setCODefaults           coAWDSChris
+        setCODefaults           ccoAWDSChris
  	setCOGameID		coAWDSChris,Game_AWDS
 
-	setCOGFXFullbody        coAWDSChris,GraphicsAWDSVonBoltGraphic
-	setCOGFXName            coAWDSChris,GraphicsAWDSVonBoltName
-	setCOGFXPalette         coAWDSChris,GraphicsAWDSVonBoltPalette
-	setCOGFXFace            coAWDSChris,GraphicsAWDSVonBoltFace,GraphicsAWDSVonBoltHappyFace,GraphicsAWDSVonBoltSadFace
-	setCOGFXSmallFace       coAWDSChris,GraphicsAWDSVonBoltMugshot
+	setCOGFXFullbody        coAWDSChris,GraphicsAWDSChrisGraphic
+	setCOGFXName            coAWDSChris,GraphicsAWDSChrisName
+	setCOGFXPalette         coAWDSChris,GraphicsAWDSChrisPalette
+	setCOGFXFace            coAWDSChris,GraphicsAWDSChrisFace,GraphicsAWDSVonBoltChris,GraphicsAWDSChrisSadFace
+	setCOGFXSmallFace       coAWDSChris,GraphicsAWDSChrisMugshot
 	setCOGFXPowerAnim       coAWDSChris,0x00,0x00
 	setCOGFXPowerSFX        coAWDSChris,0xc5,0x00
 	setCOGFXSuperAnim       coAWDSChris,7,7
 	setCOGFXSuperSFX        coAWDSChris,0xc5,0x00
 	
-	setCOName               coAWDSChris,ScriptAWDSVonBolt
-	setCOpowerName          coAWDSChris,ScriptAWDSVonBolt+1
-	setCOsuperName          coAWDSChris,ScriptAWDSVonBolt+2
-	setCOpowerText          coAWDSChris,ScriptAWDSVonBolt+8,ScriptAWDSVonBolt+9,ScriptAWDSVonBolt+10,ScriptAWDSVonBolt+11,ScriptAWDSVonBolt+12,ScriptAWDSVonBolt+13
-	setCOprofileText        coAWDSChris,ScriptAWDSVonBolt+3,ScriptAWDSVonBolt+4,ScriptAWDSVonBolt+5,ScriptAWDSVonBolt+6
-	setCOvictoryText        coAWDSChris,ScriptAWDSVonBolt+7
+	setCOName               coAWDSChris,ScriptAWDSChris
+	setCOpowerName          coAWDSChris,ScriptAWDSChris+1
+	setCOsuperName          coAWDSChris,ScriptAWDSChris+2
+	setCOpowerText          coAWDSChris,ScriptAWDSChris+8,ScriptAWDSChris+9,ScriptAWDSChris+10,ScriptAWDSChris+11,ScriptAWDSChris+12,ScriptAWDSChris+13
+	setCOprofileText        coAWDSChris,ScriptAWDSChris+3,ScriptAWDSChris+4,ScriptAWDSChris+5,ScriptAWDSChris+6
+	setCOvictoryText        coAWDSChris,ScriptAWDSChris+7
 
 	setCOFaction		coAWDSChris,ArmyBlackHole
 	setCOMusic          	coAWDSChris,MusicBlackHole
