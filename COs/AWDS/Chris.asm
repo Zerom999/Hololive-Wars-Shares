@@ -1,36 +1,36 @@
-        setCODefaults           coAWDSVonBolt
- 	setCOGameID		coAWDSVonBolt,Game_AWDS
+        setCODefaults           coAWDSChris
+ 	setCOGameID		coAWDSChris,Game_AWDS
 
-	setCOGFXFullbody        coAWDSVonBolt,GraphicsAWDSVonBoltGraphic
-	setCOGFXName            coAWDSVonBolt,GraphicsAWDSVonBoltName
-	setCOGFXPalette         coAWDSVonBolt,GraphicsAWDSVonBoltPalette
-	setCOGFXFace            coAWDSVonBolt,GraphicsAWDSVonBoltFace,GraphicsAWDSVonBoltHappyFace,GraphicsAWDSVonBoltSadFace
-	setCOGFXSmallFace       coAWDSVonBolt,GraphicsAWDSVonBoltMugshot
-	setCOGFXPowerAnim       coAWDSVonBolt,0x00,0x00
-	setCOGFXPowerSFX        coAWDSVonBolt,0xc5,0x00
-	setCOGFXSuperAnim       coAWDSVonBolt,7,7
-	setCOGFXSuperSFX        coAWDSVonBolt,0xc5,0x00
+	setCOGFXFullbody        coAWDSChris,GraphicsAWDSVonBoltGraphic
+	setCOGFXName            coAWDSChris,GraphicsAWDSVonBoltName
+	setCOGFXPalette         coAWDSChris,GraphicsAWDSVonBoltPalette
+	setCOGFXFace            coAWDSChris,GraphicsAWDSVonBoltFace,GraphicsAWDSVonBoltHappyFace,GraphicsAWDSVonBoltSadFace
+	setCOGFXSmallFace       coAWDSChris,GraphicsAWDSVonBoltMugshot
+	setCOGFXPowerAnim       coAWDSChris,0x00,0x00
+	setCOGFXPowerSFX        coAWDSChris,0xc5,0x00
+	setCOGFXSuperAnim       coAWDSChris,7,7
+	setCOGFXSuperSFX        coAWDSChris,0xc5,0x00
 	
-	setCOName               coAWDSVonBolt,ScriptAWDSVonBolt
-	setCOpowerName          coAWDSVonBolt,ScriptAWDSVonBolt+1
-	setCOsuperName          coAWDSVonBolt,ScriptAWDSVonBolt+2
-	setCOpowerText          coAWDSVonBolt,ScriptAWDSVonBolt+8,ScriptAWDSVonBolt+9,ScriptAWDSVonBolt+10,ScriptAWDSVonBolt+11,ScriptAWDSVonBolt+12,ScriptAWDSVonBolt+13
-	setCOprofileText        coAWDSVonBolt,ScriptAWDSVonBolt+3,ScriptAWDSVonBolt+4,ScriptAWDSVonBolt+5,ScriptAWDSVonBolt+6
-	setCOvictoryText        coAWDSVonBolt,ScriptAWDSVonBolt+7
+	setCOName               coAWDSChris,ScriptAWDSVonBolt
+	setCOpowerName          coAWDSChris,ScriptAWDSVonBolt+1
+	setCOsuperName          coAWDSChris,ScriptAWDSVonBolt+2
+	setCOpowerText          coAWDSChris,ScriptAWDSVonBolt+8,ScriptAWDSVonBolt+9,ScriptAWDSVonBolt+10,ScriptAWDSVonBolt+11,ScriptAWDSVonBolt+12,ScriptAWDSVonBolt+13
+	setCOprofileText        coAWDSChris,ScriptAWDSVonBolt+3,ScriptAWDSVonBolt+4,ScriptAWDSVonBolt+5,ScriptAWDSVonBolt+6
+	setCOvictoryText        coAWDSChris,ScriptAWDSVonBolt+7
 
-	setCOFaction		coAWDSVonBolt,ArmyBlackHole
-	setCOMusic          	coAWDSVonBolt,MusicBlackHole
-	setCOPowerMusic         coAWDSVonBolt,MusicBlackPower
-	setCOSuperMusic         coAWDSVonBolt,MusicBlackSuper
+	setCOFaction		coAWDSChris,ArmyBlackHole
+	setCOMusic          	coAWDSChris,MusicBlackHole
+	setCOPowerMusic         coAWDSChris,MusicBlackPower
+	setCOSuperMusic         coAWDSChris,MusicBlackSuper
 
-	setCOPowerCost          coAWDSVonBolt,0
-	setCOSuperCost          coAWDSVonBolt,20
+	setCOPowerCost          coAWDSChris,0
+	setCOSuperCost          coAWDSChris,20
 
-	setCOAllStat		coAWDSVonBolt,20,20,0,0
+	setCOAllStat		coAWDSChris,20,20,0,0
 
-	setCOSuperASM		coAWDSVonBolt,COPowerMeteorStrikeTripleTest.asm
+	setCOSuperASM		coAWDSChris,COPowerMeteorStrikeTripleTest.asm
 	
-	setCOAIPowerRange       coAWDSVonBolt,0
-	setCOAIPowerTrigger     coAWDSVonBolt,0
-	setCOAIPowerTriggerASM  coAWDSVonBolt,AIActivateAlways
+	setCOAIPowerRange       coAWDSChris,0
+	setCOAIPowerTrigger     coAWDSChris,0
+	setCOAIPowerTriggerASM  coAWDSChris,AIActivateAlways
 ; blank line
