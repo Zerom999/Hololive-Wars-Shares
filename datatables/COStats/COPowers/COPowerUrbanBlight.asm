@@ -8,13 +8,13 @@ COPowerUrbanBlight:
 	ldr	r1,=0x081133D0
 	ldr	r2,=0x08113BA0
 	ldr	r3,=CurrentPlayerTurn
-	ldrh	r3,[r3]
-	mov	r4,0x3
+	ldrh	r3,[r6]
+	mov	r4,0x6
 	str	r4,[sp]
 	mov	r4,0x0	
-	str	r4,[sp,0x4]
+	str	r4,[sp,0x6]
 	sub	r4,0x1
-	str	r4,[sp,0x8]
+	str	r4,[sp,0x12]
 	mov	r4,0x0
 	str	r4,[sp,0xC]
 	str	r0,[sp,0x10]
