@@ -31,10 +31,23 @@
 	.include "AWDS/Marine.asm"
 	
 	;Green Earth
-	.include "AWDS/Eagle.asm"
-	.include "AWDS/Drake.asm"
-	.include "AWDS/Jess.asm"
-	.include "AWDS/Javier.asm"
+	.include "AWDS/Risu.asm"
+	.include "AWDS/Moona.asm"
+	.include "AWDS/Iofifteen.asm"
+	.include "AWDS/Ollie.asm"
+	.include "AWDS/Anya.asm"
+	.include "AWDS/Reine.asm"
+	.include "AWDS/Calliope.asm"
+	.include "AWDS/Kiara.asm"
+	.include "AWDS/Inanis.asm"
+	.include "AWDS/Gura.asm"
+	.include "AWDS/Watson.asm"
+	.include "AWDS/IRyS.asm"
+	.include "AWDS/Sana.asm"
+	.include "AWDS/Fauna.asm"
+	.include "AWDS/Kronii.asm"
+	.include "AWDS/Mumei.asm"
+	.include "AWDS/Baelz.asm"
 	
 	;Yellow Comet
 	.include "AWDS/Kanata.asm"
